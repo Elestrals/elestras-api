@@ -1,0 +1,43 @@
+{
+    "id": "cd-1466",
+    "base_name": "Torchin",
+    "title": null,
+    "set_number": "MR1-047",
+    "sort_number": "MR1-047",
+    "name": "Torchin",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924808/MR1-047TorchinHolo_jcnswl?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541464/Torchin_borderized_r1eyi9?_a=BATAXdXy0",
+    "creature_id": "el-273",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Torchin declares an attack you\ncan return {fire} Spirits from your Underworld\nto your Spirit Deck up to the number of\nEnchanting {fire} on your field.",
+    "effect": "When this Torchin declares an attack you can return {fire} Spirits from your Underworld to your Spirit Deck up to the number of Enchanting {fire} on your field.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "cd-808",
+    "base_name": "Vipyro",
+    "title": null,
+    "set_number": "SD02-23",
+    "sort_number": "SD02-23",
+    "name": "Vipyro",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Trifernal Starter Deck",
+    "set_id": "st-71",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724095454/SD02-23VipyroNoWatermark_oyromk?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731472103/Render_-_VipyroBS1-002_stvnf4?_a=BATAXdXy0",
+    "creature_id": "el-1",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "fire"
+    ],
+    "cost": [],
+    "subclasses": [
+        "dragon",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "cd-2178",
+    "base_name": "Torch of Hestia",
+    "title": null,
+    "set_number": "FST-SD066",
+    "sort_number": "FST-SD066",
+    "name": "Torch of Hestia",
+    "alias": null,
+    "card_type": "rune_artifact",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755786/FST-SD066Torch_of_Hestia_mydwql?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900181/TorchofHestia_borderized_bnjrps?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "The Empowered Elestral gets +2 {attack}.\nWhen the Empowered Elestral declares\nan attack you can Foretell 3. If Hestia is\nEnchanted you may add a {fire} card\nForetold this way to your hand.",
+    "effect": "The Empowered Elestral gets +2 {attack}. When the Empowered Elestral declares an attack you can Foretell 3. If Hestia is Enchanted you can add a {fire} card Foretold this way to your hand.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

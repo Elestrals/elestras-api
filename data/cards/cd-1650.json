@@ -1,0 +1,43 @@
+{
+    "id": "cd-1650",
+    "base_name": "Sluggle",
+    "title": "Champion of Poseidon",
+    "set_number": "FST-028",
+    "sort_number": "FST-028",
+    "name": "Sluggle - Champion of Poseidon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739328906/FST-028Sluggle_xoohgs?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900118/SluggleCoP_borderized_qrhqua?_a=BATAXdXy0",
+    "creature_id": "el-14",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Sluggle receives 1 or more {water} with\nPoseidon's effect you can Special Ascend this\nSluggle to Glauby from your hand or deck.",
+    "effect": "When this Sluggle receives 1 or more {water} with Poseidon's effect you can Special Ascend this Sluggle to Glauby from your hand or deck.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

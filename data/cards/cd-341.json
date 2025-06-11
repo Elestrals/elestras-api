@@ -1,0 +1,43 @@
+{
+    "id": "cd-341",
+    "base_name": "Moustacean",
+    "title": null,
+    "set_number": "SD03-09",
+    "sort_number": "SD03-09",
+    "name": "Moustacean",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "M. Romo - Bromojumbo",
+    "set": "Majesea Starter Deck",
+    "set_id": "st-72",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724095802/SD03-09MoustaceanNoWatermark_f20e6g?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473637/Render_-_MoustaceanBS1-051_iwk8fl?_a=BATAXdXy0",
+    "creature_id": "el-55",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {water} in order to swap this\nMoustacean’s {attack} with its {defense} until the\nEnd Phase. This effect can also be activated\nwhen an opponent Normal Casts an Elestral.",
+    "effect": "You can Expend {water} in order to swap this Moustacean's {attack} with its {defense} until the next turn.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

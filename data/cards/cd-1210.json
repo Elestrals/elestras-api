@@ -1,0 +1,44 @@
+{
+    "id": "cd-1210",
+    "base_name": "Corebral",
+    "title": null,
+    "set_number": "FF1-050",
+    "sort_number": "FF1-050",
+    "name": "Corebral",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "LuisBrain",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759975/FF1-050CorebralNoWatermark_hduehl?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481807/Corebral_dkemz3?_a=BATAXdXy0",
+    "creature_id": "el-110",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Corebral an opponent must\nreveal each face-down card on their field.\nDestroy each non-Counter Rune\nrevealed this way.",
+    "effect": "When you Cast this Corebral an opponent must reveal each face-down card on their field. Destroy each non-Counter Rune revealed this way.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "golem"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

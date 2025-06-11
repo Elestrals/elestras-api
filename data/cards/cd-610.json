@@ -1,0 +1,41 @@
+{
+    "id": "cd-610",
+    "base_name": "Tower of the Winds",
+    "title": null,
+    "set_number": "FF1-080",
+    "sort_number": "FF1-080",
+    "name": "Tower of the Winds",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759942/FF1-080ToweroftheWindsNoWatermark_lcqald?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Nexus {wind} to a {wind}-Enchanted Elestral.\nIf you do, you can Special Ascend it\nto an Elestral from your hand.",
+    "effect": "Nexus {wind} to a {wind}-Enchanted Elestral. If you do, you may Special Ascend it to an Elestral from your hand.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

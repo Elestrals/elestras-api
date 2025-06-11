@@ -1,0 +1,44 @@
+{
+    "id": "cd-1442",
+    "base_name": "Hypnossum",
+    "title": null,
+    "set_number": "MR1-020",
+    "sort_number": "MR1-020",
+    "name": "Hypnossum",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924303/MR1-020Hypnossum_cjc9o3?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541460/Hynossum_borderized_fbpryh?_a=BATAXdXy0",
+    "creature_id": "el-248",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Hypnossum is destroyed you\ncan Special Cast it from your Underworld in\nAttack Position Misenchanted.",
+    "effect": "When this Hypnossum is destroyed you can Special Cast it from your Underworld in Attack Position Misenchanted.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "brute",
+        "spectral"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

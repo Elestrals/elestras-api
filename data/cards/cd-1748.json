@@ -1,0 +1,44 @@
+{
+    "id": "cd-1748",
+    "base_name": "Galaxea",
+    "title": "Champion of Poseidon",
+    "set_number": "DCP-11",
+    "sort_number": "DCP-11",
+    "name": "Galaxea - Champion of Poseidon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Divine Champions Promos",
+    "set_id": "st-105",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739740000/DCP-11StellarGalaxeaCoP_ll8n6d?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742068257/GalaxeaCoPStellar_borderized_nkd5oe?_a=BATAXdXy0",
+    "creature_id": "el-56",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Galaxea receives 1 or more {water} you can swap each Elestral’s {attack} with its {defense} until the next turn.",
+    "effect": "When this Galaxea receives 1 or more {water} you can swap each Elestral's {attack} with its {defense} until the next turn.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

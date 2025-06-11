@@ -1,0 +1,44 @@
+{
+    "id": "cd-1380",
+    "base_name": "Arcalith",
+    "title": null,
+    "set_number": "SS2-009",
+    "sort_number": "SS2-009",
+    "name": "Arcalith",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Elliot Moguilner",
+    "set": "Shattered Stars M10 - Scorpio",
+    "set_id": "st-41",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087275/SS2-009ArcalithFANoWatermarkHolo_hogosf?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154256/Arcalith_FA_nxuink?_a=BATAXdXy0",
+    "creature_id": "el-228",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Arcalith can be Normal Cast with {thunder}{thunder}\nif an opponent has at least 2 Elestrals in\nAttack Position. When you Cast this\nArcalith you can Enchant up to {thunder}{thunder}{thunder}\nfrom your Underworld to your field.",
+    "effect": "This Arcalith can be Normal Cast with {thunder}{thunder} if an opponent has at least 2 Elestrals in Attack Position. When you Cast this Arcalith you can Enchant up to {thunder}{thunder}{thunder} from your Underworld to your field.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder",
+        "thunder"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

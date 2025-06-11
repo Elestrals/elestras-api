@@ -1,0 +1,42 @@
+{
+    "id": "cd-1080",
+    "base_name": "Earthquake",
+    "title": null,
+    "set_number": "SS1-54",
+    "sort_number": "SS1-54",
+    "name": "Earthquake",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Shattered Stars M05 - Earth",
+    "set_id": "st-98",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085622/SS1-54EarthquakeNoWatermarkHolo_qwjvw3?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Target and destroy an Elestral.",
+    "effect": "Target and destroy an Elestral.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth",
+        "earth"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "cd-1276",
+    "base_name": "Gigafflora",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "TP1-S01",
+    "name": "Gigafflora",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087770/TP1-GigaffloraStellarNoWatermarkHolo_m05nka?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146317/Gigafflora_ukk9lq?_a=BATAXdXy0",
+    "creature_id": "el-127",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 7,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Gigafflora in your hand can Special Ascend\nfrom your Girafflora if you also Expend {earth}.\nDuring your Draw Phase you can Special Cast\na 1 Spirit {earth} Elestral from your Underworld.",
+    "effect": "This Gigafflora in your hand can Special Ascend from your Girafflora if you also Expend {earth}. During your Draw Phase you can Special Cast a 1 Spirit {earth} Elestral from your Underworld.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth",
+        "earth"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

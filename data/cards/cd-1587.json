@@ -1,0 +1,43 @@
+{
+    "id": "cd-1587",
+    "base_name": "Ampup",
+    "title": null,
+    "set_number": "KSC-11",
+    "sort_number": "KSC-11",
+    "name": "Ampup",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Clash! Promos",
+    "set_id": "st-76",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741908817/KSC-11_StellarAmpup_eewk5f?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746758769/Ampup_x1yk0m?_a=BATAXdXy0",
+    "creature_id": "el-57",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {thunder} and discard this Ampup in\norder to Search your deck for up to 2 Ampup\nand add them to your hand.",
+    "effect": "You can Expend {thunder} and discard this Ampup in order to Search your deck for up to 2 Ampup and add them to your hand.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "cd-2149",
+    "base_name": "Harpy",
+    "title": null,
+    "set_number": "FST-SD034",
+    "sort_number": "FST-SD034",
+    "name": "Harpy",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755796/FST-SD034Harpy_chnlt7?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900117/Harpy_borderized_auvlwo?_a=BATAXdXy0",
+    "creature_id": "el-296",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Your Elestrals cannot be attacked\nexcept for this Harpy. When this Harpy is\ndestroyed in battle you can draw 2 cards\nif you have a Divine Rune on your field.",
+    "effect": "Your Elestrals cannot be attacked except for this Harpy. When this Harpy is destroyed in battle you can draw 2 cards if you have a Divine Rune on your field.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

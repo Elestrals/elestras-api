@@ -1,0 +1,46 @@
+{
+    "id": "cd-1762",
+    "base_name": "Nyximera",
+    "title": "Fallen Form",
+    "set_number": "FST-064",
+    "sort_number": "FST-064",
+    "name": "Nyximera - Fallen Form",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739405887/FST-064Nyximera-Fallen_gmpmp7?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900144/NyximeraFallen_borderized_stv1bm?_a=BATAXdXy0",
+    "creature_id": "el-300",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 7,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Nyximera cannot be targeted by Invoke\nRunes. During your opponent’s End Phase you\nmust either send this Nyximera to the Underworld\nor Special Ascend it to Nyximera-Risen Form\nfrom your hand, deck, or Underworld. ",
+    "effect": "This Nyximera cannot be targeted by Invoke Runes. During your opponent's End Phase you must either send this Nyximera to the Underworld or Special Ascend it to Nyximera-Risen Form from your hand, deck, or Underworld.",
+    "elements": [
+        "frost",
+        "lunar"
+    ],
+    "cost": [
+        "frost",
+        "lunar"
+    ],
+    "subclasses": [
+        "behemoth",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

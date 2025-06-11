@@ -1,0 +1,45 @@
+{
+    "id": "cd-1407",
+    "base_name": "Oystillery",
+    "title": null,
+    "set_number": "SS2-029",
+    "sort_number": "SS2-029",
+    "name": "Oystillery",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Shattered Stars M12 - Capricorn",
+    "set_id": "st-85",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087257/SS2-029OystilleryNoWatermark_tjk6oa?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154233/Oystillery_SS2_uahuoh?_a=BATAXdXy0",
+    "creature_id": "el-276",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 8,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Oystillery in your hand can\nSpecial Ascend from your Oystress if\nyou also Disenchant {water} from your field.\nYou can discard a {water} card in order to\ntarget and destroy a card.",
+    "effect": "This Oystillery in your hand can Special Ascend from your Oystress if you also Disenchant {water} from your field. You can discard a {water} card in order to target and destroy a card.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

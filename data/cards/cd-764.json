@@ -1,0 +1,44 @@
+{
+    "id": "cd-764",
+    "base_name": "Fulgaries",
+    "title": null,
+    "set_number": "DB1-055",
+    "sort_number": "DB1-055",
+    "name": "Fulgaries",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990555/DB1-055FulgariesNoWatermark_c0iv9r?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484018/Fulgaries_hx9mpv?_a=BATAXdXy0",
+    "creature_id": "el-227",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Fulgaries gets +2 {attack} for each\n{thunder}-Enchanted Rune on your field.",
+    "effect": "This Fulgaries gets +2 {attack} for each {thunder}-Enchanted Rune on your field.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "ethereal",
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

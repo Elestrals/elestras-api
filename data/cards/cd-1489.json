@@ -1,0 +1,43 @@
+{
+    "id": "cd-1489",
+    "base_name": "Luxomare",
+    "title": null,
+    "set_number": "MR1-072",
+    "sort_number": "MR1-072",
+    "name": "Luxomare",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924455/MR1-072Luxomare_shfu03?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541431/Luxomare_borderized_is4do5?_a=BATAXdXy0",
+    "creature_id": "el-294",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When an opponent takes control of this\nLuxomare you can Special Cast a Aeosdale\nfrom your hand or deck.",
+    "effect": "When an opponent takes control of this Luxomare you can Special Cast an Aeosdale from your hand or deck.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

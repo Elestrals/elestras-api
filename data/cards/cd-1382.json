@@ -1,0 +1,42 @@
+{
+    "id": "cd-1382",
+    "base_name": "Thunderbolt of Zeus",
+    "title": null,
+    "set_number": "SS2-011",
+    "sort_number": "SS2-011",
+    "name": "Thunderbolt of Zeus",
+    "alias": null,
+    "card_type": "rune_artifact",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Shattered Stars M10 - Scorpio",
+    "set_id": "st-41",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087264/SS2-011ThunderboltofZeusNoWatermarkHolo_fyv6z2?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "The Empowered Elestral gets +2 {attack}.\nWhen the Empowered Elestral destroys an\nopponent’s Elestral in battle that opponent\nmust Expend {omni}. If Zeus is Enchanted, that\nopponent must Expend {omni}{omni} instead.",
+    "effect": "The Empowered Elestral gets +2 {attack}. When the Empowered Elestral destroys an opponent's Elestral in battle that opponent must Expend {omni}. If Zeus is Enchanted that opponent must Expend {omni}{omni} instead.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder",
+        "thunder"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

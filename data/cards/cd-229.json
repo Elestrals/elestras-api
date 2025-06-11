@@ -1,0 +1,44 @@
+{
+    "id": "cd-229",
+    "base_name": "Tectaurus",
+    "title": null,
+    "set_number": "BS1-014",
+    "sort_number": "BS1-014",
+    "name": "Tectaurus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245572/BS1-014Tectaurus_o1buax?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473631/Render_-_TectaurusBS1-014_tqhiwy?_a=BATAXdXy0",
+    "creature_id": "el-69",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Tectaurus gets +1 {attack} for each\nEnchanting {earth} on the field.",
+    "effect": "This Tectaurus gets +1 {attack} for each Enchanting {earth} on the field.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "golem",
+        "behemoth"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

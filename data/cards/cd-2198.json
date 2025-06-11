@@ -1,0 +1,41 @@
+{
+    "id": "cd-2198",
+    "base_name": "Caduceus of Hermes",
+    "title": null,
+    "set_number": "FST-SD086",
+    "sort_number": "FST-SD086",
+    "name": "Caduceus of Hermes",
+    "alias": null,
+    "card_type": "rune_artifact",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755879/FST-SD086Caduceus_of_Hermes_djh1tu?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900192/CaduceusofHermes_borderized_c5dfdn?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When the Empowered Elestral is destroyed\nin battle you can target another 1 Spirit {wind}\nElestral in your Underworld and Special Cast it.",
+    "effect": "When the Empowered Elestral is destroyed in battle you can target another 1 Spirit {wind} Elestral in your Underworld and Special Cast it.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

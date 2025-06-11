@@ -1,0 +1,45 @@
+{
+    "id": "cd-1627",
+    "base_name": "Polarachne",
+    "title": null,
+    "set_number": "SS2-086",
+    "sort_number": "SS2-086",
+    "name": "Polarachne",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Shattered Stars M16 - Taurus",
+    "set_id": "st-89",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740349209/SS2-086Polarachne_ukqey2?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746135259/Polarachne_f6a1g5?_a=BATAXdXy0",
+    "creature_id": "el-149",
+    "total_cost": 2,
+    "attack": 2,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Your opponents' Elestrals get -2 {attack}.\nYou can Expend {frost} in order to target and\ndestroy an Elestral with 2 or less {attack}.\r",
+    "effect": "Your opponents' Elestrals get -2 {attack}. You can Expend {frost} in order to target and destroy an Elestral with 2 or less {attack}.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost",
+        "frost"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

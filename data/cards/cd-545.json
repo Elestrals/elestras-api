@@ -1,0 +1,43 @@
+{
+    "id": "cd-545",
+    "base_name": "Aeromare",
+    "title": null,
+    "set_number": "SS1-14",
+    "sort_number": "SS1-14",
+    "name": "Aeromare",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Shattered Stars M02 - Wind",
+    "set_id": "st-95",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085582/SS1-14AeromareNoWatermark_vvvenb?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746030617/Borderized_-_AeromareSS1_gvh2sm?_a=BATAXdXy0",
+    "creature_id": "el-84",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Ascend this Aeromare you can Cast\nit from your Underworld as an Artifact Rune\nEmpowering the Ascension with the effect\n“The Empowered Elestral cannot be targeted\nor destroyed by opponents’ Elestral effects.”",
+    "effect": "When you Ascend this Aeromare you can Cast it from your Underworld as an Artifact Rune Empowering the Ascension with the effect \"The Empowered Elestral cannot be targeted or destroyed by opponents' Elestral effects.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

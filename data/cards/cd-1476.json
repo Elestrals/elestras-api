@@ -1,0 +1,43 @@
+{
+    "id": "cd-1476",
+    "base_name": "Windjinn",
+    "title": null,
+    "set_number": "MR1-058",
+    "sort_number": "MR1-058",
+    "name": "Windjinn",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924530/MR1-058Windjinn_eqsnyq?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541453/Windjinn_borderized_h7li89?_a=BATAXdXy0",
+    "creature_id": "el-282",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Windjinn receives 1 or more {wind} you\ncan name a card, then Foretell 3. If 1 or more\ncards with that name are Foretold this way, you\nmay add 1 to your hand and Special Ascend this\nWindjinn to Tornadjinn from your hand or deck.",
+    "effect": "When this Windjinn receives 1 or more {wind} your can name a card, then Foretell 3. If 1 or more cards with that name are Foretold this way, you may add 1 to your hand and Special Ascend this Windjinn to Tornadjinn from your hand or deck.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "spectral"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

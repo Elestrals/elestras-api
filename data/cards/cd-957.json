@@ -1,0 +1,41 @@
+{
+    "id": "cd-957",
+    "base_name": "Dense Fog",
+    "title": null,
+    "set_number": "SD09-23",
+    "sort_number": "SD09-23",
+    "name": "Dense Fog",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Pharogeist Starter Deck",
+    "set_id": "st-39",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723995257/SD09-23DenseFogNoWatermark_oqhvr5?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156911/Dense_Fog_kefccm?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Suppress each Elestral that is not\n{lunar}-Enchanted until the End Phase.",
+    "effect": "Suppress each Elestral that is not {lunar}-Enchanted until the next turn.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

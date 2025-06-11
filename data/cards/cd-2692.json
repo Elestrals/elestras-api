@@ -1,0 +1,44 @@
+{
+    "id": "cd-2692",
+    "base_name": "Warmite",
+    "title": "Champion of Hestia",
+    "set_number": "SS2-071",
+    "sort_number": "SS2-071",
+    "name": "Warmite - Champion of Hestia",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Shattered Stars M15 - Aries",
+    "set_id": "st-88",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776365/SS2-071Warmite_CoH_qbilea?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746135259/Warmite_CoH_qeqmzp?_a=BATAXdXy0",
+    "creature_id": "el-71",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Warmite receives 1 or more {fire}\nyou can target an Elestral and give it -3 {attack}\nuntil the next turn. When a player Casts\nHestia’s Hearth you can return up to {fire}{fire}\nfrom your Underworld to your Spirit Deck.",
+    "effect": "When this Warmite receives 1 or more {fire} you can target an Elestral and give it -3 {attack} until the next turn. When a player Casts Hestia's Hearth you can return up to {fire}{fire} from your Underworld to your Spirit Deck.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

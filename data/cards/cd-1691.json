@@ -1,0 +1,43 @@
+{
+    "id": "cd-1691",
+    "base_name": "Frigicub",
+    "title": null,
+    "set_number": "FST-060",
+    "sort_number": "FST-060",
+    "name": "Frigicub",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Elliot Moguilner",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329029/FST-060Frigicub_eevxxm?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900154/Frigicub_borderized_eqvjzq?_a=BATAXdXy0",
+    "creature_id": "el-123",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can return a Blizzard from\nyour Underworld to your hand. ",
+    "effect": "You can return a Blizzard from your Underworld to your hand.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

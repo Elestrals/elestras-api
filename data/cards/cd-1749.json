@@ -1,0 +1,44 @@
+{
+    "id": "cd-1749",
+    "base_name": "Ankyloshock",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "FST-S05",
+    "name": "Ankyloshock",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "serialized",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739405909/FST-S05StellarAnkyloshock_kjkniz?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900144/AnkyloshockStellar_borderized_tknwmv?_a=BATAXdXy0",
+    "creature_id": "el-297",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Ankyloshock gets +3 {attack} for each {earth}\nEnchanting it. When this {earth}-Enchanted\nAnkyloshock deals damage to an opponent\nyou can Special Ascend it to Ankylosurge\nfrom your hand or deck.",
+    "effect": "This Ankyloshock gets +3 {attack} for each {earth} Enchanting it. When this {earth}-Enchanted Ankyloshock deals damage you can Special Ascend it to Ankylosurge from your hand or deck.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "archaic",
+        "dryad"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

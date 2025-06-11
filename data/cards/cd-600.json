@@ -1,0 +1,44 @@
+{
+    "id": "cd-600",
+    "base_name": "Peagust",
+    "title": null,
+    "set_number": "SD05-06",
+    "sort_number": "SD05-06",
+    "name": "Peagust",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Penterror Starter Deck",
+    "set_id": "st-62",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724096356/SD05-06PeagustNoWatermark_hhcbcb?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473620/Render_-_PeaguestBS1-074_owk5db?_a=BATAXdXy0",
+    "creature_id": "el-62",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Peagust receives 1 or more {wind} you\ncan target and destroy a Rune.",
+    "effect": "When this Peagust receives 1 or more {wind} you can target and destroy a Rune.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

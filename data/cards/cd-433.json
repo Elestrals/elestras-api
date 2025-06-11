@@ -1,0 +1,44 @@
+{
+    "id": "cd-433",
+    "base_name": "Volcaries",
+    "title": null,
+    "set_number": "SS1-61",
+    "sort_number": "SS1-61",
+    "name": "Volcaries",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Shattered Stars M06 - Fire",
+    "set_id": "st-99",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085612/SS1-61VolcariesNoWatermark_lqml5n?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-70",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Volcaries gets +1 {attack} for each\nEnchanting {fire} on the field.",
+    "effect": "This Volcaries gets +1 {attack} for each Enchanting {fire} on the field.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "ethereal",
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

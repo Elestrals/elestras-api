@@ -1,0 +1,43 @@
+{
+    "id": "cd-2011",
+    "base_name": "Glimbatt",
+    "title": null,
+    "set_number": "TP2-05",
+    "sort_number": "TP2-05",
+    "name": "Glimbatt",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Ryan Cortez",
+    "set": "Organized Play Series 2",
+    "set_id": "st-46",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734037670/TP2-05Glimbatt_nmnz27?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146590/Glimbatt_TP2_dvrbwk?_a=BATAXdXy0",
+    "creature_id": "el-191",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When an opponent activates a card effect that\ndiscards a card from your hand you can discard\nthis Glimbatt in order to Negate that effect and\ndestroy that card. You can Disenchant {solar} from\nthis Glimbatt in order to draw 2 cards.",
+    "effect": "When an opponent activates a card effect that discards a card from your hand you can discard this Glimbatt in order to Negate that effect and destroy that card. You can Disenchant {solar} from this Glimbatt in order to draw 2 cards.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

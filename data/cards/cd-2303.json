@@ -1,0 +1,44 @@
+{
+    "id": "cd-2303",
+    "base_name": "Komalice",
+    "title": null,
+    "set_number": "SD11-08",
+    "sort_number": "SD11-08",
+    "name": "Komalice",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Posthumoose Starter Deck",
+    "set_id": "st-49",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925786/SD11-08Komalice_t98t3y?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541438/Komalice_borderized_epbkul?_a=BATAXdXy0",
+    "creature_id": "el-261",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {lunar}{lunar}.\nWhen you do, you can Search your deck for\na {spectral} Elestral and add it to your hand.",
+    "effect": "You can Nexus up to {lunar}{lunar}. When you do, you can Search your deck for a {spectral} Elestral and add it to your hand.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "spectral",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

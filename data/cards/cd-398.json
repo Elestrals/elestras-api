@@ -1,0 +1,43 @@
+{
+    "id": "cd-398",
+    "base_name": "Girafflora",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "FF1-S05",
+    "name": "Girafflora",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723760006/FF1-GiraffloraStellarNoWatermarkHolo_ywspwf?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156214/GiraffloraStellar_mgtpgg?_a=BATAXdXy0",
+    "creature_id": "el-66",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 4,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Girafflora you\ncan return a 1 Spirit {earth} Elestral from\nyour Underworld to your hand.",
+    "effect": "When you Normal Cast this Girafflora you can return a 1 Spirit {earth} Elestral from your Underworld to your hand.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

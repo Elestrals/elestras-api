@@ -1,0 +1,14 @@
+{
+    "id": "st-51",
+    "name": "First Edition Promos",
+    "type": "promo",
+    "abbr": "PR1",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "release_date": "2024-03-15T00:00:00.000Z",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1726250961/PromosFirstBanner_igzi5o?_a=BATAXdXy0",
+    "icon": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724247924/Promo_pduwrr.svg",
+    "stamp": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724249406/Promo_n3sjrq.png",
+    "logo": null,
+    "series_code": "FE00"
+}

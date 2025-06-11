@@ -1,0 +1,44 @@
+{
+    "id": "cd-1571",
+    "base_name": "Clovie",
+    "title": null,
+    "set_number": "MR1-039",
+    "sort_number": "MR1-039",
+    "name": "Clovie",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924399/MR1-039Clovie_l7k3mt?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541430/Clovie_borderized_ujee5r?_a=BATAXdXy0",
+    "creature_id": "el-32",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Clovie receives 1 or more {earth}\nyou can draw a card.",
+    "effect": "When this Clovie receives 1 or more {earth} you can draw a card.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "archaic",
+        "dryad"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "cd-803",
+    "base_name": "Peliquarius",
+    "title": null,
+    "set_number": "BS1-079",
+    "sort_number": "BS1-079",
+    "name": "Peliquarius",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245660/BS1-079Peliquarius_vbk66i?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473623/Render_-_PeliauqriusBS1-079_twcmwv?_a=BATAXdXy0",
+    "creature_id": "el-50",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Peliquarius you\ncan Search your deck for an Elestral with\nEnchantment Cost {water} and add it to your hand.",
+    "effect": "When you Normal Cast this Peliquarius you can Search your deck for a 1 Spirit {water} Elestral and add it to your hand.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

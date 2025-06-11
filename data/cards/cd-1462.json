@@ -1,0 +1,44 @@
+{
+    "id": "cd-1462",
+    "base_name": "Cactebrum",
+    "title": null,
+    "set_number": "MR1-042",
+    "sort_number": "MR1-042",
+    "name": "Cactebrum",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924467/MR1-042Cactebrum_gdwnjk?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541480/Cactebrum_borderized_vdvijn?_a=BATAXdXy0",
+    "creature_id": "el-269",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Cactebrum cannot be targeted by\nInvoke Runes. When this Cactebrum\nreceives 1 or more {earth} you can Special Cast\na Cactebral from your Underworld.",
+    "effect": "This Cactebrum cannot be targeted by Invoke Runes. When this Cactebrum receives 1 or more {earth} you can Special Cast a Cactebral from your Underworld.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth",
+        "earth"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

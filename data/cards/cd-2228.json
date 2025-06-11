@@ -1,0 +1,42 @@
+{
+    "id": "cd-2228",
+    "base_name": "Luminape",
+    "title": null,
+    "set_number": "SS2-098",
+    "sort_number": "SS2-098",
+    "name": "Luminape",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Shattered Stars M17 - Gemini",
+    "set_id": "st-90",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740354419/SS2-098Luminape_svkxbd?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-103",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "solar"
+    ],
+    "cost": [],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

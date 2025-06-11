@@ -1,0 +1,45 @@
+{
+    "id": "cd-1463",
+    "base_name": "Salashade",
+    "title": null,
+    "set_number": "MR1-044",
+    "sort_number": "MR1-044",
+    "name": "Salashade",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924473/MR1-044Salashade_nnl1p8?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541439/Salashade_borderized_ys24pk?_a=BATAXdXy0",
+    "creature_id": "el-270",
+    "total_cost": 2,
+    "attack": 3,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Salashade gets +1 {attack} for each Elestral\nin your opponents' Underworlds. When a player\nCasts an Elestral an opponent must send the\ntop 3 cards of their deck to their Underworld.",
+    "effect": "This Salashade gets +1 {attack} for each Elestral in your opponents' Underworlds. When a player Casts an Elestral an opponent must send the top 3 cards of their deck to their Underworld.",
+    "elements": [
+        "fire",
+        "lunar"
+    ],
+    "cost": [
+        "fire",
+        "lunar"
+    ],
+    "subclasses": [
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

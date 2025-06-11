@@ -1,0 +1,14 @@
+{
+    "id": "st-52",
+    "name": "Base",
+    "type": "main",
+    "abbr": "BS1",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "release_date": "2023-06-20T00:00:00.000Z",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1725426077/BaseSetKickstarterBanner_ukanfp?_a=BATAXdXy0",
+    "icon": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724247921/Base_Set_tmoxvn.svg",
+    "stamp": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724249398/Base_Set_p8crkv.png",
+    "logo": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724248302/ElestralsLogoColored_t888jx?_a=BATAXdXy0",
+    "series_code": "KS01"
+}

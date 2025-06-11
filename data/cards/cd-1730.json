@@ -1,0 +1,44 @@
+{
+    "id": "cd-1730",
+    "base_name": "Specteris",
+    "title": "Champion of Artemis",
+    "set_number": "FST-R08",
+    "sort_number": "FST-R08",
+    "name": "Specteris - Champion of Artemis",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "reverse_stellar",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739405917/FST-R08StellarSpecterisCoA_zubnvt?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900149/SpecterisCoAStellar_borderized_qr53wi?_a=BATAXdXy0",
+    "creature_id": "el-208",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Specteris can be Special Cast from\nyour hand with {lunar} if an opponent has\nat least 1 Suppressed card.",
+    "effect": "This Specteris can be Special Cast from your hand with {lunar} if an opponent has at least 1 Suppressed Elestral.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "insectoid",
+        "spectral"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

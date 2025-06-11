@@ -1,0 +1,11 @@
+{
+    "id": "el-52",
+    "name": "Krakking",
+    "class": "elestral",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473633/Render_-_KrakkingBS1-037_gcphqz?_a=BATAXdXy0",
+    "blurb": "Sailors fear Krakking, who overtake and destroy even the largest of ships without warning. When Krakking corpses wash ashore, sailors harvest their third eye and place it aboard their ships, rendering the vessel invisible to other Krakking.",
+    "updated_at": "2025-06-09T23:16:07.805Z",
+    "elements": [
+        "water"
+    ]
+}

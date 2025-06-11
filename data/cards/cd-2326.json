@@ -1,0 +1,45 @@
+{
+    "id": "cd-2326",
+    "base_name": "Lycavoid",
+    "title": null,
+    "set_number": "PR4-04",
+    "sort_number": "PR4-04",
+    "name": "Lycavoid",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Moonrise Promos",
+    "set_id": "st-47",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727921738/PR4-04LycavoidStellarHolo_gqcfos?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541461/LycavoidStellar_borderized_rzb214?_a=BATAXdXy0",
+    "creature_id": "el-253",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Lycavoid deals Piercing damage\nand is Unaffected by Counter Runes if you Cast\nLunar Phase-Full Moon this turn. ",
+    "effect": "This Lycavoid deals Piercing damage and is Unaffected by Counter Runes if you Cast Lunar Phase-Full Moon this turn.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar",
+        "lunar"
+    ],
+    "subclasses": [
+        "behemoth",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

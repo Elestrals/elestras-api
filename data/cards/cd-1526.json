@@ -1,0 +1,44 @@
+{
+    "id": "cd-1526",
+    "base_name": "Voldusk",
+    "title": null,
+    "set_number": "MR1-119",
+    "sort_number": "MR1-119",
+    "name": "Voldusk",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "reverse_stellar",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925183/MR1-119VolduskStellarHolo_wwu5rc?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541475/olduskStellar_borderized_oqffhi?_a=BATAXdXy0",
+    "creature_id": "el-243",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast Lunar Phase you can\ndraw a card or return {lunar} from your\nUnderworld to your Spirit Deck.\nThis effect can be activated only twice each turn.",
+    "effect": "When you Cast Lunar Phase you can draw a card or return {lunar} from your Underworld to your Spirit Deck. This effect can be activated only twice each turn.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

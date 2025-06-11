@@ -1,0 +1,45 @@
+{
+    "id": "cd-734",
+    "base_name": "Scavagem",
+    "title": null,
+    "set_number": "BS1-009",
+    "sort_number": "BS1-009",
+    "name": "Scavagem",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245553/BS1-009Scavagem_nq0ulx?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473609/Render_-_ScavagemBS1-009_go8gjv?_a=BATAXdXy0",
+    "creature_id": "el-81",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Ascend into this Scavagem you can\nExpend {earth} in order to Search your deck for up\nto 2 cards with Enchantment Cost {earth} or {earth}{earth}\nand add them to your hand.",
+    "effect": "When you Ascend into this Scavagem you can Expend {earth} in order to Search your deck for up to 2 cards with Enchantment Costs {earth} or {earth}{earth} and add them to your hand.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth",
+        "earth"
+    ],
+    "subclasses": [
+        "golem",
+        "behemoth"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

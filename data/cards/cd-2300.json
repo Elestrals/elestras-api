@@ -1,0 +1,44 @@
+{
+    "id": "cd-2300",
+    "base_name": "Toxeerie",
+    "title": null,
+    "set_number": "SD11-05",
+    "sort_number": "SD11-05",
+    "name": "Toxeerie",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Posthumoose Starter Deck",
+    "set_id": "st-49",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925771/SD11-05Toxeerie_kgj716?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541463/Toxeerie_borderized_rzyxhj?_a=BATAXdXy0",
+    "creature_id": "el-250",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Toxeerie you can\nSearch your deck for a Dense Fog\nand add it to your hand.\nSuppressed Elestrals get -2 {attack} and -2 {defense}. ",
+    "effect": "When you Cast this Toxeerie you can Search your deck for a Dense Fog and add it to your hand. Suppressed Elestrals get -2 {attack} and -2 {defense}.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "cd-668",
+    "base_name": "Peagleam",
+    "title": null,
+    "set_number": "DB1-105",
+    "sort_number": "DB1-105",
+    "name": "Peagleam",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "reverse_stellar",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989916/DB1-105PeagleamStellarNoWatermarkHolo_cdxac6?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156743/PeagleamStellar_kxsrip?_a=BATAXdXy0",
+    "creature_id": "el-193",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Peagleam receives 1 or more {solar}\nyou can target an Elestral and set its\nbase {attack} to 0 until the End Phase.",
+    "effect": "When this Peagleam receives 1 or more {solar} you can target an Elestral and set its base {attack} to 0 until the next turn.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

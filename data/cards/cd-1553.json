@@ -1,0 +1,42 @@
+{
+    "id": "cd-1553",
+    "base_name": "Leviaphin",
+    "title": null,
+    "set_number": "MR1-004",
+    "sort_number": "MR1-004",
+    "name": "Leviaphin",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924253/MR1-004Leviaphin_zf88jo?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-3",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "water"
+    ],
+    "cost": [],
+    "subclasses": [
+        "oceanic",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "cd-1525",
+    "base_name": "Posthumoose",
+    "title": null,
+    "set_number": "XX/10",
+    "sort_number": "MR1-S17",
+    "name": "Posthumoose",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925427/MR1-PosthumooseStellarHolo_h1jjvd?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541492/PosthumooseBTStellar_borderized_wj3bw4?_a=BATAXdXy0",
+    "creature_id": "el-242",
+    "total_cost": 3,
+    "attack": 13,
+    "defense": 11,
+    "serialized_stellar": true,
+    "serialized_population": 10,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When your Artemis Suppresses a card\nyou can target and destroy that card.\nWhile Artemis is Enchanted this Posthumoose\nis Unaffected by Counter Runes.",
+    "effect": "When your Artemis Suppresses a card you can target and destroy that card. While Artemis is Enchanted this Posthumoose is Unaffected by Counter Runes.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar",
+        "lunar",
+        "lunar"
+    ],
+    "subclasses": [
+        "spectral",
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

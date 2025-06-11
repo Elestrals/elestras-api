@@ -1,0 +1,44 @@
+{
+    "id": "cd-2330",
+    "base_name": "Parachne ",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "TP3-S2",
+    "name": "Parachne",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Organized Play Series 3",
+    "set_id": "st-115",
+    "subset": "serialized",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545070/TP3-S2_StellarParachne_bqmknk?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748835076/Parachne_zi8vro?_a=BATAXdXy0",
+    "creature_id": "el-323",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 5,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Parachne can be Normal Cast with {wind}{wind} if Arachne’s Lair is Enchanted.",
+    "effect": "This Parachne can be Normal Cast with {wind}{wind} if Arachne's Lair is Enchanted.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

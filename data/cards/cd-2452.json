@@ -1,0 +1,44 @@
+{
+    "id": "cd-2452",
+    "base_name": "Hydrake",
+    "title": null,
+    "set_number": "EOP-R01",
+    "sort_number": "EOP-R01",
+    "name": "Hydrake",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "marble",
+    "artist": "Maumes",
+    "set": "Firestorm Premier Pack",
+    "set_id": "st-111",
+    "subset": "reverse_stellar",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545137/EOP-R01_StellarHydrake_xqtauj?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746760428/Hydrake_eraxpv?_a=BATAXdXy0",
+    "creature_id": "el-20",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Hydrake is destroyed in battle you\ncan Special Cast a Twindra from your \nhand or deck in Attack Position.",
+    "effect": "When this Hydrake is destroyed in battle you can Special Cast a Twindra from your hand or deck in Attack Position.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "dragon",
+        "eldritch"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

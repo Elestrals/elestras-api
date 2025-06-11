@@ -1,0 +1,46 @@
+{
+    "id": "cd-216",
+    "base_name": "Barabog",
+    "title": null,
+    "set_number": "BS1-015",
+    "sort_number": "BS1-015",
+    "name": "Barabog",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088376/BS1-015BarabogNoWatermark_nwyowu?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473630/Render_-_BarabogBS1-015_bevzqd?_a=BATAXdXy0",
+    "creature_id": "el-41",
+    "total_cost": 2,
+    "attack": 3,
+    "defense": 7,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When an opponent Casts an Elestral\nor Rune without {earth} or {water}\nthey must Expend {omni}.",
+    "effect": "When an opponent Casts a card without {earth}/{water} they must Expend {omni}.",
+    "elements": [
+        "earth",
+        "water"
+    ],
+    "cost": [
+        "earth",
+        "water"
+    ],
+    "subclasses": [
+        "aquatic",
+        "dryad"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

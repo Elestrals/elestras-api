@@ -1,0 +1,46 @@
+{
+    "id": "cd-1513",
+    "base_name": "Volclipse",
+    "title": null,
+    "set_number": "MR1-096",
+    "sort_number": "MR1-096",
+    "name": "Volclipse",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924960/MR1-096VolclipseFAHolo_cvgh4z?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541503/VolclipseFA_borderized_kit2ug?_a=BATAXdXy0",
+    "creature_id": "el-245",
+    "total_cost": 3,
+    "attack": 6,
+    "defense": 12,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Volclipse gets +1 {attack} for each different title\namong Lunar Phase in your Underworld. You\ncan shuffle 8 Lunar Phase with different titles\nfrom your Underworld into your deck in order to\nreturn an opponent's field to their hand.",
+    "effect": "This Volclipse gets +1 {attack} for each different title among Lunar Phase in your Underworld. You can shuffle 8 Lunar Phase with different titles from your Underworld into your deck in order to return an opponent's field to their hand.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar",
+        "lunar",
+        "lunar"
+    ],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

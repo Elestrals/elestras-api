@@ -1,0 +1,41 @@
+{
+    "id": "cd-306",
+    "base_name": "Apollo",
+    "title": null,
+    "set_number": "DB1-089",
+    "sort_number": "DB1-089",
+    "name": "Apollo",
+    "alias": null,
+    "card_type": "rune_divine",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989918/DB1-089ApolloFANoWatermarkHolo_ekqahn?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156677/Apollo_FA_e4bmv6?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Apollo you can Enchant up\nto {solar}{solar}{solar} to it. You can Disenchant {solar} from this\nApollo in order to Foretell 3 and add up to 1 {solar}\nElestral Foretold this way to your hand.",
+    "effect": "When you Cast this Apollo you can Enchant up to {solar}{solar}{solar} to it. You can Disenchant {solar} from this Apollo in order to Foretell 3 and add up to 1 {solar} Elestral revealed this way to your hand.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

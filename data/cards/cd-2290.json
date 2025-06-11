@@ -1,0 +1,41 @@
+{
+    "id": "cd-2290",
+    "base_name": "Divine Healing",
+    "title": null,
+    "set_number": "SD10-24",
+    "sort_number": "SD10-24",
+    "name": "Divine Healing",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Fulgoryx Starter Deck",
+    "set_id": "st-48",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925588/SD10-24DivineHealing_arpgy4?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541454/DivineHealing_borderized_gxbbzh?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Enchant up to {omni}{omni}{omni} from your\nUnderworld to a Divine Rune on your field.",
+    "effect": "Enchant up to {omni}{omni}{omni} from your Underworld to a Divine Rune on your field.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "cd-1685",
+    "base_name": "Chrysoar",
+    "title": "Champion of Aeolus",
+    "set_number": "FST-046",
+    "sort_number": "FST-046",
+    "name": "Chrysoar - Champion of Aeolus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739328970/FST-046Chrysoar_cagnv6?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900128/ChrysoarCoA_borderized_dxrhgk?_a=BATAXdXy0",
+    "creature_id": "el-65",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Chrysoar in your hand can Special\nAscend from your Soarlet with {wind} during\nyour Battle Phase if that Soarlet destroyed\nan Elestral in battle this turn. ",
+    "effect": "This Chrysoar in your hand can Special Ascend from your Soarlet with {wind} during your Battle Phase if that Soarlet destroyed an Elestral in battle this turn.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "behemoth",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

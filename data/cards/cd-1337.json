@@ -1,0 +1,44 @@
+{
+    "id": "cd-1337",
+    "base_name": "Polzer",
+    "title": null,
+    "set_number": "SS1-103",
+    "sort_number": "SS1-103",
+    "name": "Polzer",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Shattered Stars M09 - Celebration",
+    "set_id": "st-102",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085625/SS1-103PolzerNoWatermark_vni3lx?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152318/Polzer_SS1_g56jb3?_a=BATAXdXy0",
+    "creature_id": "el-236",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Polzer gets +1 {attack} for each {frost} Elestral in\nyour Underworld. This effect cannot increase\nthis Polzer's {attack} by more than +5 total.",
+    "effect": "This Polzer gets +1 {attack} for each {frost} Elestral in your Underworld. This effect cannot increase this Polzer's {attack} by more than +5 total.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "eldritch",
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "cd-1181",
+    "base_name": "Teratlas",
+    "title": null,
+    "set_number": "BS1-121",
+    "sort_number": "BS1-121",
+    "name": "Teratlas",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245875/BS1-121TeratlasHolo_mrg8nw?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-2",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "earth"
+    ],
+    "cost": [],
+    "subclasses": [
+        "insectoid",
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

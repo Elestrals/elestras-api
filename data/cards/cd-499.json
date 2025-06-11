@@ -1,0 +1,45 @@
+{
+    "id": "cd-499",
+    "base_name": "Neandersloth",
+    "title": null,
+    "set_number": "FF1-034",
+    "sort_number": "FF1-034",
+    "name": "Neandersloth",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Victor Rosales",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759940/FF1-034NeanderslothNoWatermark_bmnvpa?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481842/Neandersloth_zja30x?_a=BATAXdXy0",
+    "creature_id": "el-141",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Neandersloth destroys an\nopponent's Elestral in battle that opponent\nmust discard 2 cards from their hand.\nWhile Titanostalk is in your Underworld\nthis Neandersloth gets +7 {attack}. ",
+    "effect": "When this Neandersloth destroys an opponent's Elestral in battle that opponent must discard 2 cards from their hand. While Titanostalk is in your Underworld this Neandersloth gets +7 {attack}.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth",
+        "earth"
+    ],
+    "subclasses": [
+        "dryad",
+        "archaic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

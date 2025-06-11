@@ -1,0 +1,42 @@
+{
+    "id": "cd-2902",
+    "base_name": "Owlune",
+    "title": null,
+    "set_number": "DALLAS 2025",
+    "sort_number": "DO25-8",
+    "name": "Owlune",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "marble",
+    "artist": "Luan M. Resende",
+    "set": "Dallas Open 2025",
+    "set_id": "st-110",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742571576/DO25-8_Owlune_zlblxc?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-102",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "lunar"
+    ],
+    "cost": [],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "cd-480",
+    "base_name": "Elechik",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "BS1-S06",
+    "name": "Elechik",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088451/BS1-ElechikStellarNoWatermarkHolo_z8ief1?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154886/Elechik_x1hdhf?_a=BATAXdXy0",
+    "creature_id": "el-59",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Elechik you can\nSearch your deck for a Divine Rune and\nadd it to your hand.",
+    "effect": "When you Normal Cast this Elechik you can Search your deck for a Divine Rune and add it to your hand.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "avian"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

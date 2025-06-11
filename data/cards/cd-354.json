@@ -1,0 +1,43 @@
+{
+    "id": "cd-354",
+    "base_name": "Morphrost",
+    "title": "Batt Form",
+    "set_number": "XX/99",
+    "sort_number": "DB1-S15",
+    "name": "Morphrost - Batt Form",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989875/DB1-Morphrost-BattStellarNoWatermarkHolo_jtjfk1?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156736/Morphrost_-_Batt_FormStellar_olxzrb?_a=BATAXdXy0",
+    "creature_id": "el-137",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 1,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Morphrost is discarded you can\nSpecial Cast a Morphrost that is not\nBatt Form from your Underworld.",
+    "effect": "When this Morphrost is discarded you can Special Cast a Morphrost that is not Batt Form from your Underworld.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "cd-1120",
+    "base_name": "Exaltair",
+    "title": null,
+    "set_number": "BS1-080",
+    "sort_number": "BS1-080",
+    "name": "Exaltair",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "fkmntraineradam",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245666/BS1-080Exaltair_ajahrb?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473597/Render_-_ExaltairBS1-080_ucsx6j?_a=BATAXdXy0",
+    "creature_id": "el-92",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {wind}{wind}.\nWhen you do, an opponent\nmust Expend {omni}{omni}.",
+    "effect": "You can Nexus up to {wind}{wind}. When you do, an opponent must Expend {omni}{omni}.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "avian"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

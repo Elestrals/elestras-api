@@ -1,0 +1,44 @@
+{
+    "id": "cd-1729",
+    "base_name": "Sparkitt",
+    "title": "Escaped from Tartarus",
+    "set_number": "FST-042",
+    "sort_number": "FST-042",
+    "name": "Sparkitt - Escaped from Tartarus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Getsemani",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739328957/FST-042Sparkitt_rolnvr?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900167/SparkittEFT_borderized_ejoh5w?_a=BATAXdXy0",
+    "creature_id": "el-82",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Sparkitt you\ncan look at up to 2 random cards from your\nopponent’s hand and discard 1 of them.\nYou can Nexus up to {thunder}{thunder}. ",
+    "effect": "When you Normal Cast this Sparkitt you can look at 2 random cards from an opponent's hand and discard 1 of them. You can Nexus up to {thunder}{thunder}.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "brute",
+        "archaic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "cd-1238",
+    "base_name": "Pharogeist",
+    "title": null,
+    "set_number": "PR3-04",
+    "sort_number": "PR3-04",
+    "name": "Pharogeist",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "tablet",
+    "artist": "Élite4",
+    "set": "Daybreak Promos",
+    "set_id": "st-40",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731466756/PR3-04PharogeistTabletHolo_nk9xrb?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-201",
+    "total_cost": 3,
+    "attack": 9,
+    "defense": 13,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Pharogeist cannot be destroyed\nin battle and cannot be returned to\nhand by opponents' card effects.\nOpponents must also Expend {omni}\nin order to Cast cards.",
+    "effect": "This Pharogeist cannot be destroyed in battle and cannot be returned to the hand by opponents' card effects. Opponents also have to Expend {omni} in order to play cards.",
+    "elements": [
+        "lunar",
+        "solar"
+    ],
+    "cost": [
+        "lunar",
+        "lunar",
+        "solar"
+    ],
+    "subclasses": [
+        "spectral",
+        "brute"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

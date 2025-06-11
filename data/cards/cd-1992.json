@@ -1,0 +1,47 @@
+{
+    "id": "cd-1992",
+    "base_name": "Chronodile",
+    "title": null,
+    "set_number": "TP2-14",
+    "sort_number": "TP2-14",
+    "name": "Chronodile",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Organized Play Series 2",
+    "set_id": "st-46",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734037687/TP2-14ChronodileStellarHolo_ztmdqj?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146597/Chronodile_is64tn?_a=BATAXdXy0",
+    "creature_id": "el-190",
+    "total_cost": 3,
+    "attack": 8,
+    "defense": 14,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {water} from this Chronodile\nin order to target and destroy a card.\nWhile you have at least 6 Enchanting\n{water}/{solar} on your field this Chronodile cannot\nbe targeted by opponents' card effects.",
+    "effect": "You can Disenchant {water} from this Chronodile in order to target and destroy a card. While you have at least 6 Enchanting {water}/{solar} on your field this Chronodile cannot be targeted by opponents' card effects.",
+    "elements": [
+        "water",
+        "solar"
+    ],
+    "cost": [
+        "water",
+        "water",
+        "solar"
+    ],
+    "subclasses": [
+        "aquatic",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

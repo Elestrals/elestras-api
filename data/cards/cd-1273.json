@@ -1,0 +1,46 @@
+{
+    "id": "cd-1273",
+    "base_name": "Gnomodile",
+    "title": null,
+    "set_number": "TP1-25",
+    "sort_number": "TP1-25",
+    "name": "Gnomodile",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087785/TP1-25GnomodileStellarNoWatermarkHolo_pd1ln1?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146317/Gnomodile_xx63zq?_a=BATAXdXy0",
+    "creature_id": "el-189",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {solar}{water} in order to\nEnchant {solar}/{water} from your Underworld to\nyour field and Special Ascend this Gnomodile\nto Chronodile from your hand or deck.",
+    "effect": "You can Expend {solar}{water} in order to Enchant {solar}/{water} from your Underworld to your field and Special Ascend this Gnomodile to Chronodile from your hand or deck.",
+    "elements": [
+        "solar",
+        "water"
+    ],
+    "cost": [
+        "solar",
+        "water"
+    ],
+    "subclasses": [
+        "aquatic",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

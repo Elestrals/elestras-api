@@ -1,0 +1,44 @@
+{
+    "id": "cd-392",
+    "base_name": "Shiveroar",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "FF1-S02",
+    "name": "Shiveroar",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723760090/FF1-ShiveroarStellarNoWatermarkHolo_s0ovoj?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156184/ShiveroarStellar_fp58tt?_a=BATAXdXy0",
+    "creature_id": "el-152",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 5,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Enchant {frost} from your Underworld\nto a {frost} Elestral on your field.\nWhile Mountains of Boreas is Enchanted\nthis Shiveroar cannot be targeted\nby opponents' Rune effects. ",
+    "effect": "You can Enchant {frost} from your Underworld to a {frost} Elestral on your field. While Mountains of Boreas is Enchanted this Shiveroar cannot be targeted by opponents' Rune effects.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost",
+        "frost"
+    ],
+    "subclasses": [
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

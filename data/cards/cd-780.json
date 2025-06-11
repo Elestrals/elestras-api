@@ -1,0 +1,44 @@
+{
+    "id": "cd-780",
+    "base_name": "Permaphrog",
+    "title": null,
+    "set_number": "FF1-020",
+    "sort_number": "FF1-020",
+    "name": "Permaphrog",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Arnau Martin",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759892/FF1-020PermaphrogNoWatermark_gi5ttb?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481840/Permaphrog_ao7ryv?_a=BATAXdXy0",
+    "creature_id": "el-147",
+    "total_cost": 2,
+    "attack": 1,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Elestrals cannot attack unless they are\n{frost}-Enchanted or {fire}-Enchanted.\nDuring your opponent's End Phase you must\neither Expend {frost} or destroy this Permaphrog.",
+    "effect": "Elestrals cannot attack unless they are {frost}/{fire}-Enchanted. During your opponent's End Phase you must either Expend {frost} or destroy this Permaphrog.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost",
+        "frost"
+    ],
+    "subclasses": [
+        "aquatic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

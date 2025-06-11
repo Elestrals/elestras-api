@@ -1,0 +1,11 @@
+{
+    "id": "el-6",
+    "name": "Flurrmine",
+    "class": "spirit",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734545765/FlurrmineAlt_lbbhca?_a=BATAXdXy0",
+    "blurb": "Contrary to the ice element at their command, Flurrmine and their Casters are caring and compassionate.  Never ones to brag, this should not be misinterpreted as a weakness—they stand ready to summon the might of an avalanche in defense of those they hold dear.",
+    "updated_at": "2025-06-09T23:16:08.144Z",
+    "elements": [
+        "frost"
+    ]
+}

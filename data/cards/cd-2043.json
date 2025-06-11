@@ -1,0 +1,44 @@
+{
+    "id": "cd-2043",
+    "base_name": "Verdalith",
+    "title": "Champion of Demeter",
+    "set_number": "TP3-13",
+    "sort_number": "TP3-13",
+    "name": "Verdalith - Champion of Demeter",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Organized Play Series 3",
+    "set_id": "st-115",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545067/TP3-13_StellarVerdalithCoD_p9akw5?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748835017/Verdalith_CoD_ci4r7z?_a=BATAXdXy0",
+    "creature_id": "el-158",
+    "total_cost": 2,
+    "attack": 2,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Verdalith can be Normal Cast with {earth}{earth} if your Demeter is Enchanted.  When you target this Verdalith with Demeter’s effect you can Special Cast a 1 Spirit {earth} Elestral from your hand. This effect can be activated only once each turn.",
+    "effect": "This Verdalith can be Normal Cast with {earth}{earth} if your Demeter is Enchanted. When you target this Verdalith with Demeter's effect you can Special Cast a 1 Spirit {earth} Elestral from your hand. This effect can only be activated once per turn.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth",
+        "earth"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

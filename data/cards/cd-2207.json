@@ -1,0 +1,41 @@
+{
+    "id": "cd-2207",
+    "base_name": "Dense Fog",
+    "title": null,
+    "set_number": "FST-SD095",
+    "sort_number": "FST-SD095",
+    "name": "Dense Fog",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755880/FST-SD095Dense_Fog_nha7kl?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156911/Dense_Fog_kefccm?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Suppress each Elestral that is not\n{lunar}-Enchanted until the End Phase.",
+    "effect": "Suppress each Elestral that is not {lunar}-Enchanted until the next turn.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

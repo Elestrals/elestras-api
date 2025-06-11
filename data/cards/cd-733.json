@@ -1,0 +1,45 @@
+{
+    "id": "cd-733",
+    "base_name": "Kurabyss",
+    "title": null,
+    "set_number": "DB1-086",
+    "sort_number": "DB1-086",
+    "name": "Kurabyss",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989927/DB1-086KurabyssFANoWatermarkHolo_otwot7?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156674/Kurabyss_FA_gvb41v?_a=BATAXdXy0",
+    "creature_id": "el-221",
+    "total_cost": 2,
+    "attack": 9,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {water}{water} from your field\nin order to destroy a card. If it is destroyed this\nway, return {omni} from your Underworld to your\nSpirit Deck up to the number of Spirits\nthat were Enchanting that card.",
+    "effect": "You can Disenchant {water}{water} from your field in order to destroy a card. If you do, return {omni} from your Underworld to your Spirit Deck up to the number of Spirits that were Enchanting that card.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

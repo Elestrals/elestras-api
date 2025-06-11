@@ -1,0 +1,44 @@
+{
+    "id": "cd-2702",
+    "base_name": "Flarachne",
+    "title": "Champion of Hestia",
+    "set_number": "SS2-081",
+    "sort_number": "SS2-081",
+    "name": "Flarachne - Champion of Hestia",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Shattered Stars M15 - Aries",
+    "set_id": "st-88",
+    "subset": "reverse_stellar",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776369/SS2-081RStellarFlarachne_CoH_cwbzal?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746135825/Flarachne_CoH_dfus2s?_a=BATAXdXy0",
+    "creature_id": "el-72",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 7,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {fire} from your Hestia to Search\nyour deck for an Arachne’s Lair and add it to your\nhand. During each End Phase an opponent must\nExpend {omni} equal to the number of Elestrals on\ntheir field if Arachne’s Lair is Enchanted.",
+    "effect": "You can Disenchant {fire} from your Hestia to Search your deck for an Arachne's Lair and add it to your hand. During each End Phase an opponent must Expend {omni} equal to the number of Elestrals on their field if Arachne's Lair is Enchanted.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

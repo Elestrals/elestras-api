@@ -1,0 +1,43 @@
+{
+    "id": "cd-2015",
+    "base_name": "Morphrost",
+    "title": "Batt Form",
+    "set_number": "TP2-04",
+    "sort_number": "TP2-04",
+    "name": "Morphrost - Batt Form",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Organized Play Series 2",
+    "set_id": "st-46",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734037670/TP2-04Morphrost-Batt_jsoyrz?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146593/Morphrost_-_Batt_Form_TP2_mgprlm?_a=BATAXdXy0",
+    "creature_id": "el-137",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Morphrost is discarded you can\nSpecial Cast a Morphrost that is not\nBatt Form from your Underworld.",
+    "effect": "When this Morphrost is discarded you can Special Cast a Morphrost that is not Batt Form from your Underworld.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "behemoth"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

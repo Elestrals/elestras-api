@@ -1,0 +1,46 @@
+{
+    "id": "cd-712",
+    "base_name": "Celestleo",
+    "title": null,
+    "set_number": "DB1-018",
+    "sort_number": "DB1-018",
+    "name": "Celestleo",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989853/DB1-018CelestleoNoWatermarkHolo_whrihp?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484027/Celestleo_btz6hn?_a=BATAXdXy0",
+    "creature_id": "el-186",
+    "total_cost": 3,
+    "attack": 13,
+    "defense": 10,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Foretell 4 and add each {solar} Elestral\nForetold this way to your hand.\nThen you may destroy cards on the field\nup to the number of cards\nadded to your hand this way.",
+    "effect": "You can Foretell 4 and add each {solar} Elestral Foretold this way to your hand. Then you may destroy cards on the field up to the number of cards added to your hand this way.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar",
+        "solar",
+        "solar"
+    ],
+    "subclasses": [
+        "behemoth",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

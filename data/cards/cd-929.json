@@ -1,0 +1,45 @@
+{
+    "id": "cd-929",
+    "base_name": "Sakurasaur",
+    "title": null,
+    "set_number": "BS1-013",
+    "sort_number": "BS1-013",
+    "name": "Sakurasaur",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088363/BS1-013SakurasaurNoWatermark_qantvp?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473632/Render_-_SakurasaurBS1-013_krlgzf?_a=BATAXdXy0",
+    "creature_id": "el-33",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 8,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {earth} in order to draw 2 cards.",
+    "effect": "You can Expend {earth} in order to draw 2 cards.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth",
+        "earth"
+    ],
+    "subclasses": [
+        "archaic",
+        "dryad"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

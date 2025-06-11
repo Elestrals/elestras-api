@@ -1,0 +1,43 @@
+{
+    "id": "cd-1487",
+    "base_name": "Armadawn",
+    "title": null,
+    "set_number": "MR1-070",
+    "sort_number": "MR1-070",
+    "name": "Armadawn",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924602/MR1-070Armadawn_d1zu9w?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541427/Armadawn_borderized_zoiljb?_a=BATAXdXy0",
+    "creature_id": "el-292",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Armadawn changes Position\nan opponent must Expend {omni}.",
+    "effect": "When this Armadawn changes Position an opponent must Expend {omni}.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

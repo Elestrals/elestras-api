@@ -1,0 +1,44 @@
+{
+    "id": "cd-1584",
+    "base_name": "Brontoglow",
+    "title": null,
+    "set_number": "KSC-23",
+    "sort_number": "KSC-23",
+    "name": "Brontoglow",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Clash! Promos",
+    "set_id": "st-76",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741908825/KSC-23_StellarBrontoglow_nnqbkp?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746758782/Brontoglow_ofj7m8?_a=BATAXdXy0",
+    "creature_id": "el-104",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {thunder} from your Funglow in\norder to Suppress each Elestral on an opponent’s\nfield until the next turn. When this Brontoglow\ndestroys an Elestral in battle you can Special\nCast a Funglow from your Underworld.",
+    "effect": "You can Disenchant {thunder} from your Funglow in order to Suppress each Elestral on an opponent's field until the next turn. When this Brontoglow destroys an Elestral in battle you can Special Cast a Funglow from your Underworld.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder",
+        "thunder"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "cd-2181",
+    "base_name": "Don't Poke the Bear!",
+    "title": null,
+    "set_number": "FST-SD070",
+    "sort_number": "FST-SD070",
+    "name": "Don't Poke the Bear!",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755794/FST-SD070Dont_Poke_the_Bear_ehwngs?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156908/Don_t_Poke_the_Bear_rwqpie?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Don’t Poke the Bear! can only be played\nduring the Battle Phase. Target an {ursa} Elestral\nand give it +4 {attack} and +4 {defense} until the End Phase.",
+    "effect": "This Don’t Poke the Bear! can only be played during the Battle Phase. Target an {ursa} Elestral and give it +4 {attack} and +4 {defense} until the next turn.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "ursa"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

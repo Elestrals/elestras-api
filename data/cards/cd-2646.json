@@ -1,0 +1,44 @@
+{
+    "id": "cd-2646",
+    "base_name": "Corviskull",
+    "title": null,
+    "set_number": "PR4-06",
+    "sort_number": "PR4-06",
+    "name": "Corviskull",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Moonrise Promos",
+    "set_id": "st-47",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727921743/PR4-06CorviskullStellarHolo_igs0rw?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541400/CorviskullStellar_borderized_bexuw9?_a=BATAXdXy0",
+    "creature_id": "el-258",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Corviskull receives 1 or more {lunar}\nyou can Foretell 3 and exchange a Foretold\ncard with a card in your Underworld.\n(The new card becomes Foretold.)",
+    "effect": "When this Corviskull receives 1 or more {lunar} you can Foretell 3 and exchange a Foretold card with a card in your Underworld. (The new card becomes Foretold.)",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "avian",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "cd-2751",
+    "base_name": "Porcuwraith",
+    "title": null,
+    "set_number": "PR4-07",
+    "sort_number": "PR4-07",
+    "name": "Porcuwraith",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Moonrise Promos",
+    "set_id": "st-47",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727921742/PR4-07PorcuwraithStellarHolo_auxccc?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541471/PorcuwraithStellar_borderized_atsbvy?_a=BATAXdXy0",
+    "creature_id": "el-260",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Porcuwraith enters battle\nwith an Elestral you can give that\nElestral -2 {attack} for each {lunar} Enchanting this\nPorcuwraith until the End Phase.",
+    "effect": "When this Porcuwraith enters battle with an Elestral you can give that Elestral -2 {attack} for each {lunar} Enchanting this Porcuwraith until the next turn.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "spectral",
+        "oceanic"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "cd-321",
+    "base_name": "Lumaroo",
+    "title": null,
+    "set_number": "SD09-05",
+    "sort_number": "SD09-05",
+    "name": "Lumaroo",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Pharogeist Starter Deck",
+    "set_id": "st-39",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723995246/SD09-05LumarooNoWatermark_yvdbw2?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484000/Lumaroo_scraxc?_a=BATAXdXy0",
+    "creature_id": "el-195",
+    "total_cost": 1,
+    "attack": 5,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Lumaroo destroys an opponent's\nElestral in battle that opponent must send the\ntop 3 cards from their deck to their Underworld.",
+    "effect": "When this Lumaroo destroys an opponent's Elestral in battle that opponent must send the top 3 cards from their deck to the Underworld.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "cd-362",
+    "base_name": "Rock and a Hard Place",
+    "title": null,
+    "set_number": "SD08-18",
+    "sort_number": "SD08-18",
+    "name": "Rock and a Hard Place",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Chronodile Starter Deck",
+    "set_id": "st-38",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723994942/SD08-18RockandaHardPlaceNoWatermark_aqjerd?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Rock and a Hard Place’s Cast cannot be\nchained by Counter Runes. Target a Rune\nand an Elestral on an opponent's field.\nThat opponent destroys one of them.",
+    "effect": "While this Rock and a Hard Place is on a Chain, players cannot play Counter Runes. Target a Rune and an Elestral on an opponent's field. That opponent destroys one of them.",
+    "elements": [
+        "water",
+        "lunar"
+    ],
+    "cost": [
+        "water",
+        "lunar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

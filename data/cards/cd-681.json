@@ -1,0 +1,41 @@
+{
+    "id": "cd-681",
+    "base_name": "Ambrosia",
+    "title": null,
+    "set_number": "SD02-14",
+    "sort_number": "SD02-14",
+    "name": "Ambrosia",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Trifernal Starter Deck",
+    "set_id": "st-9",
+    "subset": "starter_deck",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724168996/SD02-14AmbrosiaNoWatermark_vkpk9r?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Return up to {omni}{omni}{omni} from your\nUnderworld to your Spirit Deck.",
+    "effect": "Return up to {omni}{omni}{omni} from your Underworld to your Spirit Deck.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

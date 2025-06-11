@@ -1,0 +1,44 @@
+{
+    "id": "cd-1781",
+    "base_name": "Nemistar",
+    "title": null,
+    "set_number": "FST-073",
+    "sort_number": "FST-073",
+    "name": "Nemistar",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Victor Rosales",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329074/FST-073Nemistar_ettpg7?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900176/Nemistar_borderized_opszue?_a=BATAXdXy0",
+    "creature_id": "el-301",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {lunar}{lunar}.\nAn Elestral that receives {lunar} this way can attack\nopponents' Spirit Decks directly this turn.",
+    "effect": "You can Nexus {lunar}. An Elestral that receives {lunar} this way can attack opponents' Spirit Decks directly this turn.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "archaic",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

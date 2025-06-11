@@ -1,0 +1,42 @@
+{
+    "id": "cd-284",
+    "base_name": "Pandora’s Box",
+    "title": null,
+    "set_number": "BS1-109",
+    "sort_number": "BS1-109",
+    "name": "Pandora’s Box",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088463/BS1-109PandorasBoxNoWatermarkHolo_gjhult?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Pandora's Box can only be Cast when an\nopponent activates an effect that Searches for\nor Casts a card from their deck. Negate that\neffect and that opponent must send the top 2\ncards from their deck to their Underworld.",
+    "effect": "This Pandora's Box can only be played when an opponent activates an effect that Searches for or Casts a card from their deck. Negate that effect and that opponent must send the top 2 cards from their deck to their Underworld.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni",
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

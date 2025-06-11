@@ -1,0 +1,45 @@
+{
+    "id": "cd-264",
+    "base_name": "Cyclovenom",
+    "title": null,
+    "set_number": "DB1-060",
+    "sort_number": "DB1-060",
+    "name": "Cyclovenom",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990488/DB1-060CyclovenomNoWatermark_axebxu?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731483985/Cyclovenom_jxck2x?_a=BATAXdXy0",
+    "creature_id": "el-232",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Cyclovenom destroys an Elestral in\nbattle you can Special Cast a Toxiswarm\nfrom your hand or deck.",
+    "effect": "When this Cyclovenom destroys an Elestral in battle you can Special Cast a Toxiswarm from your hand or deck.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

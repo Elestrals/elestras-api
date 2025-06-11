@@ -1,0 +1,43 @@
+{
+    "id": "cd-981",
+    "base_name": "Cypromal",
+    "title": null,
+    "set_number": "DB1-109",
+    "sort_number": "DB1-109",
+    "name": "Cypromal",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Ryan Cortez",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "reverse_stellar",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989901/DB1-109CypromalStellarNoWatermarkHolo_v6tx6c?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156766/CypromalStellar_yruuuo?_a=BATAXdXy0",
+    "creature_id": "el-205",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Cypromal you can Search\nyour deck for a Golden Fleece and Cast it\nEmpowering this Cypromal. Spirits from your\nSpirit Deck and/or Underworld can be\nused to Cast that Golden Fleece.",
+    "effect": "When you Cast this Cypromal you can Cast a Golden Fleece from your deck Empowering this Cypromal. You may also use Spirits from your Underworld to play that Golden Fleece.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

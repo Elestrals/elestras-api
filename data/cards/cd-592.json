@@ -1,0 +1,45 @@
+{
+    "id": "cd-592",
+    "base_name": "Corebrum",
+    "title": null,
+    "set_number": "FF1-051",
+    "sort_number": "FF1-051",
+    "name": "Corebrum",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "LuisBrain",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759961/FF1-051CorebrumNoWatermark_ahrtou?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481835/Corebrum_yuys2h?_a=BATAXdXy0",
+    "creature_id": "el-111",
+    "total_cost": 2,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Corebrum gets +1 {defense} for each\nface-down card in your Rune Row.\nWhile this Corebrum is in Defense Position\nyour opponents cannot Set cards.",
+    "effect": "This Corebrum gets +2 {defense} for each face-down card in your Rune Row. While this Corebrum is in Defense Position your opponents cannot Set cards.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "golem"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

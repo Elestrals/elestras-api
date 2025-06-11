@@ -1,0 +1,43 @@
+{
+    "id": "cd-1259",
+    "base_name": "Rise from the Ashes",
+    "title": null,
+    "set_number": "TP1-11",
+    "sort_number": "TP1-11",
+    "name": "Rise from the Ashes",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087774/TP1-11RiseFromTheAshesNoWatermark_gar0n8?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146311/Rise_from_the_Ashes_TP1_udz919?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 3,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Target an Elestral in your Underworld and\nSpecial Cast it in Attack Position.",
+    "effect": "Target an Elestral in your Underworld and Special Cast it in Attack Position.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni",
+        "omni",
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

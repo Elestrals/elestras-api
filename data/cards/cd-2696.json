@@ -1,0 +1,42 @@
+{
+    "id": "cd-2696",
+    "base_name": "Vipyro",
+    "title": null,
+    "set_number": "SS2-075",
+    "sort_number": "SS2-075",
+    "name": "Vipyro",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Shattered Stars M15 - Aries",
+    "set_id": "st-88",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776369/SS2-075Vipyro_u6ynxo?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-1",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "fire"
+    ],
+    "cost": [],
+    "subclasses": [
+        "dragon",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

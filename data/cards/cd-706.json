@@ -1,0 +1,44 @@
+{
+    "id": "cd-706",
+    "base_name": "Corvishine",
+    "title": null,
+    "set_number": "DB1-106",
+    "sort_number": "DB1-106",
+    "name": "Corvishine",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "reverse_stellar",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989914/DB1-106CorvishineStellarNoWatermarkHolo_rukhbl?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156763/CorvishineStellar_huzzum?_a=BATAXdXy0",
+    "creature_id": "el-202",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Corvishine receives 1 or more {solar}\nyou can Foretell cards equal to the number\nof Spirits Enchanting it plus 1.\nThen you may draw a card and put a card from\nyour hand on top of your deck.",
+    "effect": "When this Corvishine receives 1 or more {solar} you can Foretell cards equal to the number of Spirits Enchanting it plus 1. Then you may draw a card and put a card from your hand on top of your deck.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

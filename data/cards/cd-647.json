@@ -1,0 +1,43 @@
+{
+    "id": "cd-647",
+    "base_name": "Warmite",
+    "title": null,
+    "set_number": "SD03-11",
+    "sort_number": "SD03-11",
+    "name": "Warmite",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Majesea Starter Deck",
+    "set_id": "st-72",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724095796/SD03-11WarmiteNoWatermark_v9tl4c?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473600/Render_-_WarmiteBS1-029_ggryxy?_a=BATAXdXy0",
+    "creature_id": "el-71",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can target an opponent’s Elestral and\ngive it -4 {attack} until the End Phase.",
+    "effect": "You can target an opponent's Elestral and give it -4 {attack} until the next turn.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

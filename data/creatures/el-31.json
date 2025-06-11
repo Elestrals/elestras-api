@@ -1,0 +1,11 @@
+{
+    "id": "el-31",
+    "name": "Stratomoth",
+    "class": "elestral",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473624/Render_-_StratomothBS1-073_lyuhmy?_a=BATAXdXy0",
+    "blurb": "Stratomoth move swiftly, generating tremendous bursts of wind. They can conceal themselves within these gusts, becoming invisible to mortal eyes. Favored by Aeolus, legends say the power of these Elestrals keeps his sky island afloat.",
+    "updated_at": "2025-06-09T23:16:07.637Z",
+    "elements": [
+        "wind"
+    ]
+}

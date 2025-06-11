@@ -1,0 +1,42 @@
+{
+    "id": "cd-805",
+    "base_name": "Luminape",
+    "title": null,
+    "set_number": "DB1-001",
+    "sort_number": "DB1-001",
+    "name": "Luminape",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990237/DB1-001LuminapeNoWatermark_qwpaoi?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484008/Luminape_ki00om?_a=BATAXdXy0",
+    "creature_id": "el-103",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "solar"
+    ],
+    "cost": [],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

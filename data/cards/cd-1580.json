@@ -1,0 +1,45 @@
+{
+    "id": "cd-1580",
+    "base_name": "Cyclovenom",
+    "title": null,
+    "set_number": "KSC-24",
+    "sort_number": "KSC-24",
+    "name": "Cyclovenom",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Clash! Promos",
+    "set_id": "st-76",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741908826/KSC-24_StellarCyclovenom_ik9zj3?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746758781/Cyclovenom_axdehg?_a=BATAXdXy0",
+    "creature_id": "el-232",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Cyclovenom destroys an Elestral in\nbattle you can Special Cast a Toxiswarm\nfrom your hand or deck.",
+    "effect": "When this Cyclovenom destroys an Elestral in battle you can Special Cast a Toxiswarm from your hand or deck.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

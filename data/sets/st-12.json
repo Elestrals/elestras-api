@@ -1,0 +1,14 @@
+{
+    "id": "st-12",
+    "name": "Frostfall",
+    "type": "main",
+    "abbr": "FF1",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "release_date": "2024-05-15T00:00:00.000Z",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724249316/FrostfallBanner_tagcmw?_a=BATAXdXy0",
+    "icon": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724247922/Frostfall_ss5lfg.svg",
+    "stamp": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724249404/Frostfall_nhdn2j.png",
+    "logo": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724248325/ElestralsFrostfallLogo_tn16o0?_a=BATAXdXy0",
+    "series_code": "FE02"
+}

@@ -1,0 +1,44 @@
+{
+    "id": "cd-1198",
+    "base_name": "Javeloucan",
+    "title": null,
+    "set_number": "DB1-058",
+    "sort_number": "DB1-058",
+    "name": "Javeloucan",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990556/DB1-058JaveloucanNoWatermark_rcvfnl?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731483997/Javaloucan_pkewub?_a=BATAXdXy0",
+    "creature_id": "el-230",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Javeloucan destroys an opponent's\nAttack Position Elestral in battle\nthat opponent must Expend {omni}{omni}{omni}.",
+    "effect": "When this Javeloucan destroys an opponent's Attack Position Elestral in battle that opponent must Expend {omni}{omni}{omni}.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "avian"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

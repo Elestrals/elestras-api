@@ -1,0 +1,42 @@
+{
+    "id": "cd-277",
+    "base_name": "Gorgon’s Gaze",
+    "title": null,
+    "set_number": "DB1-092",
+    "sort_number": "DB1-092",
+    "name": "Gorgon’s Gaze",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989899/DB1-092GorgonsGazeFANoWatermarkHolo_lpebtq?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156904/Gorgon_s_Gaze_FA_xbtjxb?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Target an Elestral. If its effect is on the\nchain, Negate it. Until the End Phase\nthat Elestral is Suppressed and\nit cannot receive Enchantments,\nattack, Nexus, or Ascend.",
+    "effect": "Target an Elestral. If its effect is on a Chain, Negate it. Until the next turn that Elestral is Suppressed and it cannot receive Enchantments, attack, Nexus, or Ascend.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni",
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

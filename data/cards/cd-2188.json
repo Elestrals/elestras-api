@@ -1,0 +1,43 @@
+{
+    "id": "cd-2188",
+    "base_name": "Rock and a Hard Place",
+    "title": null,
+    "set_number": "FST-SD076",
+    "sort_number": "FST-SD076",
+    "name": "Rock and a Hard Place",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755854/FST-SD076Rock_and_a_Hard_Place_a1jmbq?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "While this Rock and a Hard Place is on a Chain,\nplayers cannot play Counter Runes. Target a\nRune and an Elestral on an opponent's field.\nThat opponent destroys one of them.",
+    "effect": "While this Rock and a Hard Place is on a Chain, players cannot play Counter Runes. Target a Rune and an Elestral on an opponent's field. That opponent destroys one of them.",
+    "elements": [
+        "water",
+        "lunar"
+    ],
+    "cost": [
+        "water",
+        "lunar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

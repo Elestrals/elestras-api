@@ -1,0 +1,41 @@
+{
+    "id": "cd-1543",
+    "base_name": "Lunar Phase",
+    "title": "First Quarter",
+    "set_number": "MR1-122",
+    "sort_number": "MR1-122",
+    "name": "Lunar Phase - First Quarter",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "reverse_stellar",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925223/MR1-122LunarPhase-FirstQuarterStellarHolo_syobab?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541401/Moon3_borderized_ctndzm?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Draw a card.\nYou may discard a Lunar Phase to return a\nVoldusk, Volumbra or Volclipse from your\nUnderworld to your hand.",
+    "effect": "Draw a card. You may discard a Lunar Phase to return a Voldusk, Volumbra or Volclipse from your Underworld to your hand.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

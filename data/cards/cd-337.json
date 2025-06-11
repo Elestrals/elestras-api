@@ -1,0 +1,45 @@
+{
+    "id": "cd-337",
+    "base_name": "Leobrite",
+    "title": null,
+    "set_number": "DB1-017",
+    "sort_number": "DB1-017",
+    "name": "Leobrite",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990470/DB1-017LeobriteNoWatermark_m3ifks?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731483991/Leobrite_lur1xi?_a=BATAXdXy0",
+    "creature_id": "el-185",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Foretell 4.\nYou may Special Ascend this Leobrite\nto a Celestleo Foretold this way.",
+    "effect": "You can Foretell 4. You may Special Ascend this Leobrite into a Celestleo Foretold this way.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar",
+        "solar"
+    ],
+    "subclasses": [
+        "behemoth",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

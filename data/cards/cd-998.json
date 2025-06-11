@@ -1,0 +1,44 @@
+{
+    "id": "cd-998",
+    "base_name": "Soarlet",
+    "title": null,
+    "set_number": "SD05-08",
+    "sort_number": "SD05-08",
+    "name": "Soarlet",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Penterror Starter Deck",
+    "set_id": "st-59",
+    "subset": "starter_deck",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724170674/SD05-08SoarletNoWatermark_edijoi?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473612/Render_-_SoarletBS1-076_cx1dnq?_a=BATAXdXy0",
+    "creature_id": "el-64",
+    "total_cost": 1,
+    "attack": 5,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {wind} in order to change the Position of an Elestral unless it is {wind}-Enchanted.",
+    "effect": "You can Expend {wind} in order to change the Position of an Elestral unless it is {wind}-Enchanted.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

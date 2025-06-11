@@ -1,0 +1,42 @@
+{
+    "id": "cd-1621",
+    "base_name": "Flurrmine",
+    "title": null,
+    "set_number": "SS2-090",
+    "sort_number": "SS2-090",
+    "name": "Flurrmine",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Shattered Stars M16 - Taurus",
+    "set_id": "st-89",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740349218/SS2-090Flurrmine_vodg1t?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-6",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "frost"
+    ],
+    "cost": [],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

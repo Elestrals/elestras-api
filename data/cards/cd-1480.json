@@ -1,0 +1,43 @@
+{
+    "id": "cd-1480",
+    "base_name": "Snowlet",
+    "title": null,
+    "set_number": "MR1-063",
+    "sort_number": "MR1-063",
+    "name": "Snowlet",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924494/MR1-063Snowlet_ljd4uo?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541424/Snowlet_borderized_dftnh8?_a=BATAXdXy0",
+    "creature_id": "el-286",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Snowlet receives 1 or more {frost}\nyou can send the top 3 cards from your\ndeck to your Underworld.",
+    "effect": "When this Snowlet receives 1 or more {frost} you can send the top 3 cards from your deck to your Underworld.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "avian"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

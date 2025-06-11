@@ -1,0 +1,44 @@
+{
+    "id": "cd-1347",
+    "base_name": "Cyanectar",
+    "title": null,
+    "set_number": "SS1-113",
+    "sort_number": "SS1-113",
+    "name": "Cyanectar",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Shattered Stars M09 - Celebration",
+    "set_id": "st-102",
+    "subset": "reverse_stellar",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085656/SS1-113CyanectarStellarNoWatermarkHolo_nu7jat?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152965/Cyanectar_mriynd?_a=BATAXdXy0",
+    "creature_id": "el-112",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When a player Casts Poison Tipped Arrow,\nPoisoned Nectar, or Poisoned Tunic you\ncan Special Ascend this Cyanectar to\nWaspivy from your hand or deck.",
+    "effect": "When a player Casts Poison Tipped Arrow, Poisoned Nectar, or Poisoned Tunic you can Special Ascend this Cyanectar to Waspivy from your hand or deck.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

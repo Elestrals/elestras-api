@@ -1,0 +1,45 @@
+{
+    "id": "cd-2202",
+    "base_name": "Hurricane",
+    "title": null,
+    "set_number": "FST-SD091",
+    "sort_number": "FST-SD091",
+    "name": "Hurricane",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Ryan Cortez",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755870/FST-SD091Hurricane_sy7mhl?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 3,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Destroy all face-down Runes.",
+    "effect": "Destroy all face-down Runes.",
+    "elements": [
+        "wind",
+        "thunder",
+        "water"
+    ],
+    "cost": [
+        "wind",
+        "thunder",
+        "water"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

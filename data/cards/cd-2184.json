@@ -1,0 +1,42 @@
+{
+    "id": "cd-2184",
+    "base_name": "Trident of Poseidon",
+    "title": null,
+    "set_number": "FST-SD072",
+    "sort_number": "FST-SD072",
+    "name": "Trident of Poseidon",
+    "alias": null,
+    "card_type": "rune_artifact",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755862/FST-SD072Trident_of_Poseidon_t7u19v?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "The Empowered Elestral gets +2 {attack} and\ncannot be targeted by Counter Runes.\nWhile Poseidon is Enchanted your\nopponents cannot play Counter Runes.",
+    "effect": "The Empowered Elestral gets +2 {attack} and cannot be targeted by Counter Runes. While Poseidon is Enchanted your opponents cannot play Counter Runes.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

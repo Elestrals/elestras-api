@@ -1,0 +1,46 @@
+{
+    "id": "cd-294",
+    "base_name": "Spinosect",
+    "title": null,
+    "set_number": "SD01-05",
+    "sort_number": "SD01-05",
+    "name": "Spinosect",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Centaurbor Starter Deck",
+    "set_id": "st-69",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724094223/SD01-05SpinosectNoWatermark_dr0xdw?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473632/Render_-_SpinosectBS1-011_cv2ojw?_a=BATAXdXy0",
+    "creature_id": "el-35",
+    "total_cost": 2,
+    "attack": 1,
+    "defense": 9,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Spinosect can attack in Defense Position.\nIf it does, use its {defense} for calculations this battle.",
+    "effect": "This Spinosect can attack in Defense Position. This attacking Spinosect in Defense Position uses its {defense} for damage calculation.",
+    "elements": [
+        "earth",
+        "wind"
+    ],
+    "cost": [
+        "earth",
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

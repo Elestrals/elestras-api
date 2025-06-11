@@ -1,0 +1,46 @@
+{
+    "id": "cd-1342",
+    "base_name": "Posthumoose",
+    "title": null,
+    "set_number": "SS1-108",
+    "sort_number": "SS1-108",
+    "name": "Posthumoose",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Shattered Stars M09 - Celebration",
+    "set_id": "st-102",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085661/SS1-108PosthumooseStainedNoWatermarkHolo_nfj68x?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152416/Posthumoose_SG_z7ri3l?_a=BATAXdXy0",
+    "creature_id": "el-242",
+    "total_cost": 3,
+    "attack": 13,
+    "defense": 11,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When your Artemis Supresses a card\nyou can target and destroy that card.\nWhile Artemis is Enchanted this Posthumoose\nis Unaffected by Counter Runes.",
+    "effect": "When your Artemis Suppresses a card you can target and destroy that card. While Artemis is Enchanted this Posthumoose is Unaffected by Counter Runes.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar",
+        "lunar",
+        "lunar"
+    ],
+    "subclasses": [
+        "spectral",
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

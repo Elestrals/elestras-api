@@ -1,0 +1,45 @@
+{
+    "id": "cd-2519",
+    "base_name": "Carryon",
+    "title": null,
+    "set_number": "SS2-043",
+    "sort_number": "SS2-043",
+    "name": "Carryon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Shattered Stars M13 - Aquarius",
+    "set_id": "st-86",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776317/SS2-043Carryon_gehfbw?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154218/Carryon_SS2_aacmdc?_a=BATAXdXy0",
+    "creature_id": "el-44",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Carryon is destroyed in battle you\ncan target the Elestral that destroyed it and take\ncontrol of that Elestral until the next turn.",
+    "effect": "When this Carryon is destroyed in battle you can target the Elestral that destroyed it and take control of that Elestral until the next turn.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

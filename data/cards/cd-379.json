@@ -1,0 +1,44 @@
+{
+    "id": "cd-379",
+    "base_name": "Flarachne",
+    "title": null,
+    "set_number": "BS1-030",
+    "sort_number": "BS1-030",
+    "name": "Flarachne",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088374/BS1-030FlarachneNoWatermark_rsmg0d?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473608/Render_-_FlarachneBS1-030_hoqjxl?_a=BATAXdXy0",
+    "creature_id": "el-72",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 8,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "While this Flarachne is Enchanted\nElestrals cannot attack the turn they are Cast\nunless they are {fire}-Enchanted.",
+    "effect": "While this Flarachne is Enchanted Elestrals cannot attack the turn they are Cast unless they are {fire}-Enchanted.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

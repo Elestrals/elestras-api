@@ -1,0 +1,44 @@
+{
+    "id": "cd-1394",
+    "base_name": "Aardbud",
+    "title": null,
+    "set_number": "SS2-019",
+    "sort_number": "SS2-019",
+    "name": "Aardbud",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Shattered Stars M11 - Sagittarius",
+    "set_id": "st-84",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087257/SS2-019AardbudNoWatermark_v6scsj?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746021312/Borderized_-_AardbudSugimosby_qx9akd?_a=BATAXdXy0",
+    "creature_id": "el-264",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {omni} from your {insectoid} cards in\norder to Special Ascend this Aardbud to\nAardvarum from your deck. When this Aardbud\nreceives 1 or more {earth} you can Search your deck\nfor a 1 Spirit {insectoid} Elestral and add it to your hand. ",
+    "effect": "You can Disenchant {omni} from your {insectoid} cards in order to Special Ascend this Aardbud to Aardvarum from your deck. When this Aardbud receives 1 or more {earth} you can Search your deck for a 1 Spirit {insectoid} Elestral and add it to your hand.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

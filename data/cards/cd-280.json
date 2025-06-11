@@ -1,0 +1,46 @@
+{
+    "id": "cd-280",
+    "base_name": "Penterror",
+    "title": null,
+    "set_number": "SS1-19",
+    "sort_number": "SS1-19",
+    "name": "Penterror",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Shattered Stars M02 - Wind",
+    "set_id": "st-95",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085622/SS1-19PenterrorStainedNoWatermarkHolo_tv5rlz?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152457/Penterror_SG_ja6fjr?_a=BATAXdXy0",
+    "creature_id": "el-22",
+    "total_cost": 3,
+    "attack": 15,
+    "defense": 8,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Penterror is destroyed by an\nopponent’s card effect you can Special Cast\nany number of Hydrake and Twindra from\nyour hand or deck in Attack Position.",
+    "effect": "When this Penterror is destroyed by an opponent's card effect you can Special Cast any number of Hydrake or Twindra from your hand or deck in Attack Position.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "dragon",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

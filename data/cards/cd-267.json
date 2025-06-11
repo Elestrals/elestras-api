@@ -1,0 +1,44 @@
+{
+    "id": "cd-267",
+    "base_name": "Rummacoal",
+    "title": null,
+    "set_number": "DB1-043",
+    "sort_number": "DB1-043",
+    "name": "Rummacoal",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Ryan Cortez",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990509/DB1-043RummacoalNoWatermark_nmufic?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484005/Rummacoal_mobdjj?_a=BATAXdXy0",
+    "creature_id": "el-216",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Rummacoal you\ncan Search your deck for a Stadium Rune or a\nStoke the Forge and add it to your hand. This\nRummacoal gets +1 {attack} for each {fire} Enchanting it\nas long as Volcanic Forge is Enchanted.",
+    "effect": "When you Normal Cast this Rummacoal you can Search your deck for a Stadium Rune or Stoke the Forge and add it to your hand. This Rummacoal gets +1 {attack} for each {fire} Enchanting it as long as Volcanic Forge is Enchanted.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "golem",
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

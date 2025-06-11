@@ -1,0 +1,45 @@
+{
+    "id": "cd-760",
+    "base_name": "Ursa Den",
+    "title": null,
+    "set_number": "FF1-085",
+    "sort_number": "FF1-085",
+    "name": "Ursa Den",
+    "alias": null,
+    "card_type": "rune_stadium",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759989/FF1-085UrsaDenNoWatermark_nr1ylt?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "{ursa} Elestrals get +1 {attack} and +1 {defense}. When a player\nCasts an {ursa} Elestral you can Enchant {omni} to this\nUrsa Den. You can Disenchant {omni}{omni}{omni}{omni}\nfrom this Ursa Den in order to Special Cast\nan {ursa} Elestral from your hand or deck.",
+    "effect": "{ursa} Elestrals get +1 {attack} and +1 {defense}. When a player Casts an {ursa} Elestral you can Enchant {omni} to this Ursa Den. You can Disenchant {omni}{omni}{omni}{omni} from this Ursa Den in order to Special Cast an {ursa} Elestral from your hand or deck.",
+    "elements": [
+        "fire",
+        "frost"
+    ],
+    "cost": [
+        "fire",
+        "frost"
+    ],
+    "subclasses": [
+        "ursa"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

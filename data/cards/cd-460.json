@@ -1,0 +1,42 @@
+{
+    "id": "cd-460",
+    "base_name": "Gorgon’s Gaze",
+    "title": null,
+    "set_number": "SD06-20",
+    "sort_number": "SD06-20",
+    "name": "Gorgon’s Gaze",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Kryoscorch Starter Deck",
+    "set_id": "st-25",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723835435/SD06-20GorgonsGazeNoWatermark_nqkxh6?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Target an Elestral. If its effect is on the\nchain, Negate it. Until the End Phase\nthat Elestral is Suppressed and\nit cannot receive Enchantments,\nattack, Nexus, or Ascend. ",
+    "effect": "Target an Elestral. If its effect is on a Chain, Negate it. Until the next turn that Elestral is Suppressed and it cannot receive Enchantments, attack, Nexus, or Ascend.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni",
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

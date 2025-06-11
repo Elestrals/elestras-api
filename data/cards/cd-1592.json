@@ -1,0 +1,43 @@
+{
+    "id": "cd-1592",
+    "base_name": "Don’t Poke the Bear!",
+    "title": null,
+    "set_number": "KSC-09",
+    "sort_number": "KSC-09",
+    "name": "Don’t Poke the Bear!",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Clash! Promos",
+    "set_id": "st-76",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741908815/KSC-09_StellarDon_tPoketheBear_ngypdw?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746758505/Don_t_Poke_the_Bear_rr5bm3?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Don’t Poke the Bear! can only be played\nduring the Battle Phase. Target an {ursa} Elestral\nand give it +4 {attack} and +4 {defense} until the End Phase.",
+    "effect": "This Don’t Poke the Bear! can only be played during the Battle Phase. Target an {ursa} Elestral and give it +4 {attack} and +4 {defense} until the next turn.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "ursa"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

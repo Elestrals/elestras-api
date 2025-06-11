@@ -1,0 +1,44 @@
+{
+    "id": "cd-806",
+    "base_name": "Roominous",
+    "title": null,
+    "set_number": "DB1-022",
+    "sort_number": "DB1-022",
+    "name": "Roominous",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990573/DB1-022RoominousNoWatermark_yt5pbw?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484019/Roominous_b9lmjo?_a=BATAXdXy0",
+    "creature_id": "el-196",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Roominous deals damage to\nan opponent they must send the top 3 cards\nfrom their deck to their Underworld\nfor each Spirit they Expended.",
+    "effect": "When this Roominous deals damage to an opponent they must send the top 3 cards from their deck to the Underworld for each Spirit they Expended.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar",
+        "solar"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

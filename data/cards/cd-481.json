@@ -1,0 +1,43 @@
+{
+    "id": "cd-481",
+    "base_name": "Boombatt",
+    "title": null,
+    "set_number": "BS1-054",
+    "sort_number": "BS1-054",
+    "name": "Boombatt",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245590/BS1-054Boombatt_zhpu7y?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473621/Render_-_BoombattBS1-054_poktgh?_a=BATAXdXy0",
+    "creature_id": "el-75",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {thunder} from this\nBoombatt in order to target and destroy\nan opponent’s Elestral.",
+    "effect": "You can Disenchant {thunder} from this Boombatt in order to target and destroy an opponent's Elestral.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

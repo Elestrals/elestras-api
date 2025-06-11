@@ -1,0 +1,43 @@
+{
+    "id": "cd-597",
+    "base_name": "Snowattle",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "SD07-S01",
+    "name": "Snowattle",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Emperowatt Starter Deck",
+    "set_id": "st-24",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723837430/SD07SnowattleStellarNoWatermarkHolo_avbpig?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156209/SnowattleStellar_scgq4r?_a=BATAXdXy0",
+    "creature_id": "el-154",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Snowattle you\ncan Search your deck for an Elestral with\nEnchantment Cost {frost}{thunder} and add it to your hand.",
+    "effect": "When you Normal Cast this Snowattle you can Search your deck for an Elestral with Enchantment Cost {frost}{thunder} and add it to your hand.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "avian"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

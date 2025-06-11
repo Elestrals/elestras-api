@@ -1,0 +1,44 @@
+{
+    "id": "cd-349",
+    "base_name": "Glauby",
+    "title": null,
+    "set_number": "BS1-039",
+    "sort_number": "BS1-039",
+    "name": "Glauby",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088398/BS1-039GlaubyNoWatermark_csv3j1?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473641/Render_-_GlaubyBS1-039_bqsh6n?_a=BATAXdXy0",
+    "creature_id": "el-15",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 8,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Special Ascend this Glauby to\nMajesea from your hand or deck if\nit is {water}{water}{water}-Enchanted.",
+    "effect": "You can Special Ascend this Glauby to Majesea from your hand or deck if it is {water}{water}{water}-Enchanted.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

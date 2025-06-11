@@ -1,0 +1,43 @@
+{
+    "id": "cd-1450",
+    "base_name": "Drakkid",
+    "title": null,
+    "set_number": "MR1-028",
+    "sort_number": "MR1-028",
+    "name": "Drakkid",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924368/MR1-028Drakkid_zy2wpq?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541395/Drakkid_borderized_tyrdmi?_a=BATAXdXy0",
+    "creature_id": "el-256",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can target a 1 Spirit Elestral and exchange\nits base {attack} with this Drakkid's base {attack} until the\nEnd Phase. When a player Casts Rock and a Hard\nPlace you can Special Ascend this Drakkid to\nDrakking from your hand or deck.",
+    "effect": "You can target a 1 Spirit Elestral and exchange its base {attack} with this Drakkid's base {attack} until the next turn. When a player Casts Rock and a Hard Place you can Special Ascend this Drakkid to Drakking from your hand or deck.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

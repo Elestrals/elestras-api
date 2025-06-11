@@ -1,0 +1,41 @@
+{
+    "id": "cd-585",
+    "base_name": "Khione",
+    "title": null,
+    "set_number": "FF1-070",
+    "sort_number": "FF1-070",
+    "name": "Khione",
+    "alias": null,
+    "card_type": "rune_divine",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Dennis Fuhrmann",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723760091/FF1-070KhioneFANoWatermarkHolo_ydxayb?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Khione you can Enchant up\nto {frost}{frost}{frost} to it. You can Disenchant {frost} from\nthis Khione in order to return a 1 Spirit {frost}\nElestral from your Underworld to your hand.",
+    "effect": "When you Cast this Khione you can Enchant up to {frost}{frost}{frost} to it. You can Disenchant {frost} from this Khione in order to return a 1 Spirit {frost} Elestral from your Underworld to your hand.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

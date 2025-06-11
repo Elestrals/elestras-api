@@ -1,0 +1,11 @@
+{
+    "id": "el-26",
+    "name": "Ursmog",
+    "class": "elestral",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473637/Render_-_UrsmogBS1-024_mjnyax?_a=BATAXdXy0",
+    "blurb": "Ursmog is as timid as Urscout is inquisitive. It uses smoke to hide and evade others. The only hint of its presence may be a whiff of such smoke as you wander the forest.",
+    "updated_at": "2025-06-09T23:16:07.477Z",
+    "elements": [
+        "fire"
+    ]
+}

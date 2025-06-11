@@ -1,0 +1,41 @@
+{
+    "id": "cd-1585",
+    "base_name": "First Light",
+    "title": null,
+    "set_number": "KSC-10",
+    "sort_number": "KSC-10",
+    "name": "First Light",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Clash! Promos",
+    "set_id": "st-76",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741908822/KSC-10_FirstLightFA_kmj71q?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746758770/First_Light_t3uzdm?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Search your deck for a {solar} Elestral and\nput it on top of your deck.",
+    "effect": "Search your deck for a {solar} Elestral and put it on top of your deck.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

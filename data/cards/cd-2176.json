@@ -1,0 +1,41 @@
+{
+    "id": "cd-2176",
+    "base_name": "Hestia",
+    "title": null,
+    "set_number": "FST-SD065",
+    "sort_number": "FST-SD065",
+    "name": "Hestia",
+    "alias": null,
+    "card_type": "rune_divine",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755814/FST-SD065Hestia_sclkgy?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900144/Hestia_borderized_sdfxxu?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Hestia you can Enchant up to\n{fire}{fire}{fire} to it. You can Disenchant {fire}{fire} from this\nHestia in order to Special Cast a 1 Spirit {fire} Elestral\nfrom your hand with {fire} if an opponent controls\nthe same number of Elestrals as you or more.",
+    "effect": "When you Cast this Hestia you can Enchant up to {fire}{fire}{fire} to it. You can Disenchant {fire}{fire} from this Hestia in order to Special Cast a 1 Spirit {fire} Elestral from your hand with {fire} if an opponent controls the same number of Elestrals as you or more.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

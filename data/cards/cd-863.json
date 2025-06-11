@@ -1,0 +1,41 @@
+{
+    "id": "cd-863",
+    "base_name": "Charon's Obol",
+    "title": null,
+    "set_number": "BS1-111",
+    "sort_number": "BS1-111",
+    "name": "Charon's Obol",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245799/BS1-111CharonsObol_xwmnco?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Until the End Phase, when an Elestral is\ndestroyed in battle you can draw a card.",
+    "effect": "Until the next turn, when an Elestral is destroyed in battle you can draw a card.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

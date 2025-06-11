@@ -1,0 +1,43 @@
+{
+    "id": "cd-983",
+    "base_name": "Krakkid",
+    "title": null,
+    "set_number": "BS1-036",
+    "sort_number": "BS1-036",
+    "name": "Krakkid",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088356/BS1-036KrakkidNoWatermark_x0ye1o?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473625/Render_-_KrakkidBS1-036_xyxmsf?_a=BATAXdXy0",
+    "creature_id": "el-51",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Krakkid you can target an\nopponent's Elestral. That Elestral cannot\nattack and its effect is negated as long\nas this Krakkid is Enchanted.",
+    "effect": "When you Cast this Krakkid you can target an opponent's Elestral. That Elestral is Suppressed and cannot attack as long as this Krakkid is Enchanted.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

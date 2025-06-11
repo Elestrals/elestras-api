@@ -1,0 +1,41 @@
+{
+    "id": "cd-1740",
+    "base_name": "Foloi Forest",
+    "title": "Burning Woods",
+    "set_number": "FST-080",
+    "sort_number": "FST-080",
+    "name": "Foloi Forest - Burning Woods",
+    "alias": null,
+    "card_type": "rune_stadium",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329098/FST-080FoloiForest-BurningWoods_ziqmh8?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900186/FoloiForestBurningWoods_borderized_yt6n3s?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Opponents must also Expend {omni}{omni}\nin order to play Stadium Runes.",
+    "effect": "Opponents also have to Expend {omni}{omni} in order to play Stadium Runes.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

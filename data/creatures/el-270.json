@@ -1,0 +1,12 @@
+{
+    "id": "el-270",
+    "name": "Salashade",
+    "class": "elestral",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541439/Salashade_borderized_ys24pk?_a=BATAXdXy0",
+    "blurb": null,
+    "updated_at": "2025-06-09T23:16:06.649Z",
+    "elements": [
+        "fire",
+        "lunar"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "cd-2008",
+    "base_name": "Cryoblast",
+    "title": null,
+    "set_number": "TP2-11",
+    "sort_number": "TP2-11",
+    "name": "Cryoblast",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Organized Play Series 2",
+    "set_id": "st-46",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734037673/TP2-11Cryoblast_epot6j?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146584/Cryoblast_TP2_gzf38n?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Target an Elestral that is not {frost}-Enchanted.\nUntil the End Phase, give it -2 {defense} and when that\nElestral has 0 {defense} you must destroy it.",
+    "effect": "Target an Elestral that is not {frost}-Enchanted. Until the next turn, give it -2 {defense} and when that Elestral has 0 {defense} you must destroy it.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

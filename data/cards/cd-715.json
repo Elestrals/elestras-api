@@ -1,0 +1,41 @@
+{
+    "id": "cd-715",
+    "base_name": "Race to the Top",
+    "title": null,
+    "set_number": "FF1-079",
+    "sort_number": "FF1-079",
+    "name": "Race to the Top",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759978/FF1-079RacetotheTopNoWatermark_nqvusd?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Race to the Top can only be Cast if\nMt. Olympus is Enchanted. Target 2 Elestrals\nand destroy the Elestral with the least {defense}.",
+    "effect": "This Race to the Top can only be played if Mt. Olympus is Enchanted. Target 2 Elestrals and destroy the Elestral with the least {defense}.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

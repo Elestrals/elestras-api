@@ -1,0 +1,43 @@
+{
+    "id": "cd-247",
+    "base_name": "Sinder",
+    "title": null,
+    "set_number": "SD02-09",
+    "sort_number": "SD02-09",
+    "name": "Sinder",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Trifernal Starter Deck",
+    "set_id": "st-71",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724095439/SD02-09SinderNoWatermark_etvln2?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473611/Render_-_SinderBS1-033_jswsmu?_a=BATAXdXy0",
+    "creature_id": "el-79",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Sinder receives 1 or more {fire}\nyour opponents must send the top 3 cards\nfrom their deck to their Underworld.",
+    "effect": "When this Sinder receives 1 or more {fire} your opponents must send the top 3 cards from their deck to their Underworld.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "cd-2195",
+    "base_name": "Race to the Top",
+    "title": null,
+    "set_number": "FST-SD083",
+    "sort_number": "FST-SD083",
+    "name": "Race to the Top",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755820/FST-SD083Race_to_the_Top_kzcw8e?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Race to the Top can only be played if\nMt. Olympus is Enchanted. Target 2 Elestrals\nand destroy the Elestral with the least {defense}.",
+    "effect": "This Race to the Top can only be played if Mt. Olympus is Enchanted. Target 2 Elestrals and destroy the Elestral with the least {defense}.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "cd-596",
+    "base_name": "Lycarus",
+    "title": null,
+    "set_number": "AC1-14",
+    "sort_number": "AC1-14",
+    "name": "Lycarus",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Tori Von",
+    "set": "Artist Collection",
+    "set_id": "st-5",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723756655/AC1-14LycarusNoWatermarkHolo_h8eijr?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742140317/Lycarus_AC_lmzplx?_a=BATAXdXy0",
+    "creature_id": "el-5",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "wind"
+    ],
+    "cost": [],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

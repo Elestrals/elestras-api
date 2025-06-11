@@ -1,0 +1,43 @@
+{
+    "id": "cd-258",
+    "base_name": "Smoltuga",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "DB1-S11",
+    "name": "Smoltuga",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Yoshi K Art",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989893/DB1-SmoltugaStellarNoWatermarkHolo_m3t67y?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-89",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 5,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Smoltuga\nyou can Search your deck for a\n1 Spirit {fire} Elestral and add it to your hand.",
+    "effect": "When you Normal Cast this Smoltuga you can Search your deck for a 1 Spirit {fire} Elestral and add it to your hand.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

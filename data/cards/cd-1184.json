@@ -1,0 +1,44 @@
+{
+    "id": "cd-1184",
+    "base_name": "Glydesdale",
+    "title": null,
+    "set_number": "BS1-070",
+    "sort_number": "BS1-070",
+    "name": "Glydesdale",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245721/BS1-070Glydesdale_mujlg6?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473627/Render_-_GlydesdaleBS1-070_jdc8fk?_a=BATAXdXy0",
+    "creature_id": "el-85",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {wind} in order to give\nthis Glydesdale +5 {attack} until the End Phase.\nAs long as this Glydesdale is Empowered by\nAeromare it can attack twice each Battle Phase.",
+    "effect": "You can Expend {wind} in order to give this Glydesdale +5 {attack} until the next turn. While this Glydesdale is Empowered by Aeromare it can attack twice during your Battle Phase.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

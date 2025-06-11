@@ -1,0 +1,45 @@
+{
+    "id": "cd-534",
+    "base_name": "Lochagon",
+    "title": null,
+    "set_number": "XX/10",
+    "sort_number": "SS1-S08",
+    "name": "Lochagon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Shattered Stars M04 - Water",
+    "set_id": "st-97",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085661/SS1-LochagonFAStellarNoWatermarkHolo_hi8uw3?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152975/Lochagon_FA_jldbg2?_a=BATAXdXy0",
+    "creature_id": "el-135",
+    "total_cost": 2,
+    "attack": 2,
+    "defense": 6,
+    "serialized_stellar": true,
+    "serialized_population": 10,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Lochagon gets +1 {attack} for each {water} in your\nUnderworld. When you return 1 or more {water}\nfrom your Underworld to your Spirit Deck\nyou can target and destroy a card.",
+    "effect": "This Lochagon gets +1 {attack} for each {water} in your Underworld. When you return 1 or more {water} from your Underworld to your Spirit Deck you can target and destroy a card.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "aquatic",
+        "dragon"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

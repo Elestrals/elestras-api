@@ -1,0 +1,44 @@
+{
+    "id": "cd-1683",
+    "base_name": "Solbelle",
+    "title": "Champion of Apollo",
+    "set_number": "FST-065",
+    "sort_number": "FST-065",
+    "name": "Solbelle - Champion of Apollo",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329054/FST-065Solbelle_nxgdh7?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900177/SolbelleCoA_borderized_bnh9q6?_a=BATAXdXy0",
+    "creature_id": "el-197",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "While this Solbelle is Foretold with your\nApollo's effect you may Special Cast it with {solar}.",
+    "effect": "While this Solbelle is Foretold with your Apollo's effect you may Special Cast it with {solar}.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "cd-539",
+    "base_name": "Brontowisp",
+    "title": null,
+    "set_number": "DB1-042",
+    "sort_number": "DB1-042",
+    "name": "Brontowisp",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989857/DB1-042BrontowispNoWatermarkHolo_bxucyn?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484010/Brontowisp_lr0asj?_a=BATAXdXy0",
+    "creature_id": "el-215",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {fire} from your Fungyde in\norder to target and destroy a Rune.\nWhen an Elestral on your field is destroyed in\nbattle you can Expend {fire} in order to Special Cast\na Fungyde from your Underworld. ",
+    "effect": "You can Disenchant {fire} from your Fungyde in order to target and destroy a Rune. When an Elestral on your field is destroyed in battle you can Expend {fire} in order to Special Cast a Fungyde from your Underworld.",
+    "elements": [
+        "fire",
+        "lunar"
+    ],
+    "cost": [
+        "fire",
+        "lunar"
+    ],
+    "subclasses": [
+        "dryad",
+        "spectral"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

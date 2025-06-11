@@ -1,0 +1,45 @@
+{
+    "id": "cd-2236",
+    "base_name": "Twindra",
+    "title": null,
+    "set_number": "SS2-105",
+    "sort_number": "SS2-105",
+    "name": "Twindra",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "borderless_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Shattered Stars M17 - Gemini",
+    "set_id": "st-90",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740354424/SS2-105Twindra_oevlfz?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748833599/Twindra_Constellation_diehlx?_a=BATAXdXy0",
+    "creature_id": "el-21",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Twindra is destroyed in battle\nyou can Special Cast a Penterror from your\nhand or deck in Attack Position.\r",
+    "effect": "When this Twindra is destroyed in battle you can Special Cast a Penterror from your hand or deck in Attack Position.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "dragon",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "id": "el-5",
+    "name": "Lycarus",
+    "class": "spirit",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731486359/Render_-_LycarusBS1-005_cqerxf?_a=BATAXdXy0",
+    "blurb": "Lycarus Spirits and Wind Casters are carefree and gentle as a breeze. Lovers of music and the arts, most would rather play and create than compete in serious clashes.",
+    "updated_at": "2025-06-09T23:16:07.983Z",
+    "elements": [
+        "wind"
+    ]
+}

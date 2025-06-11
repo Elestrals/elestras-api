@@ -1,0 +1,42 @@
+{
+    "id": "cd-903",
+    "base_name": "Drops of Lethe",
+    "title": null,
+    "set_number": "BS1-105",
+    "sort_number": "BS1-105",
+    "name": "Drops of Lethe",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088418/BS1-105DropsofLetheNoWatermark_yr0z6v?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Reveal any number of cards from your hand,\nthen shuffle them into your deck and draw\nthat many cards plus one.",
+    "effect": "Reveal any number of cards from your hand, then shuffle them into your deck and draw that many cards plus 1.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni",
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

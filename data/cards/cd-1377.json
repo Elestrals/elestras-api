@@ -1,0 +1,45 @@
+{
+    "id": "cd-1377",
+    "base_name": "Titanostrike",
+    "title": null,
+    "set_number": "SS2-006",
+    "sort_number": "SS2-006",
+    "name": "Titanostrike",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Shattered Stars M10 - Scorpio",
+    "set_id": "st-41",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087253/SS2-006TitanostrikeNoWatermark_yulvbn?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154247/Titanostrike_SS2_s4arzo?_a=BATAXdXy0",
+    "creature_id": "el-280",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When a player Casts Thunderstorm\nyou can Expend {thunder} in order to target\nand destroy an Elestral.",
+    "effect": "When a player Casts Thunderstorm you can Expend {thunder} in order to target and destroy an Elestral.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "archaic",
+        "dryad"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

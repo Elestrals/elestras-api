@@ -1,0 +1,46 @@
+{
+    "id": "cd-741",
+    "base_name": "Majesea",
+    "title": null,
+    "set_number": "SD03-03",
+    "sort_number": "SD03-03",
+    "name": "Majesea",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Majesea Starter Deck",
+    "set_id": "st-72",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724095783/SD03-03MajeseaNoWatermarkHolo_us50vz?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473642/Render_-_MajeseaBS1-040_hct5r1?_a=BATAXdXy0",
+    "creature_id": "el-16",
+    "total_cost": 3,
+    "attack": 6,
+    "defense": 14,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Majesea gets +1 {attack} for each Enchanting {water}\non your field. {water}-Enchanted Elestrals cannot\nbe targeted by opponents’ Elestral effects.",
+    "effect": "This Majesea gets +1 {attack} for each Enchanting {water} on your field. {water}-Enchanted Elestrals cannot be targeted by opponents' Elestral effects.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "dragon"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

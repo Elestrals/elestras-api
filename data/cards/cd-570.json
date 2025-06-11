@@ -1,0 +1,46 @@
+{
+    "id": "cd-570",
+    "base_name": "Emperowatt",
+    "title": null,
+    "set_number": "FF1-091",
+    "sort_number": "FF1-091",
+    "name": "Emperowatt",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723760100/FF1-091EmperowattFANoWatermarkHolo_tgbnx5?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-117",
+    "total_cost": 3,
+    "attack": 11,
+    "defense": 9,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Emperowatt you can Nexus\nall of your Enchanting Spirits to it. You can\nDisenchant {omni}{omni}{omni} in any combination of {frost}\nand/or {thunder} from this Emperowatt in order to\ndestroy each card on an opponent's field.",
+    "effect": "When you Cast this Emperowatt you can Nexus all of your Enchanting Spirits to it. You can Disenchant {omni}{omni}{omni} in any combination of {frost}/{thunder} in order to destroy each card on an opponent's field.",
+    "elements": [
+        "frost",
+        "thunder"
+    ],
+    "cost": [
+        "frost",
+        "frost",
+        "thunder"
+    ],
+    "subclasses": [
+        "avian"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

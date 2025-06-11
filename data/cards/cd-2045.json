@@ -1,0 +1,45 @@
+{
+    "id": "cd-2045",
+    "base_name": "Scavacoal",
+    "title": "Champion of Hephaestus",
+    "set_number": "TP3-15",
+    "sort_number": "TP3-15",
+    "name": "Scavacoal - Champion of Hephaestus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Organized Play Series 3",
+    "set_id": "st-115",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545067/TP3-15_StellarScavacoalCoH_xhoqmq?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748835024/Scavacoal_CoH_hfyxp3?_a=BATAXdXy0",
+    "creature_id": "el-217",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Scavacoal in your hand can Special Ascend from your {fire} Elestral if you have at least 2 Enchanted Artifact Runes on your field. Artifacts that were Empowering that Elestral start Empowering this Scavacoal instead of being sent to the Underworld.",
+    "effect": "This Scavacoal in your hand can Special Ascend from your {fire} Elestral if you have at least 2 Enchanted Artifacts on your field. Artifacts that were Empowering that Elestral start Empowering this Scavacoal instead  of being sent to the Underworld.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "golem",
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

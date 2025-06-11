@@ -1,0 +1,44 @@
+{
+    "id": "cd-427",
+    "base_name": "Soarlet",
+    "title": null,
+    "set_number": "AC1-09",
+    "sort_number": "AC1-09",
+    "name": "Soarlet",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Artist Collection",
+    "set_id": "st-5",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723756650/AC1-09SoarletNoWatermarkHolo_xb1vqe?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742140323/Soarlet_AC_ociwnz?_a=BATAXdXy0",
+    "creature_id": "el-64",
+    "total_cost": 1,
+    "attack": 5,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {wind} in order to\nchange the Position of an Elestral\nunless it is {wind}-Enchanted.",
+    "effect": "You can Expend {wind} in order to change the Position of an Elestral unless it is {wind}-Enchanted.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

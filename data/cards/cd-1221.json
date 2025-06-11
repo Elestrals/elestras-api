@@ -1,0 +1,43 @@
+{
+    "id": "cd-1221",
+    "base_name": "Catarant",
+    "title": null,
+    "set_number": "FF1-010",
+    "sort_number": "FF1-010",
+    "name": "Catarant",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759865/FF1-010CatarantNoWatermark_hlixln?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481811/Catarant_kpnhob?_a=BATAXdXy0",
+    "creature_id": "el-107",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Catarant receives 1 or more {frost}\nyou can return up to {frost}{frost} from your\nUnderworld to your Spirit Deck.",
+    "effect": "When this Catarant receives 1 or more {frost} you can return up to {frost}{frost} from your Underworld to your Spirit Deck.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

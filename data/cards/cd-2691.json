@@ -1,0 +1,44 @@
+{
+    "id": "cd-2691",
+    "base_name": "Urscout",
+    "title": "Champion of Hestia",
+    "set_number": "SS2-070",
+    "sort_number": "SS2-070",
+    "name": "Urscout - Champion of Hestia",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Shattered Stars M15 - Aries",
+    "set_id": "st-88",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776361/SS2-070Urscout_CoH_votyvi?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746135259/Urscout_CoH_auvkzq?_a=BATAXdXy0",
+    "creature_id": "el-25",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Special Cast this Urscout you can\nSearch your deck for a Champion of Hestia\nand add it to your hand.",
+    "effect": "When you Special Cast this Urscout you can Search your deck for a Champion of Hestia and add it to your hand.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "ursa"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "cd-977",
+    "base_name": "Circle the Sky",
+    "title": null,
+    "set_number": "SD01-15",
+    "sort_number": "SD01-15",
+    "name": "Circle the Sky",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Centaurbor Starter Deck",
+    "set_id": "st-69",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724094238/SD01-15CircletheSkyNoWatermark_gasxus?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Nexus up to {omni}{omni}.\nIf you do, you can draw a card.",
+    "effect": "Nexus up to {omni}{omni}. If you do, you may draw a card.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

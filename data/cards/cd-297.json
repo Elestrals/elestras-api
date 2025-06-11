@@ -1,0 +1,44 @@
+{
+    "id": "cd-297",
+    "base_name": "Eyewoolly",
+    "title": null,
+    "set_number": "FF1-011",
+    "sort_number": "FF1-011",
+    "name": "Eyewoolly",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759866/FF1-011EyewoollyNoWatermark_bu7fwg?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481846/Eyewoolly_frqucr?_a=BATAXdXy0",
+    "creature_id": "el-120",
+    "total_cost": 2,
+    "attack": 8,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Eyewoolly destroys an opponent's\nElestral in battle you can Expend {frost} in order to\ndestroy each of that opponent's Elestrals.",
+    "effect": "When this Eyewoolly destroys an opponent's Elestral in battle you can Expend {frost} in order to destroy each of that opponent's Elestrals.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost",
+        "frost"
+    ],
+    "subclasses": [
+        "behemoth"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

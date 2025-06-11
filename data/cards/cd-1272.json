@@ -1,0 +1,45 @@
+{
+    "id": "cd-1272",
+    "base_name": "Penguwatt",
+    "title": null,
+    "set_number": "TP1-24",
+    "sort_number": "TP1-24",
+    "name": "Penguwatt",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087786/TP1-24PenguwattStellarNoWatermarkHolo_rhhmd3?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146321/Penguwatt_j7oqxm?_a=BATAXdXy0",
+    "creature_id": "el-146",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 7,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "During your Draw Phase you can\nDisenchant {frost}/{thunder} from your field in\norder to Special Ascend this Penguwatt\nto Emperowatt from your hand or deck.",
+    "effect": "During your Draw Phase you can Discenchant {frost}/{thunder} from your field in order to Special Ascend this Penguwatt to Emperowatt from your hand or deck.",
+    "elements": [
+        "frost",
+        "thunder"
+    ],
+    "cost": [
+        "frost",
+        "thunder"
+    ],
+    "subclasses": [
+        "avian"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

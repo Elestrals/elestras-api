@@ -1,0 +1,43 @@
+{
+    "id": "cd-1125",
+    "base_name": "Ignectar",
+    "title": null,
+    "set_number": "BS1-027",
+    "sort_number": "BS1-027",
+    "name": "Ignectar",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Dragonith",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245587/BS1-027Ignectar_a57hxq?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473628/Render_-_IgnectarBS1-027_kwlbqe?_a=BATAXdXy0",
+    "creature_id": "el-45",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Ignectar you can\nSpecial Cast up to 2 Ignectar from your hand\nor deck in Attack Position with {fire}. If you do,\nyou must skip your next Battle Phase.",
+    "effect": "When you Normal Cast this Ignectar you can Special Cast up to 2 Ignectar from your hand or deck in Attack Position with {fire}. If you do, skip this turn's Battle Phase.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

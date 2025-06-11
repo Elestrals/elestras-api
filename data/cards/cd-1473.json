@@ -1,0 +1,45 @@
+{
+    "id": "cd-1473",
+    "base_name": "Electronyte",
+    "title": null,
+    "set_number": "MR1-055",
+    "sort_number": "MR1-055",
+    "name": "Electronyte",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924662/MR1-055Electronyte_ylegoh?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541445/Electronyte_borderized_mfpp3e?_a=BATAXdXy0",
+    "creature_id": "el-279",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus {thunder}/{lunar}.\nWhen this Electronyte receives 1 or more {thunder}\nyou can Special Cast an Electrifly from your\nhand or deck. When you activate your\nElectrifly's effect you can draw a card.",
+    "effect": "You can Nexus {thunder}/{lunar}. When this Electronyte receives 1 or more {thunder} you can Special Cast an Electrifly from your hand or deck. When you activate your Electrifly's effect you can draw a card.",
+    "elements": [
+        "thunder",
+        "lunar"
+    ],
+    "cost": [
+        "thunder",
+        "lunar"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

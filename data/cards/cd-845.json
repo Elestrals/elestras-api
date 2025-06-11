@@ -1,0 +1,42 @@
+{
+    "id": "cd-845",
+    "base_name": "Lycarus",
+    "title": null,
+    "set_number": "PR1-05",
+    "sort_number": "PR1-05",
+    "name": "Lycarus",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Kickstarter Promos",
+    "set_id": "st-4",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724091104/PR1-05LycarusStellarNoWatermarkHolo_iozgzg?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154838/Lycarus_hoci3z?_a=BATAXdXy0",
+    "creature_id": "el-5",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "wind"
+    ],
+    "cost": [],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

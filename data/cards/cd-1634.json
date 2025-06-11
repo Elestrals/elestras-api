@@ -1,0 +1,43 @@
+{
+    "id": "cd-1634",
+    "base_name": "Hibearnation",
+    "title": null,
+    "set_number": "SS2-095",
+    "sort_number": "SS2-095",
+    "name": "Hibearnation",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Shattered Stars M16 - Taurus",
+    "set_id": "st-89",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740349211/SS2-095Hibearnation_bwplru?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900139/Hibearnation_borderized_ecfpaw?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Hibearnation can only be played if you\ncontrol an {ursa} Elestral. Target up to two {fire}/{frost}\nSpirits in your Underworld. Return them to your\nSpirit Deck or Enchant them to your Ursa Den.\nIf you do, draw a card.",
+    "effect": "This Hibearnation can only be played if you control an {ursa} Elestral. Target up to two {fire}/{frost} Spirits in your Underworld. Return them to your Spirit Deck or Enchant them to your Ursa Den. If you do, draw a card.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "ursa"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

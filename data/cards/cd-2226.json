@@ -1,0 +1,44 @@
+{
+    "id": "cd-2226",
+    "base_name": "Armadawn",
+    "title": null,
+    "set_number": "SS2-102",
+    "sort_number": "SS2-102",
+    "name": "Armadawn",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Shattered Stars M17 - Gemini",
+    "set_id": "st-90",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740354431/SS2-102Armadawn_d7joon?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-292",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Armadawn changes Position\nan opponent must Expend {omni}.\r",
+    "effect": "When this Armadawn changes Position an opponent must Expend {omni}.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

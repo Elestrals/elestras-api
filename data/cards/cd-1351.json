@@ -1,0 +1,42 @@
+{
+    "id": "cd-1351",
+    "base_name": "Teratlas",
+    "title": null,
+    "set_number": "SS1-91",
+    "sort_number": "SS1-91",
+    "name": "Teratlas",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Shattered Stars M09 - Celebration",
+    "set_id": "st-102",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085609/SS1-91TeratlasNoWatermark_axpq1p?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152423/Teratlas_SS1_wqxn0h?_a=BATAXdXy0",
+    "creature_id": "el-2",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "earth"
+    ],
+    "cost": [],
+    "subclasses": [
+        "insectoid",
+        "golem"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

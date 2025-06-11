@@ -1,0 +1,46 @@
+{
+    "id": "cd-2053",
+    "base_name": "Jawblin",
+    "title": null,
+    "set_number": "TP3-21",
+    "sort_number": "TP3-21",
+    "name": "Jawblin",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Organized Play Series 3",
+    "set_id": "st-115",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545065/TP3-21_StellarJawblin_tw29u9?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748835036/Jawblin_r2qp3g?_a=BATAXdXy0",
+    "creature_id": "el-275",
+    "total_cost": 2,
+    "attack": 8,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {water} in order to change the Position of an Elestral that is not {water}-Enchanted. When 1 or more Elestrals change their Positions you can draw a card. ",
+    "effect": "You can Expend {water} in order to change the Position of an Elestral that is not {water}-Enchanted. When 1 or more Elestrals change their Positions you can draw a card.",
+    "elements": [
+        "water",
+        "lunar"
+    ],
+    "cost": [
+        "water",
+        "lunar"
+    ],
+    "subclasses": [
+        "oceanic",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

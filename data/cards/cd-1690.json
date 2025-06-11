@@ -1,0 +1,44 @@
+{
+    "id": "cd-1690",
+    "base_name": "Shiveroar",
+    "title": null,
+    "set_number": "FST-061",
+    "sort_number": "FST-061",
+    "name": "Shiveroar",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Elliot Moguilner",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329028/FST-061Shiveroar_ggvkw8?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900148/Shiveroar_borderized_opl3iz?_a=BATAXdXy0",
+    "creature_id": "el-152",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {frost} in order to Special Cast\na Frigicub from your Underworld with {frost}.\nWhen you Cast Blizzard you can\ntarget and destroy an Elestral.",
+    "effect": "You can Expend {frost} in order to Special Cast a Frigicub from your Underworld with {frost}. When you Cast Blizzard you can target and destroy an Elestral.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost",
+        "frost"
+    ],
+    "subclasses": [
+        "behemoth"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

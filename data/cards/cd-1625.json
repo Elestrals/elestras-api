@@ -1,0 +1,44 @@
+{
+    "id": "cd-1625",
+    "base_name": "Snowlet",
+    "title": null,
+    "set_number": "SS2-088",
+    "sort_number": "SS2-088",
+    "name": "Snowlet",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Shattered Stars M16 - Taurus",
+    "set_id": "st-89",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740349204/SS2-088Snowlet_fompes?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746135263/Snowlet_u6kae0?_a=BATAXdXy0",
+    "creature_id": "el-286",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Snowlet receives 1 or more {frost}\nyou can send the top 3 cards from\nyour deck to your Underworld.\r",
+    "effect": "When this Snowlet receives 1 or more {frost} you can send the top 3 cards from your deck to your Underworld.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "avian"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

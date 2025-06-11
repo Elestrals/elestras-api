@@ -1,0 +1,12 @@
+{
+    "id": "el-35",
+    "name": "Spinosect",
+    "class": "elestral",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473632/Render_-_SpinosectBS1-011_cv2ojw?_a=BATAXdXy0",
+    "blurb": null,
+    "updated_at": "2025-06-09T23:16:07.303Z",
+    "elements": [
+        "earth",
+        "wind"
+    ]
+}

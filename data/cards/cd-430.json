@@ -1,0 +1,43 @@
+{
+    "id": "cd-430",
+    "base_name": "Findust",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "FF1-S09",
+    "name": "Findust",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723760022/FF1-FindustStellarNoWatermarkHolo_a4zyul?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156218/FindustStellar_lotzt4?_a=BATAXdXy0",
+    "creature_id": "el-121",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 2,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {wind} from this Findust in\norder to Search your deck for a Rune that costs at\nleast {wind} and add it to your hand. When you Cast\nSandstorm you can Special Ascend this Findust\nto Hiboofin from your hand or deck.",
+    "effect": "You can Disenchant {wind} from this Findust in order to Search your deck for a {wind} Rune and add it to your hand. When you Cast Sandstorm you can Special Ascend this Findust to Hiboofin from your hand or deck.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "archaic"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

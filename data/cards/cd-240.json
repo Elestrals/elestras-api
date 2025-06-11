@@ -1,0 +1,43 @@
+{
+    "id": "cd-240",
+    "base_name": "Morphrost",
+    "title": "Lycan Form",
+    "set_number": "FF1-023",
+    "sort_number": "FF1-023",
+    "name": "Morphrost - Lycan Form",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759872/FF1-023Morphrost-LycanNoWatermark_eaeknm?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481821/MorphrostLycan_juvrsc?_a=BATAXdXy0",
+    "creature_id": "el-137",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {frost} and discard this Morphrost\nin order to Search your deck for up to 2\nMorphrost that are not Lycan Form\nand add them to your hand.",
+    "effect": "You can Expend {frost} and discard this Morphrost in order to Search your deck for up to 2 Morphrost that are not Lycan Form and add them to your hand.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "behemoth"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

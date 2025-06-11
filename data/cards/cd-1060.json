@@ -1,0 +1,46 @@
+{
+    "id": "cd-1060",
+    "base_name": "Centaurbor",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "SD01-S01",
+    "name": "Centaurbor",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Centaurbor Starter Deck",
+    "set_id": "st-69",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724094248/SD01-CentaurborStellarNoWatermarkHolo_elpcdx?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154884/Centaurbor_fnx3fh?_a=BATAXdXy0",
+    "creature_id": "el-9",
+    "total_cost": 3,
+    "attack": 11,
+    "defense": 15,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {earth} from this Centaurbor\nin order to target and destroy a card. While\nFoloi Forest is Enchanted this Centaurbor\ncannot be targeted by Invoke Runes.",
+    "effect": "You can Disenchant {earth} from this Centaurbor in order to target and destroy a card. While Foloi Forest is Enchanted this Centaurbor cannot be targeted by Invoke Runes.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth",
+        "earth",
+        "earth"
+    ],
+    "subclasses": [
+        "dryad",
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

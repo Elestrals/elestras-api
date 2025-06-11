@@ -1,0 +1,11 @@
+{
+    "id": "el-259",
+    "name": "Bandiloon",
+    "class": "elestral",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541391/Bandiloon_borderized_rvicwh?_a=BATAXdXy0",
+    "blurb": "Infamous among traveling Casters, Bandiloon sneak into tents and rob the unsuspecting owners of their prized possessions. Their dens contain incredible treasures but are notoriously hard to find.",
+    "updated_at": "2025-06-09T23:16:06.811Z",
+    "elements": [
+        "lunar"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "cd-2079",
+    "base_name": "Zaptor",
+    "title": null,
+    "set_number": "FST-004",
+    "sort_number": "FST-004",
+    "name": "Zaptor",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739328772/FST-004Zaptor_gqham9?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900095/Zaptor_borderized_k9manb?_a=BATAXdXy0",
+    "creature_id": "el-4",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "thunder"
+    ],
+    "cost": [],
+    "subclasses": [
+        "archaic",
+        "dragon"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

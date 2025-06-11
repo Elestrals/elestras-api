@@ -1,0 +1,45 @@
+{
+    "id": "cd-2678",
+    "base_name": "Komalice",
+    "title": null,
+    "set_number": "SS2-059",
+    "sort_number": "SS2-059",
+    "name": "Komalice",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Shattered Stars M14 - Pisces",
+    "set_id": "st-87",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776337/SS2-059Komalice_ayyncd?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154204/Komalice_SS2_gw9e6m?_a=BATAXdXy0",
+    "creature_id": "el-261",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {lunar}{lunar}.\nWhen you do, you can Search your deck for\na {spectral} Elestral and add it to your hand.",
+    "effect": "You can Nexus up to {lunar}{lunar}. When you do, you can Search your deck for a {spectral} Elestral and add it to your hand.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "spectral",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

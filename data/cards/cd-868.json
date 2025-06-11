@@ -1,0 +1,44 @@
+{
+    "id": "cd-868",
+    "base_name": "Verdalith",
+    "title": null,
+    "set_number": "FF1-042",
+    "sort_number": "FF1-042",
+    "name": "Verdalith",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723760022/FF1-042VerdalithNoWatermarkHolo_vznjud?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481847/Verdalith_xjoqm7?_a=BATAXdXy0",
+    "creature_id": "el-158",
+    "total_cost": 2,
+    "attack": 3,
+    "defense": 7,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Verdalith can be Normal Cast with {earth}{earth}\nif an opponent has at least 4 more Spirits in\ntheir Spirit Deck than you do. When you Cast\nthis Verdalith you can return up to {earth}{earth}{earth}{earth}\nfrom your Underworld to your Spirit Deck.",
+    "effect": "This Verdalith can be Normal Cast with {earth}{earth} if an opponent has at least 4 more Spirits in their Spirit Deck than you do. When you Cast this Verdalith you can return up to {earth}{earth}{earth}{earth} from your Underworld to your Spirit Deck.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth",
+        "earth"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

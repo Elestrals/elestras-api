@@ -1,0 +1,41 @@
+{
+    "id": "cd-1541",
+    "base_name": "Lunar Phase",
+    "title": "New Moon",
+    "set_number": "MR1-120",
+    "sort_number": "MR1-120",
+    "name": "Lunar Phase - New Moon",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "reverse_stellar",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925196/MR1-120LunarPhase-NewMoonStellarHolo_gwhark?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541451/Moon1_borderized_yxceqw?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Target an Elestral on the field and\nSuppress it until the End Phase.\nYou may Expend {lunar} equal to the targeted card's\nEnchantment Cost and discard a Lunar Phase.\nIf you do, destroy it.",
+    "effect": "Target an Elestral on the field and Suppress it until the next turn. You may Expend {lunar} equal to the targeted card's Enchantment Cost and discard a Lunar Phase. If you do, destroy it.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "cd-1258",
+    "base_name": "Plucky",
+    "title": null,
+    "set_number": "TP1-10",
+    "sort_number": "TP1-10",
+    "name": "Plucky",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087772/TP1-10PluckyNoWatermark_mxevwq?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146311/Plucky_TP1_bgwbsh?_a=BATAXdXy0",
+    "creature_id": "el-203",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Plucky\nyou can Search your deck for a\nDivine Rune and add it to your hand.",
+    "effect": "When you Normal Cast this Plucky you can Search your deck for a Divine Rune and add it to your hand.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

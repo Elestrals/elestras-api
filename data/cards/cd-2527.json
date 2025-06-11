@@ -1,0 +1,44 @@
+{
+    "id": "cd-2527",
+    "base_name": "Avialith",
+    "title": null,
+    "set_number": "SS2-049",
+    "sort_number": "SS2-049",
+    "name": "Avialith",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Elliot Moguilner",
+    "set": "Shattered Stars M13 - Aquarius",
+    "set_id": "st-86",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776322/SS2-049Avialith_ef8mgi?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154217/Avialith_FA_gycfk8?_a=BATAXdXy0",
+    "creature_id": "el-285",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Avialith can be Normal Cast with {wind}{wind}\nif an opponent has at least 2 face-down Runes.\nWhen you Cast this Avialith you can\ndraw a card for each face-down Rune\non an opponent's field.",
+    "effect": "This Avialith can be Normal Cast with {wind}{wind} if an opponent has at least 2 face-down Runes. When you Cast this Avialith you can draw a card for each face-down Rune on an opponent's field.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

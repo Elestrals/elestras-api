@@ -1,0 +1,44 @@
+{
+    "id": "cd-299",
+    "base_name": "Eddy",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "DB1-S10",
+    "name": "Eddy",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989904/DB1-EddyStellarNoWatermarkHolo_feoyu7?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-346",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Eddy you can change the\nPosition of an Elestral.\nWhen a player Casts Rock and a Hard Place\nyou can Special Ascend this Eddy to Kurabyss\nfrom your hand or deck.",
+    "effect": "When you Cast this Eddy you can change the Position of an Elestral. When a player Casts Rock and a Hard Place you can Special Ascend this Eddy to Kurabyss from your hand or deck.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

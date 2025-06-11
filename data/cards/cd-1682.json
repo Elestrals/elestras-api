@@ -1,0 +1,45 @@
+{
+    "id": "cd-1682",
+    "base_name": "Solstox",
+    "title": "Champion of Apollo",
+    "set_number": "FST-066",
+    "sort_number": "FST-066",
+    "name": "Solstox - Champion of Apollo",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329055/FST-066Solstox_oser8t?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900176/SolstoxCoA_borderized_w0bqet?_a=BATAXdXy0",
+    "creature_id": "el-198",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Solstox you can Search\nyour deck for a Solbelle and put it on top of\nyour deck. You can Expend {solar} in order to\nreturn a Divine Rune to its owner’s hand.",
+    "effect": "When you Cast this Solstox you can Search your deck for a Solbelle and put it on top of your deck. You can Expend {solar} in order to return a Divine Rune to its owner's hand.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar",
+        "solar"
+    ],
+    "subclasses": [
+        "behemoth",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

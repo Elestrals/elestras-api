@@ -1,0 +1,46 @@
+{
+    "id": "cd-2173",
+    "base_name": "Carryoff",
+    "title": null,
+    "set_number": "FST-SD054",
+    "sort_number": "FST-SD054",
+    "name": "Carryoff",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755858/FST-SD054Carryoff_vz9zgw?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541429/Carryoff_borderized_bqsbt4?_a=BATAXdXy0",
+    "creature_id": "el-284",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When your Carryon is destroyed in battle you\ncan Special Cast this Carryoff from your hand.\nYou can Expend {lunar}{lunar} in order to target\nan opponent's Elestral and take control\nof it until the End Phase.",
+    "effect": "When your Carryon is destroyed in battle you can Special Cast this Carryoff from your hand. You can Expend {lunar}{lunar} in order to target an opponent's Elestral and take control of it until the next turn.",
+    "elements": [
+        "lunar",
+        "wind"
+    ],
+    "cost": [
+        "lunar",
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid",
+        "spectral"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

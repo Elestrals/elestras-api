@@ -1,0 +1,44 @@
+{
+    "id": "cd-912",
+    "base_name": "Hydrake",
+    "title": null,
+    "set_number": "SS1-13",
+    "sort_number": "SS1-13",
+    "name": "Hydrake",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Yassir",
+    "set": "Shattered Stars M02 - Wind",
+    "set_id": "st-95",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085578/SS1-13HydrakeNoWatermark_fboc1l?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152472/Hydrake_SS1_g8jchk?_a=BATAXdXy0",
+    "creature_id": "el-20",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Hydrake is destroyed in battle you\ncan Special Cast a Twindra from your\nhand or deck in Attack Position.",
+    "effect": "When this Hydrake is destroyed in battle you can Special Cast a Twindra from your hand or deck in Attack Position.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "dragon",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

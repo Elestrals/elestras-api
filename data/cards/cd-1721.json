@@ -1,0 +1,43 @@
+{
+    "id": "cd-1721",
+    "base_name": "Kitemite",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "FST-S09",
+    "name": "Kitemite",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "serialized",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739405911/FST-StellarKitemite_duxhqx?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900166/KitemiteStellar_borderized_dbzy6c?_a=BATAXdXy0",
+    "creature_id": "el-322",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 4,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {wind} from this Kitemite\nin order to Special Cast a Warmite or\na Frosmite from your deck.",
+    "effect": "You can Disenchant {wind} from this Kitemite in order to Special Cast a Warmite or a Frosmite from your deck.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

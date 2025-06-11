@@ -1,0 +1,42 @@
+{
+    "id": "cd-347",
+    "base_name": "Gorgon’s Gaze",
+    "title": null,
+    "set_number": "SD02-21",
+    "sort_number": "SD02-21",
+    "name": "Gorgon’s Gaze",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Trifernal Starter Deck",
+    "set_id": "st-9",
+    "subset": "starter_deck",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724168995/SD02-21GorgonsGazeNoWatermark_mhxstt?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Target an Elestral on the field. Until the End\nPhase that Elestral’s effect is negated and\nit cannot receive Enchantments,\nattack, Nexus, or Ascend.",
+    "effect": "Target an Elestral. If its effect is on a Chain, Negate it. Until the next turn that Elestral is Suppressed and it cannot receive Enchantments, attack, Nexus, or Ascend.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni",
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

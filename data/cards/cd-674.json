@@ -1,0 +1,43 @@
+{
+    "id": "cd-674",
+    "base_name": "Sinder",
+    "title": null,
+    "set_number": "AC1-04",
+    "sort_number": "AC1-04",
+    "name": "Sinder",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Victor Rosales",
+    "set": "Artist Collection",
+    "set_id": "st-5",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723756647/AC1-04SinderNoWatermarkHolo_fjdfyj?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742140323/Sinder_AC_kmf5ii?_a=BATAXdXy0",
+    "creature_id": "el-79",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Sinder receives 1 or more {fire}\nyour opponents must send the top 3 cards\nfrom their deck to their Underworld.",
+    "effect": "When this Sinder receives 1 or more {fire} your opponents must send the top 3 cards from their deck to their Underworld.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

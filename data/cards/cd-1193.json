@@ -1,0 +1,43 @@
+{
+    "id": "cd-1193",
+    "base_name": "Urscoat",
+    "title": null,
+    "set_number": "FF1-016",
+    "sort_number": "FF1-016",
+    "name": "Urscoat",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759932/FF1-016UrscoatNoWatermark_isamnt?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481816/Urscoat_ypyddg?_a=BATAXdXy0",
+    "creature_id": "el-156",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Urscoat is attacked, during\nthe Damage Step you can return the\nattacking Elestral to its owner’s hand.\n(You can do this even if this Urscoat is\ndestroyed by the attack.)",
+    "effect": "When this Urscoat is attacked, during the Damage Step you can return the attacking Elestral to its owner's hand. (You can do this even if this Urscoat is destroyed by the attack.)",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "ursa"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

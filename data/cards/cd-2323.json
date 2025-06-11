@@ -1,0 +1,44 @@
+{
+    "id": "cd-2323",
+    "base_name": "Komalice",
+    "title": null,
+    "set_number": "PR4-02",
+    "sort_number": "PR4-02",
+    "name": "Komalice",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Moonrise Promos",
+    "set_id": "st-47",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727921736/PR4-02KomaliceStellarHolo_cxhjyc?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541428/KomaliceStellar_borderized_dox4sf?_a=BATAXdXy0",
+    "creature_id": "el-261",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {lunar}{lunar}.\nWhen you do, you can Search your deck for\na {spectral} Elestral and add it to your hand.",
+    "effect": "You can Nexus up to {lunar}{lunar}. When you do, you can Search your deck for a {spectral} Elestral and add it to your hand.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "spectral",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

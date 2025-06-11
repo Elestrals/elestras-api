@@ -1,0 +1,43 @@
+{
+    "id": "cd-1339",
+    "base_name": "Gloombatt",
+    "title": null,
+    "set_number": "SS1-105",
+    "sort_number": "SS1-105",
+    "name": "Gloombatt",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Shattered Stars M09 - Celebration",
+    "set_id": "st-102",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085608/SS1-105GloombattNoWatermark_yorsjx?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152420/Gloombatt_SS1_p3hwxg?_a=BATAXdXy0",
+    "creature_id": "el-246",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Gloombat can be Special Cast from\nyour hand with {lunar} if an opponent has\nat least 2 face-down Runes.\nYou can Disenchant {lunar} from this Gloombat\nin order to target and destroy a Rune.",
+    "effect": "This Gloombatt can be Special Cast with {lunar} if an opponent has at least 2 face-down Runes. You can Disenchant {lunar} from this Gloombatt to target and destroy a Rune.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

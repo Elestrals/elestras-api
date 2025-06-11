@@ -1,0 +1,42 @@
+{
+    "id": "cd-2098",
+    "base_name": "Vipyro",
+    "title": null,
+    "set_number": "DCP-02",
+    "sort_number": "DCP-02",
+    "name": "Vipyro",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Getsemani",
+    "set": "Divine Champions Promos",
+    "set_id": "st-105",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739739996/DCP-02RStellarVipyro_axaezm?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742068257/VipyroStellar_borderized_rxc1q2?_a=BATAXdXy0",
+    "creature_id": "el-1",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "fire"
+    ],
+    "cost": [],
+    "subclasses": [
+        "dragon",
+        "eldritch"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

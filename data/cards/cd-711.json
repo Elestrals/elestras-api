@@ -1,0 +1,44 @@
+{
+    "id": "cd-711",
+    "base_name": "Satymber",
+    "title": null,
+    "set_number": "SD01-02",
+    "sort_number": "SD01-02",
+    "name": "Satymber",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Bilsu",
+    "set": "Centaurbor Starter Deck",
+    "set_id": "st-70",
+    "subset": "starter_deck",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724168531/SD01-02SatymberNoWatermark_efqtfz?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473616/Render_-_SatymberS01-02_ijr4d8?_a=BATAXdXy0",
+    "creature_id": "el-8",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 7,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Satymber is Empowered by your\nArtifact and destroys an Elestral in battle you\ncan Nexus the Spirits from that Artifact to\nthis Satymber and Special Ascend it to\nCentaurbor from your hand or deck.",
+    "effect": "When this Satymber is Empowered by your Artifact Rune and destroys an Elestral in battle you can Nexus the Spirits from that Artifact to this Satymber and Special Ascend it to Centaurbor from your hand or deck.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth",
+        "earth"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

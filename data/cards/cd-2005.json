@@ -1,0 +1,47 @@
+{
+    "id": "cd-2005",
+    "base_name": "Blizzstrix",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "TP2-S2",
+    "name": "Blizzstrix",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Organized Play Series 2",
+    "set_id": "st-46",
+    "subset": "serialized",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734037669/TP2-BlizzstrixStellarHolo_xebkfw?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146602/Blizzstrix_boyt4c?_a=BATAXdXy0",
+    "creature_id": "el-288",
+    "total_cost": 3,
+    "attack": 12,
+    "defense": 6,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Blizzstrix is sent from your deck\nto the Underworld you can Special Ascend\nyour Asprowl to it. You can return 3 Elestrals\nfrom your Underworld to the bottom of your\ndeck in order to destroy a card.",
+    "effect": "When this Blizzstrix is sent from your deck to the Underworld you can Special Ascend your Asprowl to it. You can return 3 Elestrals from your Underworld to the bottom of your deck in order to destroy a card.",
+    "elements": [
+        "frost",
+        "wind"
+    ],
+    "cost": [
+        "frost",
+        "frost",
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

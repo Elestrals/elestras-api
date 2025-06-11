@@ -1,0 +1,46 @@
+{
+    "id": "cd-1704",
+    "base_name": "Carryoff",
+    "title": "Champion of Hermes",
+    "set_number": "FST-125",
+    "sort_number": "FST-125",
+    "name": "Carryoff - Champion of Hermes",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739405916/FST-125CarryoffCoHBT_itvofp?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900133/CarryoffCoHBT_borderized_fmiodb?_a=BATAXdXy0",
+    "creature_id": "el-284",
+    "total_cost": 2,
+    "attack": 8,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can shuffle an Elestral in your Underworld\ninto your deck. When this Carryoff is sent to the\nUnderworld with Hermes’ effect you can target\nan Elestral and Expend {omni} equal to the number\nof its Enchanting Spirits to destroy it.",
+    "effect": "You can shuffle an Elestral in your Underworld into your deck. When this Carryoff is sent to your Underworld with Hermes' effect you can target an Elestral and Expend {omni} equal to the number of its Enchanting Spirits to destroy it.",
+    "elements": [
+        "lunar",
+        "wind"
+    ],
+    "cost": [
+        "lunar",
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid",
+        "spectral"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "cd-639",
+    "base_name": "Polzer",
+    "title": null,
+    "set_number": "DB1-065",
+    "sort_number": "DB1-065",
+    "name": "Polzer",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990550/DB1-065PolzerNoWatermark_tv4jaj?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484023/Polzer_vuzq8n?_a=BATAXdXy0",
+    "creature_id": "el-236",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Polzer gets +1 {attack} for each {frost} Elestral in\nyour Underworld. This effect cannot increase\nthis Polzer's {attack} by more than +5 total.",
+    "effect": "This Polzer gets +1 {attack} for each {frost} Elestral in your Underworld. This effect cannot increase this Polzer's {attack} by more than +5 total.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "eldritch",
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "cd-1647",
+    "base_name": "Titanostalk",
+    "title": "Champion of Aeolus",
+    "set_number": "FST-011",
+    "sort_number": "FST-011",
+    "name": "Titanostalk - Champion of Aeolus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739328865/FST-011Titanostalk_ejyrqk?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900095/TitanostalkCoA_borderized_xyu35b?_a=BATAXdXy0",
+    "creature_id": "el-86",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus {earth}/{wind}. \nWhen you do, you can Enchant {wind}\nto your field.",
+    "effect": "You can Nexus {earth}/{wind}. When you do, you can Enchant {wind} to your field.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "archaic",
+        "dryad"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

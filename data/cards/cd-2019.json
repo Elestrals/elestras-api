@@ -1,0 +1,45 @@
+{
+    "id": "cd-2019",
+    "base_name": "Volumbra",
+    "title": null,
+    "set_number": "TP2-27",
+    "sort_number": "TP2-27",
+    "name": "Volumbra",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Organized Play Series 2",
+    "set_id": "st-46",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734037690/TP2-27VolumbraStellarHolo_wzajkt?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146587/Volumbra_yw5ofn?_a=BATAXdXy0",
+    "creature_id": "el-244",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 7,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you discard a Lunar Phase during your\nMain Phase you can Special Ascend your Voldusk\nto this Volumbra from your hand. When you cast\nLunar Phase-Full Moon you can Special Ascend\nthis Volumbra to Volclipse from your deck.",
+    "effect": "When you discard a Lunar Phase during your Main Phase you can Special Ascend your Voldusk to this Volumbra from your hand. When you Cast Lunar Phase-Full Moon you can Special Ascend this Volumbra to Volclipse from your deck.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar",
+        "lunar"
+    ],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

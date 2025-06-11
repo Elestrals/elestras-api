@@ -1,0 +1,44 @@
+{
+    "id": "cd-1713",
+    "base_name": "Titanostrike",
+    "title": "Champion of Zeus",
+    "set_number": "FST-R04",
+    "sort_number": "FST-R04",
+    "name": "Titanostrike - Champion of Zeus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "reverse_stellar",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739405920/FST-R04StellarTitanostrikeCoZ_jbh4in?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900148/TitanostrikeCoZStellar_borderized_fukb8h?_a=BATAXdXy0",
+    "creature_id": "el-280",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Titanostrike you can\nSearch your deck for a Thunderstorm\nand add it to your hand.",
+    "effect": "When you Cast this Titanostrike you can Search your deck for a Thunderstorm and add it to your hand.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "archaic",
+        "dryad"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

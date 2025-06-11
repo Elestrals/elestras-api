@@ -1,0 +1,41 @@
+{
+    "id": "cd-818",
+    "base_name": "Cryoblast",
+    "title": null,
+    "set_number": "DB1-078",
+    "sort_number": "DB1-078",
+    "name": "Cryoblast",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990579/DB1-078CryoblastNoWatermark_spfarr?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Target an Elestral that is not {frost}-Enchanted.\nUntil the End Phase, give it -2 {defense} and when that\nElestral has 0 {defense} you must destroy it.",
+    "effect": "Target an Elestral that is not {frost}-Enchanted. Until the next turn, give it -2 {defense} and when that Elestral has 0 {defense} you must destroy it.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

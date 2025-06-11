@@ -1,0 +1,44 @@
+{
+    "id": "cd-2697",
+    "base_name": "Volcaries",
+    "title": null,
+    "set_number": "SS2-076",
+    "sort_number": "SS2-076",
+    "name": "Volcaries",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "borderless_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Shattered Stars M15 - Aries",
+    "set_id": "st-88",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776364/SS2-076Volcaries_dkarab?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746135259/Volcaries_Constellation_r9sbdo?_a=BATAXdXy0",
+    "creature_id": "el-70",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Volcaries gets +1 {attack} for each\nEnchanting {fire} on the field.",
+    "effect": "This Volcaries gets +1 {attack} for each Enchanting {fire} on the field.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "ethereal",
+        "brute"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

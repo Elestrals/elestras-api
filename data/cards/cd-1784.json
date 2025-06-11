@@ -1,0 +1,41 @@
+{
+    "id": "cd-1784",
+    "base_name": "Zeus’ Call",
+    "title": null,
+    "set_number": "FST-085",
+    "sort_number": "FST-085",
+    "name": "Zeus’ Call",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329110/FST-085ZeusCall_edpwyu?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900150/ZeusCall_borderized_ryihq0?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Zeus' Call can only be played if Zeus\nis Enchanted. Search your deck for a\nChampion of Zeus and add it to your hand.",
+    "effect": "This Zeus' Call can only be played if Zeus is Enchanted. Search your deck for a Champion of Zeus and add it to your hand.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

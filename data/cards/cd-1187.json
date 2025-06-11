@@ -1,0 +1,44 @@
+{
+    "id": "cd-1187",
+    "base_name": "Toxion",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "SS1-S01",
+    "name": "Toxion",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Shattered Stars M01 - Thunder",
+    "set_id": "st-13",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085628/SS1-ToxionStellarNoWatermarkHolo_mzrryw?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152968/Toxion_ohn5c1?_a=BATAXdXy0",
+    "creature_id": "el-73",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Toxion receives 1 or more {thunder}\nyour opponents must Expend {omni}.",
+    "effect": "When this Toxion receives 1 or more {thunder} your opponents must Expend {omni}.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

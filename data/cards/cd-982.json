@@ -1,0 +1,44 @@
+{
+    "id": "cd-982",
+    "base_name": "Sparkitt",
+    "title": null,
+    "set_number": "SD04-07",
+    "sort_number": "SD04-07",
+    "name": "Sparkitt",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Victor Rosales",
+    "set": "Ohmperial Starter Deck",
+    "set_id": "st-75",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724096086/SD04-07SparkittNoWatermark_dkmzmc?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473607/Render_-_SparkittBS1-061_lqydqp?_a=BATAXdXy0",
+    "creature_id": "el-82",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {thunder}{thunder}.\nWhen you do, you can look at an\nopponent’s hand and discard a card from it.",
+    "effect": "You can Nexus up to {thunder}{thunder}. When you do, you can look at an opponent's hand and discard a card from it.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "brute",
+        "archaic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

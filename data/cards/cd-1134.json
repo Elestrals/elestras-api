@@ -1,0 +1,45 @@
+{
+    "id": "cd-1134",
+    "base_name": "Waspyre",
+    "title": null,
+    "set_number": "BS1-028",
+    "sort_number": "BS1-028",
+    "name": "Waspyre",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Dragonith",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245615/BS1-028Waspyre_wtr4qo?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473637/Render_-_WaspyreBS1-028_pbvxnc?_a=BATAXdXy0",
+    "creature_id": "el-46",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {fire} from an Ignectar\nor Waspyre to force an opponent to\nExpend {omni}{omni}. This Waspyre's effect can be\nactivated any number of times on your turn.",
+    "effect": "You can Disenchant {fire} from an Ignectar or Waspyre to force an opponent to Expend {omni}{omni}. This Waspyre's effect can be activated any number of times on your turn.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

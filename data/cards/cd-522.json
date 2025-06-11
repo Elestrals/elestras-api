@@ -1,0 +1,43 @@
+{
+    "id": "cd-522",
+    "base_name": "Bubbloon",
+    "title": null,
+    "set_number": "SS1-39",
+    "sort_number": "SS1-39",
+    "name": "Bubbloon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "DiscoReptile",
+    "set": "Shattered Stars M04 - Water",
+    "set_id": "st-97",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085584/SS1-39BubbloonNoWatermark_mdfnsz?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152505/Bubbloon_SS1_nrlgyy?_a=BATAXdXy0",
+    "creature_id": "el-105",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "{water}-Enchanted Elestrals get +2 {attack} and +2 {defense}.",
+    "effect": "{water}-Enchanted Elestrals get +2 {attack} and +2 {defense}.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "aquatic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

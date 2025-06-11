@@ -1,0 +1,44 @@
+{
+    "id": "cd-1605",
+    "base_name": "Cockatoodle",
+    "title": null,
+    "set_number": "KSC-05",
+    "sort_number": "KSC-05",
+    "name": "Cockatoodle",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Clash! Promos",
+    "set_id": "st-76",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741908813/KSC-05_StellarCockatoodle_newdnr?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746758778/Cockatoodle_ecbgea?_a=BATAXdXy0",
+    "creature_id": "el-109",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Cockatoodle you can\ntarget an opponent’s Elestral. That\nElestral is Suppressed as long as this\nCockatoodle is Enchanted.",
+    "effect": "When you Cast this Cockatoodle you can target an opponent's Elestral. That Elestral is Suppressed as long as this Cockatoodle is Enchanted.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "dragon"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

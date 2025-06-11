@@ -1,0 +1,43 @@
+{
+    "id": "cd-1434",
+    "base_name": "Fawnlit",
+    "title": null,
+    "set_number": "MR1-012",
+    "sort_number": "MR1-012",
+    "name": "Fawnlit",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Rebecca Knott",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924270/MR1-012Fawnlit_zwcgrq?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541473/Fawnlit_borderized_endppe?_a=BATAXdXy0",
+    "creature_id": "el-240",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Fawnlit you\ncan Search your deck for an Artemis or\na Therahart and add it to your hand.\nThis Fawnlit gets +1 {defense} for each\n{lunar} Enchanting each Artemis on the field. ",
+    "effect": "When you Normal Cast this Fawnlit you can Search your deck for an Artemis or a Therahart and add it to your hand. This Fawnlit gets +1 {defense} for each {lunar} Enchanting each Artemis on the field.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

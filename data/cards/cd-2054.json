@@ -1,0 +1,46 @@
+{
+    "id": "cd-2054",
+    "base_name": "Whalance",
+    "title": "Champion of Khione",
+    "set_number": "TP3-20",
+    "sort_number": "TP3-20",
+    "name": "Whalance - Champion of Khione",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Organized Play Series 3",
+    "set_id": "st-115",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545062/TP3-20_StellarWhalanceCoK_fjvdue?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748834990/Whalance_CoK_n4emtb?_a=BATAXdXy0",
+    "creature_id": "el-143",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Whalance deals Piercing damage. When this Whalance declares an attack you can Nexus up to {frost}{frost}{frost}{frost} from any number of cards on your field to it.",
+    "effect": "This Whalance deals Piercing damage. When this Whalance declares an attack you can Nexus up to {frost}{frost}{frost}{frost} from any number of your cards on your field to it.",
+    "elements": [
+        "water",
+        "frost"
+    ],
+    "cost": [
+        "water",
+        "frost"
+    ],
+    "subclasses": [
+        "oceanic",
+        "brute"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

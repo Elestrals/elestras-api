@@ -1,0 +1,42 @@
+{
+    "id": "cd-1236",
+    "base_name": "Argo",
+    "title": null,
+    "set_number": "PR3-07",
+    "sort_number": "PR3-07",
+    "name": "Argo",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Daybreak Promos",
+    "set_id": "st-40",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723994612/PR3-07ArgoStellarNoWatermarkHolo_xnllqs?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156699/ArgoStellar_fxka11?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Argo can only be Cast after an\nElestral declares an attack.\nCast an Artifact Rune from your hand or deck.",
+    "effect": "This Argo can only be played after an Elestral declares an attack. Cast an Artifact Rune from your hand or deck.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni",
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

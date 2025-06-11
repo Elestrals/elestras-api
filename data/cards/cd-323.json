@@ -1,0 +1,44 @@
+{
+    "id": "cd-323",
+    "base_name": "Plucky",
+    "title": null,
+    "set_number": "SD08-04",
+    "sort_number": "SD08-04",
+    "name": "Plucky",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "M. Romo - Bromojumbo",
+    "set": "Chronodile Starter Deck",
+    "set_id": "st-38",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723994836/SD08-04PluckyNoWatermark_vfpkes?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731483982/Plucky_k3fsqx?_a=BATAXdXy0",
+    "creature_id": "el-203",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Plucky\nyou can Search your deck for a\nDivine Rune and add it to your hand.",
+    "effect": "When you Normal Cast this Plucky you can Search your deck for a Divine Rune and add it to your hand.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "cd-483",
+    "base_name": "Twindra",
+    "title": null,
+    "set_number": "SD05-02",
+    "sort_number": "SD05-02",
+    "name": "Twindra",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Villiam Boom",
+    "set": "Penterror Starter Deck",
+    "set_id": "st-62",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724096361/SD05-02TwindraNoWatermark_mhf1sl?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473628/Render_-_TwindraSD05-02_sd34lu?_a=BATAXdXy0",
+    "creature_id": "el-21",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Twindra is destroyed in battle\nyou can Special Cast a Penterror from your\nhand or deck in Attack Position.",
+    "effect": "When this Twindra is destroyed in battle you can Special Cast a Penterror from your hand or deck in Attack Position.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "dragon",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "cd-1032",
+    "base_name": "Poison Tipped Arrow",
+    "title": null,
+    "set_number": "SD01-22",
+    "sort_number": "SD01-22",
+    "name": "Poison Tipped Arrow",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Villiam Boom",
+    "set": "Centaurbor Starter Deck",
+    "set_id": "st-70",
+    "subset": "starter_deck",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724168535/SD01-22PoisonTippedArrowNoWatermark_qrspjf?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When an opponent Casts an Elestral you can\ntarget it and give it -2 {attack} until the End Phase.\nDuring this turn’s End Phase you can\nExpend {omni} equal to that target’s Enchantment\nCost in order to destroy it.",
+    "effect": "This Poison Tipped Arrow can only be played when an opponent Casts an Elestral. Target it and give it -2 {attack} until the next turn. During this End Phase you can Expend {omni} equal to its Enchantment Cost in order to destroy it.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

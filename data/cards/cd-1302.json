@@ -1,0 +1,46 @@
+{
+    "id": "cd-1302",
+    "base_name": "Drakking",
+    "title": null,
+    "set_number": "SS1-82",
+    "sort_number": "SS1-82",
+    "name": "Drakking",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Shattered Stars M08 - Lunar",
+    "set_id": "st-101",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085603/SS1-82DrakkingNoWatermark_au5zpt?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-257",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Drakking destroys an Elestral in\nbattle you can Special Cast that Elestral from\nthe Underworld with {lunar}/{water} Spirits only.\nWhile that Elestral is on your field, this\nDrakking cannot be attacked.",
+    "effect": "When this Drakking destroys an Elestral in battle you can Special Cast that Elestral from the Underworld with {lunar}/{water} Spirits only. While that Elestral is on your field, this Drakking cannot be attacked.",
+    "elements": [
+        "lunar",
+        "water"
+    ],
+    "cost": [
+        "lunar",
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

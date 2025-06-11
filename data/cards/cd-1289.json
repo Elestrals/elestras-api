@@ -1,0 +1,43 @@
+{
+    "id": "cd-1289",
+    "base_name": "Khafmel",
+    "title": null,
+    "set_number": "SS1-71",
+    "sort_number": "SS1-71",
+    "name": "Khafmel",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Shattered Stars M07 - Solar",
+    "set_id": "st-100",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085609/SS1-71KhafmelNoWatermark_qcotmo?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152474/Khafmel_SS1_jiae2s?_a=BATAXdXy0",
+    "creature_id": "el-199",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Ascend this Khafmel or it is\ndestroyed you can return {omni}{omni}{omni} in any\ncombination of {solar}/{lunar} from your\nUnderworld to your Spirit Deck.",
+    "effect": "When you Ascend this Khafmel or it is destroyed you can return {omni}{omni}{omni} in any combination of {solar}/{lunar} from your Underworld to your Spirit Deck.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "cd-2121",
+    "base_name": "Spinymph",
+    "title": "Champion of Hermes",
+    "set_number": "FST-SD009",
+    "sort_number": "FST-SD009",
+    "name": "Spinymph - Champion of Hermes",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755780/FST-SD009SpinymphCoH_yettyc?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900095/SpinymphCoH_borderized_gjluub?_a=BATAXdXy0",
+    "creature_id": "el-34",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Spinymph\nyou can Search your deck for a Hermes and\nadd it to your hand. You can Disenchant {wind}\nfrom this Spinymph in order to Special Ascend\nit to Spinosect from your hand or deck.",
+    "effect": "When you Normal Cast this Spinymph you can Search your deck for Hermes and add it to your hand. You can Discenchant {wind} from this Spinymph in order to Special Ascend it to Spinosect from your hand or deck.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

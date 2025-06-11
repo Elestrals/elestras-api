@@ -1,0 +1,44 @@
+{
+    "id": "cd-1479",
+    "base_name": "Avialith",
+    "title": null,
+    "set_number": "MR1-062",
+    "sort_number": "MR1-062",
+    "name": "Avialith",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924802/MR1-062AvialithHolo_u9c2iz?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541412/Avialith_borderized_cgwume?_a=BATAXdXy0",
+    "creature_id": "el-285",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Avialith can be Normal Cast with {wind}{wind}\nif an opponent has at least 2 face-down Runes.\nWhen you Cast this Avialith you can\ndraw a card for each face-down Rune\non an opponent's field.",
+    "effect": "This Avialith can be Normal Cast with {wind}{wind} if an opponent has at least 2 face-down Runes. When you Cast this Avialith you can draw a card for each face-down Rune on an opponent's field.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

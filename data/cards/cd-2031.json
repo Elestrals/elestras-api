@@ -1,0 +1,45 @@
+{
+    "id": "cd-2031",
+    "base_name": "Nemistar",
+    "title": null,
+    "set_number": "TP3-09",
+    "sort_number": "TP3-09",
+    "name": "Nemistar",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Organized Play Series 3",
+    "set_id": "st-115",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545057/TP3-09_Nemistar_okq2hj?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748835030/Nemistar_ejy9o6?_a=BATAXdXy0",
+    "creature_id": "el-301",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {lunar}{lunar}. An Elestral that receives {lunar} this way can attack opponents' Spirit Decks directly this turn.",
+    "effect": "You can Nexus {lunar}. An Elestral that receives {lunar} this way can attack opponents' Spirit Decks directly this turn.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "archaic",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

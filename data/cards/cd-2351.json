@@ -1,0 +1,46 @@
+{
+    "id": "cd-2351",
+    "base_name": "Penterror",
+    "title": null,
+    "set_number": "DO25 XX/16",
+    "sort_number": "DO25-P4",
+    "name": "Penterror",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "marble",
+    "artist": "Maumes",
+    "set": "Dallas Open 2025",
+    "set_id": "st-110",
+    "subset": "prizing",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742571577/DO25-P4_StellarPenterror_vbbyiw?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746756921/Penterror_u3bdiq?_a=BATAXdXy0",
+    "creature_id": "el-22",
+    "total_cost": 3,
+    "attack": 15,
+    "defense": 8,
+    "serialized_stellar": true,
+    "serialized_population": 16,
+    "is_prize_card": true,
+    "prize_rank": "top_16",
+    "printed_effect": "When this Penterror is destroyed by an\nopponent’s card effect you can Special Cast\nany number of Hydrake and Twindra from\nyour hand or deck in Attack Position.",
+    "effect": "When this Penterror is destroyed by an opponent's card effect you can Special Cast any number of Hydrake or Twindra from your hand or deck in Attack Position.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "dragon",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

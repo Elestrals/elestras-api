@@ -1,0 +1,42 @@
+{
+    "id": "cd-2083",
+    "base_name": "Owlune",
+    "title": null,
+    "set_number": "FST-008",
+    "sort_number": "FST-008",
+    "name": "Owlune",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739328773/FST-008Owlune_qdi7sr?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900094/Owlune_borderized_w5o2g9?_a=BATAXdXy0",
+    "creature_id": "el-102",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "lunar"
+    ],
+    "cost": [],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

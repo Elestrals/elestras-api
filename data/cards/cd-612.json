@@ -1,0 +1,43 @@
+{
+    "id": "cd-612",
+    "base_name": "Equilynx",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "BS1-S01",
+    "name": "Equilynx",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "serialized",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245879/BS1-EquilynxStellarHolo_rkhcjb?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154801/Equilynx_dcwfit?_a=BATAXdXy0",
+    "creature_id": "el-67",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 3,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {earth}{earth}.\nWhen you do, you can target\nand destroy a Rune.",
+    "effect": "You can Nexus up to {earth}{earth}. When you do, you can target and destroy a Rune.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

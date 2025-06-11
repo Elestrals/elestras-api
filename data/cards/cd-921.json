@@ -1,0 +1,44 @@
+{
+    "id": "cd-921",
+    "base_name": "Kindleo",
+    "title": null,
+    "set_number": "PR1-23",
+    "sort_number": "PR1-23",
+    "name": "Kindleo",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Tori Von",
+    "set": "Kickstarter Promos",
+    "set_id": "st-4",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724091112/PR1-23KindleoStellarNoWatermarkHolo_z7wrtc?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154809/Kindleo_zk1kwu?_a=BATAXdXy0",
+    "creature_id": "el-77",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {fire}{fire}.\nWhen you do you, you can target and destroy\nan opponent’s Elestral.",
+    "effect": "You can Nexus up to {fire}{fire}. When you do, you can target and destroy an opponent's Elestral.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

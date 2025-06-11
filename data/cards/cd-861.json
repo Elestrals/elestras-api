@@ -1,0 +1,45 @@
+{
+    "id": "cd-861",
+    "base_name": "Sonicore",
+    "title": null,
+    "set_number": "BS1-055",
+    "sort_number": "BS1-055",
+    "name": "Sonicore",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088427/BS1-055SonicoreNoWatermarkHolo_dierdm?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473606/Render_-_SonicoreBS1-055_j8rrrw?_a=BATAXdXy0",
+    "creature_id": "el-76",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Sonicore’s Cast cannot be chained by\nCounter Runes. While this Sonicore is\nin Attack Position players cannot\nCast Counter Runes.",
+    "effect": "While this Sonicore is on a Chain, players cannot play Counter Runes. While this Sonicore is in Attack Position players cannot play Counter Runes.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder",
+        "thunder"
+    ],
+    "subclasses": [
+        "eldritch",
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

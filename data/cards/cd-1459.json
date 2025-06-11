@@ -1,0 +1,46 @@
+{
+    "id": "cd-1459",
+    "base_name": "Antitan",
+    "title": null,
+    "set_number": "MR1-038",
+    "sort_number": "MR1-038",
+    "name": "Antitan",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924765/MR1-038AntitanHolo_orjaql?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541409/Antitan_borderized_dm2duc?_a=BATAXdXy0",
+    "creature_id": "el-266",
+    "total_cost": 3,
+    "attack": 11,
+    "defense": 8,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can discard an {insectoid} card from your hand in\norder to target and destroy a card. This effect can\nbe activated up to 2 times in a turn. While there\nis an {insectoid} Elestral on the field this Antitan is\nUnaffected by opponents’ Elestral effects.",
+    "effect": "You can discard an {insectoid} card in order to target and destroy a card. This effect can be activated up to 2 times a turn. While there is an {insectoid} Elestral on the field this Antitan is Unaffected by opponents' Elestral effects.",
+    "elements": [
+        "earth",
+        "lunar"
+    ],
+    "cost": [
+        "earth",
+        "earth",
+        "lunar"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

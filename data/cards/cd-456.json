@@ -1,0 +1,44 @@
+{
+    "id": "cd-456",
+    "base_name": "Mosstacean",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "SS1-S09",
+    "name": "Mosstacean",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Yassir",
+    "set": "Shattered Stars M05 - Earth",
+    "set_id": "st-98",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085643/SS1-MosstaceanStellarNoWatermarkHolo_rajnao?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152979/Mosstacean_q3kuh2?_a=BATAXdXy0",
+    "creature_id": "el-139",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Mosstacean gets +2 {attack} for each\n{earth} Enchanting it. During your End Phase\nyou must change this Mosstacean to\nDefense Position if it attacked this turn.",
+    "effect": "This Mosstacean gets +2 {attack} for each {earth} Enchanting it. During your End Phase you must change this Mosstacean to Defense Position if it attacked this turn.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "golem",
+        "dryad"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

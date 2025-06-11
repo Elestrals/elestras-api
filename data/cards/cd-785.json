@@ -1,0 +1,43 @@
+{
+    "id": "cd-785",
+    "base_name": "Komagma",
+    "title": null,
+    "set_number": "SS1-59",
+    "sort_number": "SS1-59",
+    "name": "Komagma",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Shattered Stars M06 - Fire",
+    "set_id": "st-99",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085596/SS1-59KomagmaNoWatermark_jr0a7v?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152477/Komagma_SS1_wticyi?_a=BATAXdXy0",
+    "creature_id": "el-130",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Komagma receives 1 or more {fire}\nyou can draw a card, then discard a card.",
+    "effect": "When this Komagma receives 1 or more {fire} you can draw a card, then discard a card.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "cd-652",
+    "base_name": "Narpoon",
+    "title": null,
+    "set_number": "SS1-37",
+    "sort_number": "SS1-37",
+    "name": "Narpoon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Shattered Stars M04 - Water",
+    "set_id": "st-97",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085584/SS1-37NarpoonNoWatermark_vrj69g?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-140",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Narpoon you\ncan Search your deck for a 1 Spirit {frost} Elestral\nand add it to your hand.",
+    "effect": "When you Normal Cast this Narpoon you can Search your deck for a 1 Spirit {frost} Elestral and add it to your hand.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

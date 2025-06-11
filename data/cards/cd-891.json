@@ -1,0 +1,43 @@
+{
+    "id": "cd-891",
+    "base_name": "Nimbug",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "BS1-S07",
+    "name": "Nimbug",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "serialized",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245884/BS1-NimbugStellarHolo_vroycj?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154813/Nimbug_xsaat5?_a=BATAXdXy0",
+    "creature_id": "el-29",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 1,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {wind} in order to Special Ascend\nthis Nimbug to Cirrucoon from\nyour hand or deck.",
+    "effect": "You can Expend {wind} in order to Special Ascend this Nimbug to Cirrucoon from your hand or deck.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

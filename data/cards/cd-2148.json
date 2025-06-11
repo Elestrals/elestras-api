@@ -1,0 +1,47 @@
+{
+    "id": "cd-2148",
+    "base_name": "Voltempest",
+    "title": "Champion of Zeus",
+    "set_number": "FST-SD037",
+    "sort_number": "FST-SD037",
+    "name": "Voltempest - Champion of Zeus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755846/FST-SD037VoltempestCoZ_kzmgng?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900125/VoltempestCoZ_borderized_qk7gwr?_a=BATAXdXy0",
+    "creature_id": "el-61",
+    "total_cost": 3,
+    "attack": 14,
+    "defense": 7,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When your Champion of Zeus is destroyed\nin battle you can Special Cast this Voltempest\nfrom your hand with {thunder}{thunder}{wind} if your Zeus is\nEnchanted and you control no Elestrals.",
+    "effect": "When your Zeus is Enchanted and your Champion of Zeus is destroyed in battle you can Special Cast this Voltempest from your hand with {thunder}{thunder}{wind} if you control no Elestrals.",
+    "elements": [
+        "thunder",
+        "wind"
+    ],
+    "cost": [
+        "thunder",
+        "thunder",
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

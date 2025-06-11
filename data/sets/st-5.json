@@ -1,0 +1,14 @@
+{
+    "id": "st-5",
+    "name": "Artist Collection",
+    "type": "promo",
+    "abbr": "AC1",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "release_date": "2023-06-21T00:00:00.000Z",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724249297/ArtistCollectionBanner_ja42kl?_a=BATAXdXy0",
+    "icon": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724247920/Artist_Collection_xridqs.svg",
+    "stamp": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724249400/Artist_Collection_nqftud.png",
+    "logo": null,
+    "series_code": "KS00"
+}

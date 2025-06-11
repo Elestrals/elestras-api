@@ -1,0 +1,43 @@
+{
+    "id": "cd-974",
+    "base_name": "Hummbust",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "DB1-S08",
+    "name": "Hummbust",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989898/DB1-HummbustStellarNoWatermarkHolo_glyq0k?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156689/HummbustStellar_bdju6t?_a=BATAXdXy0",
+    "creature_id": "el-40",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 2,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When a player Casts a Rune an opponent\nmust send the top 2 cards from their deck to\ntheir Underworld. This effect can be\nactivated up to 4 times in a turn.",
+    "effect": "When a player Casts a Rune an opponent must send the top 2 cards from their deck to their Underworld. This effect can be activated only 4 times each turn.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

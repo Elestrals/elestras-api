@@ -1,0 +1,44 @@
+{
+    "id": "cd-955",
+    "base_name": "Tectaurus",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "BS1-S02",
+    "name": "Tectaurus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088454/BS1-TectaurusStellarNoWatermarkHolo_mjz8gk?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154862/Tectaurus_zvjuxb?_a=BATAXdXy0",
+    "creature_id": "el-69",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Tectaurus gets +1 {attack} for each\nEnchanting {earth} on the field.",
+    "effect": "This Tectaurus gets +1 {attack} for each Enchanting {earth} on the field.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "golem",
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

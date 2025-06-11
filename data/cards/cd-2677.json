@@ -1,0 +1,45 @@
+{
+    "id": "cd-2677",
+    "base_name": "Hypnossum",
+    "title": null,
+    "set_number": "SS2-058",
+    "sort_number": "SS2-058",
+    "name": "Hypnossum",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Rebecca Knott",
+    "set": "Shattered Stars M14 - Pisces",
+    "set_id": "st-87",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776343/SS2-058Hypnossum_culbvf?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-248",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Hypnossum is destroyed you\ncan Special Cast it from your Underworld in\nAttack Position Misenchanted.",
+    "effect": "When this Hypnossum is destroyed you can Special Cast it from your Underworld in Attack Position Misenchanted.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "brute",
+        "spectral"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

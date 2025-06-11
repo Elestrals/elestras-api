@@ -1,0 +1,41 @@
+{
+    "id": "cd-611",
+    "base_name": "Circle the Sky",
+    "title": null,
+    "set_number": "DB1-073",
+    "sort_number": "DB1-073",
+    "name": "Circle the Sky",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989865/DB1-073CircletheSkyNoWatermarkHolo_r5nwmv?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156886/Circle_the_Sky_v4_btaqqc?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Nexus up to {omni}{omni}.\nIf you do, you may draw a card.",
+    "effect": "Nexus up to {omni}{omni}. If you do, you may draw a card.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

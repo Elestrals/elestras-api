@@ -1,0 +1,46 @@
+{
+    "id": "cd-315",
+    "base_name": "Krakatuga",
+    "title": null,
+    "set_number": "SD03-05",
+    "sort_number": "SD03-05",
+    "name": "Krakatuga",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Dennis Fuhrmann",
+    "set": "Majesea Starter Deck",
+    "set_id": "st-72",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724095780/SD03-05KrakatugaNoWatermark_kz3byi?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473612/Render_-_KrakatugaBS1-046_wgvs3s?_a=BATAXdXy0",
+    "creature_id": "el-90",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 9,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {fire}{fire} to force an\nopponent to Expend {omni}{omni}{omni}.\nWhen a player Casts Eruption you\ncan target and destroy a card.",
+    "effect": "You can Expend {fire}{fire} to force an opponent to Expend {omni}{omni}{omni}. When a player Casts Eruption you can target and destroy a card.",
+    "elements": [
+        "water",
+        "fire"
+    ],
+    "cost": [
+        "water",
+        "fire"
+    ],
+    "subclasses": [
+        "oceanic",
+        "golem"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

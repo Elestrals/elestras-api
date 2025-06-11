@@ -1,0 +1,44 @@
+{
+    "id": "cd-604",
+    "base_name": "Hydrake",
+    "title": null,
+    "set_number": "PR1-31",
+    "sort_number": "PR1-31",
+    "name": "Hydrake",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Kickstarter Promos",
+    "set_id": "st-4",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724091119/PR1-31HydrakeCelebrationNoWatermarkHolo_ew7iti?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154771/Hydrake_PR_hz5i5n?_a=BATAXdXy0",
+    "creature_id": "el-20",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Hydrake is destroyed in battle you\ncan Special Cast a Twindra from your\nhand or deck in Attack Position.",
+    "effect": "When this Hydrake is destroyed in battle you can Special Cast a Twindra from your hand or deck in Attack Position.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "dragon",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

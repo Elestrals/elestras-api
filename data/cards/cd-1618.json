@@ -1,0 +1,44 @@
+{
+    "id": "cd-1618",
+    "base_name": "Eddy",
+    "title": null,
+    "set_number": "KSC-27",
+    "sort_number": "KSC-27",
+    "name": "Eddy",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Clash! Promos",
+    "set_id": "st-76",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741908827/KSC-27_StellarEddyFA_rfq3pu?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746758788/Eddy_czdljd?_a=BATAXdXy0",
+    "creature_id": "el-346",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Eddy you can change the\nPosition of an Elestral.\nWhen a player Casts Rock and a Hard Place\nyou can Special Ascend this Eddy to Kurabyss\nfrom your hand or deck.",
+    "effect": "When you Cast this Eddy you can change the Position of an Elestral. When a player Casts Rock and a Hard Place you can Special Ascend this Eddy to Kurabyss from your hand or deck.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

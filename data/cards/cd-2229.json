@@ -1,0 +1,45 @@
+{
+    "id": "cd-2229",
+    "base_name": "Exaltus",
+    "title": "Champion of Apollo",
+    "set_number": "SS2-100",
+    "sort_number": "SS2-100",
+    "name": "Exaltus - Champion of Apollo",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Getsemani",
+    "set": "Shattered Stars M17 - Gemini",
+    "set_id": "st-90",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740354423/SS2-100Exaltus_qvo1vg?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748833598/Exaltus_CoA_iyfhsx?_a=BATAXdXy0",
+    "creature_id": "el-204",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When an Elestral on your field is destroyed\nin battle you can Special Cast this Exaltus\nfrom your hand with {solar}. This Exaltus\ngets +3 {attack} if you Foretold this turn.\r",
+    "effect": "When an Elestral on your field is destroyed in battle you can Special Cast this Exaltus from your hand with {solar}. This Exaltus gets +3 {attack} if you Foretold this turn.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

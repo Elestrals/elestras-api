@@ -1,0 +1,42 @@
+{
+    "id": "cd-1131",
+    "base_name": "Zaptor",
+    "title": null,
+    "set_number": "SD04-23",
+    "sort_number": "SD04-23",
+    "name": "Zaptor",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Ohmperial Starter Deck",
+    "set_id": "st-75",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724096111/SD04-23ZaptorNoWatermark_qctu3f?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152440/Zaptor_FA_mi4icw?_a=BATAXdXy0",
+    "creature_id": "el-4",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "thunder"
+    ],
+    "cost": [],
+    "subclasses": [
+        "archaic",
+        "dragon"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

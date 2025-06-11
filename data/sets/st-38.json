@@ -1,0 +1,14 @@
+{
+    "id": "st-38",
+    "name": "Chronodile Starter Deck",
+    "type": "starter_deck",
+    "abbr": "SD08",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "release_date": "2024-08-16T00:00:00.000Z",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724249296/ChronodileSDBanner_os6tq5?_a=BATAXdXy0",
+    "icon": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724247921/Chronodile_SD_jykuxn.svg",
+    "stamp": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724249395/Chronodile_Starter_Deck_z8uo9v.png",
+    "logo": null,
+    "series_code": "FE03"
+}

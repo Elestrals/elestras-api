@@ -1,0 +1,45 @@
+{
+    "id": "cd-705",
+    "base_name": "Zephrog",
+    "title": null,
+    "set_number": "BS1-050",
+    "sort_number": "BS1-050",
+    "name": "Zephrog",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088401/BS1-050ZephrogNoWatermark_c7abge?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473616/Render_-_ZephrogBS1-050_wjuyao?_a=BATAXdXy0",
+    "creature_id": "el-38",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Zephrog can attack opponents’ Spirit\nDecks directly. When this Zephrog deals\ndamage to an opponent you can look at that\nopponent’s hand and discard a card from it.",
+    "effect": "This Zephrog can attack opponents' Spirit Decks directly. When this Zephrog deals damage to an opponent you can look at that opponent's hand and discard a card from it.",
+    "elements": [
+        "water",
+        "wind"
+    ],
+    "cost": [
+        "water",
+        "wind"
+    ],
+    "subclasses": [
+        "aquatic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

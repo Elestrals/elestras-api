@@ -1,0 +1,12 @@
+{
+    "id": "el-90",
+    "name": "Krakatuga",
+    "class": "elestral",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473612/Render_-_KrakatugaBS1-046_wgvs3s?_a=BATAXdXy0",
+    "blurb": null,
+    "updated_at": "2025-06-09T23:16:06.812Z",
+    "elements": [
+        "water",
+        "fire"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "cd-1492",
+    "base_name": "Bow of Artemis",
+    "title": null,
+    "set_number": "MR1-075",
+    "sort_number": "MR1-075",
+    "name": "Bow of Artemis",
+    "alias": null,
+    "card_type": "rune_artifact",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924614/MR1-075BowofArtemis_zxxdoj?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541393/BowofArtemis_borderized_iqapnf?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "The Empowered Elestral deals Piercing damage.\nWhen the Empowered Elestral declares an\nattack you can Nexus {lunar} from your Artemis\nto the Empowered Elestral.",
+    "effect": "The Empowered Elestral deals Piercing damage. When the Empowered Elestral declares an attack you can Nexus {lunar} from your Artemis to the Empowered Elestral.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

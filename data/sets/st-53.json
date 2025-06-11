@@ -1,0 +1,14 @@
+{
+    "id": "st-53",
+    "name": "Base",
+    "type": "main",
+    "abbr": "BS1",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "release_date": "2024-03-15T00:00:00.000Z",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724249300/BaseSetFirstBanner_kyodyd?_a=BATAXdXy0",
+    "icon": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724247921/Base_Set_tmoxvn.svg",
+    "stamp": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724249398/Base_Set_p8crkv.png",
+    "logo": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724248302/ElestralsLogoColored_t888jx?_a=BATAXdXy0",
+    "series_code": "FE01"
+}

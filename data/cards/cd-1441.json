@@ -1,0 +1,45 @@
+{
+    "id": "cd-1441",
+    "base_name": "Phasmacore",
+    "title": null,
+    "set_number": "MR1-019",
+    "sort_number": "MR1-019",
+    "name": "Phasmacore",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924499/MR1-019PhasmacoreHolo_lfvkex?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541432/Phasmacore_borderized_wncuta?_a=BATAXdXy0",
+    "creature_id": "el-247",
+    "total_cost": 2,
+    "attack": 8,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Phasmacore is destroyed in battle or\nby an opponent’s card effect you can Expend {lunar}.\nIf you do, during this turn’s End Phase you can\nSpecial Cast it from your Underworld.",
+    "effect": "When this Phasmacore is destroyed in battle or by an opponent's card effect you can Expend {lunar}. If you do, during this turn's End Phase you can Special Cast it from your Underworld.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar",
+        "lunar"
+    ],
+    "subclasses": [
+        "eldritch",
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

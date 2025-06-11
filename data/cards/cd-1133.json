@@ -1,0 +1,42 @@
+{
+    "id": "cd-1133",
+    "base_name": "Lycarus",
+    "title": null,
+    "set_number": "BS1-125",
+    "sort_number": "BS1-125",
+    "name": "Lycarus",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245854/BS1-125LycarusHolo_i58arn?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-5",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "wind"
+    ],
+    "cost": [],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

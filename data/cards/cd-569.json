@@ -1,0 +1,44 @@
+{
+    "id": "cd-569",
+    "base_name": "Cirrucoon",
+    "title": null,
+    "set_number": "BS1-072",
+    "sort_number": "BS1-072",
+    "name": "Cirrucoon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245648/BS1-072Cirrucoon_stlrrk?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473597/Render_-_CirrucoonBS1-072_udioju?_a=BATAXdXy0",
+    "creature_id": "el-30",
+    "total_cost": 2,
+    "attack": 1,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "During your Draw Phase you can Expend {wind} in\norder to Special Ascend this Cirrucoon to\nStratomoth from your hand or deck.",
+    "effect": "During your Draw Phase you can Expend {wind} in order to Special Ascend this Cirrucoon to Stratomoth from your hand or deck.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

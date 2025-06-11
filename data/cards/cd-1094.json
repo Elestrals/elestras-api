@@ -1,0 +1,44 @@
+{
+    "id": "cd-1094",
+    "base_name": "Sundile",
+    "title": null,
+    "set_number": "SD08-01",
+    "sort_number": "SD08-01",
+    "name": "Sundile",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Chronodile Starter Deck",
+    "set_id": "st-38",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723994841/SD08-01SundileNoWatermark_nzfzwi?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484009/Sundile_x43wmk?_a=BATAXdXy0",
+    "creature_id": "el-188",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {solar} in order to\nEnchant {water} to your field.\nDuring your End Phase you can Special Ascend\nthis Sundile to Gnomodile from your\nhand or deck if it is {water}-Enchanted.",
+    "effect": "You can Expend {solar} in order to Enchant {water} to your field. During your End Phase you can Special Ascend this Sundile into Gnomodile from your hand or deck if it is {water}-Enchanted.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "aquatic",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "cd-2320",
+    "base_name": "Bandiloon",
+    "title": null,
+    "set_number": "SD11-25",
+    "sort_number": "SD11-25",
+    "name": "Bandiloon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Posthumoose Starter Deck",
+    "set_id": "st-49",
+    "subset": "reverse_stellar",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925897/SD11-25BandiloonStellarHolo_gqu1jg?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541421/BandiloonStellar_borderized_cn6wjv?_a=BATAXdXy0",
+    "creature_id": "el-259",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {lunar}{lunar} in order to take control\nof an opponent’s face-down Rune.",
+    "effect": "You can Expend {lunar}{lunar} in order to take control of an opponent's face-down Rune.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

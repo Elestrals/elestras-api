@@ -1,0 +1,14 @@
+{
+    "id": "st-32",
+    "name": "Creator Promos",
+    "type": "specialty",
+    "abbr": "CP1",
+    "series": "Specialty",
+    "series_id": "sr-11",
+    "release_date": "2024-03-01T00:00:00.000Z",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1726139681/CreatorPromosBanner_hgfxyg?_a=BATAXdXy0",
+    "icon": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724247921/Creator_Promo_k99qar.svg",
+    "stamp": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724256023/Creator_Promo_lgfqxx.png",
+    "logo": null,
+    "series_code": "CP01"
+}

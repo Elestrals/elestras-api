@@ -1,0 +1,45 @@
+{
+    "id": "cd-1144",
+    "base_name": "Majursa",
+    "title": null,
+    "set_number": "BS1-026",
+    "sort_number": "BS1-026",
+    "name": "Majursa",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245585/BS1-026Majursa_xexqyi?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473637/Render_-_MajursaBS1-026_vqympw?_a=BATAXdXy0",
+    "creature_id": "el-28",
+    "total_cost": 3,
+    "attack": 12,
+    "defense": 12,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Majursa gets +2 {attack} for each other {ursa}\nElestral on your field. Your {ursa} Elestrals that\ncost 1 Spirit cannot be attacked and cannot\nbe targeted by opponents’ card effects.",
+    "effect": "This Majursa gets +2 {attack} for each other {ursa} Elestral on your field. Your 1 Spirit {ursa} Elestrals cannot be attacked and cannot be targeted by opponents' card effects.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "ursa"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

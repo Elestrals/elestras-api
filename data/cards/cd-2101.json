@@ -1,0 +1,44 @@
+{
+    "id": "cd-2101",
+    "base_name": "Fulgaries",
+    "title": "Champion of Zeus",
+    "set_number": "DCP-12",
+    "sort_number": "DCP-12",
+    "name": "Fulgaries - Champion of Zeus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Divine Champions Promos",
+    "set_id": "st-105",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739739996/DCP-12StellarFulgariesCoZ_unewfl?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742068251/FulgariesCoZStellar_borderized_md9gvg?_a=BATAXdXy0",
+    "creature_id": "el-227",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {thunder} from your Zeus in\norder to target and destroy a face-down Rune.\nIf you do, give this Fulgaries +2 {attack}\nuntil the next turn.",
+    "effect": "You can Disenchant {thunder} from your Zeus in order to target and destroy a face-down Rune. If you do, give this Fulgaries +2 {attack} until the next turn.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "ethereal",
+        "brute"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

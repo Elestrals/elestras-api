@@ -1,0 +1,43 @@
+{
+    "id": "cd-972",
+    "base_name": "Platypulse",
+    "title": null,
+    "set_number": "PR2-03",
+    "sort_number": "PR2-03",
+    "name": "Platypulse",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Frostfall Promos",
+    "set_id": "st-31",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723835244/PR2-03PlatypulseStellarNoWatermarkHolo_fhgjhd?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156207/PlatypulseStellar_vcd7d4?_a=BATAXdXy0",
+    "creature_id": "el-148",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Elestrals that are not {thunder}-Enchanted get -1 {attack} for\neach Enchanting {thunder} on your field. Effects of\nElestrals named Platypulse cannot reduce\nan Elestral's {attack} by more than -4 total.",
+    "effect": "Elestrals that are not {thunder}-Enchanted get -1 {attack} for each Enchanting {thunder} on your field. Effects of Elestrals named Platypulse cannot reduce an Elestral's {attack} by more than -4 total.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "aquatic"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

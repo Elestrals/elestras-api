@@ -1,0 +1,43 @@
+{
+    "id": "cd-2686",
+    "base_name": "Magneros",
+    "title": null,
+    "set_number": "SS2-067",
+    "sort_number": "SS2-067",
+    "name": "Magneros",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Shattered Stars M14 - Pisces",
+    "set_id": "st-87",
+    "subset": "reverse_stellar",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776341/SS2-067RStellarMagneros_ffn1jw?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154075/Magneros_pytldp?_a=BATAXdXy0",
+    "creature_id": "el-281",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {thunder}{thunder}.\nWhen you do, you can Foretell cards equal\nto the number of {thunder}-Enchanted cards on\nyour field and add up to 1 {thunder} Invoke Rune\nForetold this way to your hand.",
+    "effect": "You can Nexus up to {thunder}{thunder}. When you do, you can Foretell cards equal to the number of {thunder}-Enchanted cards on your field and add 1 {thunder} Invoke Rune Foretold this way to your hand.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

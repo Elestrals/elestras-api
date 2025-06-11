@@ -1,0 +1,45 @@
+{
+    "id": "cd-1780",
+    "base_name": "Pterrostar",
+    "title": null,
+    "set_number": "FST-074",
+    "sort_number": "FST-074",
+    "name": "Pterrostar",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Victor Rosales",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739405888/FST-074Pterrostar_olqib8?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900148/Pterrostar_borderized_ztslzu?_a=BATAXdXy0",
+    "creature_id": "el-302",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 7,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {lunar}{lunar}{lunar}. When a player\nNexuses an opponent must Expend {omni} for\neach {omni} that a card received in that Nexus.",
+    "effect": "You can Nexus up to {lunar}{lunar}{lunar}. When a player Nexuses an opponent must Expend {omni} for each {omni} that a card received in that Nexus.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar",
+        "lunar"
+    ],
+    "subclasses": [
+        "archaic",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

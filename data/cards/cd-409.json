@@ -1,0 +1,43 @@
+{
+    "id": "cd-409",
+    "base_name": "Exaltflare",
+    "title": null,
+    "set_number": "SS1-58",
+    "sort_number": "SS1-58",
+    "name": "Exaltflare",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Shattered Stars M06 - Fire",
+    "set_id": "st-99",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085602/SS1-58ExaltflareNoWatermark_mxascg?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152494/Exaltflare_SS1_flgqgr?_a=BATAXdXy0",
+    "creature_id": "el-119",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {fire}{fire}.\nWhen you do, you can Special Ascend this\nExaltflare to an Elestral with Enchantment\nCost {fire} or {fire}{fire} from your hand.",
+    "effect": "You can Nexus up to {fire}{fire}. When you do, you can Special Ascend this Exaltflare to an Elestral with Enchantment Cost {fire} or {fire}{fire} from your hand.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "avian"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

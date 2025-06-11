@@ -1,0 +1,41 @@
+{
+    "id": "cd-1521",
+    "base_name": "Artemis",
+    "title": null,
+    "set_number": "MR1-104",
+    "sort_number": "MR1-104",
+    "name": "Artemis",
+    "alias": null,
+    "card_type": "rune_divine",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925006/MR1-104ArtemisFAHolo_mgnkkd?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541420/ArtemisFA_borderized_hjagfz?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Artemis you can Enchant up\nto {lunar}{lunar}{lunar} to it. You can Disenchant {lunar} from this\nArtemis in order to target an opponent's\nface-up card and Suppress it until that\nopponent’s next End Phase.",
+    "effect": "When you Cast this Artemis you can Enchant up to {lunar}{lunar}{lunar} to it. You can Disenchant {lunar} from this Artemis in order to target an opponent's face-up card and Suppress it until the end of that opponent's next turn.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

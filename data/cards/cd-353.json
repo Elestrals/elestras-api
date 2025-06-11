@@ -1,0 +1,43 @@
+{
+    "id": "cd-353",
+    "base_name": "Glimbatt",
+    "title": null,
+    "set_number": "DB1-104",
+    "sort_number": "DB1-104",
+    "name": "Glimbatt",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Ryan Cortez",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "reverse_stellar",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989906/DB1-104GlimbattStellarNoWatermarkHolo_rup85f?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156760/GlimbattStellar_qlkytq?_a=BATAXdXy0",
+    "creature_id": "el-191",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When an opponent activates a card effect that\ndiscards a card from your hand you can discard\nthis Glimbatt in order to Negate that effect and\ndestroy that card. You can Disenchant {solar} from\nthis Glimbatt in order to draw 2 cards.",
+    "effect": "When an opponent activates a card effect that discards a card from your hand you can discard this Glimbatt in order to Negate that effect and destroy that card. You can Disenchant {solar} from this Glimbatt in order to draw 2 cards.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "cd-1034",
+    "base_name": "Fowlicane",
+    "title": null,
+    "set_number": "BS1-075",
+    "sort_number": "BS1-075",
+    "name": "Fowlicane",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245779/BS1-075Fowlicane_ult0jp?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473648/Render_-_FowlicaneBS1-075Alt_uieofn?_a=BATAXdXy0",
+    "creature_id": "el-63",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {wind} in order to destroy all\nRunes or Expend {wind}{wind} in order to\ndestroy each Rune on an opponent’s field.",
+    "effect": "You can Expend {wind} in order to destroy all Runes or Expend {wind}{wind} in order to destroy each of your opponents' Runes.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

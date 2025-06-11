@@ -1,0 +1,43 @@
+{
+    "id": "cd-1095",
+    "base_name": "Elechik",
+    "title": null,
+    "set_number": "SD05-11",
+    "sort_number": "SD05-11",
+    "name": "Elechik",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Penterror Starter Deck",
+    "set_id": "st-59",
+    "subset": "starter_deck",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724170864/SD05-11ElechikNoWatermark_p70aht?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473598/Render_-_ElechikBS1-058_deuahw?_a=BATAXdXy0",
+    "creature_id": "el-59",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Elechik you can\nSearch your deck for a Divine Rune and\nadd it to your hand.",
+    "effect": "When you Normal Cast this Elechik you can Search your deck for a Divine Rune and add it to your hand.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "avian"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

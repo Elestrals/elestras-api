@@ -1,0 +1,41 @@
+{
+    "id": "cd-774",
+    "base_name": "Island of Aeolia",
+    "title": null,
+    "set_number": "BS1-100",
+    "sort_number": "BS1-100",
+    "name": "Island of Aeolia",
+    "alias": null,
+    "card_type": "rune_stadium",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088409/BS1-100IslandofAeoliaNoWatermark_adkgdj?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Elestrals get +1 {attack} and +1 {defense} for\neach {wind} Enchanting them.",
+    "effect": "Elestrals get +1 {attack} and +1 {defense} for each {wind} Enchanting them.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

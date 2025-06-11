@@ -1,0 +1,42 @@
+{
+    "id": "cd-2417",
+    "base_name": "Vipyro",
+    "title": null,
+    "set_number": "EOP-001",
+    "sort_number": "EOP-001",
+    "name": "Vipyro",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "marble",
+    "artist": "Diego Monster",
+    "set": "Firestorm Premier Pack",
+    "set_id": "st-111",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545135/EOP-001_Vipyro_jzh4zv?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746760427/Vipyro_yjbvwj?_a=BATAXdXy0",
+    "creature_id": "el-1",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "fire"
+    ],
+    "cost": [],
+    "subclasses": [
+        "dragon",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

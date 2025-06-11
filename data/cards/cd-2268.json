@@ -1,0 +1,47 @@
+{
+    "id": "cd-2268",
+    "base_name": "Fulgoryx",
+    "title": null,
+    "set_number": "SD10-03",
+    "sort_number": "SD10-03",
+    "name": "Fulgoryx",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Fulgoryx Starter Deck",
+    "set_id": "st-48",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925654/SD10-03FulgoryxHolo_ljlm1e?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541474/Fulgoryx_borderized_sf7pgq?_a=BATAXdXy0",
+    "creature_id": "el-239",
+    "total_cost": 3,
+    "attack": 10,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Elestrals that are not {lunar}/{solar}-Enchanted get -5 {attack}.\nYou can Nexus {lunar}/{wind}.\nWhen this Fulgoryx receives 1 or more {lunar}/{wind}\nin a Nexus you can target an opponent's card\nand put it on the bottom of their deck.",
+    "effect": "Elestrals that are not {lunar}/{solar}-Enchanted get -5 {attack}. You can Nexus {lunar}/{wind}. When this Fulgoryx receives 1 or more {lunar}/{wind} in a Nexus you can target an opponent's card and put it on the bottom of their deck.",
+    "elements": [
+        "lunar",
+        "wind"
+    ],
+    "cost": [
+        "lunar",
+        "lunar",
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid",
+        "dragon"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

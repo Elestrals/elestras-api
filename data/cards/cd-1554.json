@@ -1,0 +1,42 @@
+{
+    "id": "cd-1554",
+    "base_name": "Zaptor",
+    "title": null,
+    "set_number": "MR1-005",
+    "sort_number": "MR1-005",
+    "name": "Zaptor",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924257/MR1-005Zaptor_mebs8x?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-4",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "thunder"
+    ],
+    "cost": [],
+    "subclasses": [
+        "archaic",
+        "dragon"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

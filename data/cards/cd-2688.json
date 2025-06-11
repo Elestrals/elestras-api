@@ -1,0 +1,46 @@
+{
+    "id": "cd-2688",
+    "base_name": "Carryoff",
+    "title": null,
+    "set_number": "XX/10",
+    "sort_number": "SS2-S10",
+    "name": "Carryoff",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Shattered Stars M14 - Pisces",
+    "set_id": "st-87",
+    "subset": "serialized",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776348/SS2-S-StellarCarryoff_rtwssz?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154070/Carryoff_FA_i2cjbt?_a=BATAXdXy0",
+    "creature_id": "el-284",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 3,
+    "serialized_stellar": true,
+    "serialized_population": 10,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When your Carryon is destroyed in battle you\ncan Special Cast this Carryoff from your hand.\nYou can Expend {lunar}{lunar} in order to target\nan opponent’s Elestral and take control\nof it until the next turn.",
+    "effect": "When your Carryon is destroyed in battle you can Special Cast this Carryoff from your hand. You can Expend {lunar}{lunar} in order to target an opponent's Elestral and take control of it until the next turn.",
+    "elements": [
+        "lunar",
+        "wind"
+    ],
+    "cost": [
+        "lunar",
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid",
+        "spectral"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

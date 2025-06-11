@@ -1,0 +1,45 @@
+{
+    "id": "cd-1268",
+    "base_name": "Twindra",
+    "title": null,
+    "set_number": "TP1-20",
+    "sort_number": "TP1-20",
+    "name": "Twindra",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087783/TP1-20TwindraStellarNoWatermarkHolo_d7gjfn?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146313/Twindra_gj8k7z?_a=BATAXdXy0",
+    "creature_id": "el-21",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Twindra is destroyed in battle\nyou can Special Cast a Penterror from your\nhand or deck in Attack Position.",
+    "effect": "When this Twindra is destroyed in battle you can Special Cast a Penterror from your hand or deck in Attack Position.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "dragon",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

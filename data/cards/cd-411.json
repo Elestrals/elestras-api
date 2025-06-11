@@ -1,0 +1,43 @@
+{
+    "id": "cd-411",
+    "base_name": "Sluggle",
+    "title": null,
+    "set_number": "SS1-35",
+    "sort_number": "SS1-35",
+    "name": "Sluggle",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Yassir",
+    "set": "Shattered Stars M04 - Water",
+    "set_id": "st-97",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085586/SS1-35SluggleNoWatermark_kvxyrj?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152463/Sluggle_SS1_spu94n?_a=BATAXdXy0",
+    "creature_id": "el-14",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Sluggle you can return up\nto {water}{water}{water} from your Underworld\nto your Spirit Deck.",
+    "effect": "When you Cast this Sluggle you can return up to {water}{water}{water} from your Underworld to your Spirit Deck.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

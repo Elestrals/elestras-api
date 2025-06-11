@@ -1,0 +1,44 @@
+{
+    "id": "cd-1457",
+    "base_name": "Necrolith",
+    "title": null,
+    "set_number": "MR1-035",
+    "sort_number": "MR1-035",
+    "name": "Necrolith",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924789/MR1-035NecrolithHolo_hzcbqe?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541469/Necrolith_borderized_wkyvtf?_a=BATAXdXy0",
+    "creature_id": "el-263",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Necrolith can be Normal Cast with {lunar}{lunar} if\nan opponent has at least 2 Suppressed cards.\nWhen you Cast this Necrolith you can\ndestroy a Suppressed Elestral.",
+    "effect": "This Necrolith can be Normal Cast with {lunar}{lunar} if an opponent has at least 2 Suppressed cards. When you Cast this Necrolith you can destroy a Suppressed Elestral.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar",
+        "lunar"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

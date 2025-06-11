@@ -1,0 +1,44 @@
+{
+    "id": "cd-359",
+    "base_name": "Galaxea",
+    "title": null,
+    "set_number": "SD03-10",
+    "sort_number": "SD03-10",
+    "name": "Galaxea",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "M. Romo - Bromojumbo",
+    "set": "Majesea Starter Deck",
+    "set_id": "st-72",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724095790/SD03-10GalaxeaNoWatermark_suwtfe?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473636/Render_-_GalaxeaBS1-052_gtylux?_a=BATAXdXy0",
+    "creature_id": "el-56",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "While this Galaxea is Enchanted swap each\n{water}-Enchanted Elestral’s {attack} with its {defense} .",
+    "effect": "While this Galaxea is Enchanted swap each {water}-Enchanted Elestral's {attack} with its {defense}.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

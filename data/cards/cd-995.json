@@ -1,0 +1,43 @@
+{
+    "id": "cd-995",
+    "base_name": "Frigicub",
+    "title": null,
+    "set_number": "FF1-027",
+    "sort_number": "FF1-027",
+    "name": "Frigicub",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759870/FF1-027FrigicubNoWatermark_sihz2l?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481812/Frigicub_vj9uub?_a=BATAXdXy0",
+    "creature_id": "el-123",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {frost}{frost}.\nWhen you do, you can Enchant {frost} from your\nUnderworld to this Frigicub.",
+    "effect": "You can Nexus up to {frost}{frost}. When you do, you can Enchant {frost} from your Underworld to this Frigicub.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

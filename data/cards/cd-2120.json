@@ -1,0 +1,45 @@
+{
+    "id": "cd-2120",
+    "base_name": "Aardvarum",
+    "title": null,
+    "set_number": "FST-SD012",
+    "sort_number": "FST-SD012",
+    "name": "Aardvarum",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755766/FST-SD012Aardvarum_snswjz?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746022383/Borderized_-_Aardvarum_dhgc6m?_a=BATAXdXy0",
+    "creature_id": "el-265",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Aardvarum you can Search\nyour deck for an {insectoid} card and add it to your hand.\nYou can target and destroy an {insectoid} Elestral.\nIf you do, you may Special Ascend this\nAardvarum to Antitan from your hand or deck.",
+    "effect": "When you Cast this Aardvarum you can Search your deck for an {insectoid} card and add it to your hand. You can target and destroy an {insectoid} Elestral. If you do, you may Special Ascend this Aardvarum to Antitan from your hand or deck.",
+    "elements": [
+        "earth",
+        "lunar"
+    ],
+    "cost": [
+        "earth",
+        "lunar"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

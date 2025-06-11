@@ -1,0 +1,44 @@
+{
+    "id": "cd-2126",
+    "base_name": "Lavalith",
+    "title": null,
+    "set_number": "FST-SD021",
+    "sort_number": "FST-SD021",
+    "name": "Lavalith",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755797/FST-SD021Lavalith_ulqvec?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481837/Lavalith_se2dqz?_a=BATAXdXy0",
+    "creature_id": "el-134",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Lavalith can be Normal Cast with {fire}{fire} if an opponent\nhas at least 2 more Enchanting Spirits\nthan you do. When you Cast this Lavalith\nyou can target and destroy a Rune.",
+    "effect": "This Lavalith can be Normal Cast with {fire}{fire} if an opponent has at least 2 more Enchanting Spirits than you do. When you Cast this Lavalith you can target and destroy a Rune.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

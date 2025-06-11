@@ -1,0 +1,44 @@
+{
+    "id": "cd-776",
+    "base_name": "Javelantis",
+    "title": null,
+    "set_number": "BS1-048",
+    "sort_number": "BS1-048",
+    "name": "Javelantis",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088388/BS1-048JavelantisNoWatermark_lql7x7?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473598/Render_-_JavelantisBS1-048Alt_eog0z3?_a=BATAXdXy0",
+    "creature_id": "el-88",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Javelantis destroys an opponent's\nDefense Position Elestral in battle that\nopponent must Expend {omni}{omni}{omni}.",
+    "effect": "When this Javelantis destroys an opponent's Defense Position Elestral in battle that opponent must Expend {omni}{omni}{omni}.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

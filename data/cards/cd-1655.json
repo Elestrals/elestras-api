@@ -1,0 +1,43 @@
+{
+    "id": "cd-1655",
+    "base_name": "Ignectar",
+    "title": null,
+    "set_number": "FST-026",
+    "sort_number": "FST-026",
+    "name": "Ignectar",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739328906/FST-026Ignectar_vb95ci?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900112/Ignectar_borderized_uvplun?_a=BATAXdXy0",
+    "creature_id": "el-45",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Ignectar you can\nSearch your deck for a Nectar of the Gods\nand add it to your hand. ",
+    "effect": "When you Cast this Ignectar you can Search your deck for a Nectar of the Gods and add it to your hand.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "cd-1689",
+    "base_name": "Mistral of Boreas",
+    "title": null,
+    "set_number": "FST-092",
+    "sort_number": "FST-092",
+    "name": "Mistral of Boreas",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329148/FST-092MistralofBoreas_vvlwln?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Mistral of Boreas can only be played\nwhen an opponent plays an Artifact or Divine\nRune. Put that Rune in their Rune Row\nface-down. (It can’t be played again this turn.)",
+    "effect": "This Mistral of Boreas can only be played when an opponent plays an Artifact or Divine Rune. Put that Rune in their Rune Row face-down. (It can't be played again this turn.)",
+    "elements": [
+        "wind",
+        "frost"
+    ],
+    "cost": [
+        "wind",
+        "frost"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

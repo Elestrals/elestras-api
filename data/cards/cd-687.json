@@ -1,0 +1,42 @@
+{
+    "id": "cd-687",
+    "base_name": "Teratlas",
+    "title": null,
+    "set_number": "SS1-51",
+    "sort_number": "SS1-51",
+    "name": "Teratlas",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Shattered Stars M05 - Earth",
+    "set_id": "st-98",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085641/SS1-51TeratlasFANoWatermarkHolo_relulk?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152437/Teratlas_FA_ti37n4?_a=BATAXdXy0",
+    "creature_id": "el-2",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "earth"
+    ],
+    "cost": [],
+    "subclasses": [
+        "insectoid",
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

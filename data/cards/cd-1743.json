@@ -1,0 +1,43 @@
+{
+    "id": "cd-1743",
+    "base_name": "Nimbug",
+    "title": null,
+    "set_number": "FST-053",
+    "sort_number": "FST-053",
+    "name": "Nimbug",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Badafra",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329005/FST-053Nimbug_qgq7x8?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900187/Nimbug_borderized_c66zwn?_a=BATAXdXy0",
+    "creature_id": "el-29",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Nimbug\nyou can Search your deck for a Foloi Forest,\na Charcoon, or a Flammamoth\nand add it to your hand. ",
+    "effect": "When you Normal Cast this Nimbug you can Search your deck for a Foloi Forest, a Charcoon, or a Flammamoth and add it to your hand.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

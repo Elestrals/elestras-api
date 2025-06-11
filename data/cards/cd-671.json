@@ -1,0 +1,44 @@
+{
+    "id": "cd-671",
+    "base_name": "Polarachne",
+    "title": null,
+    "set_number": "SD06-07",
+    "sort_number": "SD06-07",
+    "name": "Polarachne",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Tori Von",
+    "set": "Kryoscorch Starter Deck",
+    "set_id": "st-25",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723835423/SD06-07PolarachneNoWatermark_qkeslu?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481836/Polarachne_mhiri3?_a=BATAXdXy0",
+    "creature_id": "el-149",
+    "total_cost": 2,
+    "attack": 2,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Your opponents' Elestrals get -2 {attack}.\nYou can Expend {frost} in order to target and\ndestroy an Elestral with 2 or less {attack}.",
+    "effect": "Your opponents' Elestrals get -2 {attack}. You can Expend {frost} in order to target and destroy an Elestral with 2 or less {attack}.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost",
+        "frost"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

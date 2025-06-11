@@ -1,0 +1,44 @@
+{
+    "id": "cd-873",
+    "base_name": "Gigafflora",
+    "title": null,
+    "set_number": "FF1-038",
+    "sort_number": "FF1-038",
+    "name": "Gigafflora",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759905/FF1-038GigaffloraNoWatermark_yk0pim?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481836/Gigafflora_ber9xh?_a=BATAXdXy0",
+    "creature_id": "el-127",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 7,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {earth} in order to target and\nSpecial Ascend your Girafflora to this Gigafflora\nfrom your hand. During your Draw Phase\nyou can Special Cast a 1 Spirit {earth} Elestral\nfrom your Underworld.",
+    "effect": "This Gigafflora in your hand can Special Ascend from your Girafflora if you also Expend {earth}. During your Draw Phase you can Special Cast a 1 Spirit {earth} Elestral from your Underworld.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth",
+        "earth"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

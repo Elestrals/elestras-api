@@ -1,0 +1,42 @@
+{
+    "id": "cd-241",
+    "base_name": "Lycarus",
+    "title": null,
+    "set_number": "SS1-12",
+    "sort_number": "SS1-12",
+    "name": "Lycarus",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Shattered Stars M02 - Wind",
+    "set_id": "st-95",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085578/SS1-12LycarusNoWatermark_egdp12?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152445/Lycarus_FA_viymzn?_a=BATAXdXy0",
+    "creature_id": "el-5",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "wind"
+    ],
+    "cost": [],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

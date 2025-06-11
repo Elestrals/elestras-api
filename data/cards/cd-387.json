@@ -1,0 +1,44 @@
+{
+    "id": "cd-387",
+    "base_name": "Rhinosect",
+    "title": null,
+    "set_number": "DB1-062",
+    "sort_number": "DB1-062",
+    "name": "Rhinosect",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990505/DB1-062RhinosectNoWatermark_w42gs7?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484016/Rhinosect_ysk0do?_a=BATAXdXy0",
+    "creature_id": "el-234",
+    "total_cost": 2,
+    "attack": 8,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Rhinosect can be Special Cast from your\nhand if you have a card that is originally an\nElestral in your Rune Row. You can target\nand destroy an Empowered Elestral.",
+    "effect": "This Rhinosect can be Special Cast from your hand if you have a card that is originally an Elestral in your Rune Row. You can target and destroy an Empowered Elestral.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost",
+        "frost"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

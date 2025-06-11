@@ -1,0 +1,41 @@
+{
+    "id": "cd-844",
+    "base_name": "Divine Blessing",
+    "title": null,
+    "set_number": "FF1-083",
+    "sort_number": "FF1-083",
+    "name": "Divine Blessing",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723760077/FF1-083DivineBlessingNoWatermarkHolo_gksiy4?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Divine Blessing can only be Cast when\nan opponent activates an Invoke Rune.\nDisenchant {omni} from your field in order to\nNegate that Rune.",
+    "effect": "This Divine Blessing can only be played when an opponent activates an Invoke Rune. Disenchant {omni} from your field in order to Negate that Rune.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

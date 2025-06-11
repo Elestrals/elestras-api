@@ -1,0 +1,14 @@
+{
+    "id": "st-72",
+    "name": "Majesea Starter Deck",
+    "type": "starter_deck",
+    "abbr": "SD03",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "release_date": "2024-03-15T00:00:00.000Z",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724249314/MajeseaSDBanner_kseq1b?_a=BATAXdXy0",
+    "icon": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724248078/Majesea_SD_uxthiq.svg",
+    "stamp": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724249403/Majesea_Starter_Deck_wycoop.png",
+    "logo": null,
+    "series_code": "FE01"
+}

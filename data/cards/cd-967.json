@@ -1,0 +1,45 @@
+{
+    "id": "cd-967",
+    "base_name": "Eyevory",
+    "title": null,
+    "set_number": "BS1-044",
+    "sort_number": "BS1-044",
+    "name": "Eyevory",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245656/BS1-044Eyevory_d0hf9j?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473603/Render_-_EyevoryBS1-044_tz2ign?_a=BATAXdXy0",
+    "creature_id": "el-43",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 8,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Eyevory gets +2 {attack} for every Typhlant in\nyour Underworld. You can Expend {water}\nin order to Special Cast a Typhlant from\nyour Underworld in Attack Position.",
+    "effect": "This Eyevory gets +2 {attack} for each Typhlant in your Underworld. You can Expend {water} in order to Special Cast a Typhlant from your Underworld in Attack Position.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "aquatic",
+        "behemoth"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

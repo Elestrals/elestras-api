@@ -1,0 +1,43 @@
+{
+    "id": "cd-882",
+    "base_name": "Astrabbit",
+    "title": null,
+    "set_number": "PR1-11",
+    "sort_number": "PR1-11",
+    "name": "Astrabbit",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Kickstarter Promos",
+    "set_id": "st-4",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724091099/PR1-11AstrabbitStellarNoWatermarkHolo_vrl9sw?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154795/Astrabbit_jqn4im?_a=BATAXdXy0",
+    "creature_id": "el-49",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Astrabbit receives 1 or more {thunder}\nyou can look at the top 3 cards of your deck,\nthen add 1 of them to your hand and\nshuffle the rest into your deck.",
+    "effect": "When this Astrabbit receives 1 or more {thunder} you can look at the top 3 cards of your deck, then add 1 of them to your hand and shuffle the rest into your deck.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

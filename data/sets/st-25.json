@@ -1,0 +1,14 @@
+{
+    "id": "st-25",
+    "name": "Kryoscorch Starter Deck",
+    "type": "starter_deck",
+    "abbr": "SD06",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "release_date": "2024-05-15T00:00:00.000Z",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724249305/KryoscorchSDBanner_exhu9w?_a=BATAXdXy0",
+    "icon": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724247922/Kryoscorch_SD_wmuvaa.svg",
+    "stamp": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724249408/Kryoscorch_Starter_Deck_weshnv.png",
+    "logo": null,
+    "series_code": "FE02"
+}

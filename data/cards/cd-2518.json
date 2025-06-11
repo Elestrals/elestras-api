@@ -1,0 +1,45 @@
+{
+    "id": "cd-2518",
+    "base_name": "Peagust",
+    "title": null,
+    "set_number": "SS2-042",
+    "sort_number": "SS2-042",
+    "name": "Peagust",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Shattered Stars M13 - Aquarius",
+    "set_id": "st-86",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776317/SS2-042Peagust_lxdjud?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154211/Peagust_SS2_tnovwg?_a=BATAXdXy0",
+    "creature_id": "el-62",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Peagust receives 1 or more {wind} you\ncan target and destroy a Rune.",
+    "effect": "When this Peagust receives 1 or more {wind} you can target and destroy a Rune.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

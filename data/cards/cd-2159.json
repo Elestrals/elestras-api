@@ -1,0 +1,43 @@
+{
+    "id": "cd-2159",
+    "base_name": "Exaltair",
+    "title": "Champion of Hermes",
+    "set_number": "FST-SD052",
+    "sort_number": "FST-SD052",
+    "name": "Exaltair - Champion of Hermes",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755794/FST-SD052ExaltairCoH_ba9dyn?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900138/ExaltairCoH_borderized_qjjyba?_a=BATAXdXy0",
+    "creature_id": "el-92",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Exaltair cannot be destroyed in battle\nthe turn you Special Cast it from your\nUnderworld. While your Hermes\nis Enchanted this Exaltair gets +3 {attack}.",
+    "effect": "This Exaltair cannot be destroyed in battle the turn you Special Cast it from your Underworld. While your Hermes is Enchanted this Exaltair gets +3 {attack}.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "avian"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "cd-1589",
+    "base_name": "Polzer",
+    "title": null,
+    "set_number": "KSC-07",
+    "sort_number": "KSC-07",
+    "name": "Polzer",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Clash! Promos",
+    "set_id": "st-76",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741908822/KSC-07_StellarPolzer_igl9rk?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746758502/Polzer_ey5zjq?_a=BATAXdXy0",
+    "creature_id": "el-236",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Polzer gets +1 {attack} for each {frost} Elestral in\nyour Underworld. This effect cannot increase\nthis Polzer’s {attack} by more than +5 total.",
+    "effect": "This Polzer gets +1 {attack} for each {frost} Elestral in your Underworld. This effect cannot increase this Polzer's {attack} by more than +5 total.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "eldritch",
+        "brute"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

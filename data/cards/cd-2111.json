@@ -1,0 +1,42 @@
+{
+    "id": "cd-2111",
+    "base_name": "Teratlas",
+    "title": null,
+    "set_number": "FST-SD001",
+    "sort_number": "FST-SD001",
+    "name": "Teratlas",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755767/FST-SD001Teratlas_aqa5qq?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900094/Teratlas_borderized_effgss?_a=BATAXdXy0",
+    "creature_id": "el-2",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "earth"
+    ],
+    "cost": [],
+    "subclasses": [
+        "insectoid",
+        "golem"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

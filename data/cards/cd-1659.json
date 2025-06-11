@@ -1,0 +1,44 @@
+{
+    "id": "cd-1659",
+    "base_name": "Carryon",
+    "title": "Champion of Hermes",
+    "set_number": "FST-048",
+    "sort_number": "FST-048",
+    "name": "Carryon - Champion of Hermes",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739328984/FST-048Carryon_kze0hx?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900191/CarryonCoH_borderized_juatwq?_a=BATAXdXy0",
+    "creature_id": "el-44",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Carryon is sent from your deck\nto the Underworld with your Hermes’\neffect you can Special Cast it from your\nUnderworld using {wind} from either your\nSpirit Deck or your Underworld.",
+    "effect": "When this Carryon is sent from your deck to the Underworld with your Hermes' effect you can Special Cast it using {wind} from either your Spirit Deck or Underworld.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

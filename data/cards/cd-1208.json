@@ -1,0 +1,42 @@
+{
+    "id": "cd-1208",
+    "base_name": "Nectar of the Gods",
+    "title": null,
+    "set_number": "PR1-33",
+    "sort_number": "PR1-33",
+    "name": "Nectar of the Gods",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "First Edition Promos",
+    "set_id": "st-51",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724091124/PR1-33NectarofthegodsStellarNoWatermarkHolo_je7ucu?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154860/Nectar_of_the_Gods_igmekz?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Draw 2 cards.",
+    "effect": "Draw 2 cards.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni",
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

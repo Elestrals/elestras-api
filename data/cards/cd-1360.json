@@ -1,0 +1,46 @@
+{
+    "id": "cd-1360",
+    "base_name": "Majesea",
+    "title": null,
+    "set_number": "XX/10",
+    "sort_number": "SS1-S19",
+    "name": "Majesea",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Shattered Stars M09 - Celebration",
+    "set_id": "st-102",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085658/SS1-MajeseaStellarNoWatermarkHolo_xiauk8?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152961/Majesea_FA_vslzoz?_a=BATAXdXy0",
+    "creature_id": "el-16",
+    "total_cost": 3,
+    "attack": 6,
+    "defense": 14,
+    "serialized_stellar": true,
+    "serialized_population": 10,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Majesea gets +1 {attack} for each Enchanting {water}\non your field. {water}-Enchanted Elestrals cannot\nbe targeted by opponents’ Elestral effects.",
+    "effect": "This Majesea gets +1 {attack} for each Enchanting {water} on your field. {water}-Enchanted Elestrals cannot be targeted by opponents' Elestral effects.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "dragon"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

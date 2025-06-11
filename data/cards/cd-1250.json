@@ -1,0 +1,43 @@
+{
+    "id": "cd-1250",
+    "base_name": "Vysceris",
+    "title": null,
+    "set_number": "TP1-02",
+    "sort_number": "TP1-02",
+    "name": "Vysceris",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Elliot Moguilner",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087764/TP1-02VyscerisNoWatermark_iwiuor?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146314/Vysceris_TP1_q9zyls?_a=BATAXdXy0",
+    "creature_id": "el-68",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Vysceris gets +1 {attack} for each Vysceris\non the field. When this Vysceris destroys\nan Elestral in battle you can Special Cast\na Vysceris from your hand or deck\nin Defense Position.",
+    "effect": "This Vysceris gains +1 {attack} for each Vysceris on the field. When this Vysceris destroys an Elestral in battle you can Special Cast a Vysceris from your hand or deck in Defense Position.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

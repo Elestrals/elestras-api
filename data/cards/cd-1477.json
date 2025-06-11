@@ -1,0 +1,45 @@
+{
+    "id": "cd-1477",
+    "base_name": "Tornadjinn",
+    "title": null,
+    "set_number": "MR1-059",
+    "sort_number": "MR1-059",
+    "name": "Tornadjinn",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731367720/MR1-059TornadjinnHolo_ajdpkb?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541466/Tornadjinn_borderized_d3hfm8?_a=BATAXdXy0",
+    "creature_id": "el-283",
+    "total_cost": 2,
+    "attack": 8,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {wind}/{solar} in order to Search\nyour deck for 3 cards with different names.\nIf you do, add 1 at random to your hand and\nshuffle the rest into your deck.",
+    "effect": "You can Expend {wind}/{solar} in order to Search your deck for 3 cards with different names. If you do, add 1 at random to your hand and shuffle the rest into your deck.",
+    "elements": [
+        "wind",
+        "solar"
+    ],
+    "cost": [
+        "wind",
+        "solar"
+    ],
+    "subclasses": [
+        "spectral"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

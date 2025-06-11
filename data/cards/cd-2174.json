@@ -1,0 +1,44 @@
+{
+    "id": "cd-2174",
+    "base_name": "Specteris",
+    "title": null,
+    "set_number": "FST-SD063",
+    "sort_number": "FST-SD063",
+    "name": "Specteris",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "M. Romo - Bromojumbo",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755877/FST-SD063Specteris_hdpeqg?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731483996/Specteris_os85q1?_a=BATAXdXy0",
+    "creature_id": "el-208",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Specteris gets +1 {attack} for each Suppressed\nElestral on the field. When this Specteris\nenters battle with an Elestral you can\nSuppress that Elestral until the End Phase.",
+    "effect": "This Specteris gets +1 {attack} for each Suppressed Elestral on the field. When this Specteris enters battle with an Elestral you can Suppress that Elestral until the next turn.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "insectoid",
+        "spectral"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "cd-1770",
+    "base_name": "Vysceris",
+    "title": null,
+    "set_number": "FST-015",
+    "sort_number": "FST-015",
+    "name": "Vysceris",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739328787/FST-015Vysceris_wlb2cy?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900102/Vysceris_borderized_ecw5bh?_a=BATAXdXy0",
+    "creature_id": "el-68",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Vysceris gets +1 {attack} for each Vysceris\non the field. While there is another\nVysceris on your field this Vysceris is\nUnaffected by opponents’ Counter Runes.",
+    "effect": "This Vysceris gains +1 {attack} for each Vysceris on the field. While there is another Vysceris on your field this Vysceris is Unaffected by opponents' Counter Runes.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

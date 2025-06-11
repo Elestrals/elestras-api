@@ -1,0 +1,44 @@
+{
+    "id": "cd-713",
+    "base_name": "Emphyrix",
+    "title": null,
+    "set_number": "BS1-116",
+    "sort_number": "BS1-116",
+    "name": "Emphyrix",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245892/BS1-116EmphyrixFAHolo_yjm5qs?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154761/Emphyrix_FA_kyr9s9?_a=BATAXdXy0",
+    "creature_id": "el-93",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Emphyrix is destroyed in battle\nor by an opponent’s card effect you can\nExpend {fire}. If you do, during this turn’s\nEnd Phase you can Special Cast it.",
+    "effect": "When this Emphyrix is destroyed in battle or by an opponent's card effect you can Expend {fire}. If you do, during this turn's End Phase you can Special Cast it from your Underworld.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

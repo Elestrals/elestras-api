@@ -1,0 +1,45 @@
+{
+    "id": "cd-1207",
+    "base_name": "Hummburst",
+    "title": null,
+    "set_number": "DB1-046",
+    "sort_number": "DB1-046",
+    "name": "Hummburst",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990460/DB1-046HummburstNoWatermark_u5ylds?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731483998/Hummburst_sbqmo8?_a=BATAXdXy0",
+    "creature_id": "el-218",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {fire}{solar} from this Hummburst\nto force an opponent to send the top 6 cards\nfrom their deck to their Underworld.",
+    "effect": "You can Disenchant {fire}{solar} from this Hummburst to force an opponent to send the top 6 cards from their deck to their Underworld.",
+    "elements": [
+        "fire",
+        "solar"
+    ],
+    "cost": [
+        "fire",
+        "solar"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

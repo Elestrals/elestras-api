@@ -1,0 +1,45 @@
+{
+    "id": "cd-1465",
+    "base_name": "Enfornax",
+    "title": null,
+    "set_number": "MR1-046",
+    "sort_number": "MR1-046",
+    "name": "Enfornax",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924484/MR1-046Enfornax_qfxgpd?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541414/Enfornax_borderized_fwwsm8?_a=BATAXdXy0",
+    "creature_id": "el-272",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 7,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {wind} in order to return\nan opponent's card to their hand.\nWhen you Cast an Elestral or Rune\nwith at least {fire}/{wind} you can give this\nEnfornax +2 {attack} until the End Phase.",
+    "effect": "You can Expend {wind} in order to return an opponent's card to their hand. When you Cast a card with at least {fire}/{wind} you can give this Enfornax +2 {attack} until the next turn.",
+    "elements": [
+        "fire",
+        "wind"
+    ],
+    "cost": [
+        "fire",
+        "wind"
+    ],
+    "subclasses": [
+        "archaic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

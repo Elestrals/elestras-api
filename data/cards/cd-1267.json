@@ -1,0 +1,46 @@
+{
+    "id": "cd-1267",
+    "base_name": "Anocell",
+    "title": null,
+    "set_number": "TP1-19",
+    "sort_number": "TP1-19",
+    "name": "Anocell",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087776/TP1-19AnocellStellarNoWatermarkHolo_knthcf?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146322/Anocell_wzj5bd?_a=BATAXdXy0",
+    "creature_id": "el-225",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {solar}{solar} in order to\nSpecial Ascend this Anocell to\nPhosvocell from your hand or deck.\nWhen you Cast a Rune with {solar} you can Enchant\n{thunder} from your Underworld to this Anocell. ",
+    "effect": "You can Expend {solar}{solar} in order to Special Ascend this Anocell to Phosvocell from your hand or deck. When you Cast a Rune with {solar} you can Enchant {thunder} from your Underworld to this Anocell.",
+    "elements": [
+        "thunder",
+        "solar"
+    ],
+    "cost": [
+        "thunder",
+        "solar"
+    ],
+    "subclasses": [
+        "insectoid",
+        "dragon"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

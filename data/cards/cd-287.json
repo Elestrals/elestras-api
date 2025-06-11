@@ -1,0 +1,43 @@
+{
+    "id": "cd-287",
+    "base_name": "Ursmog",
+    "title": null,
+    "set_number": "BS1-024",
+    "sort_number": "BS1-024",
+    "name": "Ursmog",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088354/BS1-024UrsmogNoWatermark_eiaj27?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473637/Render_-_UrsmogBS1-024_mjnyax?_a=BATAXdXy0",
+    "creature_id": "el-26",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {fire} in order to\nSpecial Cast a 1 Spirit {ursa} Elestral\nfrom your hand.",
+    "effect": "You can Expend {fire} in order to Special Cast a 1 Spirit {ursa} Elestral from your hand.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "ursa"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

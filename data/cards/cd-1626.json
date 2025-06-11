@@ -1,0 +1,47 @@
+{
+    "id": "cd-1626",
+    "base_name": "Cedarsaur",
+    "title": null,
+    "set_number": "SS2-087",
+    "sort_number": "SS2-087",
+    "name": "Cedarsaur",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Shattered Stars M16 - Taurus",
+    "set_id": "st-89",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740349203/SS2-087Cedarsaur_gpnyxj?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746135260/Cedarsaur_ohhduu?_a=BATAXdXy0",
+    "creature_id": "el-267",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Cedarsaur is sent from your deck to\nthe Underworld you can Special Cast it\nwith {earth}{earth} or {frost}{frost}. You can Expend {earth}\nin order to search your deck for a\n3 Spirit {earth}/{frost} Elestral and add it to your hand.\r",
+    "effect": "When this Cedarsaur is sent from your deck to your Underworld you can Special Cast it with {earth}{earth} or {frost}{frost}. You can Expend {earth} in order to Search your deck for a 3 Spirit {earth}/{frost} Elestral and add it to your hand.",
+    "elements": [
+        "earth",
+        "frost"
+    ],
+    "cost": [
+        "earth",
+        "frost"
+    ],
+    "subclasses": [
+        "archaic",
+        "dryad"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

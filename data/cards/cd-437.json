@@ -1,0 +1,43 @@
+{
+    "id": "cd-437",
+    "base_name": "Sandstorm",
+    "title": null,
+    "set_number": "FF1-081",
+    "sort_number": "FF1-081",
+    "name": "Sandstorm",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723760007/FF1-081SandstormNoWatermark_e8uzw6?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "For each Elestral that is not {earth}-Enchanted,\nreturn it to its owner's hand if it is in Defense\nPosition. Otherwise, change it to Defense\nPosition. Until the End Phase those\nElestrals cannot change Position.",
+    "effect": "For each Elestral that is not {earth}-Enchanted, return it to its owner's hand if it is in Defense Position. Otherwise, change it to Defense Position. Until the next turn those Elestrals cannot change Position.",
+    "elements": [
+        "wind",
+        "earth"
+    ],
+    "cost": [
+        "wind",
+        "earth"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

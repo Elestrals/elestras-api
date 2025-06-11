@@ -1,0 +1,45 @@
+{
+    "id": "cd-686",
+    "base_name": "Gatobolt",
+    "title": null,
+    "set_number": "BS1-062",
+    "sort_number": "BS1-062",
+    "name": "Gatobolt",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Victor Rosales",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731022935/BS1-062GatoboltHolo_mqt8w7?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473600/Render_-_GatoboltBS1-062_m8mzmq?_a=BATAXdXy0",
+    "creature_id": "el-83",
+    "total_cost": 2,
+    "attack": 8,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can target a {thunder}-Enchanted Elestral and\ngive it +1 {attack} and +1 {defense} for each {thunder} Enchanting\nthis Gatobolt until the End Phase.",
+    "effect": "You can target a {thunder}-Enchanted Elestral and give it +1 {attack} and +1 {defense} for each {thunder} Enchanting this Gatobolt until the next turn.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder",
+        "thunder"
+    ],
+    "subclasses": [
+        "behemoth",
+        "archaic"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

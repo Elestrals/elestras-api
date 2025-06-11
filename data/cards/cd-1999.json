@@ -1,0 +1,43 @@
+{
+    "id": "cd-1999",
+    "base_name": "Bandiloon",
+    "title": null,
+    "set_number": "TP2-09",
+    "sort_number": "TP2-09",
+    "name": "Bandiloon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Organized Play Series 2",
+    "set_id": "st-46",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734037670/TP2-09Bandiloon_t8syfa?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146601/Bandiloon_TP2_ssndsg?_a=BATAXdXy0",
+    "creature_id": "el-259",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {lunar}{lunar} in order to take control\nof an opponent’s face-down Rune.",
+    "effect": "You can Expend {lunar}{lunar} in order to take control of an opponent's face-down Rune.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

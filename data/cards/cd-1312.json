@@ -1,0 +1,43 @@
+{
+    "id": "cd-1312",
+    "base_name": "Drakkid",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "SS1-S15",
+    "name": "Drakkid",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Shattered Stars M08 - Lunar",
+    "set_id": "st-101",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085635/SS1-DrakkidStellarNoWatermarkHolo_hy25za?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152982/Drakkid_pcrzwc?_a=BATAXdXy0",
+    "creature_id": "el-256",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 2,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can target a 1 Spirit Elestral and exchange\nits base {attack} with this Drakkid’s base {attack} until the\nEnd Phase. When a player Casts Rock and a Hard\nPlace you can Special Ascend this Drakkid to\nDrakking from your hand or deck.",
+    "effect": "You can target a 1 Spirit Elestral and exchange its base {attack} with this Drakkid's base {attack} until the next turn. When a player Casts Rock and a Hard Place you can Special Ascend this Drakkid to Drakking from your hand or deck.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

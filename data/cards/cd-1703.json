@@ -1,0 +1,46 @@
+{
+    "id": "cd-1703",
+    "base_name": "Majesea",
+    "title": "Champion of Poseidon",
+    "set_number": "FST-123",
+    "sort_number": "FST-123",
+    "name": "Majesea - Champion of Poseidon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Getsemani",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739405911/FST-123MajeseaCoPBT_tlp3zs?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900129/MajeseaCoPBT_borderized_le5zj7?_a=BATAXdXy0",
+    "creature_id": "el-16",
+    "total_cost": 3,
+    "attack": 6,
+    "defense": 14,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "While Poseidon is Enchanted and this Majesea is\nin Attack Position, Spirits Enchanting Elestrals\nare {water} instead of their original Element. You can\nreturn up to {water}{water} from your Underworld to your\nSpirit Deck if this Majesea is in Defense Position.",
+    "effect": "While Poseidon is Enchanted and this Majesea is in Attack Position, Spirits Enchanting Elestrals are {water} instead of their original Element. You can return up to {water}{water} from your Underworld to your Spirit Deck if this Majesea is in Defense Position.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "dragon"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

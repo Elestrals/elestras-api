@@ -1,0 +1,43 @@
+{
+    "id": "cd-553",
+    "base_name": "Tadpuff",
+    "title": null,
+    "set_number": "BS1-049",
+    "sort_number": "BS1-049",
+    "name": "Tadpuff",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088410/BS1-049TadpuffNoWatermark_f2snba?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473598/Render_-_TadpuffBS1-049_n7zay8?_a=BATAXdXy0",
+    "creature_id": "el-37",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {water} in order to Special Cast\nthis Tadpuff from your hand in\nAttack Position with {water}.",
+    "effect": "This Tadpuff can be Special Cast from your hand in Attack Position with {water} if you also Expend {water}.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "aquatic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

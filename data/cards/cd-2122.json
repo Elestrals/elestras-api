@@ -1,0 +1,46 @@
+{
+    "id": "cd-2122",
+    "base_name": "Spinosect",
+    "title": "Champion of Hermes",
+    "set_number": "FST-SD010",
+    "sort_number": "FST-SD010",
+    "name": "Spinosect - Champion of Hermes",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755802/FST-SD010SpinosectCoH_fl9xtp?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900102/SpinosectCoH_borderized_mbxa28?_a=BATAXdXy0",
+    "creature_id": "el-35",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 7,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Spinosect you can return\nan Elestral to its owner’s hand. When this\nSpinosect is sent from your field or deck to\nyour Underworld you can Nexus up to {wind}{wind}.",
+    "effect": "When you Cast this Spinosect you can return an Elestral to its owner's hand. When this Spinosect is sent from your field or deck to your Underworld you can Nexus up to {wind}{wind}.",
+    "elements": [
+        "earth",
+        "wind"
+    ],
+    "cost": [
+        "earth",
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

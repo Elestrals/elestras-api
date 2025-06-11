@@ -1,0 +1,45 @@
+{
+    "id": "cd-524",
+    "base_name": "Leonite",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "BS1-S03",
+    "name": "Leonite",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088462/BS1-LeoniteStellarNoWatermarkHolo_bp0hip?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154874/Leonite_mbsxak?_a=BATAXdXy0",
+    "creature_id": "el-78",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 2,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "While this Leonite is in Attack Position\nplayers cannot Cast Invoke Runes.",
+    "effect": "While this Leonite is in Attack Position players cannot play Invoke Runes.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "behemoth",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

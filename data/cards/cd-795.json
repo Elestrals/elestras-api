@@ -1,0 +1,41 @@
+{
+    "id": "cd-795",
+    "base_name": "Mt. Olympus",
+    "title": null,
+    "set_number": "SD04-17",
+    "sort_number": "SD04-17",
+    "name": "Mt. Olympus",
+    "alias": null,
+    "card_type": "rune_stadium",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Ohmperial Starter Deck",
+    "set_id": "st-75",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724096102/SD04-17MtOlympusNoWatermark_z4my7t?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Elestrals get +1 {attack} and +1 {defense} for\neach {thunder} Enchanting them.",
+    "effect": "Elestrals get +1 {attack} and +1 {defense} for each {thunder} Enchanting them.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

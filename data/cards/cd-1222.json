@@ -1,0 +1,44 @@
+{
+    "id": "cd-1222",
+    "base_name": "Nebuleo",
+    "title": null,
+    "set_number": "DB1-016",
+    "sort_number": "DB1-016",
+    "name": "Nebuleo",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990445/DB1-016NebuleoNoWatermark_dy87ac?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731483987/Nebuleo_pqam7j?_a=BATAXdXy0",
+    "creature_id": "el-184",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Nebuleo gets +1 {attack} for each\nEnchanting {solar} on the field.\nYou can Foretell 4 and add any number of\nNebuleo, Leobrite, Celestleo, and/or First Light\nForetold this way to your hand.",
+    "effect": "This Nebuleo gets +1 {attack} for each Enchanting {solar} on the field. You can Foretell 4 and add any number of Nebuleo, Leobrite, Celestleo, and/or First Light Foretold this way to your hand.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

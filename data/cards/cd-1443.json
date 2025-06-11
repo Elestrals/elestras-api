@@ -1,0 +1,45 @@
+{
+    "id": "cd-1443",
+    "base_name": "Ectopossum",
+    "title": null,
+    "set_number": "MR1-021",
+    "sort_number": "MR1-021",
+    "name": "Ectopossum",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924379/MR1-021Ectopossum_zx5bdv?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541477/Ectopossum_borderized_vxtlnd?_a=BATAXdXy0",
+    "creature_id": "el-249",
+    "total_cost": 2,
+    "attack": 3,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Ectopossum is sent from your\nhand or deck to the Underworld you\ncan Expend {lunar} in order to Special Cast\nit from your Underworld with {lunar}{lunar}.",
+    "effect": "When this Ectopossum is sent from your hand or deck to your Underworld you can Expend {lunar} in order to Special Cast it from your Underworld with {lunar}{lunar}.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar",
+        "lunar"
+    ],
+    "subclasses": [
+        "brute",
+        "spectral"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

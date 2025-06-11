@@ -1,0 +1,45 @@
+{
+    "id": "cd-1362",
+    "base_name": "Waspivy",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "SS1-S17",
+    "name": "Waspivy",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Shattered Stars M09 - Celebration",
+    "set_id": "st-102",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085644/SS1-WaspivyStellarNoWatermarkHolo_c7pdms?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152892/Waspivy_tth6nj?_a=BATAXdXy0",
+    "creature_id": "el-159",
+    "total_cost": 2,
+    "attack": 8,
+    "defense": 1,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Waspivy is destroyed in battle\nan opponent must Expend {omni}{omni}{omni}.\nThis Waspivy is Unaffected by opponents’\nCounter Runes if it Ascended from Cyanectar.",
+    "effect": "When this Waspivy is destroyed in battle an opponent must Expend {omni}{omni}{omni}. This Waspivy is Unaffected by opponents' Counter Runes if it Ascended from Cyanectar.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth",
+        "earth"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

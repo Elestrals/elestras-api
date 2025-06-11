@@ -1,0 +1,43 @@
+{
+    "id": "cd-1195",
+    "base_name": "Warmite",
+    "title": null,
+    "set_number": "BS1-029",
+    "sort_number": "BS1-029",
+    "name": "Warmite",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245577/BS1-029Warmite_erc7fj?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473600/Render_-_WarmiteBS1-029_ggryxy?_a=BATAXdXy0",
+    "creature_id": "el-71",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can target an opponent’s Elestral and\ngive it -4 {attack} until the End Phase.",
+    "effect": "You can target an opponent's Elestral and give it -4 {attack} until the next turn.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

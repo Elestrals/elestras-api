@@ -1,0 +1,44 @@
+{
+    "id": "cd-1559",
+    "base_name": "Carryon",
+    "title": null,
+    "set_number": "MR1-060",
+    "sort_number": "MR1-060",
+    "name": "Carryon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924547/MR1-060Carryon_p3hgbg?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541421/Carryon_borderized_mcikpw?_a=BATAXdXy0",
+    "creature_id": "el-44",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Carryon is destroyed in battle you\ncan target the Elestral that destroyed it and take\ncontrol of that Elestral until the End Phase.",
+    "effect": "When this Carryon is destroyed in battle you can target the Elestral that destroyed it and take control of that Elestral until the next turn.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

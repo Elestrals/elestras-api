@@ -1,0 +1,41 @@
+{
+    "id": "cd-1165",
+    "base_name": "Poseidon",
+    "title": null,
+    "set_number": "SS1-42",
+    "sort_number": "SS1-42",
+    "name": "Poseidon",
+    "alias": null,
+    "card_type": "rune_divine",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Shattered Stars M04 - Water",
+    "set_id": "st-97",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085629/SS1-42PoseidonFARockNoWatermarkHolo_abz3ao?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152515/Poseidon_SS1_dmmtwy?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Poseidon you can Enchant\nup to {water}{water}{water} to it. You can Nexus {water}\nfrom this Poseidon.",
+    "effect": "When you Cast this Poseidon you can Enchant up to {water}{water}{water} to it. You can Nexus {water} from this Poseidon.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

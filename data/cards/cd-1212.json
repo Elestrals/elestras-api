@@ -1,0 +1,43 @@
+{
+    "id": "cd-1212",
+    "base_name": "Frosmite",
+    "title": null,
+    "set_number": "FF1-021",
+    "sort_number": "FF1-021",
+    "name": "Frosmite",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Tori Von",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759892/FF1-021FrosmiteNoWatermark_znm87u?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481811/Frosmite_nny1fe?_a=BATAXdXy0",
+    "creature_id": "el-124",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can target an opponent’s Elestral and\ngive it -5 {defense} until the End Phase.",
+    "effect": "You can target an opponent's Elestral and give it -5 {defense} until the next turn.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

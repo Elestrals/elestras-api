@@ -1,0 +1,45 @@
+{
+    "id": "cd-1270",
+    "base_name": "Charcoon",
+    "title": null,
+    "set_number": "TP1-22",
+    "sort_number": "TP1-22",
+    "name": "Charcoon",
+    "alias": "Cirrucoon",
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087778/TP1-22CharcoonStellarNoWatermarkHolo_wfjgmq?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146324/Charcoon_xqzkys?_a=BATAXdXy0",
+    "creature_id": "el-108",
+    "total_cost": 2,
+    "attack": 1,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "(This card always counts as Cirrucoon.)\nDuring your Draw Phase you can Special Ascend\nthis Charcoon to Flammamoth from your\nhand or deck if you have at least\n3 Enchanting {fire} on your field.",
+    "effect": "(This card always counts as Cirrucoon.) During your Draw Phase you can Special Ascend this Charcoon to Flammamoth from your hand or deck if you have at least 3 Enchanting {fire} on your field.",
+    "elements": [
+        "wind",
+        "fire"
+    ],
+    "cost": [
+        "wind",
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

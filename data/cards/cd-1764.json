@@ -1,0 +1,44 @@
+{
+    "id": "cd-1764",
+    "base_name": "Bunnyx",
+    "title": null,
+    "set_number": "FST-062",
+    "sort_number": "FST-062",
+    "name": "Bunnyx",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329041/FST-062Bunnyx_s73tay?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900143/Bunnyx_borderized_c7k9pg?_a=BATAXdXy0",
+    "creature_id": "el-299",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {frost} in order to Search your deck\nfor up to 2 Nyximera, then send 1 to your\nUnderworld and add the other to your hand. ",
+    "effect": "You can Expend {frost} in order to Search your deck for up to 2 Nyximera, then send 1 to your Underworld and add the other to your hand.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

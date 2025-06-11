@@ -1,0 +1,45 @@
+{
+    "id": "cd-1410",
+    "base_name": "Starbit",
+    "title": "Supernova",
+    "set_number": "SS2-032",
+    "sort_number": "SS2-032",
+    "name": "Starbit - Supernova",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Shattered Stars M12 - Capricorn",
+    "set_id": "st-85",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087260/SS2-032StarbitSupernovaNoWatermark_qcd7nt?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154228/Starbit_-_Supernova_SS2_vdfhtx?_a=BATAXdXy0",
+    "creature_id": "el-277",
+    "total_cost": 1,
+    "attack": 7,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Starbit cannot be Normal Cast. When you\nSpecial Cast this Starbit with another Starbit's\neffect, it gains the effect \"if this Starbit would be\ndestroyed, first you may Nexus all Spirits from\nit. If you do, draw a card. Then it is destroyed.\"",
+    "effect": "This Starbit cannot be Normal Cast. When you Special Cast this Starbit with another Starbit's effect, it gains the effect \"If this Starbit would be destroyed, first you may Nexus all Spirits from it. If you do, draw a card. Then it is destroyed.\"",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

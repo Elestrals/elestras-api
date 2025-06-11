@@ -1,0 +1,42 @@
+{
+    "id": "cd-710",
+    "base_name": "Necklace of Harmonia",
+    "title": null,
+    "set_number": "BS1-107",
+    "sort_number": "BS1-107",
+    "name": "Necklace of Harmonia",
+    "alias": null,
+    "card_type": "rune_artifact",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088419/BS1-107NecklaceofHarmoniaNoWatermark_n0hggx?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "The Empowered Elestral gets +5 {attack}.\nDuring their End Phase the controller\nof the Empowered Elestral must\nExpend {omni}{omni}. If they cannot, this\nNecklace of Harmonia is destroyed.",
+    "effect": "The Empowered Elestral gets +5 {attack}. During their End Phase the controller of the Empowered Elestral must Expend {omni}{omni}. If they cannot, this Necklace of Harmonia is destroyed.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni",
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

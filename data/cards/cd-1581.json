@@ -1,0 +1,46 @@
+{
+    "id": "cd-1581",
+    "base_name": "Krakatuga",
+    "title": null,
+    "set_number": "KSC-03",
+    "sort_number": "KSC-03",
+    "name": "Krakatuga",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Badafra",
+    "set": "Clash! Promos",
+    "set_id": "st-76",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741908814/KSC-03_StellarKrakatuga_mcwmlb?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746758510/Krakatuga_zyu1gt?_a=BATAXdXy0",
+    "creature_id": "el-90",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 9,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {fire}{fire} to force an\nopponent to Expend {omni}{omni}{omni}.\nWhen a player Casts Eruption you\ncan target and destroy a card.",
+    "effect": "You can Expend {fire}{fire} to force an opponent to Expend {omni}{omni}{omni}. When a player Casts Eruption you can target and destroy a card.",
+    "elements": [
+        "water",
+        "fire"
+    ],
+    "cost": [
+        "water",
+        "fire"
+    ],
+    "subclasses": [
+        "oceanic",
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

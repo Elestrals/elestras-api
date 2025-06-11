@@ -1,0 +1,44 @@
+{
+    "id": "cd-2048",
+    "base_name": "Caprefume",
+    "title": null,
+    "set_number": "TP3-17",
+    "sort_number": "TP3-17",
+    "name": "Caprefume",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Organized Play Series 3",
+    "set_id": "st-115",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545063/TP3-17_StellarCaprefume_vmlssu?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748835039/Caprefume_zcx1bp?_a=BATAXdXy0",
+    "creature_id": "el-106",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Caprefume gets +2 {attack} for each {fire} Elestral on the field. You can Expend {fire} in order to Special Cast a 1 Spirit {fire} Elestral from your hand.",
+    "effect": "This Caprefume gets +2 {attack} for each {fire} Elestral on the field. You can Expend {fire} in order to Special Cast a 1 Spirit {fire} Elestral from your hand.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

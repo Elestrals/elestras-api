@@ -1,0 +1,44 @@
+{
+    "id": "cd-234",
+    "base_name": "Boultuga",
+    "title": null,
+    "set_number": "DB1-037",
+    "sort_number": "DB1-037",
+    "name": "Boultuga",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990467/DB1-037BoultugaNoWatermark_g6epao?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731483988/Boultuga_qmiqmo?_a=BATAXdXy0",
+    "creature_id": "el-211",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Boultuga you\ncan Expend {earth} in order to Search your\ndeck and/or Underworld for an Eruption\nand add it to your hand.",
+    "effect": "When you Normal Cast this Boultuga you can Expend {earth} in order to Search your deck and/or Underworld for an Eruption and add it to your hand.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "dryad",
+        "golem"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

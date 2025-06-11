@@ -1,0 +1,41 @@
+{
+    "id": "cd-1547",
+    "base_name": "Lunar Phase",
+    "title": "Final Quarter",
+    "set_number": "MR1-126",
+    "sort_number": "MR1-126",
+    "name": "Lunar Phase - Final Quarter",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "reverse_stellar",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925277/MR1-126LunarPhase-FinalQuarterStellarHolo_ovr1t9?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541405/Moon7_borderized_ouo4no?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Search your deck for up to 2 Lunar Phase\nand send them to your Underworld.\nWhen this Lunar Phase is discarded by\nanother Lunar Phase you can return {lunar} from\nyour Underworld to your Spirit Deck.",
+    "effect": "Search your deck for up to 2 Lunar Phase and send them to your Underworld. When this Lunar Phase is discarded by another Lunar Phase you can return {lunar} from your Underworld to your Spirit Deck.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

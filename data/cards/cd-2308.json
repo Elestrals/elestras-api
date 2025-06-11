@@ -1,0 +1,43 @@
+{
+    "id": "cd-2308",
+    "base_name": "Aardbud",
+    "title": null,
+    "set_number": "SD11-13",
+    "sort_number": "SD11-13",
+    "name": "Aardbud",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Posthumoose Starter Deck",
+    "set_id": "st-49",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925778/SD11-13Aardbud_hs6xic?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746020876/Borderized_-_Aardbud_ng48zy?_a=BATAXdXy0",
+    "creature_id": "el-264",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {omni} from your {insectoid} cards in\norder to Special Ascend this Aardbud to\nAardvarum from your deck. When this Aardbud\nreceives 1 or more {earth} you can Search your deck\nfor a 1 Spirit {insectoid} Elestral and add it to your hand. ",
+    "effect": "You can Disenchant {omni} from your {insectoid} cards in order to Special Ascend this Aardbud to Aardvarum from your deck. When this Aardbud receives 1 or more {earth} you can Search your deck for a 1 Spirit {insectoid} Elestral and add it to your hand.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

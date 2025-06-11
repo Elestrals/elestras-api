@@ -1,0 +1,43 @@
+{
+    "id": "cd-1448",
+    "base_name": "Havocub",
+    "title": null,
+    "set_number": "MR1-026",
+    "sort_number": "MR1-026",
+    "name": "Havocub",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924330/MR1-026Havocub_axtrjg?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541460/Havocub_borderized_hfeuvz?_a=BATAXdXy0",
+    "creature_id": "el-254",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Havocub's Position cannot be\nchanged by opponents' card effects.",
+    "effect": "This Havocub's Position cannot be changed by opponents' card effects.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

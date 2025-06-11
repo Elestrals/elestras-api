@@ -1,0 +1,45 @@
+{
+    "id": "cd-621",
+    "base_name": "Lochagon",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "FF1-S07",
+    "name": "Lochagon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723760099/FF1-LochagonStellarNoWatermarkHolo_et0g13?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156212/LochagonStellar_hgtzue?_a=BATAXdXy0",
+    "creature_id": "el-135",
+    "total_cost": 2,
+    "attack": 2,
+    "defense": 6,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Lochagon gets +1 {attack} for each {water} in your\nUnderworld. When you return 1 or more {water}\nfrom your Underworld to your Spirit Deck\nyou can target and destroy a card.",
+    "effect": "This Lochagon gets +1 {attack} for each {water} in your Underworld. When you return 1 or more {water} from your Underworld to your Spirit Deck you can target and destroy a card.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "aquatic",
+        "dragon"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

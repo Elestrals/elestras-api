@@ -1,0 +1,46 @@
+{
+    "id": "cd-1515",
+    "base_name": "Drakking",
+    "title": null,
+    "set_number": "MR1-098",
+    "sort_number": "MR1-098",
+    "name": "Drakking",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "WreckingArt",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924978/MR1-098DrakkingFAHolo_idiqpq?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541495/DrakkingFA_borderized_ateuqx?_a=BATAXdXy0",
+    "creature_id": "el-257",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Drakking destroys an Elestral in\nbattle you can Special Cast that Elestral from\nthe Underworld with {lunar}/{water} Spirits only.\nWhile that Elestral is on your field,\nthis Drakking cannot be attacked.",
+    "effect": "When this Drakking destroys an Elestral in battle you can Special Cast that Elestral from the Underworld with {lunar}/{water} Spirits only. While that Elestral is on your field, this Drakking cannot be attacked.",
+    "elements": [
+        "lunar",
+        "water"
+    ],
+    "cost": [
+        "lunar",
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

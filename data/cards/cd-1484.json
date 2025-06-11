@@ -1,0 +1,44 @@
+{
+    "id": "cd-1484",
+    "base_name": "Cockaray",
+    "title": null,
+    "set_number": "MR1-067",
+    "sort_number": "MR1-067",
+    "name": "Cockaray",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924429/MR1-067Cockaray_u1bhjl?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541396/Cockaray_borderized_tva9qk?_a=BATAXdXy0",
+    "creature_id": "el-289",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Cockaray cannot be Suppressed.\nWhen you activate First Light you can\nSpecial Ascend this Cockaray to\nDracoray from your hand or deck.",
+    "effect": "This Cockaray cannot be Suppressed. When you activate First Light you can Special Ascend this Cockaray to Dracoray from your hand or deck.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "avian",
+        "dragon"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

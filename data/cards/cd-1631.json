@@ -1,0 +1,43 @@
+{
+    "id": "cd-1631",
+    "base_name": "Rhinymph",
+    "title": null,
+    "set_number": "SS2-097",
+    "sort_number": "SS2-097",
+    "name": "Rhinymph",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Shattered Stars M16 - Taurus",
+    "set_id": "st-89",
+    "subset": "reverse_stellar",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740349221/SS2-097StellarRhinymphReverse_pz9dw1?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746135830/Rhinymph_w3obuz?_a=BATAXdXy0",
+    "creature_id": "el-233",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {frost} in order to move this\nRhinymph to your Rune Row. It becomes\nan Artifact Rune Empowering an Elestral of\nyour choice with the effect \"The Empowered\nElestral is Suppressed and gets -2 {defense}\".\r",
+    "effect": "You can Expend {frost} in order to move this Rhinymph to your Rune Row. It becomes an Artifact Rune Empowering an Elestral of your choice with the effect \"The Empowered Elestral is Suppressed and gets -2 {defense}\".",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

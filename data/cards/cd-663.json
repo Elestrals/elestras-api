@@ -1,0 +1,44 @@
+{
+    "id": "cd-663",
+    "base_name": "Sparkitt",
+    "title": null,
+    "set_number": "SS1-04",
+    "sort_number": "SS1-04",
+    "name": "Sparkitt",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Rebecca Knott",
+    "set": "Shattered Stars M01 - Thunder",
+    "set_id": "st-13",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085576/SS1-04SparkittNoWatermark_ke6i7o?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152463/Sparkitt_SS1_ts5nvd?_a=BATAXdXy0",
+    "creature_id": "el-82",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {thunder}{thunder}.\nWhen you do, you can look at an\nopponent’s hand and discard a card from it.",
+    "effect": "You can Nexus up to {thunder}{thunder}. When you do, you can look at an opponent's hand and discard a card from it.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "brute",
+        "archaic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

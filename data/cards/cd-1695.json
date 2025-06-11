@@ -1,0 +1,43 @@
+{
+    "id": "cd-1695",
+    "base_name": "Breeze of Zephyros",
+    "title": null,
+    "set_number": "FST-093",
+    "sort_number": "FST-093",
+    "name": "Breeze of Zephyros",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329150/FST-093BreezeofZephyros_b6p3wf?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Nexus {wind}/{solar}.\nIf you do, you may give each {wind}/{solar}-Enchanted\nElestral on your field +2 {attack} and +2 {defense}\nuntil the next turn. ",
+    "effect": "Nexus {wind}/{solar}. If you do, you may give each {wind}/{solar}-Enchanted Elestral on your field +2 {attack} and +2 {defense} until the next turn.",
+    "elements": [
+        "wind",
+        "solar"
+    ],
+    "cost": [
+        "wind",
+        "solar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

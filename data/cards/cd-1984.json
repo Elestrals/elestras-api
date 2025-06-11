@@ -1,0 +1,43 @@
+{
+    "id": "cd-1984",
+    "base_name": "Smokee",
+    "title": null,
+    "set_number": "TP2-02",
+    "sort_number": "TP2-02",
+    "name": "Smokee",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Organized Play Series 2",
+    "set_id": "st-46",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734037672/TP2-02Smokee_ozeykc?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146590/Smokee_TP2_f62stq?_a=BATAXdXy0",
+    "creature_id": "el-153",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Special Cast this Smokee\nyou can draw 2 cards.",
+    "effect": "When you Special Cast this Smokee you can draw 2 cards.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

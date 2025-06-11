@@ -1,0 +1,44 @@
+{
+    "id": "cd-2521",
+    "base_name": "Windjinn",
+    "title": null,
+    "set_number": "SS2-045",
+    "sort_number": "SS2-045",
+    "name": "Windjinn",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Shattered Stars M13 - Aquarius",
+    "set_id": "st-86",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776318/SS2-045Windjinn_fa5van?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154206/Windjinn_SS2_ggzc48?_a=BATAXdXy0",
+    "creature_id": "el-282",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Windjinn receives 1 or more {wind} you\ncan name a card, then Foretell 3. If 1 or more\ncards with that name are Foretold this way, you\nmay add 1 to your hand and Special Ascend this\nWindjinn to Tornadjinn from your hand or deck.",
+    "effect": "When this Windjinn receives 1 or more {wind} your can name a card, then Foretell 3. If 1 or more cards with that name are Foretold this way, you may add 1 to your hand and Special Ascend this Windjinn to Tornadjinn from your hand or deck.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "spectral"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

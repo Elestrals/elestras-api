@@ -1,0 +1,42 @@
+{
+    "id": "cd-1340",
+    "base_name": "Helios' Chariot Ride",
+    "title": null,
+    "set_number": "SS1-106",
+    "sort_number": "SS1-106",
+    "name": "Helios' Chariot Ride",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Shattered Stars M09 - Celebration",
+    "set_id": "st-102",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085648/SS1-106HeliosChariotRideNoWatermarkHolo_wzbfjv?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Helios’ Chariot Ride can only be Cast\nduring the Draw Phase. Opponents\ncannot Cast Runes this turn.",
+    "effect": "This Helios' Chariot Ride can only be played during the Draw Phase. Opponents cannot play Runes this turn.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni",
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

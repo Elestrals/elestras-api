@@ -1,0 +1,44 @@
+{
+    "id": "cd-268",
+    "base_name": "Arctaurus",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "FF1-S03",
+    "name": "Arctaurus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723760078/FF1-ArctaurusStellarNoWatermarkHolo_lzenhj?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156225/ArctaurusStellar_i3dpvz?_a=BATAXdXy0",
+    "creature_id": "el-101",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {frost} in order to give this\nArctaurus +3 {attack} until the End Phase.\nThis Arctaurus’ effect can be activated\nup to 2 times on your turn.",
+    "effect": "You can Expend {frost} in order to give this Arctaurus +3 {attack} until the next turn. This effect can be activated up to 2 times a turn.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "golem",
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "cd-1582",
+    "base_name": "Roominous",
+    "title": null,
+    "set_number": "KSC-18",
+    "sort_number": "KSC-18",
+    "name": "Roominous",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Clash! Promos",
+    "set_id": "st-76",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741908823/KSC-18_StellarRoominousFA_lb0ve2?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746758506/Roominous_ehusgy?_a=BATAXdXy0",
+    "creature_id": "el-196",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Roominous deals damage to\nan opponent they must send the top 3 cards\nfrom their deck to their Underworld\nfor each Spirit they Expended.",
+    "effect": "When this Roominous deals damage to an opponent they must send the top 3 cards from their deck to the Underworld for each Spirit they Expended.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar",
+        "solar"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

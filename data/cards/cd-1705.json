@@ -1,0 +1,45 @@
+{
+    "id": "cd-1705",
+    "base_name": "Dracodoodle ",
+    "title": "Champion of Hermes",
+    "set_number": "FST-051",
+    "sort_number": "FST-051",
+    "name": "Dracodoodle  - Champion of Hermes",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739328984/FST-051Dracodoodle_etjgxf?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900134/DracodoodleCoH_borderized_czlzct?_a=BATAXdXy0",
+    "creature_id": "el-115",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When a Cockatoodle is sent to your Underworld\nyou can Special Cast this Dracodoodle from your\nUnderworld with {wind}{wind}. You may only play 1\nDracodoodle this way each turn. This Dracodoodle\ngets +2 {attack} for each Suppressed card on the field.",
+    "effect": "When a Cockatoodle is sent to your Underworld you can Special Cast this Dracodoodle from your Underworld with {wind}{wind}. You may only play 1 Dracodoodle this way each turn. This Dracodoodle gets +2 {attack} for each Suppressed card on the field.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "dragon"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

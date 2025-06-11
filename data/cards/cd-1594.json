@@ -1,0 +1,45 @@
+{
+    "id": "cd-1594",
+    "base_name": "Fowlicane",
+    "title": null,
+    "set_number": "KSC-17",
+    "sort_number": "KSC-17",
+    "name": "Fowlicane",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Getsemani",
+    "set": "Clash! Promos",
+    "set_id": "st-76",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741908822/KSC-17_StellarFowlicane_mrnqxi?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746758505/Fowlicane_tllmdz?_a=BATAXdXy0",
+    "creature_id": "el-63",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {wind} in order to destroy\nall Runes or Expend {wind}{wind} in order to\ndestroy each of your opponents’ Runes.",
+    "effect": "You can Expend {wind} in order to destroy all Runes or Expend {wind}{wind} in order to destroy each of your opponents' Runes.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

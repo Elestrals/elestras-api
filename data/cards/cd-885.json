@@ -1,0 +1,46 @@
+{
+    "id": "cd-885",
+    "base_name": "Penterror",
+    "title": null,
+    "set_number": "SD05-03",
+    "sort_number": "SD05-03",
+    "name": "Penterror",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Villiam Boom",
+    "set": "Penterror Starter Deck",
+    "set_id": "st-62",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724096372/SD05-03PenterrorNoWatermarkHolo_phdbac?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473645/Render_-_PenterrorSD05-03_nmvbd4?_a=BATAXdXy0",
+    "creature_id": "el-22",
+    "total_cost": 3,
+    "attack": 15,
+    "defense": 8,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Penterror is destroyed by an\nopponent’s card effect you can Special Cast\nany number of Hydrake and Twindra from\nyour hand or deck in Attack Position.",
+    "effect": "When this Penterror is destroyed by an opponent's card effect you can Special Cast any number of Hydrake or Twindra from your hand or deck in Attack Position.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "dragon",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

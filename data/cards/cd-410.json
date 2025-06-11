@@ -1,0 +1,44 @@
+{
+    "id": "cd-410",
+    "base_name": "Peagleam",
+    "title": null,
+    "set_number": "SD09-06",
+    "sort_number": "SD09-06",
+    "name": "Peagleam",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Pharogeist Starter Deck",
+    "set_id": "st-39",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723995250/SD09-06PeagleamNoWatermark_wkjqhb?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731483978/Peagleam_v1cfr7?_a=BATAXdXy0",
+    "creature_id": "el-193",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Peagleam receives 1 or more {solar}\nyou can target an Elestral and set its\nbase {attack} to 0 until the End Phase.",
+    "effect": "When this Peagleam receives 1 or more {solar} you can target an Elestral and set its base {attack} to 0 until the next turn.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

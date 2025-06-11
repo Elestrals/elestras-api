@@ -1,0 +1,44 @@
+{
+    "id": "cd-1684",
+    "base_name": "Soarlet",
+    "title": "Champion of Aeolus",
+    "set_number": "FST-045",
+    "sort_number": "FST-045",
+    "name": "Soarlet - Champion of Aeolus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739328969/FST-045Soarlet_cl1elv?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900171/SoarletCoA_borderized_eikasa?_a=BATAXdXy0",
+    "creature_id": "el-64",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Soarlet destroys an Elestral in battle\nyou can Search your deck for an Aeolus or a\nChampion of Aeolus and add it to your hand.",
+    "effect": "When this Soarlet destroys an Elestral in battle you can Search your deck for an Aeolus or a Champion of Aeolus and add it to your hand.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

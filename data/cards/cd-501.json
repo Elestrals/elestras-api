@@ -1,0 +1,43 @@
+{
+    "id": "cd-501",
+    "base_name": "Pandilence",
+    "title": null,
+    "set_number": "DB1-033",
+    "sort_number": "DB1-033",
+    "name": "Pandilence",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990524/DB1-033PandilenceNoWatermark_eeprao?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731483999/Pandicine_v2ug2m?_a=BATAXdXy0",
+    "creature_id": "el-207",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {lunar} from this Pandilence\nin order to return a Counter Rune from your\nUnderworld to your Rune Row face-down.",
+    "effect": "You can Disenchant {lunar} from this Pandilence in order to return a Counter Rune from your Underworld to your Rune Row face-down.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

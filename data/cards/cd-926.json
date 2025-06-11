@@ -1,0 +1,45 @@
+{
+    "id": "cd-926",
+    "base_name": "Solstox",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "DB1-S03",
+    "name": "Solstox",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989887/DB1-SolstoxStellarNoWatermarkHolo_g7rlly?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156694/SolstoxStellar_ggr4w6?_a=BATAXdXy0",
+    "creature_id": "el-198",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 7,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Special Cast this Solstox you\ncan Enchant up to {solar}{solar} from your\nUnderworld to your field.\nYou can Disenchant {solar} from your Apollo\nin order to target and destroy a card.",
+    "effect": "When you Special Cast this Solstox you can Enchant up to {solar}{solar} from your Underworld to your field. You can Disenchant {solar} from your Apollo in order to target and destroy a card.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar",
+        "solar"
+    ],
+    "subclasses": [
+        "behemoth",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

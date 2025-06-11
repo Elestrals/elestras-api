@@ -1,0 +1,43 @@
+{
+    "id": "cd-309",
+    "base_name": "Tadpuff",
+    "title": null,
+    "set_number": "PR1-21",
+    "sort_number": "PR1-21",
+    "name": "Tadpuff",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Bilsu",
+    "set": "Kickstarter Promos",
+    "set_id": "st-4",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724091121/PR1-21TadpuffStellarNoWatermarkHolo_nnkgb9?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-37",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {water} in order to Special Cast\nthis Tadpuff from your hand in\nAttack Position with {water}.",
+    "effect": "This Tadpuff can be Special Cast from your hand in Attack Position with {water} if you also Expend {water}.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "aquatic"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

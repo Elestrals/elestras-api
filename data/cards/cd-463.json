@@ -1,0 +1,43 @@
+{
+    "id": "cd-463",
+    "base_name": "Equilynx",
+    "title": null,
+    "set_number": "SD01-07",
+    "sort_number": "SD01-07",
+    "name": "Equilynx",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Centaurbor Starter Deck",
+    "set_id": "st-69",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724094225/SD01-07EquilynxNoWatermark_ocs3xu?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473598/Render_-_EquilynxBS1-017_dulnqi?_a=BATAXdXy0",
+    "creature_id": "el-67",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {earth}{earth}.\nWhen you do, you can target\nand destroy a Rune.",
+    "effect": "You can Nexus up to {earth}{earth}. When you do, you can target and destroy a Rune.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

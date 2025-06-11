@@ -1,0 +1,46 @@
+{
+    "id": "cd-963",
+    "base_name": "Trifernal",
+    "title": null,
+    "set_number": "SD02-03",
+    "sort_number": "SD02-03",
+    "name": "Trifernal",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Trifernal Starter Deck",
+    "set_id": "st-9",
+    "subset": "starter_deck",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724168986/SD02-03TrifernalNoWatermarkHolo_rh6stx?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473631/Render_-_TrifernalBS1-022_awkm0s?_a=BATAXdXy0",
+    "creature_id": "el-13",
+    "total_cost": 3,
+    "attack": 14,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When an opponent Casts an Elestral you\ncan Expend {fire} in order to give it -3 {defense} until\nyour next End Phase. If that Elestral’s {defense} is\nreduced to 0 by this effect, it is destroyed.",
+    "effect": "When an opponent Casts an Elestral you can Expend {fire} in order to give it -3 {defense} until your next turn. If that Elestral's {defense} is reduced to 0 by this effect, it is destroyed.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "eldritch",
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

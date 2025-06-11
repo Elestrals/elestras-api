@@ -1,0 +1,41 @@
+{
+    "id": "cd-2179",
+    "base_name": "Hestia's Hearth",
+    "title": null,
+    "set_number": "FST-SD067",
+    "sort_number": "FST-SD067",
+    "name": "Hestia's Hearth",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755841/FST-SD067Hestias_Hearth_nk7bh0?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900121/HestiasHearth_borderized_gbt9vp?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Enchant {fire} from your Underworld to a\ncard on your field. Then, if that card was Hestia\nor a Champion of Hestia you may Enchant an\nadditional {fire} from your Underworld to it.",
+    "effect": "Enchant {fire} from your Underworld to a card on your field. Then, if that card was Hestia or a Champion of Hestia you may Enchant an additional {fire} from your Underworld to it.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

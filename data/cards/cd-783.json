@@ -1,0 +1,43 @@
+{
+    "id": "cd-783",
+    "base_name": "Oystress",
+    "title": null,
+    "set_number": "SD03-08",
+    "sort_number": "SD03-08",
+    "name": "Oystress",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Majesea Starter Deck",
+    "set_id": "st-10",
+    "subset": "starter_deck",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724169338/SD03-08OystressNoWatermark_yukrn8?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473621/Render_-_OystressSD03-08_fj23uf?_a=BATAXdXy0",
+    "creature_id": "el-91",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Oystress gets +1 {defense} for each Enchanting {water} on the field.",
+    "effect": "This Oystress gets +1 {defense} for each Enchanting {water} on the field.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

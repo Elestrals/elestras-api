@@ -1,0 +1,45 @@
+{
+    "id": "cd-640",
+    "base_name": "Blazerus",
+    "title": null,
+    "set_number": "SD02-02",
+    "sort_number": "SD02-02",
+    "name": "Blazerus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Trifernal Starter Deck",
+    "set_id": "st-71",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724095432/SD02-02BlazerusNoWatermark_wsyywe?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473629/Render_-_BlazerusBS1-021_o2tntr?_a=BATAXdXy0",
+    "creature_id": "el-12",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Blazerus can attack twice during your\nBattle Phase. When this Blazerus destroys a\nsecond Elestral in the same Battle Phase\nyou can Special Ascend this Blazerus to\nTrifernal from your hand or deck.",
+    "effect": "This Blazerus can attack twice during your Battle Phase. When this Blazerus destroys a second Elestral in the same Battle Phase you can Special Ascend this Blazerus to Trifernal from your hand or deck.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "eldritch",
+        "behemoth"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

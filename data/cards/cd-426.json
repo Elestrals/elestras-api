@@ -1,0 +1,44 @@
+{
+    "id": "cd-426",
+    "base_name": "Quackle",
+    "title": null,
+    "set_number": "SS1-05",
+    "sort_number": "SS1-05",
+    "name": "Quackle",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Yassir",
+    "set": "Shattered Stars M01 - Thunder",
+    "set_id": "st-13",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085577/SS1-05QuackleNoWatermark_tpesrp?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152457/Quackle_SS1_fgmqfp?_a=BATAXdXy0",
+    "creature_id": "el-17",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Quackle you can return up\nto {thunder}{thunder}{thunder} from your Underworld\nto your Spirit Deck.",
+    "effect": "When you Cast this Quackle you can return up to {thunder}{thunder}{thunder} from your Underworld to your Spirit Deck.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

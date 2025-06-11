@@ -1,0 +1,45 @@
+{
+    "id": "cd-1297",
+    "base_name": "Lustragon",
+    "title": null,
+    "set_number": "XX/10",
+    "sort_number": "SS1-S14",
+    "name": "Lustragon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "WreckingArt",
+    "set": "Shattered Stars M07 - Solar",
+    "set_id": "st-100",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085659/SS1-LustragonStellarNoWatermarkHolo_w8fgya?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-181",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 6,
+    "serialized_stellar": true,
+    "serialized_population": 10,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {solar}{solar}{solar}.\nWhen this Lustragon receives 1 or more {solar} in a\nNexus you can target and destroy a card.",
+    "effect": "You can Nexus up to {solar}{solar}{solar}. When this Lustragon receives 1 or more {solar} in a Nexus you can target and destroy a card.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar",
+        "solar"
+    ],
+    "subclasses": [
+        "ethereal",
+        "dragon"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

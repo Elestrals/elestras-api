@@ -1,0 +1,44 @@
+{
+    "id": "cd-2239",
+    "base_name": "Plucky",
+    "title": "Champion of Apollo",
+    "set_number": "SS2-110",
+    "sort_number": "SS2-110",
+    "name": "Plucky - Champion of Apollo",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Shattered Stars M17 - Gemini",
+    "set_id": "st-90",
+    "subset": "reverse_stellar",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740354416/SS2-110StellarPluckyCoAReverse_zqtw21?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748833746/Plucky_CoA_r93sqb?_a=BATAXdXy0",
+    "creature_id": "el-203",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Plucky you\ncan Search your deck for a Lyre of Apollo\nand add it to your hand. When you Cast\na {solar} Rune you can return {solar} from your\nUnderworld to your Spirit Deck.\r",
+    "effect": "When you Normal Cast this Plucky you can Search your deck for a Lyre of Apollo and add it to your hand. When you Cast a {solar} Rune you can return {solar} from your Underworld to your Spirit Deck.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

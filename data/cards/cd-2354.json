@@ -1,0 +1,43 @@
+{
+    "id": "cd-2354",
+    "base_name": "Torchin",
+    "title": "Champion of Hestia",
+    "set_number": "TP3-16",
+    "sort_number": "TP3-16",
+    "name": "Torchin - Champion of Hestia",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Arnau Martin",
+    "set": "Organized Play Series 3",
+    "set_id": "st-115",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545071/TP3-16_StellarTorchinCoH_imaqoa?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748835002/Torchin_CoH_l4huhd?_a=BATAXdXy0",
+    "creature_id": "el-273",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Torchin you can Search your deck for a Hestia or a Torch of Hestia and add it to your hand. You can Nexus {fire}.",
+    "effect": "When you Cast this Torchin you can Search your deck for a Hestia or a Torch of Hestia and add it to your hand. You can Nexus {fire}.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

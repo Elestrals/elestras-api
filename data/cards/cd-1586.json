@@ -1,0 +1,45 @@
+{
+    "id": "cd-1586",
+    "base_name": "Hiboofin",
+    "title": null,
+    "set_number": "KSC-06",
+    "sort_number": "KSC-06",
+    "name": "Hiboofin",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Clash! Promos",
+    "set_id": "st-76",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741908817/KSC-06_StellarHiboofin_rdubwn?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746758505/Hiboofin_spafm0?_a=BATAXdXy0",
+    "creature_id": "el-129",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {wind}/{earth} in order to change each\nof your opponents’ Elestrals to Defense Position.\nWhile this Hiboofin is in Attack Position your\nopponents’ Defense Position\nElestrals are Suppressed.",
+    "effect": "You can Expend {wind}/{earth} in order to change each of your opponents' Elestrals to Defense Position. While this Hiboofin is in Attack Position your opponents' Defense Position Elestrals are Suppressed.",
+    "elements": [
+        "wind",
+        "earth"
+    ],
+    "cost": [
+        "wind",
+        "earth"
+    ],
+    "subclasses": [
+        "archaic"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

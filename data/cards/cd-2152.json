@@ -1,0 +1,47 @@
+{
+    "id": "cd-2152",
+    "base_name": "Voltempest",
+    "title": null,
+    "set_number": "FST-SD042",
+    "sort_number": "FST-SD042",
+    "name": "Voltempest",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755801/FST-SD042Voltempest_wgichx?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473605/Render_-_VoltempestBS1-060_qjzftk?_a=BATAXdXy0",
+    "creature_id": "el-61",
+    "total_cost": 3,
+    "attack": 13,
+    "defense": 10,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {thunder}/{wind} from this\nVoltempest to force an opponent to\nExpend {omni}{omni}{omni}. While Zeus is\nEnchanted this Voltempest cannot be\ntargeted by an opponent's card effect.",
+    "effect": "You can Disenchant {thunder}/{wind} from this Voltempest to force an opponent to Expend {omni}{omni}{omni}. While Zeus is Enchanted this Voltempest cannot be targeted by opponents’ card effects.",
+    "elements": [
+        "thunder",
+        "wind"
+    ],
+    "cost": [
+        "thunder",
+        "thunder",
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "behemoth"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

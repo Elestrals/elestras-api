@@ -1,0 +1,44 @@
+{
+    "id": "cd-2022",
+    "base_name": "Therahart",
+    "title": null,
+    "set_number": "TP2-25",
+    "sort_number": "TP2-25",
+    "name": "Therahart",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Organized Play Series 2",
+    "set_id": "st-46",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734037687/TP2-25TherahartStellarHolo_manz9n?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146585/Therahart_jzsxo6?_a=BATAXdXy0",
+    "creature_id": "el-241",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When a player activates a Counter Rune you\ncan Disenchant {lunar}{lunar} from your Artemis\nin order to Negate that Rune, then you\nmay Special Ascend this Therahart to\nPosthumoose from your hand or deck.",
+    "effect": "When a player activates a Counter Rune you can Disenchant {lunar}{lunar} from your Artemis in order to Negate that Rune, then you may Special Ascend this Therahart to Posthumoose from your hand or deck.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar",
+        "lunar"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

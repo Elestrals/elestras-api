@@ -1,0 +1,43 @@
+{
+    "id": "cd-1126",
+    "base_name": "Astrabbit",
+    "title": null,
+    "set_number": "SD07-08",
+    "sort_number": "SD07-08",
+    "name": "Astrabbit",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Emperowatt Starter Deck",
+    "set_id": "st-24",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723837414/SD07-08AstrabbitNoWatermark_ra0zv4?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473597/Render_-_AstrabbitBS1-068_n9hspi?_a=BATAXdXy0",
+    "creature_id": "el-49",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Astrabbit receives 1 or more {thunder}\nyou can look at the top 3 cards of your deck,\nthen add 1 of them to your hand and\nshuffle the rest into your deck.",
+    "effect": "When this Astrabbit receives 1 or more {thunder} you can look at the top 3 cards of your deck, then add 1 of them to your hand and shuffle the rest into your deck.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

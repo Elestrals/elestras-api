@@ -1,0 +1,45 @@
+{
+    "id": "cd-406",
+    "base_name": "Chrysoar",
+    "title": null,
+    "set_number": "BS1-077",
+    "sort_number": "BS1-077",
+    "name": "Chrysoar",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088398/BS1-077ChrysoarNoWatermark_v9ivab?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473635/Render_-_ChrysoarBS1-077_mxpmml?_a=BATAXdXy0",
+    "creature_id": "el-65",
+    "total_cost": 2,
+    "attack": 8,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Chrysoar can attack opponents’\nSpirit Decks directly. When this Chrysoar\ndeals damage to an opponent you\ncan return up to {wind}{wind} from your\nUnderworld to your Spirit Deck.",
+    "effect": "This Chrysoar can attack opponents' Spirit Decks directly. When this Chrysoar deals damage you can return up to {wind}{wind} from your Underworld to your Spirit Deck.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "behemoth",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "cd-1694",
+    "base_name": "Sirocco of Notus",
+    "title": null,
+    "set_number": "FST-090",
+    "sort_number": "FST-090",
+    "name": "Sirocco of Notus",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329147/FST-090SiroccoofNotus_tseiyh?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Until the next turn, players must also\nExpend {omni}{omni} in order to declare an attack\nwith an Elestral that is not {wind}/{fire}-Enchanted.",
+    "effect": "Until the next turn, players also have to Expend {omni}{omni} in order to declare an attack with an Elestral that is not {wind}/{fire}-Enchanted.",
+    "elements": [
+        "wind",
+        "fire"
+    ],
+    "cost": [
+        "wind",
+        "fire"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

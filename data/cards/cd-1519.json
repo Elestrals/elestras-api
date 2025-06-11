@@ -1,0 +1,46 @@
+{
+    "id": "cd-1519",
+    "base_name": "Carryoff",
+    "title": null,
+    "set_number": "MR1-102",
+    "sort_number": "MR1-102",
+    "name": "Carryoff",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924971/MR1-102CarryoffFAHolo_sj8ofp?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541489/CarryoffFA_borderized_i05r52?_a=BATAXdXy0",
+    "creature_id": "el-284",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When your Carryon is destroyed in battle you\ncan Special Cast this Carryoff from your hand.\nYou can Expend {lunar}{lunar} in order to target\nan opponent's Elestral and take control\nof it until the End Phase.",
+    "effect": "When your Carryon is destroyed in battle you can Special Cast this Carryoff from your hand. You can Expend {lunar}{lunar} in order to target an opponent's Elestral and take control of it until the next turn.",
+    "elements": [
+        "lunar",
+        "wind"
+    ],
+    "cost": [
+        "lunar",
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid",
+        "spectral"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

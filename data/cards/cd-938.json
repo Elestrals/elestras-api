@@ -1,0 +1,42 @@
+{
+    "id": "cd-938",
+    "base_name": "Teratlas",
+    "title": null,
+    "set_number": "BS1-121",
+    "sort_number": "BS1-121",
+    "name": "Teratlas",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088443/BS1-121TeratlasAANoWatermarkHolo_bxzx6q?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-2",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "earth"
+    ],
+    "cost": [],
+    "subclasses": [
+        "insectoid",
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

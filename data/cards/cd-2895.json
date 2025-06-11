@@ -1,0 +1,43 @@
+{
+    "id": "cd-2895",
+    "base_name": "Astrabbit",
+    "title": null,
+    "set_number": "DO25 3RD",
+    "sort_number": "DO25-P3",
+    "name": "Astrabbit",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "full_art",
+    "frame_material": "marble",
+    "artist": "Maumes",
+    "set": "Dallas Open 2025",
+    "set_id": "st-110",
+    "subset": "prizing",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742571569/DO25-P3_StellarAstrabbit_3RD_v7vkax?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746756793/Astrabbit_z5109o?_a=BATAXdXy0",
+    "creature_id": "el-49",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 5,
+    "serialized_stellar": true,
+    "serialized_population": 1,
+    "is_prize_card": true,
+    "prize_rank": "3rd",
+    "printed_effect": "When this Astrabbit receives 1 or more {thunder}\nyou can look at the top 3 cards of your deck,\nthen add 1 of them to your hand and\nshuffle the rest into your deck.",
+    "effect": "When this Astrabbit receives 1 or more {thunder} you can look at the top 3 cards of your deck, then add 1 of them to your hand and shuffle the rest into your deck.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

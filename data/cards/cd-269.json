@@ -1,0 +1,43 @@
+{
+    "id": "cd-269",
+    "base_name": "Tadfloe",
+    "title": null,
+    "set_number": "FF1-019",
+    "sort_number": "FF1-019",
+    "name": "Tadfloe",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Arnau Martin",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759921/FF1-019TadfloeNoWatermark_ba18j9?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481827/Tadfloe_z3arkj?_a=BATAXdXy0",
+    "creature_id": "el-155",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {frost} in order to Special Ascend\nthis Tadfloe to an Elestral with Enchantment\nCost {frost} or {frost}{frost} from your hand.",
+    "effect": "You can Expend {frost} in order to Special Ascend this Tadfloe to an Elestral with Enchantment Cost {frost} or {frost}{frost} from your hand.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "aquatic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

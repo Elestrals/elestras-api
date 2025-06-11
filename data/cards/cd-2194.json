@@ -1,0 +1,42 @@
+{
+    "id": "cd-2194",
+    "base_name": "Thunderstorm",
+    "title": null,
+    "set_number": "FST-SD084",
+    "sort_number": "FST-SD084",
+    "name": "Thunderstorm",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740022368/FST-SD084Thunderstorm_c8fgkm?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Target and destroy a Rune.",
+    "effect": "Target and destroy a Rune.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder",
+        "thunder"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

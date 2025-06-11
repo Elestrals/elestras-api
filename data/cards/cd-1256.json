@@ -1,0 +1,44 @@
+{
+    "id": "cd-1256",
+    "base_name": "Toxiswarm",
+    "title": null,
+    "set_number": "TP1-08",
+    "sort_number": "TP1-08",
+    "name": "Toxiswarm",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087769/TP1-08ToxiswarmNoWatermark_kkjtpj?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146313/Toxiswarm_TP1_qmjb4i?_a=BATAXdXy0",
+    "creature_id": "el-231",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Toxiswarm receives 1 or more {wind}\nyour opponents must Expend {omni}.",
+    "effect": "When this Toxiswarm receives 1 or more {wind} your opponents must Expend {omni}.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

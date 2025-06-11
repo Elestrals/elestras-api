@@ -1,0 +1,41 @@
+{
+    "id": "cd-2186",
+    "base_name": "Poseidon's Fury",
+    "title": null,
+    "set_number": "FST-SD073",
+    "sort_number": "FST-SD073",
+    "name": "Poseidon's Fury",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755815/FST-SD073Poseidons_Fury_vjqzbx?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900176/PoseidonsFury_borderized_l8sl25?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Disenchant any number of {water} from 1 or more\nof your Poseidon. An opponent Disenchants\nthe same number of {omni} from their field.",
+    "effect": "Disenchant any number of {water} from 1 or more of your Poseidon. An opponent Disenchants the same number of {omni} from their field.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

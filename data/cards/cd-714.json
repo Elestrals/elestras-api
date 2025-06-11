@@ -1,0 +1,43 @@
+{
+    "id": "cd-714",
+    "base_name": "Ampup",
+    "title": null,
+    "set_number": "BS1-056",
+    "sort_number": "BS1-056",
+    "name": "Ampup",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Dragonith",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245623/BS1-056Ampup_lmpuph?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746030894/Borderized_-_Ampup_gz3hsb?_a=BATAXdXy0",
+    "creature_id": "el-57",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {thunder} and discard this Ampup in\norder to Search your deck for up to 2 Ampup\nand add them to your hand.",
+    "effect": "You can Expend {thunder} and discard this Ampup in order to Search your deck for up to 2 Ampup and add them to your hand.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

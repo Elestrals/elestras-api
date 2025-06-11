@@ -1,0 +1,44 @@
+{
+    "id": "cd-1469",
+    "base_name": "Oystillery",
+    "title": null,
+    "set_number": "MR1-051",
+    "sort_number": "MR1-051",
+    "name": "Oystillery",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924514/MR1-051Oystillery_rrwq1s?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541455/Oystillery_borderized_jnazyl?_a=BATAXdXy0",
+    "creature_id": "el-276",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 8,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Oystillery in your hand can\nSpecial Ascend from your Oystress if\nyou also Disenchant {water} from your field.\nYou can discard a {water} card in order to\ntarget and destroy a card.",
+    "effect": "This Oystillery in your hand can Special Ascend from your Oystress if you also Disenchant {water} from your field. You can discard a {water} card in order to target and destroy a card.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

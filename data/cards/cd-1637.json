@@ -1,0 +1,45 @@
+{
+    "id": "cd-1637",
+    "base_name": "Majursa",
+    "title": null,
+    "set_number": "SS2-083",
+    "sort_number": "SS2-083",
+    "name": "Majursa",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "borderless_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Shattered Stars M16 - Taurus",
+    "set_id": "st-89",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740349203/SS2-083Majursa_lm8gng?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746135260/Majursa_Constellation_sun6ld?_a=BATAXdXy0",
+    "creature_id": "el-28",
+    "total_cost": 3,
+    "attack": 12,
+    "defense": 12,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Majursa gets +2 {attack} for each other {ursa}\nElestral on your field. Your 1 Spirit {ursa} Elestrals\ncannot be attacked and cannot be targeted\nby opponents' card effects.\r",
+    "effect": "This Majursa gets +2 {attack} for each other {ursa} Elestral on your field. Your 1 Spirit {ursa} Elestrals cannot be attacked and cannot be targeted by opponents' card effects.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "ursa"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

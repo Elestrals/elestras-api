@@ -1,0 +1,47 @@
+{
+    "id": "cd-1365",
+    "base_name": "Chronodile",
+    "title": null,
+    "set_number": "SS2-000",
+    "sort_number": "SS2-000",
+    "name": "Chronodile",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "tablet",
+    "artist": "Élite4",
+    "set": "Shattered Stars M07 - Solar",
+    "set_id": "st-100",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731570483/SS2-000ChronodileTabletHolo_lcvmwr?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-190",
+    "total_cost": 3,
+    "attack": 8,
+    "defense": 14,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {water} from this Chronodile in order to target and destroy a card. While you have at least 6 Enchanting {water}/{solar} this Chronodile cannot be targeted by opponents' card effects.",
+    "effect": "You can Disenchant {water} from this Chronodile in order to target and destroy a card. While you have at least 6 Enchanting {water}/{solar} on your field this Chronodile cannot be targeted by opponents' card effects.",
+    "elements": [
+        "water",
+        "solar"
+    ],
+    "cost": [
+        "water",
+        "water",
+        "solar"
+    ],
+    "subclasses": [
+        "aquatic",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "cd-1778",
+    "base_name": "Majursa",
+    "title": "Champion of Hestia",
+    "set_number": "FST-097",
+    "sort_number": "FST-097",
+    "name": "Majursa - Champion of Hestia",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739405903/FST-097MajursaCoHFA_odaqtq?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-28",
+    "total_cost": 3,
+    "attack": 8,
+    "defense": 13,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Majursa you can target\nand destroy cards up to the number\nof {ursa} Elestrals on your field.\nYour {ursa} Elestrals get +1 {attack} for each {fire}\nEnchanting each Hestia on the field.",
+    "effect": "When you Cast this Majursa you can target and destroy cards up to the number of {ursa} Elestrals on your field. Your {ursa} Elestrals get +1 {attack} for each {fire} Enchanting each Hestia on the field.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "ursa"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

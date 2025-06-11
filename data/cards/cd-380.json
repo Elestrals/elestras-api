@@ -1,0 +1,47 @@
+{
+    "id": "cd-380",
+    "base_name": "Chronodile",
+    "title": null,
+    "set_number": "XX/10",
+    "sort_number": "DB1-S18",
+    "name": "Chronodile",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989923/DB1-ChronodileFAStellarNoWatermarkHolo_zypx0i?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-190",
+    "total_cost": 3,
+    "attack": 8,
+    "defense": 14,
+    "serialized_stellar": true,
+    "serialized_population": 10,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {water} from this Chronodile\nin order to target and destroy a card.\nWhile you have at least 6 Enchanting\n{water}/{solar} this Chronodile cannot be\ntargeted by opponents' card effects.",
+    "effect": "You can Disenchant {water} from this Chronodile in order to target and destroy a card. While you have at least 6 Enchanting {water}/{solar} on your field this Chronodile cannot be targeted by opponents' card effects.",
+    "elements": [
+        "water",
+        "solar"
+    ],
+    "cost": [
+        "water",
+        "water",
+        "solar"
+    ],
+    "subclasses": [
+        "aquatic",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

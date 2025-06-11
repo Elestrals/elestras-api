@@ -1,0 +1,41 @@
+{
+    "id": "cd-989",
+    "base_name": "Tornado",
+    "title": null,
+    "set_number": "BS1-099",
+    "sort_number": "BS1-099",
+    "name": "Tornado",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245736/BS1-099Tornado_upzjlm?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Target an opponent’s Rune and\nreturn it to their hand.",
+    "effect": "Target an opponent's Rune and return it to the hand.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

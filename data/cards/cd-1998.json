@@ -1,0 +1,43 @@
+{
+    "id": "cd-1998",
+    "base_name": "Equilynx",
+    "title": null,
+    "set_number": "TP2-01",
+    "sort_number": "TP2-01",
+    "name": "Equilynx",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Organized Play Series 2",
+    "set_id": "st-46",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734037670/TP2-01Equilynx_brlpxv?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146595/Equilynx_TP2_k4rveo?_a=BATAXdXy0",
+    "creature_id": "el-67",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {earth}{earth}.\nWhen you do, you can target\nand destroy a Rune.",
+    "effect": "You can Nexus up to {earth}{earth}. When you do, you can target and destroy a Rune.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "cd-1116",
+    "base_name": "First Light",
+    "title": null,
+    "set_number": "SD09-17",
+    "sort_number": "SD09-17",
+    "name": "First Light",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Pharogeist Starter Deck",
+    "set_id": "st-39",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723995253/SD09-17FirstLightNoWatermark_ynxjjs?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Search your deck for a {solar} Elestral and\nput it on top of your deck.",
+    "effect": "Search your deck for a {solar} Elestral and put it on top of your deck.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

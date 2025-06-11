@@ -1,0 +1,14 @@
+{
+    "id": "st-46",
+    "name": "Organized Play Series 2",
+    "type": "specialty",
+    "abbr": "TP2",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "release_date": "2025-01-05T00:00:00.000Z",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734046036/OrganizedPlay2Banner_jtesu3?_a=BATAXdXy0",
+    "icon": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724247925/Tournament_Pack_aqyfcj.svg",
+    "stamp": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724252707/Tournament_Pack_uxhq7v.png",
+    "logo": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739305622/OP_Series_2_x7bqdk?_a=BATAXdXy0",
+    "series_code": "OP02"
+}

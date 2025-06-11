@@ -1,0 +1,43 @@
+{
+    "id": "cd-872",
+    "base_name": "Equilynx",
+    "title": null,
+    "set_number": "BS1-017",
+    "sort_number": "BS1-017",
+    "name": "Equilynx",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245567/BS1-017Equilynx_kmf6l4?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473598/Render_-_EquilynxBS1-017_dulnqi?_a=BATAXdXy0",
+    "creature_id": "el-67",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {earth}{earth}.\nWhen you do, you can target\nand destroy a Rune.",
+    "effect": "You can Nexus up to {earth}{earth}. When you do, you can target and destroy a Rune.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

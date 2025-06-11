@@ -1,0 +1,47 @@
+{
+    "id": "cd-530",
+    "base_name": "Kryoscorch",
+    "title": null,
+    "set_number": "SD06-03",
+    "sort_number": "SD06-03",
+    "name": "Kryoscorch",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Kryoscorch Starter Deck",
+    "set_id": "st-25",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727922936/SD06-03KryoscorchHolo_k60hnl?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481848/Kryoscorch_pzzsys?_a=BATAXdXy0",
+    "creature_id": "el-132",
+    "total_cost": 3,
+    "attack": 14,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Special Ascend into this Kryoscorch\nyou must destroy all Runes. You can Expend\nyour Spirit Deck (minimum 1 Spirit) to force\nyour opponents to Expend 5 Spirits.",
+    "effect": "When you Special Ascend into this Kryoscorch you must destroy all Runes. You can Expend your Spirit Deck to force your opponents to Expend 5 Spirits. (You must Expend minimum 1 Spirit.)",
+    "elements": [
+        "frost",
+        "fire"
+    ],
+    "cost": [
+        "frost",
+        "frost",
+        "fire"
+    ],
+    "subclasses": [
+        "dragon",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

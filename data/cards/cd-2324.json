@@ -1,0 +1,43 @@
+{
+    "id": "cd-2324",
+    "base_name": "Werepup",
+    "title": null,
+    "set_number": "PR4-03",
+    "sort_number": "PR4-03",
+    "name": "Werepup",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Moonrise Promos",
+    "set_id": "st-47",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727921739/PR4-03WerepupStellarHolo_fcjawz?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541443/WerepupStellar_borderized_o53pyk?_a=BATAXdXy0",
+    "creature_id": "el-252",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Werepup you can\nSearch your deck for a Lunar Phase and add it to\nyour hand. When you cast Lunar Phase-Full\nMoon you can Special Ascend this Werepup to\nLycavoid from your hand or deck.",
+    "effect": "When you Normal Cast this Werepup you can Search your deck for a Lunar Phase and add it to your hand. When you Cast Lunar Phase-Full Moon you can Special Ascend this Werepup to Lycavoid from your hand or deck.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

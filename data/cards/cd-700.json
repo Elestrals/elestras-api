@@ -1,0 +1,41 @@
+{
+    "id": "cd-700",
+    "base_name": "Demeter",
+    "title": null,
+    "set_number": "SS1-53",
+    "sort_number": "SS1-53",
+    "name": "Demeter",
+    "alias": null,
+    "card_type": "rune_divine",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Shattered Stars M05 - Earth",
+    "set_id": "st-98",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085650/SS1-53DemeterFARockNoWatermarkHolo_hnmzaj?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152510/Demeter_SS1_lstpgl?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Demeter you can Enchant\nup to {earth}{earth}{earth} to it. You can Disenchant {earth} from\nthis Demeter in order to target an Elestral and\ngive it +3 {attack} and +3 {defense} until the End Phase.",
+    "effect": "When you Cast this Demeter you can Enchant up to {earth}{earth}{earth} to it. You can Disenchant {earth} from this Demeter in order to target an Elestral and give it +3 {attack} and +3 {defense} until the next turn.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

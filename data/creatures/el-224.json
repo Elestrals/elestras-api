@@ -1,0 +1,11 @@
+{
+    "id": "el-224",
+    "name": "Larvacell",
+    "class": "elestral",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731483984/Larvacell_chnpww?_a=BATAXdXy0",
+    "blurb": "Unlike other Thunder Elestrals, Larvacell prefer sunny days to stormy weather. They convert the sunshine to electricity, making them favorites of towns and villages.",
+    "updated_at": "2025-06-09T23:16:07.477Z",
+    "elements": [
+        "thunder"
+    ]
+}

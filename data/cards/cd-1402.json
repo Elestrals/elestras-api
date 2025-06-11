@@ -1,0 +1,43 @@
+{
+    "id": "cd-1402",
+    "base_name": "Mudlet",
+    "title": null,
+    "set_number": "SS2-026",
+    "sort_number": "SS2-026",
+    "name": "Mudlet",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Shattered Stars M11 - Sagittarius",
+    "set_id": "st-84",
+    "subset": "reverse_stellar",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087268/SS2-026MudletStellarNoWatermarkHolo_hauzn0?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742153124/Mudlet_lx83j0?_a=BATAXdXy0",
+    "creature_id": "el-209",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Mudlet receives 1 or more {earth} you\ncan change the Position of an Elestral.",
+    "effect": "When this Mudlet receives 1 or more {earth} you can change the Position of an Elestral.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "cd-2704",
+    "base_name": "Lavalith",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "SS2-S11",
+    "name": "Lavalith",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Shattered Stars M15 - Aries",
+    "set_id": "st-88",
+    "subset": "serialized",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776373/SS2-S-StellarLavalith_uzgbaa?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746135825/Lavalith_vtvzat?_a=BATAXdXy0",
+    "creature_id": "el-134",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 4,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Lavalith can be Normal Cast with {fire}{fire} if an\nopponent has at least 2 more Enchanting Spirits\nthan you do. When you Cast this Lavalith\nyou can target and destroy a Rune.",
+    "effect": "This Lavalith can be Normal Cast with {fire}{fire} if an opponent has at least 2 more Enchanting Spirits than you do. When you Cast this Lavalith you can target and destroy a Rune.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

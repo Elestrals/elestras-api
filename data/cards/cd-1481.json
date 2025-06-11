@@ -1,0 +1,45 @@
+{
+    "id": "cd-1481",
+    "base_name": "Asprowl",
+    "title": null,
+    "set_number": "MR1-064",
+    "sort_number": "MR1-064",
+    "name": "Asprowl",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924581/MR1-064Asprowl_dxhua1?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541388/Asprowl_borderized_gs94cw?_a=BATAXdXy0",
+    "creature_id": "el-287",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Asprowl is sent from your deck to\nthe Underworld you can Special Ascend\nyour Snowlet to it. You can Expend {frost} in\norder to send the top 4 cards from\nyour deck to your Underworld.",
+    "effect": "When this Asprowl is sent from your deck to the Underworld you can Special Ascend your Snowlet to it. You can Expend {frost} in order to send the top 4 cards from your deck to the Underworld.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost",
+        "frost"
+    ],
+    "subclasses": [
+        "avian",
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

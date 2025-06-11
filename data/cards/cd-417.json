@@ -1,0 +1,43 @@
+{
+    "id": "cd-417",
+    "base_name": "Pandicine",
+    "title": null,
+    "set_number": "BS1-019",
+    "sort_number": "BS1-019",
+    "name": "Pandicine",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245618/BS1-019PandicineHolo_gmznwr?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473607/Render_-_PandacineBS1-019Alt_apyeps?_a=BATAXdXy0",
+    "creature_id": "el-36",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {earth} from this Pandicine\nin order to return an Invoke Rune from\nyour Underworld to your hand.",
+    "effect": "You can Disenchant {earth} from this Pandicine in order to return an Invoke Rune from your Underworld to your hand.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

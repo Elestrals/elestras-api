@@ -1,0 +1,14 @@
+{
+    "id": "st-28",
+    "name": "Daybreak",
+    "type": "main",
+    "abbr": "DB1",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "release_date": "2024-08-16T00:00:00.000Z",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724249303/DaybreakBanner_y2eat6?_a=BATAXdXy0",
+    "icon": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724247921/Daybreak_rhocro.svg",
+    "stamp": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724249396/Daybreak_qf5kn3.png",
+    "logo": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724248302/ElestralsDaybreakLogoColored_mqnopg?_a=BATAXdXy0",
+    "series_code": "FE03"
+}

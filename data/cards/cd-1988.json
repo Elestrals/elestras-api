@@ -1,0 +1,46 @@
+{
+    "id": "cd-1988",
+    "base_name": "Celestleo",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "TP2-S3",
+    "name": "Celestleo",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Organized Play Series 2",
+    "set_id": "st-46",
+    "subset": "serialized",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734037669/TP2-CelestleoStellarHolo_pszvwc?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146596/Celestleo_l7ajni?_a=BATAXdXy0",
+    "creature_id": "el-186",
+    "total_cost": 3,
+    "attack": 13,
+    "defense": 10,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Foretell 4 and add each {solar} Elestral\nForetold this way to your hand.\nThen you may destroy cards on the\nfield up to the number of cards\nadded to your hand this way.",
+    "effect": "You can Foretell 4 and add each {solar} Elestral Foretold this way to your hand. Then you may destroy cards on the field up to the number of cards added to your hand this way.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar",
+        "solar",
+        "solar"
+    ],
+    "subclasses": [
+        "behemoth",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "cd-326",
+    "base_name": "Drataura",
+    "title": null,
+    "set_number": "DB1-009",
+    "sort_number": "DB1-009",
+    "name": "Drataura",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990460/DB1-009DratauraNoWatermark_wqty5a?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731483986/Drataura_hhecur?_a=BATAXdXy0",
+    "creature_id": "el-180",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus {solar}.\nWhen you do, you can return up to {solar}{solar} from\nyour Underworld to your Spirit Deck.",
+    "effect": "You can Nexus {solar}. When you do, you can return up to {solar}{solar} from your Underworld to your Spirit Deck.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "ethereal",
+        "dragon"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

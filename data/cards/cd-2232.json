@@ -1,0 +1,47 @@
+{
+    "id": "cd-2232",
+    "base_name": "Nyximera",
+    "title": "Risen Form",
+    "set_number": "SS2-103",
+    "sort_number": "SS2-103",
+    "name": "Nyximera - Risen Form",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Shattered Stars M17 - Gemini",
+    "set_id": "st-90",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740354428/SS2-103NyximeraRisen_r3vne7?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-300",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {solar} in order to target and destroy a\nface-down Rune. During your opponent's End Phase you must\neither send this Nyximera to the Underworld or\nSpecial Ascend it to Nyximera-Fallen Form\nfrom your hand, deck, or Underworld.\r",
+    "effect": "You can Expend {solar} in order to target and destroy a face-down Rune. During your End Phase you must either send this Nyximera to the Underworld or Special Ascend it to Nyximera-Fallen Form from your hand, deck, or Underworld.",
+    "elements": [
+        "frost",
+        "solar"
+    ],
+    "cost": [
+        "frost",
+        "solar"
+    ],
+    "subclasses": [
+        "behemoth",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

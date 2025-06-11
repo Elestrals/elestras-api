@@ -1,0 +1,46 @@
+{
+    "id": "cd-1741",
+    "base_name": "Flammamoth",
+    "title": null,
+    "set_number": "FST-055",
+    "sort_number": "FST-055",
+    "name": "Flammamoth",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Badafra",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739405896/FST-055Flammamoth_z3grec?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900176/Flammamoth_borderized_gr7hnj?_a=BATAXdXy0",
+    "creature_id": "el-122",
+    "total_cost": 3,
+    "attack": 8,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Your opponents’ Elestrals get -1 {attack} and -1 {defense}\nfor each Nimbug and Charcoon in your\nUnderworld. You can destroy a Foloi Forest\non your field. If you do, destroy all cards\non the field except this Flammamoth.",
+    "effect": "Your opponents' Elestrals get -1 {attack} and-1 {defense} for each Nimbug and Charcoon in your Underworld. You can destroy a Foloi Forest on your field. If you do, destroy all cards on the field except this Flammamoth.",
+    "elements": [
+        "wind",
+        "fire"
+    ],
+    "cost": [
+        "wind",
+        "wind",
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

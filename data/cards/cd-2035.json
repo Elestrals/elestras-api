@@ -1,0 +1,44 @@
+{
+    "id": "cd-2035",
+    "base_name": "Schnark",
+    "title": null,
+    "set_number": "TP3-03",
+    "sort_number": "TP3-03",
+    "name": "Schnark",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Organized Play Series 3",
+    "set_id": "st-115",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545053/TP3-03_Schnark_lahvwt?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748835046/Schnark_n4xdvk?_a=BATAXdXy0",
+    "creature_id": "el-274",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Schnark you can Search your deck for a card with Enchantment Cost {water}{lunar} and add it to your hand.",
+    "effect": "When you Cast this Schnark you can Search your deck for a card with Enchantment Cost {water}{lunar} and add it to your hand.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

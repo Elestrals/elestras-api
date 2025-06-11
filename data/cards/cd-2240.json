@@ -1,0 +1,44 @@
+{
+    "id": "cd-2240",
+    "base_name": "Guardawn",
+    "title": null,
+    "set_number": "SS2-111",
+    "sort_number": "SS2-111",
+    "name": "Guardawn",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Shattered Stars M17 - Gemini",
+    "set_id": "st-90",
+    "subset": "reverse_stellar",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740354433/SS2-111StellarGuardawnReverse_ihabsk?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748833748/Guardawn_t5natu?_a=BATAXdXy0",
+    "creature_id": "el-293",
+    "total_cost": 2,
+    "attack": 3,
+    "defense": 8,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Your Elestrals get +2 {defense}.\nWhen an opponent activates an effect that\ntargets 1 or more of your Runes you can\nExpend {solar}{solar} in order to Negate that effect.\r",
+    "effect": "Your Elestrals get +2 {defense}. When an opponent activates an effect that targets 1 or more of your Runes you can Expend {solar}{solar} in order to Negate that effect.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar",
+        "solar"
+    ],
+    "subclasses": [
+        "behemoth"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

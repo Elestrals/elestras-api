@@ -1,0 +1,14 @@
+{
+    "id": "st-44",
+    "name": "Organized Play Series 1",
+    "type": "specialty",
+    "abbr": "TP1",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "release_date": "2024-09-01T00:00:00.000Z",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724249305/OrganizedPlay1Banner_w3r4tg?_a=BATAXdXy0",
+    "icon": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724247925/Tournament_Pack_aqyfcj.svg",
+    "stamp": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724252707/Tournament_Pack_uxhq7v.png",
+    "logo": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724248348/ElestralsOrganizedPlayColored_zutj0i?_a=BATAXdXy0",
+    "series_code": "OP01"
+}

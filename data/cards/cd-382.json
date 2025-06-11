@@ -1,0 +1,46 @@
+{
+    "id": "cd-382",
+    "base_name": "Barabog",
+    "title": null,
+    "set_number": "DB1-040",
+    "sort_number": "DB1-040",
+    "name": "Barabog",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990501/DB1-040BarabogNoWatermark_wke2oz?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484001/Barabog_sn3de1?_a=BATAXdXy0",
+    "creature_id": "el-41",
+    "total_cost": 2,
+    "attack": 3,
+    "defense": 7,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When an opponent Casts a card\nwithout {earth}/{water} they must Expend {omni}.",
+    "effect": "When an opponent Casts a card without {earth}/{water} they must Expend {omni}.",
+    "elements": [
+        "earth",
+        "water"
+    ],
+    "cost": [
+        "earth",
+        "water"
+    ],
+    "subclasses": [
+        "aquatic",
+        "dryad"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

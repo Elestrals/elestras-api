@@ -1,0 +1,43 @@
+{
+    "id": "cd-1138",
+    "base_name": "Urscout",
+    "title": null,
+    "set_number": "PR1-27",
+    "sort_number": "PR1-27",
+    "name": "Urscout",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Kickstarter Promos",
+    "set_id": "st-4",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724091118/PR1-27UrscoutStellarNoWatermarkHolo_t0ebme?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154846/Urscout_ddfu3w?_a=BATAXdXy0",
+    "creature_id": "el-25",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Urscout is destroyed in battle you\ncan Special Cast an {ursa} Elestral that costs\n1 Spirit from your hand or deck.",
+    "effect": "When this Urscout is destroyed in battle you can Special Cast a 1 Spirit {ursa} Elestral from your hand or deck.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "ursa"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

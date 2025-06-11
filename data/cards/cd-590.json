@@ -1,0 +1,45 @@
+{
+    "id": "cd-590",
+    "base_name": "Ladogon",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "BS1-S01",
+    "name": "Ladogon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088467/BS1-LadogonStellarNoWatermarkHolo_fqcoks?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154880/Ladogon_tup37z?_a=BATAXdXy0",
+    "creature_id": "el-24",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 8,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When a player Casts Ambrosia or\nGolden Apple of Discord you can\ntarget and destroy a card.",
+    "effect": "When a player Casts Ambrosia or Golden Apple of Discord you can target and destroy a card.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth",
+        "earth"
+    ],
+    "subclasses": [
+        "dryad",
+        "dragon"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

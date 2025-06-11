@@ -1,0 +1,46 @@
+{
+    "id": "cd-1279",
+    "base_name": "Vesuvituga",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "TP1-S02",
+    "name": "Vesuvituga",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087775/TP1-VesuvitugaStellarNoWatermarkHolo_ad1s8u?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146314/Vesuvituga_aipik4?_a=BATAXdXy0",
+    "creature_id": "el-212",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 8,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {fire} to force an opponent to\nExpend {omni}{omni}. When a player Casts Eruption\nyou can return up to {earth}{earth} from your\nUnderworld to your Spirit Deck.",
+    "effect": "You can Expend {fire} to force an opponent to Expend {omni}{omni}. When a player Casts Eruption you can return up to {earth}{earth} from your Underworld to your Spirit Deck.",
+    "elements": [
+        "earth",
+        "fire"
+    ],
+    "cost": [
+        "earth",
+        "fire"
+    ],
+    "subclasses": [
+        "dryad",
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

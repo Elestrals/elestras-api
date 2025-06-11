@@ -1,0 +1,43 @@
+{
+    "id": "cd-442",
+    "base_name": "Exaltflare",
+    "title": null,
+    "set_number": "FF1-046",
+    "sort_number": "FF1-046",
+    "name": "Exaltflare",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759939/FF1-046ExaltflareNoWatermark_xvejqe?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481809/Exaltflare_nc7wvc?_a=BATAXdXy0",
+    "creature_id": "el-119",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {fire}{fire}.\nWhen you do, you can Special Ascend this\nExaltflare to an Elestral with Enchantment\nCost {fire} or {fire}{fire} from your hand.",
+    "effect": "You can Nexus up to {fire}{fire}. When you do, you can Special Ascend this Exaltflare to an Elestral with Enchantment Cost {fire} or {fire}{fire} from your hand.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "avian"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

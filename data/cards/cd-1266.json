@@ -1,0 +1,46 @@
+{
+    "id": "cd-1266",
+    "base_name": "Griffuse",
+    "title": null,
+    "set_number": "TP1-18",
+    "sort_number": "TP1-18",
+    "name": "Griffuse",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087778/TP1-18GriffuseStellarNoWatermarkHolo_pxaq3d?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146318/Griffuse_smjeol?_a=BATAXdXy0",
+    "creature_id": "el-60",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus {thunder}/{wind} from a Divine Rune.\nWhen you do, you can Special Ascend\nthis Griffuse to Voltempest from\nyour hand or deck.",
+    "effect": "You can Nexus {thunder}/{wind} from a Divine Rune. When you do, you can Special Ascend this Griffuse to Voltempest from your hand or deck.",
+    "elements": [
+        "thunder",
+        "wind"
+    ],
+    "cost": [
+        "thunder",
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "brute"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

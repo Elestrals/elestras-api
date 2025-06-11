@@ -1,0 +1,42 @@
+{
+    "id": "cd-2027",
+    "base_name": "Poison Tipped Arrow",
+    "title": null,
+    "set_number": "TP3-11",
+    "sort_number": "TP3-11",
+    "name": "Poison Tipped Arrow",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Ryan Cortez",
+    "set": "Organized Play Series 3",
+    "set_id": "st-115",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545061/TP3-11_PoisonTippedArrow_h3tmgl?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748834988/Poison_Tipped_Arrow_ukuwwk?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Poison Tipped Arrow can only be played when an opponent Casts an Elestral. Target it and vie it -2 {attack} unitl the next turn. During this turn’s End Phase you can expend {omni} equal to its Enchantment Cost in order to destroy it.",
+    "effect": "This Poison Tipped Arrow can only be played when an opponent Casts an Elestral. Target it and give it -2 {attack} until the next turn. During this End Phase you can Expend {omni} equal to its Enchantment Cost in order to destroy it.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

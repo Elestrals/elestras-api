@@ -1,0 +1,43 @@
+{
+    "id": "cd-552",
+    "base_name": "Spinymph",
+    "title": null,
+    "set_number": "SD04-11",
+    "sort_number": "SD04-11",
+    "name": "Spinymph",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Ohmperial Starter Deck",
+    "set_id": "st-75",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724096092/SD04-11SpinymphNoWatermark_e0btav?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473623/Render_-_SpinymphBS1-010_kzhhe0?_a=BATAXdXy0",
+    "creature_id": "el-34",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Spinymph is destroyed in battle you\ncan Cast it from your Underworld as an\nArtifact Rune Empowering the Elestral\nthat destroyed it with the effect\n“The Empowered Elestral has 0 base {attack}.”",
+    "effect": "When this Spinymph is destroyed in battle you can Cast it from your Underworld as an Artifact Rune Empowering the Elestral that destroyed it with the effect \"The Empowered Elestral has 0 base {attack}.\"",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "el-61",
+    "name": "Voltempest",
+    "class": "elestral",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473605/Render_-_VoltempestBS1-060_qjzftk?_a=BATAXdXy0",
+    "blurb": null,
+    "updated_at": "2025-06-09T23:16:06.978Z",
+    "elements": [
+        "thunder",
+        "wind"
+    ]
+}

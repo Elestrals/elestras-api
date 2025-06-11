@@ -1,0 +1,14 @@
+{
+    "id": "st-121",
+    "name": "Event Promos",
+    "type": "specialty",
+    "abbr": "EP",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "release_date": "2025-03-21T00:00:00.000Z",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742668884/DallasOpen2025Banner_nyaqqm?_a=BATAXdXy0",
+    "icon": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724247925/Tournament_Pack_aqyfcj.svg",
+    "stamp": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724252707/Tournament_Pack_uxhq7v.png",
+    "logo": null,
+    "series_code": "EP00"
+}

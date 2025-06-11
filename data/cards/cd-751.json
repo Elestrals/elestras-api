@@ -1,0 +1,44 @@
+{
+    "id": "cd-751",
+    "base_name": "Emphyrix",
+    "title": null,
+    "set_number": "SS1-63",
+    "sort_number": "SS1-63",
+    "name": "Emphyrix",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Shattered Stars M06 - Fire",
+    "set_id": "st-99",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085652/SS1-63EmphyrixStainedNoWatermarkHolo_eh5rqa?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152491/Emphyrix_SG_caogkv?_a=BATAXdXy0",
+    "creature_id": "el-93",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Emphyrix is destroyed in battle\nor by an opponent’s card effect you can\nExpend {fire}. If you do, during this turn’s\nEnd Phase you can Special Cast it\nfrom your Underworld.",
+    "effect": "When this Emphyrix is destroyed in battle or by an opponent's card effect you can Expend {fire}. If you do, during this turn's End Phase you can Special Cast it from your Underworld.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

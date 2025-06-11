@@ -1,0 +1,44 @@
+{
+    "id": "cd-2160",
+    "base_name": "Cockatoodle",
+    "title": "Champion of Hermes",
+    "set_number": "FST-SD050",
+    "sort_number": "FST-SD050",
+    "name": "Cockatoodle - Champion of Hermes",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755768/FST-SD050CockatoodleCoH_pfdc3d?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900188/CockatoodleCoH_borderized_lpv35j?_a=BATAXdXy0",
+    "creature_id": "el-109",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Cockatoodle is sent from your field\nor deck to your Underworld you can Suppress\na card on the field until the next turn.",
+    "effect": "When this Cockatoodle is sent from your field or deck to your Underworld you can Suppress a card on the field until the next turn.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "dragon"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

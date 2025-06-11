@@ -1,0 +1,45 @@
+{
+    "id": "cd-2029",
+    "base_name": "Ankyloshock",
+    "title": null,
+    "set_number": "TP3-05",
+    "sort_number": "TP3-05",
+    "name": "Ankyloshock",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Organized Play Series 3",
+    "set_id": "st-115",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545054/TP3-05_Ankyloshock_ind3cf?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746032665/Borderized_-_AnkyloshockAC_ajayy3?_a=BATAXdXy0",
+    "creature_id": "el-297",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Ankyloshock gets +3 {attack} for each {earth} Enchanting it. When this {earth}-Enchanted Ankyloshock deals damage to an opponent you can Special Ascend it to Ankylosurge from your hand or deck.",
+    "effect": "This Ankyloshock gets +3 {attack} for each {earth} Enchanting it. When this {earth}-Enchanted Ankyloshock deals damage you can Special Ascend it to Ankylosurge from your hand or deck.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "archaic",
+        "dryad"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "cd-1579",
+    "base_name": "Galvenom",
+    "title": null,
+    "set_number": "KSC-21",
+    "sort_number": "KSC-21",
+    "name": "Galvenom",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Clash! Promos",
+    "set_id": "st-76",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741908826/KSC-21_StellarGalvenom_jngezi?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746758778/Galvenom_d4ormz?_a=BATAXdXy0",
+    "creature_id": "el-74",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {thunder}{thunder}{thunder} in order to\ntarget and destroy up to 2 cards.",
+    "effect": "You can Expend {thunder}{thunder}{thunder} in order to target and destroy up to 2 cards.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder",
+        "thunder"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

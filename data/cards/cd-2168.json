@@ -1,0 +1,43 @@
+{
+    "id": "cd-2168",
+    "base_name": "Urscoat",
+    "title": null,
+    "set_number": "FST-SD059",
+    "sort_number": "FST-SD059",
+    "name": "Urscoat",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755847/FST-SD059Urscoat_kcvp1j?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481816/Urscoat_ypyddg?_a=BATAXdXy0",
+    "creature_id": "el-156",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Urscoat is attacked, during\nthe Damage Step you can return the\nattacking Elestral to its owner’s hand.\n(You can do this even if this Urscoat is\ndestroyed by the attack.)",
+    "effect": "When this Urscoat is attacked, during the Damage Step you can return the attacking Elestral to its owner's hand. (You can do this even if this Urscoat is destroyed by the attack.)",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "ursa"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

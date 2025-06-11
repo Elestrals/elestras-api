@@ -1,0 +1,44 @@
+{
+    "id": "cd-495",
+    "base_name": "Cyanectar",
+    "title": null,
+    "set_number": "FF1-035",
+    "sort_number": "FF1-035",
+    "name": "Cyanectar",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759917/FF1-035CyanectarNoWatermark_g0toqm?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481805/Cyanectar_mr44lf?_a=BATAXdXy0",
+    "creature_id": "el-112",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When a player Casts Poison Tipped Arrow,\nPoisoned Nectar, or Poisoned Tunic you\ncan Special Ascend this Cyanectar to\nWaspivy from your hand or deck.",
+    "effect": "When a player Casts Poison Tipped Arrow, Poisoned Nectar, or Poisoned Tunic you can Special Ascend this Cyanectar to Waspivy from your hand or deck.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

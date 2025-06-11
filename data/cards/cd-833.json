@@ -1,0 +1,44 @@
+{
+    "id": "cd-833",
+    "base_name": "Toxion",
+    "title": null,
+    "set_number": "SD04-04",
+    "sort_number": "SD04-04",
+    "name": "Toxion",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "LuisBrain",
+    "set": "Ohmperial Starter Deck",
+    "set_id": "st-11",
+    "subset": "starter_deck",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724169587/SD04-04ToxionNoWatermark_tpx2ag?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473602/Render_-_ToxionSD04-04_wx9dqv?_a=BATAXdXy0",
+    "creature_id": "el-73",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Toxion receives 1 or more {thunder}\nyour opponents must Expend {omni}.",
+    "effect": "When this Toxion receives 1 or more {thunder} your opponents must Expend {omni}.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

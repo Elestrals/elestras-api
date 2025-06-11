@@ -1,0 +1,42 @@
+{
+    "id": "cd-452",
+    "base_name": "Lycarus",
+    "title": null,
+    "set_number": "SD01-24",
+    "sort_number": "SD01-24",
+    "name": "Lycarus",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Centaurbor Starter Deck",
+    "set_id": "st-70",
+    "subset": "starter_deck",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724168537/SD01-24LycarusNoWatermark_o2j97l?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731486359/Render_-_LycarusBS1-005_cqerxf?_a=BATAXdXy0",
+    "creature_id": "el-5",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "wind"
+    ],
+    "cost": [],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

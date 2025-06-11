@@ -1,0 +1,43 @@
+{
+    "id": "cd-1145",
+    "base_name": "Nimbug",
+    "title": null,
+    "set_number": "FF1-064",
+    "sort_number": "FF1-064",
+    "name": "Nimbug",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759962/FF1-064NimbugNoWatermark_ggnbjx?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481839/Nimbug_bgnsyc?_a=BATAXdXy0",
+    "creature_id": "el-29",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {wind} in order to Special Ascend\nthis Nimbug to Cirrucoon from\nyour hand or deck.",
+    "effect": "You can Expend {wind} in order to Special Ascend this Nimbug to Cirrucoon from your hand or deck.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

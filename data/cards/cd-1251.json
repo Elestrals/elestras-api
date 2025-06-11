@@ -1,0 +1,44 @@
+{
+    "id": "cd-1251",
+    "base_name": "Kindleo",
+    "title": null,
+    "set_number": "TP1-03",
+    "sort_number": "TP1-03",
+    "name": "Kindleo",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Elliot Moguilner",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087766/TP1-03KindleoNoWatermark_iiz1qu?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146319/Kindleo_TP1_ov3dcw?_a=BATAXdXy0",
+    "creature_id": "el-77",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {fire}{fire}.\nWhen you do, you can target and destroy\nan opponent’s Elestral.",
+    "effect": "You can Nexus up to {fire}{fire}. When you do, you can target and destroy an opponent's Elestral.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

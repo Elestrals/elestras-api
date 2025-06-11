@@ -1,0 +1,45 @@
+{
+    "id": "cd-1662",
+    "base_name": "Lycavoid",
+    "title": "Champion of Artemis",
+    "set_number": "FST-070",
+    "sort_number": "FST-070",
+    "name": "Lycavoid - Champion of Artemis",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329070/FST-070Lycavoid_umktfw?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900171/LycavoidCoA_borderized_u7xqhd?_a=BATAXdXy0",
+    "creature_id": "el-253",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Lycavoid you can Special Cast\nany number of Werepup from your deck with\n{lunar} Suppressed. You can destroy a Suppressed\nElestral on your field. If you do, destroy a\nSuppressed Elestral on an opponent’s field.",
+    "effect": "When you Cast this Lycavoid you can Special Cast any number of Werepup from your deck with {lunar} Suppressed. You can destroy a Suppressed Elestral on your field. If you do, destroy a Suppressed Elestral on an opponent's field.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar",
+        "lunar"
+    ],
+    "subclasses": [
+        "behemoth",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

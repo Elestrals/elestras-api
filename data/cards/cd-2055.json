@@ -1,0 +1,45 @@
+{
+    "id": "cd-2055",
+    "base_name": "Waspyre",
+    "title": null,
+    "set_number": "TP3-18",
+    "sort_number": "TP3-18",
+    "name": "Waspyre",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Organized Play Series 3",
+    "set_id": "st-115",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545069/TP3-18_StellarWaspyre_mzkghv?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748835022/Waspyre_fksge8?_a=BATAXdXy0",
+    "creature_id": "el-46",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can discard a {fire} card to force an opponent to Expend {omni} equal to the Enchantment Cost of the discarded card.",
+    "effect": "You can discard a {fire} card to force an opponent to Expend {omni} equal to the Enchantment Cost of the discarded card.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

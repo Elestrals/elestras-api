@@ -1,0 +1,44 @@
+{
+    "id": "cd-635",
+    "base_name": "Necruff",
+    "title": null,
+    "set_number": "SS1-57",
+    "sort_number": "SS1-57",
+    "name": "Necruff",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Yassir",
+    "set": "Shattered Stars M06 - Fire",
+    "set_id": "st-99",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085587/SS1-57NecruffNoWatermark_icynwa?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152452/Necruff_SS1_dmc2pc?_a=BATAXdXy0",
+    "creature_id": "el-10",
+    "total_cost": 1,
+    "attack": 5,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Necruff destroys an opponent’s\nElestral in battle that opponent\nmust Expend {omni}.",
+    "effect": "When this Necruff destroys an opponent's Elestral in battle that opponent must Expend {omni}.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "eldritch",
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

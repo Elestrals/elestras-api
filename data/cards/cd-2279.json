@@ -1,0 +1,43 @@
+{
+    "id": "cd-2279",
+    "base_name": "Verutouca",
+    "title": null,
+    "set_number": "SD10-12",
+    "sort_number": "SD10-12",
+    "name": "Verutouca",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Fulgoryx Starter Deck",
+    "set_id": "st-48",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925540/SD10-12Verutouca_nbonkx?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731483985/Verutouca_ck58nk?_a=BATAXdXy0",
+    "creature_id": "el-229",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this attacking Verutouca enters battle\nwith an Attack Position Elestral that has equal or\nfewer Enchanting Spirits, you can Suppress\nthat Elestral and destroy it. If you do, this\nVerutouca deals no damage this battle.",
+    "effect": "When this attacking Verutouca enters battle with an Attack Position Elestral that has equal or fewer Enchanting Spirits, you can Suppress that Elestral and destroy it. If you do, this Verutouca deals no damage this battle.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "avian"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

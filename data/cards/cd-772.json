@@ -1,0 +1,44 @@
+{
+    "id": "cd-772",
+    "base_name": "Brontoglow",
+    "title": null,
+    "set_number": "FF1-056",
+    "sort_number": "FF1-056",
+    "name": "Brontoglow",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727922622/FF1-056BrontoglowHolo_vtx1ey?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481805/Brontoglow_ghkrbs?_a=BATAXdXy0",
+    "creature_id": "el-104",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {thunder} from your Funglow in\norder to Suppress each Elestral on an opponent’s\nfield until the End Phase. When this Brontoglow\ndestroys an Elestral in battle you can Special\nCast a Funglow from your Underworld.",
+    "effect": "You can Disenchant {thunder} from your Funglow in order to Suppress each Elestral on an opponent's field until the next turn. When this Brontoglow destroys an Elestral in battle you can Special Cast a Funglow from your Underworld.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder",
+        "thunder"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

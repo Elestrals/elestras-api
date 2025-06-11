@@ -1,0 +1,46 @@
+{
+    "id": "cd-2049",
+    "base_name": "Cedarsaur",
+    "title": null,
+    "set_number": "TP3-14",
+    "sort_number": "TP3-14",
+    "name": "Cedarsaur",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Organized Play Series 3",
+    "set_id": "st-115",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545070/TP3-14_StellarCedarsaur_jo58uu?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748834992/Cedarsaur_p6xuk0?_a=BATAXdXy0",
+    "creature_id": "el-267",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Cedarsaur is sent from your deck to the Underworld you can Special Cast it with {earth}{earth} or {frost}{frost}. You can Expend {earth} in order to Search your deck for a 3 Spirit {earth}/{frost} Elestral and add it to your hand.",
+    "effect": "When this Cedarsaur is sent from your deck to your Underworld you can Special Cast it with {earth}{earth} or {frost}{frost}. You can Expend {earth} in order to Search your deck for a 3 Spirit {earth}/{frost} Elestral and add it to your hand.",
+    "elements": [
+        "earth",
+        "frost"
+    ],
+    "cost": [
+        "earth",
+        "frost"
+    ],
+    "subclasses": [
+        "archaic",
+        "dryad"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

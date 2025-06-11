@@ -1,0 +1,41 @@
+{
+    "id": "cd-1698",
+    "base_name": "Lyre of Apollo",
+    "title": null,
+    "set_number": "FST-095",
+    "sort_number": "FST-095",
+    "name": "Lyre of Apollo",
+    "alias": null,
+    "card_type": "rune_artifact",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329152/FST-095LyreofApollo_hzss0h?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900143/LyreofApollo_borderized_d3btpn?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "The Empowered Elestral's {attack} and {defense}\nare swapped. All your Champion of Apollo\nget +2 {attack} and +2 {defense}.",
+    "effect": "Swap the Empowered Elestral's {attack} with its {defense}. All your Champions of Apollo get +2 {attack} and +2 {defense}.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

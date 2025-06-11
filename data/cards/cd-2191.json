@@ -1,0 +1,41 @@
+{
+    "id": "cd-2191",
+    "base_name": "Zeus",
+    "title": null,
+    "set_number": "FST-SD079",
+    "sort_number": "FST-SD079",
+    "name": "Zeus",
+    "alias": null,
+    "card_type": "rune_divine",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755811/FST-SD079Zeus_rkittm?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900167/Zeus_borderized_zyyuyp?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Zeus you can Enchant up\nto {thunder}{thunder}{thunder} to it. You can Disenchant {thunder} from\nthis Zeus in order to target an opponent’s\nElestral and give it -3 {attack} and -3 {defense}\nuntil the next turn.",
+    "effect": "When you Cast this Zeus you can Enchant up to {thunder}{thunder}{thunder} to it. You can Disenchant {thunder} from this Zeus in order to target an opponent's Elestral and give it -3{attack} and -3{defense} until the next turn.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "cd-260",
+    "base_name": "Aeolus",
+    "title": null,
+    "set_number": "SS1-20",
+    "sort_number": "SS1-20",
+    "name": "Aeolus",
+    "alias": null,
+    "card_type": "rune_divine",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Shattered Stars M02 - Wind",
+    "set_id": "st-95",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085619/SS1-20AeolusFARockNoWatermarkHolo_iibkao?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152521/Aelous_SS1_as7iwe?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Aeolus you can Enchant up\nto {wind}{wind}{wind}{wind} to it. You can Disenchant {wind}{wind}\nfrom this Aeolus in order to Search your deck\nfor a 1 Spirit {wind} Elestral and add it to your hand.",
+    "effect": "When you Cast this Aeolus you can Enchant up to {wind}{wind}{wind}{wind} to it. You can Disenchant {wind}{wind} from this Aeolus in order to Search your deck for a 1 Spirit {wind} Elestral and add it to your hand.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

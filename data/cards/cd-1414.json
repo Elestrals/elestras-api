@@ -1,0 +1,44 @@
+{
+    "id": "cd-1414",
+    "base_name": "Coastalith",
+    "title": null,
+    "set_number": "SS2-035",
+    "sort_number": "SS2-035",
+    "name": "Coastalith",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Elliot Moguilner",
+    "set": "Shattered Stars M12 - Capricorn",
+    "set_id": "st-85",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087283/SS2-035CoastalithFANoWatermarkHolo_w5eqii?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154236/Coastalith_FA_jqdqp8?_a=BATAXdXy0",
+    "creature_id": "el-223",
+    "total_cost": 2,
+    "attack": 2,
+    "defense": 8,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Coastalith can be Normal Cast with {water}{water}\nif an opponent has at least 2 Elestrals in\nDefense Position. When you Cast this\nCoastalith you can Special Cast a\n1 Spirit {water} Elestral from your hand.",
+    "effect": "This Coastalith can be Normal Cast with {water}{water} if an opponent has at least 2 Elestrals in Defense Position. When you Cast this Coastalith you can Special Cast a 1 Spirit {water} Elestral from your hand.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

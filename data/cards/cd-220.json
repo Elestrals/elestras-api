@@ -1,0 +1,42 @@
+{
+    "id": "cd-220",
+    "base_name": "Leviaphin",
+    "title": null,
+    "set_number": "BS1-123",
+    "sort_number": "BS1-123",
+    "name": "Leviaphin",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088447/BS1-123LeviaphinAANoWatermarkHolo_rswpt4?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-3",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "water"
+    ],
+    "cost": [],
+    "subclasses": [
+        "oceanic",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

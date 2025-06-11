@@ -1,0 +1,14 @@
+{
+    "id": "st-75",
+    "name": "Ohmperial Starter Deck",
+    "type": "starter_deck",
+    "abbr": "SD04",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "release_date": "2024-03-15T00:00:00.000Z",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724249311/OhmperialSDBanner_rzev1v?_a=BATAXdXy0",
+    "icon": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724247922/Ohmperial_SD_ijj0oc.svg",
+    "stamp": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724249407/Ohmperial_Starter_Deck_sk7hdd.png",
+    "logo": null,
+    "series_code": "FE01"
+}

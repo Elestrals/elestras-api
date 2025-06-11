@@ -1,0 +1,43 @@
+{
+    "id": "cd-564",
+    "base_name": "Aeromare",
+    "title": null,
+    "set_number": "SD05-04",
+    "sort_number": "SD05-04",
+    "name": "Aeromare",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Penterror Starter Deck",
+    "set_id": "st-59",
+    "subset": "starter_deck",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724170675/SD05-04AeromareNoWatermark_aabgoe?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746030304/Borderized_-_Aeromare_jzntbe?_a=BATAXdXy0",
+    "creature_id": "el-84",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Ascend this Aeromare you can Cast\nit as an Artifact Empowering the Ascension\nwith the effect “The Empowered Elestral\ncannot be targeted or destroyed\nby opponent’s Elestral effect.”",
+    "effect": "When you Ascend this Aeromare you can Cast it from your Underworld as an Artifact Rune Empowering the Ascension with the effect \"The Empowered Elestral cannot be targeted or destroyed by opponents' Elestral effects.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

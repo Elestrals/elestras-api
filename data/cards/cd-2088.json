@@ -1,0 +1,42 @@
+{
+    "id": "cd-2088",
+    "base_name": "Leviaphin",
+    "title": null,
+    "set_number": "FST-116",
+    "sort_number": "FST-116",
+    "name": "Leviaphin",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739405898/FST-116Leviaphin_sfxveh?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900094/Leviaphin_borderized_i3gate?_a=BATAXdXy0",
+    "creature_id": "el-3",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "water"
+    ],
+    "cost": [],
+    "subclasses": [
+        "oceanic",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

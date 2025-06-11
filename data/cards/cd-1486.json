@@ -1,0 +1,47 @@
+{
+    "id": "cd-1486",
+    "base_name": "Dragallus",
+    "title": null,
+    "set_number": "MR1-069",
+    "sort_number": "MR1-069",
+    "name": "Dragallus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924858/MR1-069DragallusHolo_xs4dw3?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541453/Dragallus_borderized_a8bwbo?_a=BATAXdXy0",
+    "creature_id": "el-291",
+    "total_cost": 3,
+    "attack": 13,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {fire} in order to Suppress each\nface-up card on an opponent's field until the\nEnd Phase. Then Enchant {solar} from your Spirit\nDeck and/or Underworld to this Dragallus up\nto the number of cards Suppressed this way.",
+    "effect": "You can Expend {fire} in order to Suppress each face-up card on an opponent's field until the next turn. Then Enchant {solar} from your Spirit Deck and/or Underworld to this Dragallus up to the number of cards Suppressed this way.",
+    "elements": [
+        "solar",
+        "fire"
+    ],
+    "cost": [
+        "solar",
+        "solar",
+        "fire"
+    ],
+    "subclasses": [
+        "avian",
+        "dragon"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

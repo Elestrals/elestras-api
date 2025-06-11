@@ -1,0 +1,45 @@
+{
+    "id": "cd-2750",
+    "base_name": "Glaciursa",
+    "title": null,
+    "set_number": "PR4-09",
+    "sort_number": "PR4-09",
+    "name": "Glaciursa",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Getsemani",
+    "set": "Moonrise Promos",
+    "set_id": "st-47",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727921745/PR4-09GlaciursaStellarHolo_j9wraq?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-128",
+    "total_cost": 3,
+    "attack": 14,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Glaciursa deals Piercing damage. When this Glaciursa enters battle with an Elestral you can Suppress that Elestral.",
+    "effect": "This Glaciursa deals Piercing damage. When this Glaciursa enters battle with an Elestral you can Suppress that Elestral.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost",
+        "frost",
+        "frost"
+    ],
+    "subclasses": [
+        "ursa"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

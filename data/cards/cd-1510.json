@@ -1,0 +1,41 @@
+{
+    "id": "cd-1510",
+    "base_name": "Helios’ Slumber",
+    "title": null,
+    "set_number": "MR1-093",
+    "sort_number": "MR1-093",
+    "name": "Helios’ Slumber",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924686/MR1-093HeliosSlumber_bolxfl?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541451/HeliosSlumber_borderized_bdncmo?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Target an Elestral in your Underworld\nand put it on top of your deck.",
+    "effect": "Target an Elestral in your Underworld and put it on top of your deck.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

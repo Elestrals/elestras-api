@@ -1,0 +1,42 @@
+{
+    "id": "cd-2674",
+    "base_name": "Owlune",
+    "title": null,
+    "set_number": "SS2-055",
+    "sort_number": "SS2-055",
+    "name": "Owlune",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Shattered Stars M14 - Pisces",
+    "set_id": "st-87",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776342/SS2-055Owlune_nxrmab?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-102",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "lunar"
+    ],
+    "cost": [],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

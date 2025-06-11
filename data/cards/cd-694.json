@@ -1,0 +1,43 @@
+{
+    "id": "cd-694",
+    "base_name": "Rhinymph",
+    "title": null,
+    "set_number": "DB1-061",
+    "sort_number": "DB1-061",
+    "name": "Rhinymph",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990494/DB1-061RhinymphNoWatermark_hct93q?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731483980/Rhinymph_oxbbkw?_a=BATAXdXy0",
+    "creature_id": "el-233",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {frost} in order to move this\nRhinymph to your Rune Row. It becomes\nan Artifact Rune Empowering an Elestral of\nyour choice with the effect “The Empowered\nElestral is Suppressed and gets -2 {defense}.”",
+    "effect": "You can Expend {frost} in order to move this Rhinymph to your Rune Row. It becomes an Artifact Rune Empowering an Elestral of your choice with the effect \"The Empowered Elestral is Suppressed and gets -2 {defense}\".",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

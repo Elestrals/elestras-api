@@ -1,0 +1,44 @@
+{
+    "id": "cd-399",
+    "base_name": "Galaxea",
+    "title": null,
+    "set_number": "PR1-35",
+    "sort_number": "PR1-35",
+    "name": "Galaxea",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "syk0mik3y",
+    "set": "First Edition Promos",
+    "set_id": "st-51",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724091117/PR1-35GalaxeaStellarNoWatermarkHolo_zcw9vs?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154882/Galaxea_utwb6v?_a=BATAXdXy0",
+    "creature_id": "el-56",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "While this Galaxea is Enchanted swap each\n{water}-Enchanted Elestral’s {attack} with its {defense} .",
+    "effect": "While this Galaxea is Enchanted swap each {water}-Enchanted Elestral's {attack} with its {defense}.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

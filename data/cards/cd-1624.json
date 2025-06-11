@@ -1,0 +1,44 @@
+{
+    "id": "cd-1624",
+    "base_name": "Urscoat",
+    "title": "Champion of Khione",
+    "set_number": "SS2-085",
+    "sort_number": "SS2-085",
+    "name": "Urscoat - Champion of Khione",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Shattered Stars M16 - Taurus",
+    "set_id": "st-89",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740349214/SS2-085UrscoatCoK_nfp1c9?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746135260/Urscoat_CoK_w0fsvn?_a=BATAXdXy0",
+    "creature_id": "el-156",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can target a face-down Rune.\nIt cannot be played as long as this Urscoat is\nEnchanted. This effect can be activated one\nadditional time on your turn if you also\nDisenchant {frost} from your Khione.\r",
+    "effect": "You can target a face-down Rune. It cannot be played as long as this Urscoat is Enchanted. This effect can be activated one additional time on your turn if you also Disenchant {frost} from your Khione.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "ursa"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

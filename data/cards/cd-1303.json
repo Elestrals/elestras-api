@@ -1,0 +1,44 @@
+{
+    "id": "cd-1303",
+    "base_name": "Gnawbie",
+    "title": null,
+    "set_number": "SS1-83",
+    "sort_number": "SS1-83",
+    "name": "Gnawbie",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Shattered Stars M08 - Lunar",
+    "set_id": "st-101",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085608/SS1-83GnawbieNoWatermark_weimir?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152471/Gnawbie_SS1_ysqmt1?_a=BATAXdXy0",
+    "creature_id": "el-237",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Gnawbie receives 1 or more {lunar} you can\ngive each Elestral that is not {lunar}/{solar}-Enchanted\n-2 {attack} until the End Phase. When this Gnawbie\ndestroys an Elestral in battle you can Special\nAscend it to Doppelgator from your hand or deck.",
+    "effect": "When this Gnawbie receives 1 or more {lunar} you can give each Elestral that is not {lunar}/{solar}-Enchanted -2 {attack} until the next turn. When this Gnawbie destroys an Elestral in battle you can Special Ascend it to Doppelgator from your hand or deck.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "insectoid",
+        "dragon"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

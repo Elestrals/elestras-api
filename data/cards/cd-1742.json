@@ -1,0 +1,45 @@
+{
+    "id": "cd-1742",
+    "base_name": "Charcoon",
+    "title": null,
+    "set_number": "FST-054",
+    "sort_number": "FST-054",
+    "name": "Charcoon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Badafra",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329004/FST-054Charcoon_uzse4w?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900180/Charcoon_borderized_lrjjfa?_a=BATAXdXy0",
+    "creature_id": "el-108",
+    "total_cost": 2,
+    "attack": 2,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "(This card always counts as Cirrucoon.)\nYou can Nexus up to {omni}{omni} in any combination of\n{wind}/{fire}. When this Charcoon is destroyed by an\nopponent’s Rune effect that opponent must Expend\n{omni} for each Spirit that was Enchanting this Charcoon.",
+    "effect": "(This card always counts as Cirrucoon.) You can Nexus up to {omni}{omni} in any combination of {wind}/{fire}. When this Charcoon is destroyed by an opponent's Rune effect that opponent must Expend {omni} for each Spirit that was Enchanting this Charcoon.",
+    "elements": [
+        "wind",
+        "fire"
+    ],
+    "cost": [
+        "wind",
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

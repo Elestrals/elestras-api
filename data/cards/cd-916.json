@@ -1,0 +1,43 @@
+{
+    "id": "cd-916",
+    "base_name": "Frigicub",
+    "title": null,
+    "set_number": "SD06-04",
+    "sort_number": "SD06-04",
+    "name": "Frigicub",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Kryoscorch Starter Deck",
+    "set_id": "st-25",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723835415/SD06-04FrigicubNoWatermark_kz0yw2?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481812/Frigicub_vj9uub?_a=BATAXdXy0",
+    "creature_id": "el-123",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {frost}{frost}.\nWhen you do, you can Enchant {frost} from your\nUnderworld to this Frigicub.",
+    "effect": "You can Nexus up to {frost}{frost}. When you do, you can Enchant {frost} from your Underworld to this Frigicub.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

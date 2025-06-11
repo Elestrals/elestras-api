@@ -1,0 +1,41 @@
+{
+    "id": "cd-1546",
+    "base_name": "Lunar Phase",
+    "title": "Waning Gibbous",
+    "set_number": "MR1-125",
+    "sort_number": "MR1-125",
+    "name": "Lunar Phase - Waning Gibbous",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "reverse_stellar",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925263/MR1-125LunarPhase-WaningGibbousStellarHolo_lf4a4w?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541402/Moon6_borderized_xqeydf?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Shuffle a Lunar Phase, Volumbra, or Volclipse\nfrom your hand or Underworld into your\ndeck in order to search your deck for a\nVoldusk and add it to your hand.",
+    "effect": "Shuffle a Lunar Phase, Volumbra, or Volclipse from your hand or Underworld into your deck in order to Search your deck for a Voldusk and add it to your hand.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

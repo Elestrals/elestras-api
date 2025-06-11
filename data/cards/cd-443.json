@@ -1,0 +1,44 @@
+{
+    "id": "cd-443",
+    "base_name": "Quackle",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "SD04-S01",
+    "name": "Quackle",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Ohmperial Starter Deck",
+    "set_id": "st-11",
+    "subset": "serialized",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724169604/SD04-QuackleStellarNoWatermarkHolo_xqpgsq?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154821/Quackle_wgucgv?_a=BATAXdXy0",
+    "creature_id": "el-17",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 3,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Quackle you can return up\nto {thunder}{thunder}{thunder} from your Underworld\nto your Spirit Deck.",
+    "effect": "When you Cast this Quackle you can return up to {thunder}{thunder}{thunder} from your Underworld to your Spirit Deck.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

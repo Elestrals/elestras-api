@@ -1,0 +1,44 @@
+{
+    "id": "cd-1639",
+    "base_name": "Exaltus",
+    "title": "Champion of Apollo",
+    "set_number": "FST-067",
+    "sort_number": "FST-067",
+    "name": "Exaltus - Champion of Apollo",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739405895/FST-067ExaltusCoA_rllqux?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900138/ExaltusCoA_borderized_zrynsn?_a=BATAXdXy0",
+    "creature_id": "el-204",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When an Elestral on your field is destroyed\nin battle you can Special Cast this Exaltus\nfrom your hand with {solar}. This Exaltus\ngets +3 {attack} if you Foretold this turn.",
+    "effect": "When an Elestral on your field is destroyed in battle you can Special Cast this Exaltus from your hand with {solar}. This Exaltus gets +3 {attack} if you Foretold this turn.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

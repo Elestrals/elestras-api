@@ -1,0 +1,42 @@
+{
+    "id": "cd-422",
+    "base_name": "Flurrmine",
+    "title": null,
+    "set_number": "SS1-23",
+    "sort_number": "SS1-23",
+    "name": "Flurrmine",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Shattered Stars M03 - Frost",
+    "set_id": "st-96",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085593/SS1-23-FlurrmineFANoWatermark_jiybve?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152313/Flurrmine_FA_rhzamg?_a=BATAXdXy0",
+    "creature_id": "el-6",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "frost"
+    ],
+    "cost": [],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

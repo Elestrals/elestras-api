@@ -1,0 +1,44 @@
+{
+    "id": "cd-2166",
+    "base_name": "Galaxair",
+    "title": null,
+    "set_number": "FST-SD057",
+    "sort_number": "FST-SD057",
+    "name": "Galaxair",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755769/FST-SD057Galaxair_g3ltwz?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481829/Galaxair_delytr?_a=BATAXdXy0",
+    "creature_id": "el-126",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can target an Elestral and\nswap its {attack} with its {defense} until the next turn.",
+    "effect": "You can target an Elestral and swap its {attack} with its {defense} until the next turn.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "behemoth",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "cd-1218",
+    "base_name": "Pandzer",
+    "title": null,
+    "set_number": "FF1-039",
+    "sort_number": "FF1-039",
+    "name": "Pandzer",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759964/FF1-039PandzerNoWatermark_lhayw8?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481828/Pandzer_tmwyfa?_a=BATAXdXy0",
+    "creature_id": "el-145",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Pandzer gets +1 {defense} for each {earth}\nEnchanting it. You can Nexus up to {earth}{earth}.\nWhen you do, you can return {earth} from your\nUnderworld to your Spirit Deck or Enchant {earth}\nfrom your Underworld to this Pandzer.",
+    "effect": "You can Nexus up to {earth}{earth}. This Pandzer gets +1 {defense} for each {earth} Enchanting it. When you do, you can return {earth} from your Underworld to your Spirit Deck or Enchant {earth} from your Underworld to this Pandzer.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "dryad",
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

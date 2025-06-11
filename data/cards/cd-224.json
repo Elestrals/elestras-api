@@ -1,0 +1,45 @@
+{
+    "id": "cd-224",
+    "base_name": "Leonite",
+    "title": null,
+    "set_number": "BS1-032",
+    "sort_number": "BS1-032",
+    "name": "Leonite",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "M. Romo - Bromojumbo",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245724/BS1-032LeoniteHolo_fzyocy?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473636/Render_-_LeoniteBS1-032_xggstm?_a=BATAXdXy0",
+    "creature_id": "el-78",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "As long as this Leonite is in Attack Position\nplayers cannot Cast Invoke Runes.",
+    "effect": "While this Leonite is in Attack Position players cannot play Invoke Runes.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "behemoth",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

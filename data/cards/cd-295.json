@@ -1,0 +1,43 @@
+{
+    "id": "cd-295",
+    "base_name": "Jolten",
+    "title": null,
+    "set_number": "BS1-066",
+    "sort_number": "BS1-066",
+    "name": "Jolten",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245639/BS1-066Jolten_wfy655?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473601/Render_-_JoltenBS1-066_trui6n?_a=BATAXdXy0",
+    "creature_id": "el-47",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Jolten\nyou can Search your deck for a\nStadium Rune and add it to your hand.",
+    "effect": "When you Normal Cast this Jolten you can Search your deck for a Stadium Rune and add it to your hand.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

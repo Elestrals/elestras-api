@@ -1,0 +1,41 @@
+{
+    "id": "cd-1400",
+    "base_name": "Bloom",
+    "title": null,
+    "set_number": "SS2-025",
+    "sort_number": "SS2-025",
+    "name": "Bloom",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Shattered Stars M11 - Sagittarius",
+    "set_id": "st-84",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087265/SS2-025BloomNoWatermarkHolo_vmbhpl?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156906/Bloom_nzulno?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Nexus {earth}.\nIf you do, you may Enchant {earth} to an\nElestral on your field.",
+    "effect": "Nexus {earth}. If you do, you may Enchant {earth} to an Elestral on your field.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

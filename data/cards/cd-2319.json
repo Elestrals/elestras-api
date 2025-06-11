@@ -1,0 +1,42 @@
+{
+    "id": "cd-2319",
+    "base_name": "Teratlas",
+    "title": null,
+    "set_number": "SD11-24",
+    "sort_number": "SD11-24",
+    "name": "Teratlas",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Posthumoose Starter Deck",
+    "set_id": "st-49",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925808/SD11-24Teratlas_znk7rv?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-2",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "earth"
+    ],
+    "cost": [],
+    "subclasses": [
+        "insectoid",
+        "golem"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

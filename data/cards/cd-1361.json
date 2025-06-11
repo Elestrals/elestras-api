@@ -1,0 +1,46 @@
+{
+    "id": "cd-1361",
+    "base_name": "Ohmperial",
+    "title": null,
+    "set_number": "XX/10",
+    "sort_number": "SS1-S20",
+    "name": "Ohmperial",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Shattered Stars M09 - Celebration",
+    "set_id": "st-102",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085648/SS1-OhmperialStellarNoWatermarkHolo_of07an?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152959/Ohmperial_FA_zfpat1?_a=BATAXdXy0",
+    "creature_id": "el-19",
+    "total_cost": 3,
+    "attack": 8,
+    "defense": 12,
+    "serialized_stellar": true,
+    "serialized_population": 10,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Ohmperial gets +1 {attack} for each {thunder} in your\nSpirit Deck. You can Expend {thunder} in order\nto target and destroy a card.",
+    "effect": "This Ohmperial gets +1 {attack} for each {thunder} in your Spirit Deck. You can Expend {thunder} in order to target and destroy a card.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder",
+        "thunder",
+        "thunder"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

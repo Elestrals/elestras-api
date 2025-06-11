@@ -1,0 +1,45 @@
+{
+    "id": "cd-1656",
+    "base_name": "Waspyre",
+    "title": null,
+    "set_number": "FST-027",
+    "sort_number": "FST-027",
+    "name": "Waspyre",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739328905/FST-027Waspyre_gmndi3?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900113/Waspyre_borderized_e1wuq8?_a=BATAXdXy0",
+    "creature_id": "el-46",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can discard a {fire} card to force an\nopponent to Expend {omni} equal to the\nEnchantment Cost of the discarded card.",
+    "effect": "You can discard a {fire} card to force an opponent to Expend {omni} equal to the Enchantment Cost of the discarded card.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

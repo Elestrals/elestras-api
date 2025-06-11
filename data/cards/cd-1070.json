@@ -1,0 +1,42 @@
+{
+    "id": "cd-1070",
+    "base_name": "Vipyro",
+    "title": null,
+    "set_number": "SS1-62",
+    "sort_number": "SS1-62",
+    "name": "Vipyro",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Shattered Stars M06 - Fire",
+    "set_id": "st-99",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085623/SS1-62VipyroFANoWatermarkHolo_htbeqh?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152439/Vipyro_FA_tlrgqo?_a=BATAXdXy0",
+    "creature_id": "el-1",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "fire"
+    ],
+    "cost": [],
+    "subclasses": [
+        "dragon",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

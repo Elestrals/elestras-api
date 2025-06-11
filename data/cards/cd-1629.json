@@ -1,0 +1,43 @@
+{
+    "id": "cd-1629",
+    "base_name": "Frosmite",
+    "title": null,
+    "set_number": "SS2-096",
+    "sort_number": "SS2-096",
+    "name": "Frosmite",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Shattered Stars M16 - Taurus",
+    "set_id": "st-89",
+    "subset": "reverse_stellar",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740349205/SS2-096StellarFrosmiteReverse_jvqwlw?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746135830/Frosmite_zrns70?_a=BATAXdXy0",
+    "creature_id": "el-124",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can target an opponent's Elestral and\ngive it -5 {defense} until the next turn.\r",
+    "effect": "You can target an opponent's Elestral and give it -5 {defense} until the next turn.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

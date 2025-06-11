@@ -1,0 +1,43 @@
+{
+    "id": "cd-1177",
+    "base_name": "Snowattle",
+    "title": null,
+    "set_number": "SS1-26",
+    "sort_number": "SS1-26",
+    "name": "Snowattle",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Shattered Stars M03 - Frost",
+    "set_id": "st-96",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085588/SS1-26SnowattleNoWatermark_rhywpg?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152308/Snowattle_SS1_dwv1ho?_a=BATAXdXy0",
+    "creature_id": "el-154",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Snowattle you\ncan Search your deck for an Elestral with\nEnchantment Cost {frost}{thunder} and add it to your hand.",
+    "effect": "When you Normal Cast this Snowattle you can Search your deck for an Elestral with Enchantment Cost {frost}{thunder} and add it to your hand.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "avian"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

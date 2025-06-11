@@ -1,0 +1,44 @@
+{
+    "id": "cd-1290",
+    "base_name": "Exaltus",
+    "title": null,
+    "set_number": "SS1-72",
+    "sort_number": "SS1-72",
+    "name": "Exaltus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "LuisBrain",
+    "set": "Shattered Stars M07 - Solar",
+    "set_id": "st-100",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085600/SS1-72ExaltusNoWatermark_hs0stl?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152496/Exaltus_SS1_ygqq05?_a=BATAXdXy0",
+    "creature_id": "el-204",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {solar}{solar}.\nWhen you do, you can Search your deck\nfor an {ethereal} Elestral and add it to your hand.",
+    "effect": "You can Nexus up to {solar}{solar}. When you do, you can Search your deck for an {ethereal} Elestral and add it to your hand.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

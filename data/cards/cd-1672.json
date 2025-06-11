@@ -1,0 +1,43 @@
+{
+    "id": "cd-1672",
+    "base_name": "Elechik",
+    "title": "Champion of Zeus",
+    "set_number": "FST-037",
+    "sort_number": "FST-037",
+    "name": "Elechik - Champion of Zeus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739328920/FST-037Elechik_vexugn?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900189/ElechikCoZ_borderized_u2rqpm?_a=BATAXdXy0",
+    "creature_id": "el-59",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Elechik declares an attack you\ncan give it +1 {attack} for each {thunder} Enchanting\neach Zeus on the field until the next turn.",
+    "effect": "When this Elechik declares an attack you can give it +1 {attack} for each {thunder} Enchanting Zeus on the field until the next turn.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "avian"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

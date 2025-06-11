@@ -1,0 +1,45 @@
+{
+    "id": "cd-1274",
+    "base_name": "Leobrite",
+    "title": null,
+    "set_number": "TP1-26",
+    "sort_number": "TP1-26",
+    "name": "Leobrite",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087785/TP1-26LeobriteStellarNoWatermarkHolo_asllom?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146320/Leobrite_ii8x26?_a=BATAXdXy0",
+    "creature_id": "el-185",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Foretell 4.\nYou may Special Ascend this Leobrite\nto a Celestleo Foretold this way.",
+    "effect": "You can Foretell 4. You may Special Ascend this Leobrite into a Celestleo Foretold this way.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar",
+        "solar"
+    ],
+    "subclasses": [
+        "behemoth",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

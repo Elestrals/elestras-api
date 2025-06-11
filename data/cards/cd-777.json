@@ -1,0 +1,46 @@
+{
+    "id": "cd-777",
+    "base_name": "Griffuse",
+    "title": null,
+    "set_number": "BS1-059",
+    "sort_number": "BS1-059",
+    "name": "Griffuse",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245628/BS1-059Griffuse_c9dtpn?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473601/Render_-_GriffuseBS1-059_hw68vk?_a=BATAXdXy0",
+    "creature_id": "el-60",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus {thunder} or {wind} from a Divine Rune.\nWhen you do, you can Special Ascend\nthis Griffuse to Voltempest from\nyour hand or deck.",
+    "effect": "You can Nexus {thunder}/{wind} from a Divine Rune. When you do, you can Special Ascend this Griffuse to Voltempest from your hand or deck.",
+    "elements": [
+        "thunder",
+        "wind"
+    ],
+    "cost": [
+        "thunder",
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

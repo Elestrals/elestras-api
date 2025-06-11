@@ -1,0 +1,43 @@
+{
+    "id": "cd-1472",
+    "base_name": "Electrifly",
+    "title": null,
+    "set_number": "MR1-054",
+    "sort_number": "MR1-054",
+    "name": "Electrifly",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924633/MR1-054Electrifly_qegrpe?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541403/Electrifly_borderized_spocbv?_a=BATAXdXy0",
+    "creature_id": "el-278",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {thunder} from this Electrifly\nin order to Search your deck for a 1 Spirit {thunder}\nElestral and add it to your hand.",
+    "effect": "You can Disenchant {thunder} from this Electrifly in order to Search your deck for a 1 Spirit {thunder} Elestral and add it to your hand.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "cd-924",
+    "base_name": "Lustragon",
+    "title": null,
+    "set_number": "DB1-010",
+    "sort_number": "DB1-010",
+    "name": "Lustragon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989851/DB1-010LustragonNoWatermarkHolo_tovlkn?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484021/Lustragon_wruemz?_a=BATAXdXy0",
+    "creature_id": "el-181",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {solar}{solar}{solar}.\nWhen this Lustragon receives 1 or more {solar} in a\nNexus you can target and destroy a card.",
+    "effect": "You can Nexus up to {solar}{solar}{solar}. When this Lustragon receives 1 or more {solar} in a Nexus you can target and destroy a card.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar",
+        "solar"
+    ],
+    "subclasses": [
+        "ethereal",
+        "dragon"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

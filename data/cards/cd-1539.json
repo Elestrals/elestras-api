@@ -1,0 +1,43 @@
+{
+    "id": "cd-1539",
+    "base_name": "Morphrost",
+    "title": "Scorpio Form",
+    "set_number": "XX/99",
+    "sort_number": "MR1-S10",
+    "name": "Morphrost - Scorpio Form",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925413/MR1-Morphrost-ScorpioStellarHolo_bh015t?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541450/MorphrostScorpionStellar_borderized_ryrajo?_a=BATAXdXy0",
+    "creature_id": "el-137",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 2,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Morphrost you can discard\na Morphrost in order to target an opponent's\nElestral and set its base {defense} to 0 until the End\nPhase. During this turn's End Phase you can\nExpend {frost}{frost} in order to destroy that Elestral.",
+    "effect": "When you Cast this Morphrost you can discard a Morphrost in order to target an opponent's Elestral and set its base {defense} to 0 until the next turn. During this turn's End Phase you can Expend {frost}{frost} in order to destroy that Elestral.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

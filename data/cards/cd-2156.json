@@ -1,0 +1,44 @@
+{
+    "id": "cd-2156",
+    "base_name": "Titanostrike",
+    "title": null,
+    "set_number": "FST-SD047",
+    "sort_number": "FST-SD047",
+    "name": "Titanostrike",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Castiel Flores",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755828/FST-SD047Titanostrike_t3ajwd?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541417/Titanostrike_borderized_wnfb8g?_a=BATAXdXy0",
+    "creature_id": "el-280",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When a player Casts Thunderstorm\nyou can Expend {thunder} in order to target\nand destroy an Elestral.",
+    "effect": "When a player Casts Thunderstorm you can Expend {thunder} in order to target and destroy an Elestral.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "archaic",
+        "dryad"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

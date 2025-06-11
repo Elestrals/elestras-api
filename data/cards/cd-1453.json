@@ -1,0 +1,43 @@
+{
+    "id": "cd-1453",
+    "base_name": "Bandiloon",
+    "title": null,
+    "set_number": "MR1-031",
+    "sort_number": "MR1-031",
+    "name": "Bandiloon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924353/MR1-031Bandiloon_ziwn4y?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541391/Bandiloon_borderized_rvicwh?_a=BATAXdXy0",
+    "creature_id": "el-259",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {lunar}{lunar} in order to take control\nof an opponent’s face-down Rune.",
+    "effect": "You can Expend {lunar}{lunar} in order to take control of an opponent's face-down Rune.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

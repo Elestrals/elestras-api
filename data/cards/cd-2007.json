@@ -1,0 +1,42 @@
+{
+    "id": "cd-2007",
+    "base_name": "Argo",
+    "title": null,
+    "set_number": "TP2-12",
+    "sort_number": "TP2-12",
+    "name": "Argo",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Organized Play Series 2",
+    "set_id": "st-46",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734037681/TP2-12Argo_d3g4pj?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Argo can only be Cast after an\nElestral declares an attack.\nCast an Artifact Rune from your hand or deck.",
+    "effect": "This Argo can only be played after an Elestral declares an attack. Cast an Artifact Rune from your hand or deck.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni",
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

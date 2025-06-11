@@ -1,0 +1,41 @@
+{
+    "id": "cd-1509",
+    "base_name": "Cunning Offer",
+    "title": null,
+    "set_number": "MR1-092",
+    "sort_number": "MR1-092",
+    "name": "Cunning Offer",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924586/MR1-092CunningOffer_dxrona?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541426/CunningOffer_borderized_udglbw?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Until the End Phase, an opponent gains control\nof target Elestral on your field and that Elestral\ngains the effect \"When this Elestral is destroyed\nin battle you must Expend {omni}{omni}{omni}.”",
+    "effect": "Until the next turn, an opponent takes control of target Elestral on your field and that Elestral gains the effect \"When this Elestral is destroyed in battle you must Expend {omni}{omni}{omni}.\"",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

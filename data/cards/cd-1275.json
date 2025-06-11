@@ -1,0 +1,46 @@
+{
+    "id": "cd-1275",
+    "base_name": "Pharomel",
+    "title": null,
+    "set_number": "TP1-27",
+    "sort_number": "TP1-27",
+    "name": "Pharomel",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087788/TP1-27PharomelStellarNoWatermarkHolo_plg0bf?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146311/Pharomel_xwmdrd?_a=BATAXdXy0",
+    "creature_id": "el-200",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 7,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When an opponent’s Elestral declares an\nattack you can Expend {lunar} in order to Negate\nthat attack and Special Ascend this Pharomel\nto Pharogeist from your hand or deck.",
+    "effect": "When an opponent's Elestral declares an attack you can Expend {lunar} in order to Negate that attack and Special Ascend this Pharomel into Pharogeist from your hand or deck.",
+    "elements": [
+        "solar",
+        "lunar"
+    ],
+    "cost": [
+        "solar",
+        "lunar"
+    ],
+    "subclasses": [
+        "brute",
+        "spectral"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

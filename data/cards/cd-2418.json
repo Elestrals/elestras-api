@@ -1,0 +1,43 @@
+{
+    "id": "cd-2418",
+    "base_name": "Brumalynx",
+    "title": "Champion of Khione",
+    "set_number": "EOP-006",
+    "sort_number": "EOP-006",
+    "name": "Brumalynx - Champion of Khione",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "marble",
+    "artist": "Badafra",
+    "set": "Firestorm Premier Pack",
+    "set_id": "st-111",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545137/EOP-006_BrumalynxCoK_q72wnw?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746760430/Brumalynx_CoK_pk4fod?_a=BATAXdXy0",
+    "creature_id": "el-235",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Brumalynx you can Search\nyour deck for a Mountains of Boreas or a\nBlizzard and add it to your hand.",
+    "effect": "When you Cast this Brumalynx you can Search your deck for a Mountains of Boreas or a Blizzard and add it to your hand.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

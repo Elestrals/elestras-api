@@ -1,0 +1,44 @@
+{
+    "id": "cd-1488",
+    "base_name": "Guardawn",
+    "title": null,
+    "set_number": "MR1-071",
+    "sort_number": "MR1-071",
+    "name": "Guardawn",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924728/MR1-071Guardawn_gsnngd?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541469/Guardawn_borderized_ivbslh?_a=BATAXdXy0",
+    "creature_id": "el-293",
+    "total_cost": 2,
+    "attack": 3,
+    "defense": 8,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Your Elestrals get +2 {defense}.\nWhen an opponent activates an effect that\ntargets 1 or more of your Runes you can\nExpend {solar}{solar} in order to Negate that effect.",
+    "effect": "Your Elestrals get +2 {defense}. When an opponent activates an effect that targets 1 or more of your Runes you can Expend {solar}{solar} in order to Negate that effect.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar",
+        "solar"
+    ],
+    "subclasses": [
+        "behemoth"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "cd-1676",
+    "base_name": "Solar Charged",
+    "title": null,
+    "set_number": "FST-096",
+    "sort_number": "FST-096",
+    "name": "Solar Charged",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739405887/FST-096SolarCharged_zlnalu?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900185/SolarCharged_borderized_opmemh?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Enchant {solar} from your Underworld\nto an Elestral on your field.",
+    "effect": "Enchant {solar} from your Underworld to an Elestral on your field.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

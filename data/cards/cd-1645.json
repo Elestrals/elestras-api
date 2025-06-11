@@ -1,0 +1,43 @@
+{
+    "id": "cd-1645",
+    "base_name": "Pandilence",
+    "title": "Champion of Artemis",
+    "set_number": "FST-071",
+    "sort_number": "FST-071",
+    "name": "Pandilence - Champion of Artemis",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Ryan Cortez",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329069/FST-071Pandilence_s3ljcy?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900155/PandilenceCoA_borderized_nfdy7f?_a=BATAXdXy0",
+    "creature_id": "el-207",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When 1 or more Elestrals become Suppressed\nor when a player plays an Elestral Suppressed\nan opponent must Expend {omni}.",
+    "effect": "When 1 or more Elestrals become Suppressed or when a player plays an Elestral Suppressed an opponent must Expend {omni}.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

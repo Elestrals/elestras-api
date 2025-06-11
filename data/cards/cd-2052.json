@@ -1,0 +1,45 @@
+{
+    "id": "cd-2052",
+    "base_name": "Electronyte",
+    "title": null,
+    "set_number": "TP3-23",
+    "sort_number": "TP3-23",
+    "name": "Electronyte",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Getsemani",
+    "set": "Organized Play Series 3",
+    "set_id": "st-115",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545069/TP3-23_StellarElectronyte_frsejr?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748835071/Electronyte_esb9cv?_a=BATAXdXy0",
+    "creature_id": "el-279",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus {thunder}/{lunar}. When this Electronyte receives 1 or more {thunder} you can Special Cast an Electrifly from your hand or deck. When you activate your Electrifly's effect you can draw a card.",
+    "effect": "You can Nexus {thunder}/{lunar}. When this Electronyte receives 1 or more {thunder} you can Special Cast an Electrifly from your hand or deck. When you activate your Electrifly's effect you can draw a card.",
+    "elements": [
+        "thunder",
+        "lunar"
+    ],
+    "cost": [
+        "thunder",
+        "lunar"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

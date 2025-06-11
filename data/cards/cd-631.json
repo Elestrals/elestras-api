@@ -1,0 +1,44 @@
+{
+    "id": "cd-631",
+    "base_name": "Cockatoodle",
+    "title": null,
+    "set_number": "FF1-067",
+    "sort_number": "FF1-067",
+    "name": "Cockatoodle",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759942/FF1-067CockatoodleNoWatermark_gqejod?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481806/Cockatoodle_zpykns?_a=BATAXdXy0",
+    "creature_id": "el-109",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Cockatoodle you can\ntarget an opponent's Elestral. That\nElestral is Suppressed as long as this\nCockatoodle is Enchanted.",
+    "effect": "When you Cast this Cockatoodle you can target an opponent's Elestral. That Elestral is Suppressed as long as this Cockatoodle is Enchanted.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "dragon"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

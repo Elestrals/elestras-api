@@ -1,0 +1,43 @@
+{
+    "id": "cd-355",
+    "base_name": "Ursear",
+    "title": null,
+    "set_number": "PR1-29",
+    "sort_number": "PR1-29",
+    "name": "Ursear",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Kickstarter Promos",
+    "set_id": "st-4",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724091111/PR1-29UrsearStellarNoWatermarkHolo_qmsn6y?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154847/Ursear_zzl263?_a=BATAXdXy0",
+    "creature_id": "el-27",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Ursear destroys an Elestral in battle\nyou can Special Cast an {ursa} Elestral that\ncosts 1 Spirit from your hand or deck.",
+    "effect": "When this Ursear destroys an Elestral in battle you can Special Cast a 1 Spirit {ursa} Elestral from your hand or deck.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "ursa"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

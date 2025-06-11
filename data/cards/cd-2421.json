@@ -1,0 +1,46 @@
+{
+    "id": "cd-2421",
+    "base_name": "Carryoff",
+    "title": "Champion of Hermes",
+    "set_number": "TOP 16",
+    "sort_number": "EOP-P01",
+    "name": "Carryoff - Champion of Hermes",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "marble",
+    "artist": "Amalry",
+    "set": "Firestorm Premier Pack",
+    "set_id": "st-111",
+    "subset": "prizing",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545132/EOP-P01_StellarCarryofCoH__TOP16_n8x8xk?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746760430/Carryoff_CoH_k8xtmj?_a=BATAXdXy0",
+    "creature_id": "el-284",
+    "total_cost": 2,
+    "attack": 8,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": true,
+    "prize_rank": "top_16",
+    "printed_effect": "You can shuffle an Elestral in your Underworld\ninto your deck. When this Carryoff is sent to the \nUnderworld with Hermes’ effect you can target \nan elestral and Expend {omni} equal to the number \nof its Enchanting Spirits to destroy it.",
+    "effect": "You can shuffle an Elestral in your Underworld into your deck. When this Carryoff is sent to your Underworld with Hermes' effect you can target an Elestral and Expend {omni} equal to the number of its Enchanting Spirits to destroy it.",
+    "elements": [
+        "lunar",
+        "wind"
+    ],
+    "cost": [
+        "lunar",
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid",
+        "spectral"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

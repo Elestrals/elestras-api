@@ -1,0 +1,46 @@
+{
+    "id": "cd-2021",
+    "base_name": "Posthumoose",
+    "title": null,
+    "set_number": "TP2-26",
+    "sort_number": "TP2-26",
+    "name": "Posthumoose",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Getsemani",
+    "set": "Organized Play Series 2",
+    "set_id": "st-46",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734037690/TP2-26PosthumooseStellarHolo_sjjovu?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146589/Posthumoose_cuyfhe?_a=BATAXdXy0",
+    "creature_id": "el-242",
+    "total_cost": 3,
+    "attack": 13,
+    "defense": 11,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When your Artemis Suppresses a card\nyou can target and destroy that card.\nWhile Artemis is Enchanted this Posthumoose\nis Unaffected by Counter Runes.",
+    "effect": "When your Artemis Suppresses a card you can target and destroy that card. While Artemis is Enchanted this Posthumoose is Unaffected by Counter Runes.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar",
+        "lunar",
+        "lunar"
+    ],
+    "subclasses": [
+        "spectral",
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

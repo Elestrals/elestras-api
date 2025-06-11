@@ -1,0 +1,41 @@
+{
+    "id": "cd-1697",
+    "base_name": "Reforge",
+    "title": null,
+    "set_number": "FST-081",
+    "sort_number": "FST-081",
+    "name": "Reforge",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329099/FST-081Reforge_iiinx1?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900154/Reforge_borderized_zhvhe1?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Return an Artifact Rune from your Underworld\nto your hand. Return Spirits equal to that\nArtifact Rune’s Enchantment Cost from your\nUnderworld to your Spirit Deck.",
+    "effect": "Return an Artifact Rune from your Underworld to your hand. Return Spirits equal to that Artifact Rune's Enchantment Cost from your Underworld to your Spirit Deck.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

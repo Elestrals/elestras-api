@@ -1,0 +1,44 @@
+{
+    "id": "cd-262",
+    "base_name": "Apheros",
+    "title": null,
+    "set_number": "BS1-053",
+    "sort_number": "BS1-053",
+    "name": "Apheros",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Villiam Boom",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731013410/BS1-053ApherosNoWatermark_rxhyme?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473646/Render_-_ApherosBS1-053_e3luob?_a=BATAXdXy0",
+    "creature_id": "el-39",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {water}{water}.\nWhen you do, you can draw a card for each {water}\nthat a card receives this way.",
+    "effect": "You can Nexus up to {water}{water}. When you do, you can draw a card for each {water} that a card receives this way.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "aquatic",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

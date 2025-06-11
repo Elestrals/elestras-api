@@ -1,0 +1,45 @@
+{
+    "id": "cd-2752",
+    "base_name": "Majursa",
+    "title": null,
+    "set_number": "PR4-08",
+    "sort_number": "PR4-08",
+    "name": "Majursa",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Moonrise Promos",
+    "set_id": "st-47",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727921744/PR4-08MajursaStellarHolo_ccwru1?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-28",
+    "total_cost": 3,
+    "attack": 12,
+    "defense": 12,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Majursa gets +2 {attack} for each other {ursa} Elestral on your field. Your 1 Spirit {ursa} Elestrals cannot be attacked and cannot be targeted by opponents' card effects.",
+    "effect": "This Majursa gets +2 {attack} for each other {ursa} Elestral on your field. Your 1 Spirit {ursa} Elestrals cannot be attacked and cannot be targeted by opponents' card effects.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "ursa"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

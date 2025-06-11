@@ -1,0 +1,46 @@
+{
+    "id": "cd-1468",
+    "base_name": "Jawblin",
+    "title": null,
+    "set_number": "MR1-049",
+    "sort_number": "MR1-049",
+    "name": "Jawblin",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924608/MR1-049Jawblin_tk3j9x?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541455/Jawblin_borderized_wyizsc?_a=BATAXdXy0",
+    "creature_id": "el-275",
+    "total_cost": 2,
+    "attack": 8,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {water} in order to change the\nPosition of an Elestral that is not {water}-Enchanted.\nWhen 1 or more Elestrals change their\nPositions you can draw a card. ",
+    "effect": "You can Expend {water} in order to change the Position of an Elestral that is not {water}-Enchanted. When 1 or more Elestrals change their Positions you can draw a card.",
+    "elements": [
+        "water",
+        "lunar"
+    ],
+    "cost": [
+        "water",
+        "lunar"
+    ],
+    "subclasses": [
+        "oceanic",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

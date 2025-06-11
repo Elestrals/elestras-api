@@ -1,0 +1,44 @@
+{
+    "id": "cd-670",
+    "base_name": "Necruff",
+    "title": null,
+    "set_number": "SD06-10",
+    "sort_number": "SD06-10",
+    "name": "Necruff",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Kryoscorch Starter Deck",
+    "set_id": "st-25",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723835429/SD06-10NecruffNoWatermark_eezkla?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473622/Render_-_NecruffBS1-020_ybmcfv?_a=BATAXdXy0",
+    "creature_id": "el-10",
+    "total_cost": 1,
+    "attack": 5,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Necruff destroys an opponent’s\nElestral in battle that opponent\nmust Expend {omni}.",
+    "effect": "When this Necruff destroys an opponent's Elestral in battle that opponent must Expend {omni}.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "eldritch",
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

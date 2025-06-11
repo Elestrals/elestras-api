@@ -1,0 +1,11 @@
+{
+    "id": "el-37",
+    "name": "Tadpuff",
+    "class": "elestral",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473598/Render_-_TadpuffBS1-049_n7zay8?_a=BATAXdXy0",
+    "blurb": "Fond of calm water, Tadpuff can often be found in ponds and small streams, where they are almost invisible. They enjoy splashing and playing with human children in pools.",
+    "updated_at": "2025-06-09T23:16:06.490Z",
+    "elements": [
+        "water"
+    ]
+}

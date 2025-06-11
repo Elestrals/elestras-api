@@ -1,0 +1,42 @@
+{
+    "id": "cd-820",
+    "base_name": "Zaptor",
+    "title": null,
+    "set_number": "PR1-04",
+    "sort_number": "PR1-04",
+    "name": "Zaptor",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Kickstarter Promos",
+    "set_id": "st-4",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724091091/PR1-04ZaptorStellarNoWatermarkHolo_eogsba?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154832/Zaptor_rviqpo?_a=BATAXdXy0",
+    "creature_id": "el-4",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "thunder"
+    ],
+    "cost": [],
+    "subclasses": [
+        "archaic",
+        "dragon"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

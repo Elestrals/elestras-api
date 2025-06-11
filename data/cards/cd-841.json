@@ -1,0 +1,45 @@
+{
+    "id": "cd-841",
+    "base_name": "Lycavolt",
+    "title": null,
+    "set_number": "SS1-03",
+    "sort_number": "SS1-03",
+    "name": "Lycavolt",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Dragonith",
+    "set": "Shattered Stars M01 - Thunder",
+    "set_id": "st-13",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085578/SS1-03LycavoltNoWatermark_heahpx?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152480/Lycavolt_SS1_i1uqrk?_a=BATAXdXy0",
+    "creature_id": "el-58",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Lycavolt gets +2 {attack} for each Ampup in\nyour Underworld. When this Lycavolt\ndestroys an opponent’s Elestral in battle\nyou can look at that opponent’s hand\nand discard a card from it.",
+    "effect": "This Lycavolt gets +2 {attack} for each Ampup in your Underworld. When this Lycavolt destroys an opponent's Elestral in battle you can look at that opponent's hand and discard a card from it.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder",
+        "thunder"
+    ],
+    "subclasses": [
+        "behemoth",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

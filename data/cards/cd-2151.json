@@ -1,0 +1,46 @@
+{
+    "id": "cd-2151",
+    "base_name": "Griffuse",
+    "title": null,
+    "set_number": "FST-SD041",
+    "sort_number": "FST-SD041",
+    "name": "Griffuse",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755775/FST-SD041Griffuse_jqf8mf?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473601/Render_-_GriffuseBS1-059_hw68vk?_a=BATAXdXy0",
+    "creature_id": "el-60",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus {thunder}/{wind} from a Divine Rune.\nWhen you do, you can Special Ascend\nthis Griffuse to Voltempest from\nyour hand or deck.",
+    "effect": "You can Nexus {thunder}/{wind} from a Divine Rune. When you do, you can Special Ascend this Griffuse to Voltempest from your hand or deck.",
+    "elements": [
+        "thunder",
+        "wind"
+    ],
+    "cost": [
+        "thunder",
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

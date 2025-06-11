@@ -1,0 +1,12 @@
+{
+    "id": "el-41",
+    "name": "Barabog",
+    "class": "elestral",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473630/Render_-_BarabogBS1-015_bevzqd?_a=BATAXdXy0",
+    "blurb": null,
+    "updated_at": "2025-06-09T23:16:06.055Z",
+    "elements": [
+        "earth",
+        "water"
+    ]
+}

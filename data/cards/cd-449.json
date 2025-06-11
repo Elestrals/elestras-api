@@ -1,0 +1,45 @@
+{
+    "id": "cd-449",
+    "base_name": "Stratomoth",
+    "title": null,
+    "set_number": "XX/10",
+    "sort_number": "SS1-S04",
+    "name": "Stratomoth",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Shattered Stars M02 - Wind",
+    "set_id": "st-95",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085653/SS1-StratomothStellarNoWatermarkHolo_zpmwpa?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152967/Stratomoth_FA_scrv05?_a=BATAXdXy0",
+    "creature_id": "el-31",
+    "total_cost": 3,
+    "attack": 9,
+    "defense": 5,
+    "serialized_stellar": true,
+    "serialized_population": 10,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Stratomoth gets +1 {attack} for each Nimbug\nand Cirrucoon on your field and in your\nUnderworld. You can Expend {wind}\nin order to return each of your\nopponents' Runes to their hand.",
+    "effect": "This Stratomoth gets +1 {attack} for each Nimbug and Cirrucoon on your field and in your Underworld. You can Expend {wind} in order to return each of your opponents' Runes to their hand.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

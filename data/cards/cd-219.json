@@ -1,0 +1,44 @@
+{
+    "id": "cd-219",
+    "base_name": "Emphrostix",
+    "title": null,
+    "set_number": "FF1-094",
+    "sort_number": "FF1-094",
+    "name": "Emphrostix",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723760102/FF1-094EmphrostixFANoWatermarkHolo_hyuygj?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156164/Emphrostix_FA_ptizfu?_a=BATAXdXy0",
+    "creature_id": "el-118",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {frost}{frost} and discard this\nEmphrostix in order to target and Special Cast\na 1 Spirit {frost} Elestral from your Underworld.",
+    "effect": "You can Expend {frost}{frost} and discard this Emphrostix in order to target and Special Cast a 1 Spirit {frost} Elestral from your Underworld.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "cd-677",
+    "base_name": "Krakking",
+    "title": null,
+    "set_number": "BS1-037",
+    "sort_number": "BS1-037",
+    "name": "Krakking",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731012965/BS1-037KrakkingNoWatermark_ezqk9w?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473633/Render_-_KrakkingBS1-037_gcphqz?_a=BATAXdXy0",
+    "creature_id": "el-52",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 8,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Krakking you can choose\nup to 2 unoccupied slots in an opponent’s\nElestral Row. Those Elestral slots cannot be\nused as long as this Krakking is Enchanted.",
+    "effect": "When you Cast this Krakking you can Block up to 2 unoccupied slots in an opponent’s Elestral Row for as long as this Krakking is Enchanted. (Blocked zones cannot be used.)",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

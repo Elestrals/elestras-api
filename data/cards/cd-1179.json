@@ -1,0 +1,43 @@
+{
+    "id": "cd-1179",
+    "base_name": "Ignectar",
+    "title": null,
+    "set_number": "PR1-26",
+    "sort_number": "PR1-26",
+    "name": "Ignectar",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Kickstarter Promos",
+    "set_id": "st-4",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724091129/PR1-26IgnectarStellarNoWatermarkHolo_njmvsw?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154807/Ignectar_xlx2lr?_a=BATAXdXy0",
+    "creature_id": "el-45",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Ignectar you can\nSpecial Cast up to 2 Ignectar from your hand\nor deck in Attack Position with {fire}. If you do,\nyou must skip your next Battle Phase.",
+    "effect": "When you Normal Cast this Ignectar you can Special Cast up to 2 Ignectar from your hand or deck in Attack Position with {fire}. If you do, skip this turn's Battle Phase.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

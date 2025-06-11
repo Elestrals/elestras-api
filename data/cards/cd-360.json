@@ -1,0 +1,44 @@
+{
+    "id": "cd-360",
+    "base_name": "Tectaurus",
+    "title": null,
+    "set_number": "AC1-23",
+    "sort_number": "AC1-23",
+    "name": "Tectaurus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Dragonith",
+    "set": "Artist Collection",
+    "set_id": "st-5",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723756676/AC1-23TectaurusNoWatermarkHolo_bsjpfe?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742140321/Tectaurus_AC_u7dwdu?_a=BATAXdXy0",
+    "creature_id": "el-69",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Tectaurus gets +1 {attack} for each\nEnchanting {earth} on the field.",
+    "effect": "This Tectaurus gets +1 {attack} for each Enchanting {earth} on the field.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "golem",
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

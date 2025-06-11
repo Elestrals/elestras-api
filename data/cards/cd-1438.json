@@ -1,0 +1,45 @@
+{
+    "id": "cd-1438",
+    "base_name": "Volumbra",
+    "title": null,
+    "set_number": "MR1-016",
+    "sort_number": "MR1-016",
+    "name": "Volumbra",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924325/MR1-016Volumbra_mzpzlo?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541457/Volumbra_borderized_ls2t2r?_a=BATAXdXy0",
+    "creature_id": "el-244",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 7,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you discard a Lunar Phase during your\nMain Phase you can Special Ascend your Voldusk\nto this Volumbra from your hand. When you cast\nLunar Phase-Full Moon you can Special Ascend\nthis Volumbra to Volclipse from your deck.",
+    "effect": "When you discard a Lunar Phase during your Main Phase you can Special Ascend your Voldusk to this Volumbra from your hand. When you Cast Lunar Phase-Full Moon you can Special Ascend this Volumbra to Volclipse from your deck.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar",
+        "lunar"
+    ],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

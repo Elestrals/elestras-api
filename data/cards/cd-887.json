@@ -1,0 +1,43 @@
+{
+    "id": "cd-887",
+    "base_name": "Sluggle",
+    "title": null,
+    "set_number": "BS1-038",
+    "sort_number": "BS1-038",
+    "name": "Sluggle",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245617/BS1-038Sluggle_tjabqh?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473642/Render_-_SluggleBS1-038_fyyj8i?_a=BATAXdXy0",
+    "creature_id": "el-14",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Sluggle you can return up\nto {water}{water}{water} from your Underworld\nto your Spirit Deck.",
+    "effect": "When you Cast this Sluggle you can return up to {water}{water}{water} from your Underworld to your Spirit Deck.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

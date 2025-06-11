@@ -1,0 +1,43 @@
+{
+    "id": "cd-888",
+    "base_name": "Funglow",
+    "title": null,
+    "set_number": "FF1-055",
+    "sort_number": "FF1-055",
+    "name": "Funglow",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Dragonith",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759939/FF1-055FunglowNoWatermark_dswvdd?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481808/Funglow_wpxgzx?_a=BATAXdXy0",
+    "creature_id": "el-125",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "{thunder}-Enchanted Elestrals get +1 {attack}.\nWhen a player Casts Thunderstorm you\ncan Special Cast a Brontoglow from\nyour hand or deck.",
+    "effect": "{thunder}-Enchanted Elestrals get +1 {attack}. When a player Casts Thunderstorm you can Special Cast a Brontoglow from your hand or deck.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

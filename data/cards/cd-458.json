@@ -1,0 +1,42 @@
+{
+    "id": "cd-458",
+    "base_name": "Scepter of Khione",
+    "title": null,
+    "set_number": "SD06-18",
+    "sort_number": "SD06-18",
+    "name": "Scepter of Khione",
+    "alias": null,
+    "card_type": "rune_artifact",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Kryoscorch Starter Deck",
+    "set_id": "st-25",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723835430/SD06-18ScepterofKhioneNoWatermark_dnvddt?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "The Empowered Elestral gets +2 {attack} and +1 {defense}.\nWhen Khione is Enchanted and the\nEmpowered Elestral destroys an Elestral\nin battle you can Special Cast a\n1 Spirit {frost} Elestral from your hand.",
+    "effect": "The Empowered Elestral gets +2 {attack} and +1 {defense}. When Khione is Enchanted and the Empowered Elestral destroys an Elestral in battle you can Special Cast a 1 Spirit {frost} Elestral from your hand.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost",
+        "frost"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

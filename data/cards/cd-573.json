@@ -1,0 +1,42 @@
+{
+    "id": "cd-573",
+    "base_name": "Owlune",
+    "title": null,
+    "set_number": "SD08-25",
+    "sort_number": "SD08-25",
+    "name": "Owlune",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Chronodile Starter Deck",
+    "set_id": "st-38",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723994904/SD08-25OwluneNoWatermark_mj6dak?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484006/Owlune_mutzhj?_a=BATAXdXy0",
+    "creature_id": "el-102",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "lunar"
+    ],
+    "cost": [],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

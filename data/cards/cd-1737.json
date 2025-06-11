@@ -1,0 +1,44 @@
+{
+    "id": "cd-1737",
+    "base_name": "Parachne",
+    "title": null,
+    "set_number": "FST-057",
+    "sort_number": "FST-057",
+    "name": "Parachne",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739405888/FST-057Parachne_shfysf?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900166/Parachne_borderized_czhj9u?_a=BATAXdXy0",
+    "creature_id": "el-323",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Parachne can be Normal Cast with\n{wind}{wind} if Arachne’s Lair is Enchanted.",
+    "effect": "This Parachne can be Normal Cast with {wind}{wind} if Arachne's Lair is Enchanted.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

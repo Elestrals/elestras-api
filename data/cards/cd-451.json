@@ -1,0 +1,42 @@
+{
+    "id": "cd-451",
+    "base_name": "Leviaphin",
+    "title": null,
+    "set_number": "SS1-34",
+    "sort_number": "SS1-34",
+    "name": "Leviaphin",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Shattered Stars M04 - Water",
+    "set_id": "st-97",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085626/SS1-34LeviaphinFANoWatermark_uwh2pl?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152441/Leviaphin_FA_vctvhr?_a=BATAXdXy0",
+    "creature_id": "el-3",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "water"
+    ],
+    "cost": [],
+    "subclasses": [
+        "oceanic",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

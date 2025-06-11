@@ -1,0 +1,44 @@
+{
+    "id": "cd-311",
+    "base_name": "Rummagem",
+    "title": null,
+    "set_number": "BS1-008",
+    "sort_number": "BS1-008",
+    "name": "Rummagem",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245551/BS1-008Rummagem_zuby9n?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473604/Render_-_RummagemBS1-008_pn9a0r?_a=BATAXdXy0",
+    "creature_id": "el-80",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Rummagem you\ncan Search your deck for an Elestral with\nEnchantment Cost {earth} and add it to your hand.",
+    "effect": "When you Normal Cast this Rummagem you can Search your deck for a 1 Spirit {earth} Elestral and add it to your hand.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "golem",
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

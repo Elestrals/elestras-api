@@ -1,0 +1,44 @@
+{
+    "id": "cd-814",
+    "base_name": "Exaltus",
+    "title": null,
+    "set_number": "DB1-030",
+    "sort_number": "DB1-030",
+    "name": "Exaltus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990506/DB1-030ExaltusNoWatermark_rth6jd?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484017/Exaltus_i6caj0?_a=BATAXdXy0",
+    "creature_id": "el-204",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {solar}{solar}.\nWhen you do, you can Search your deck\nfor an {ethereal} Elestral and add it to your hand.",
+    "effect": "You can Nexus up to {solar}{solar}. When you do, you can Search your deck for an {ethereal} Elestral and add it to your hand.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

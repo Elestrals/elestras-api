@@ -1,0 +1,43 @@
+{
+    "id": "cd-1253",
+    "base_name": "Elechik",
+    "title": null,
+    "set_number": "TP1-05",
+    "sort_number": "TP1-05",
+    "name": "Elechik",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087764/TP1-05ElechikNoWatermark_yfzzpy?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146326/Elechik_TP1_zamdsd?_a=BATAXdXy0",
+    "creature_id": "el-59",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Elechik you can\nSearch your deck for a Divine Rune and\nadd it to your hand.",
+    "effect": "When you Normal Cast this Elechik you can Search your deck for a Divine Rune and add it to your hand.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "avian"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

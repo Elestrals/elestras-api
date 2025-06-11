@@ -1,0 +1,43 @@
+{
+    "id": "cd-1679",
+    "base_name": "Narpoon",
+    "title": "Champion of Khione",
+    "set_number": "FST-034",
+    "sort_number": "FST-034",
+    "name": "Narpoon - Champion of Khione",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739328921/FST-034Narpoon_nk76vc?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900113/NarpoonCoK_borderized_zi5txa?_a=BATAXdXy0",
+    "creature_id": "el-140",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus {water}/{frost}.\nWhen this Narpoon receives 1 or more {frost}\nyou can Special Ascend it to Whalance\nfrom your hand or deck.",
+    "effect": "You can Nexus {water}/{frost}. When this Narpoon receives 1 or more {frost} you can Special Ascend it to Whalance from your hand or deck.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

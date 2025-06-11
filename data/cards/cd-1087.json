@@ -1,0 +1,45 @@
+{
+    "id": "cd-1087",
+    "base_name": "Stratomoth",
+    "title": null,
+    "set_number": "BS1-120",
+    "sort_number": "BS1-120",
+    "name": "Stratomoth",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Base",
+    "set_id": "st-52",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727245847/BS1-120StratomothFAHolo_zytyeb?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154764/Stratomoth_FA_f7825o?_a=BATAXdXy0",
+    "creature_id": "el-31",
+    "total_cost": 3,
+    "attack": 9,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Stratomoth gets +1 {attack} for each Nimbug\nand Cirrucoon on your field and in your\nUnderworld. You can Expend {wind}\nin order to return each of your\nopponents' Runes to their hand.",
+    "effect": "This Stratomoth gets +1 {attack} for each Nimbug and Cirrucoon on your field and in your Underworld. You can Expend {wind} in order to return each of your opponents' Runes to their hand.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

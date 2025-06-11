@@ -1,0 +1,42 @@
+{
+    "id": "cd-1416",
+    "base_name": "Trident of Poseidon",
+    "title": null,
+    "set_number": "SS2-037",
+    "sort_number": "SS2-037",
+    "name": "Trident of Poseidon",
+    "alias": null,
+    "card_type": "rune_artifact",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Shattered Stars M12 - Capricorn",
+    "set_id": "st-85",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087273/SS2-037TridentofPoseidonNoWatermarkHolo_lrbdgg?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "The Empowered Elestral gets +2 {attack} and\ncannot be targeted by Counter Runes.\nWhile Poseidon is Enchanted your\nopponents cannot Cast Counter Runes.",
+    "effect": "The Empowered Elestral gets +2 {attack} and cannot be targeted by Counter Runes. While Poseidon is Enchanted your opponents cannot play Counter Runes.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "cd-560",
+    "base_name": "Shield of Achilles",
+    "title": null,
+    "set_number": "SD07-22",
+    "sort_number": "SD07-22",
+    "name": "Shield of Achilles",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Emperowatt Starter Deck",
+    "set_id": "st-24",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723837425/SD07-22ShieldofAchillesNoWatermark_pzq9df?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Shield of Achilles can only be Cast after\nan opponent’s Elestral declares an attack.\nExpend {omni} equal to that Elestral's\nEnchantment Cost in order to Negate that\nattack and return that Elestral to their hand.",
+    "effect": "This Shield of Achilles can only be played after an opponent's Elestral declares an attack. Expend {omni} equal to that Elestral's Enchantment Cost in order to Negate that attack and return that Elestral to their hand.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

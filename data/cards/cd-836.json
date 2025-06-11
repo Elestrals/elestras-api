@@ -1,0 +1,46 @@
+{
+    "id": "cd-836",
+    "base_name": "Flammamoth",
+    "title": null,
+    "set_number": "FF1-066",
+    "sort_number": "FF1-066",
+    "name": "Flammamoth",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723760036/FF1-066FlammamothNoWatermarkHolo_q2gayk?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481841/Flammamoth_cnxyxm?_a=BATAXdXy0",
+    "creature_id": "el-122",
+    "total_cost": 3,
+    "attack": 9,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Flammamoth gets +1 {attack} for each Enchanting\n{wind} on the field. When a player activates a Rune\neffect, you can Expend {fire}{fire} in order to Negate\nthat effect and destroy that Rune. This card's\neffect can be activated only once each turn.",
+    "effect": "This Flammamoth gets +1 {attack} for each Enchanting {wind} on the field. When a player activates a Rune effect, you can Expend {fire}{fire} in order to Negate that effect and destroy that Rune. This effect can be activated only once each turn.",
+    "elements": [
+        "wind",
+        "fire"
+    ],
+    "cost": [
+        "wind",
+        "wind",
+        "fire"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

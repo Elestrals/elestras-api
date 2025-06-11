@@ -1,0 +1,41 @@
+{
+    "id": "cd-2197",
+    "base_name": "Hermes",
+    "title": null,
+    "set_number": "FST-SD085",
+    "sort_number": "FST-SD085",
+    "name": "Hermes",
+    "alias": null,
+    "card_type": "rune_divine",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755888/FST-SD085Hermes_ilhmcm?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900122/Hermes_borderized_mlvmqt?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Hermes you can Enchant\nup to {wind}{wind}{wind} to it. You can Disenchant {wind}{wind}\nfrom this Hermes in order to Search your deck\nfor a {wind} Elestral and send it to the Underworld.",
+    "effect": "When you Cast this Hermes you can Enchant up to {wind}{wind}{wind} to it. You can Disenchant {wind}{wind} from this Hermes in order to Search your deck for a {wind} Elestral and send it to the Underworld.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

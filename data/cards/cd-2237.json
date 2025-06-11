@@ -1,0 +1,44 @@
+{
+    "id": "cd-2237",
+    "base_name": "Helialith",
+    "title": null,
+    "set_number": "SS2-106",
+    "sort_number": "SS2-106",
+    "name": "Helialith",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Elliot Moguilner",
+    "set": "Shattered Stars M17 - Gemini",
+    "set_id": "st-90",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740354432/SS2-106Helialith_tzmuyv?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748833635/Helialith_FA_kgsovj?_a=BATAXdXy0",
+    "creature_id": "el-206",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Helialith can be Normal Cast\nwith {solar}{solar} if an Artifact Rune is Enchanted.\nWhen you Cast this Helialith you can return an\nElestral on the field to its owner's hand.",
+    "effect": "This Helialith can be Normal Cast with {solar}{solar} if an Artifact Rune is Enchanted. When you Cast this Helialith you can return an Elestral on the field to its owner's hand.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar",
+        "solar"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

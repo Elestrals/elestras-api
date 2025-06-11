@@ -1,0 +1,43 @@
+{
+    "id": "cd-345",
+    "base_name": "Ashrabbit",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "DB1-S09",
+    "name": "Ashrabbit",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989883/DB1-AshrabbitStellarNoWatermarkHolo_fmmzg5?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156768/AshrabbitStellar_nlqsi8?_a=BATAXdXy0",
+    "creature_id": "el-219",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 5,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Ashrabbit receives 1 or more {fire} you\ncan target 3 cards in your Underworld,\nthen an opponent chooses 1 of them.\nReturn that card to your hand or Spirit Deck.",
+    "effect": "When this Ashrabbit receives 1 or more {fire} you can target 3 cards in your Underworld, then an opponent chooses 1 of them. Return that card to your hand or Spirit Deck.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

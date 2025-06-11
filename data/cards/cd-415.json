@@ -1,0 +1,42 @@
+{
+    "id": "cd-415",
+    "base_name": "Argo",
+    "title": null,
+    "set_number": "DB1-075",
+    "sort_number": "DB1-075",
+    "name": "Argo",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989876/DB1-075ArgoNoWatermarkHolo_idqnam?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156921/Argo_b1bz2j?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Argo can only be Cast after an\nElestral declares an attack.\nCast an Artifact Rune from your hand or deck.",
+    "effect": "This Argo can only be played after an Elestral declares an attack. Cast an Artifact Rune from your hand or deck.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni",
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

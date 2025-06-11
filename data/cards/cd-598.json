@@ -1,0 +1,43 @@
+{
+    "id": "cd-598",
+    "base_name": "Kryoling",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "SD06-S01",
+    "name": "Kryoling",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Ryan Cortez",
+    "set": "Kryoscorch Starter Deck",
+    "set_id": "st-25",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723835439/SD06KryolingStellarNoWatermarkHolo_ehejjy?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156216/KryolingStellar_jjyisb?_a=BATAXdXy0",
+    "creature_id": "el-131",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 3,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Kryoling gets +1 {attack} for each {frost} in your\nUnderworld. When this Kryoling has 6 or\nmore {attack} during your Main Phase you\nmust either destroy it or Special Ascend\nit to Kryovyrn from your hand or deck.",
+    "effect": "This Kryoling gets +1 {attack} for each {frost} in your Underworld. When this Kryoling has 6 or more {attack} during your Main Phase you must either destroy it or Special Ascend it to Kryovyrn from your hand or deck.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "dragon"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

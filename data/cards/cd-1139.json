@@ -1,0 +1,44 @@
+{
+    "id": "cd-1139",
+    "base_name": "Coastalith",
+    "title": null,
+    "set_number": "DB1-051",
+    "sort_number": "DB1-051",
+    "name": "Coastalith",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989862/DB1-051CoastalithNoWatermarkHolo_cx5ppg?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484022/Coastalith_cqxzvi?_a=BATAXdXy0",
+    "creature_id": "el-223",
+    "total_cost": 2,
+    "attack": 2,
+    "defense": 8,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Coastalith can be Normal Cast with {water}{water}\nif an opponent has at least 2 Elestrals in\nDefense Position. When you Cast this\nCoastalith you can Special Cast a\n1 Spirit {water} Elestral from your hand.",
+    "effect": "This Coastalith can be Normal Cast with {water}{water} if an opponent has at least 2 Elestrals in Defense Position. When you Cast this Coastalith you can Special Cast a 1 Spirit {water} Elestral from your hand.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

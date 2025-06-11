@@ -1,0 +1,43 @@
+{
+    "id": "cd-717",
+    "base_name": "Sproutyr",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "SD01-S01",
+    "name": "Sproutyr",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "fkmntraineradam",
+    "set": "Centaurbor Starter Deck",
+    "set_id": "st-70",
+    "subset": "serialized",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724168639/SD01-SproutyrStellarNoWatermarkHolo_g5mmua?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154843/Sproutyr_uru9mi?_a=BATAXdXy0",
+    "creature_id": "el-7",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 5,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Sproutyr you can\nSearch your deck for an Artifact\nand add it to your hand.",
+    "effect": "When you Normal Cast this Sproutyr you can Search your deck for an Artifact Rune and add it you your hand.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

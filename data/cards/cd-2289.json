@@ -1,0 +1,41 @@
+{
+    "id": "cd-2289",
+    "base_name": "Poison Tipped Arrow",
+    "title": null,
+    "set_number": "SD10-23",
+    "sort_number": "SD10-23",
+    "name": "Poison Tipped Arrow",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Villiam Boom",
+    "set": "Fulgoryx Starter Deck",
+    "set_id": "st-48",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925583/SD10-23PoisonTippedArrow_itjgsq?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Poison Tipped Arrow can only be Cast\nwhen an opponent Casts an Elestral. Target it\nand give it -2 {attack} until the End Phase. During\nthis turn’s End Phase you can Expend {omni} equal\nto its Enchantment Cost in order to destroy it.",
+    "effect": "This Poison Tipped Arrow can only be played when an opponent Casts an Elestral. Target it and give it -2 {attack} until the next turn. During this End Phase you can Expend {omni} equal to its Enchantment Cost in order to destroy it.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

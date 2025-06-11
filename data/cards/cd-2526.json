@@ -1,0 +1,41 @@
+{
+    "id": "cd-2526",
+    "base_name": "Island of Aeolia",
+    "title": null,
+    "set_number": "SS2-050",
+    "sort_number": "SS2-050",
+    "name": "Island of Aeolia",
+    "alias": null,
+    "card_type": "rune_stadium",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "JaqenArt",
+    "set": "Shattered Stars M13 - Aquarius",
+    "set_id": "st-86",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776321/SS2-050IslandOfAeolia_dbqkiv?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Elestrals get +1 {attack} and +1 {defense} for\neach {wind} Enchanting them.",
+    "effect": "Elestrals get +1 {attack} and +1 {defense} for each {wind} Enchanting them.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

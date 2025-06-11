@@ -1,0 +1,41 @@
+{
+    "id": "cd-782",
+    "base_name": "Avalanche",
+    "title": null,
+    "set_number": "FF1-072",
+    "sort_number": "FF1-072",
+    "name": "Avalanche",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759965/FF1-072AvalancheNoWatermark_oxiacs?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Each player sends the top 3 cards from\ntheir deck to their Underworld.\nThen if you control a {frost}-Enchanted Elestral\nyou can send an additional 2 cards\nfrom your deck to your Underworld.",
+    "effect": "Each player sends the top 3 cards from their deck to their Underworld. Then if you control a {frost}-Enchanted Elestral you may send an additional 2 cards from the top of your deck to your Underworld.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

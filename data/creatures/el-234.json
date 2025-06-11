@@ -1,0 +1,11 @@
+{
+    "id": "el-234",
+    "name": "Rhinosect",
+    "class": "elestral",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484016/Rhinosect_ysk0do?_a=BATAXdXy0",
+    "blurb": "Rhinosect are among the strongest Elestrals, capable of lifting many times their weight. Made of thick, enchanted ice, it is said their horn is unbreakable. Glacier Horn, their signature attack, tosses opposing Elestrals out of sight.",
+    "updated_at": "2025-06-09T23:16:07.805Z",
+    "elements": [
+        "frost"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "cd-1617",
+    "base_name": "Gnawbie",
+    "title": "Champion of aDrive",
+    "set_number": "XX/99",
+    "sort_number": "KSC-S1",
+    "name": "Gnawbie - Champion of aDrive",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Clash! Promos",
+    "set_id": "st-76",
+    "subset": "serialized",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743911745/KSC-S01_StellarGnawbieCoA_qv1ioz?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746758775/Gnawbie_ireu6x?_a=BATAXdXy0",
+    "creature_id": "el-237",
+    "total_cost": 1,
+    "attack": 5,
+    "defense": 1,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Gnawbie you can Search\nyour deck for an aDrive and add it to your hand.\nYou can Nexus {lunar}.\n{wind} card that receives {lunar} this way is Unaffected\nby Counter Runes until the next turn.",
+    "effect": "When you Cast this Gnawbie you can Search your deck for an aDrive and add it to your hand. You can Nexus {lunar}. {wind} card that receives {lunar} this way is Unaffected by Counter Runes until the next turn.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar"
+    ],
+    "subclasses": [
+        "insectoid",
+        "dragon"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

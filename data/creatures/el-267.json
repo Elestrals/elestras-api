@@ -1,0 +1,12 @@
+{
+    "id": "el-267",
+    "name": "Cedarsaur",
+    "class": "elestral",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541498/Cedarsaur_borderized_chbyif?_a=BATAXdXy0",
+    "blurb": null,
+    "updated_at": "2025-06-09T23:16:06.978Z",
+    "elements": [
+        "earth",
+        "frost"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "cd-2291",
+    "base_name": "Owlune",
+    "title": null,
+    "set_number": "SD10-25",
+    "sort_number": "SD10-25",
+    "name": "Owlune",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Fulgoryx Starter Deck",
+    "set_id": "st-48",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925550/SD10-25Owlune_wxlfw8?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-102",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "lunar"
+    ],
+    "cost": [],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

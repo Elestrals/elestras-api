@@ -1,0 +1,45 @@
+{
+    "id": "cd-2331",
+    "base_name": "Solbelle",
+    "title": "Champion of Apollo",
+    "set_number": "TP3-08",
+    "sort_number": "TP3-08",
+    "name": "Solbelle - Champion of Apollo",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Ryan Cortez",
+    "set": "Organized Play Series 3",
+    "set_id": "st-115",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1743545060/TP3-08_SolbelleCoA_yjsaey?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748834998/Solbelle_CoA_hbitrm?_a=BATAXdXy0",
+    "creature_id": "el-197",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "While this Solbelle is Foretold with your Apollo's effect you may Special Cast it with {solar}.",
+    "effect": "While this Solbelle is Foretold with your Apollo's effect you may Special Cast it with {solar}.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

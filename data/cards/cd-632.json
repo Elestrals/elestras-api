@@ -1,0 +1,43 @@
+{
+    "id": "cd-632",
+    "base_name": "Boombatt",
+    "title": null,
+    "set_number": "PR1-17",
+    "sort_number": "PR1-17",
+    "name": "Boombatt",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Kickstarter Promos",
+    "set_id": "st-4",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724091099/PR1-17BoombatStellarNoWatermarkHolo_jfwrav?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154797/Boombatt_vmyyr5?_a=BATAXdXy0",
+    "creature_id": "el-75",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {thunder} from this\nBoombatt in order to target and destroy\nan opponent’s Elestral.",
+    "effect": "You can Disenchant {thunder} from this Boombatt in order to target and destroy an opponent's Elestral.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

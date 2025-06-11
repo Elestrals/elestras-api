@@ -1,0 +1,44 @@
+{
+    "id": "cd-1056",
+    "base_name": "Peagust",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "BS1-S07",
+    "name": "Peagust",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088463/BS1-PeagustStellarNoWatermarkHolo_mtf612?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154870/Peagust_cdxfic?_a=BATAXdXy0",
+    "creature_id": "el-62",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 3,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Peagust receives 1 or more {wind} you\ncan target and destroy a Rune.",
+    "effect": "When this Peagust receives 1 or more {wind} you can target and destroy a Rune.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

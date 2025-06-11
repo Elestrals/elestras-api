@@ -1,0 +1,43 @@
+{
+    "id": "cd-1027",
+    "base_name": "Narpoon",
+    "title": null,
+    "set_number": "SD06-11",
+    "sort_number": "SD06-11",
+    "name": "Narpoon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Kryoscorch Starter Deck",
+    "set_id": "st-25",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723835431/SD06-11NarpoonNoWatermark_nf3dfc?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481832/Narpoon_qfspmo?_a=BATAXdXy0",
+    "creature_id": "el-140",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Narpoon you\ncan Search your deck for a 1 Spirit {frost} Elestral\nand add it to your hand.",
+    "effect": "When you Normal Cast this Narpoon you can Search your deck for a 1 Spirit {frost} Elestral and add it to your hand.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

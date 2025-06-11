@@ -1,0 +1,14 @@
+{
+    "id": "st-69",
+    "name": "Centaurbor Starter Deck",
+    "type": "starter_deck",
+    "abbr": "SD01",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "release_date": "2024-03-15T00:00:00.000Z",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724249301/CentaurborSDBanner_cnnyst?_a=BATAXdXy0",
+    "icon": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724247920/Centaurbor_SD_qrjj7w.svg",
+    "stamp": "https://res.cloudinary.com/drmapg0vi/image/upload/v1724249401/Centaurbor_Starter_Deck_ky9ijr.png",
+    "logo": null,
+    "series_code": "FE01"
+}

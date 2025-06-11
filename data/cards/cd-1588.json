@@ -1,0 +1,44 @@
+{
+    "id": "cd-1588",
+    "base_name": "Nemisail",
+    "title": null,
+    "set_number": "KSC-04",
+    "sort_number": "KSC-04",
+    "name": "Nemisail",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Ryan Cortez",
+    "set": "Clash! Promos",
+    "set_id": "st-76",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741908822/KSC-04_StellarNemisail_hkgs2l?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746758510/Nemisail_bbptgy?_a=BATAXdXy0",
+    "creature_id": "el-142",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Nemisail receives 1 or more {wind}\nyou can return up to {wind}{wind} from your\nUnderworld to your Spirit Deck.",
+    "effect": "When this Nemisail receives 1 or more {wind} you can return up to {wind}{wind} from your Underworld to your Spirit Deck.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "archaic",
+        "avian"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

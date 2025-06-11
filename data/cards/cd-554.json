@@ -1,0 +1,47 @@
+{
+    "id": "cd-554",
+    "base_name": "Voltempest",
+    "title": null,
+    "set_number": "XX/10",
+    "sort_number": "BS1-S08",
+    "name": "Voltempest",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088455/BS1-VoltempestFAStellarNoWatermarkHolo_nfvv3n?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742155415/Voltempest_BT-S_jtta4z?_a=BATAXdXy0",
+    "creature_id": "el-61",
+    "total_cost": 3,
+    "attack": 13,
+    "defense": 10,
+    "serialized_stellar": true,
+    "serialized_population": 10,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {thunder} or {wind} from this\nVoltempest to force an opponent to\nExpend {omni}{omni}{omni}. While Zeus is\nEnchanted this Voltempest cannot be\ntargeted by opponents’ card effects.",
+    "effect": "You can Disenchant {thunder}/{wind} from this Voltempest to force an opponent to Expend {omni}{omni}{omni}. While Zeus is Enchanted this Voltempest cannot be targeted by opponents’ card effects.",
+    "elements": [
+        "thunder",
+        "wind"
+    ],
+    "cost": [
+        "thunder",
+        "thunder",
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "cd-2694",
+    "base_name": "Rummacoal",
+    "title": "Champion of Hephaestus",
+    "set_number": "SS2-073",
+    "sort_number": "SS2-073",
+    "name": "Rummacoal - Champion of Hephaestus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Shattered Stars M15 - Aries",
+    "set_id": "st-88",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776361/SS2-073Rummacoal_CoH_rjnv9y?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746135259/Rummacoal_CoH_y9v5ps?_a=BATAXdXy0",
+    "creature_id": "el-216",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Rummacoal you can return\nan Artifact Rune from your Underworld to\nyour hand. This Rummacoal gets +1 {attack} for\neach Enchanted Artifact Rune on the field.",
+    "effect": "When you Cast this Rummacoal you can return an Artifact Rune from your Underworld to your hand. This Rummacoal gets +1 {attack} for each Enchanted Artifact Rune on the field.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "golem",
+        "brute"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

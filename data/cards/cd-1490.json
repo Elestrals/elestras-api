@@ -1,0 +1,44 @@
+{
+    "id": "cd-1490",
+    "base_name": "Aeosdale",
+    "title": null,
+    "set_number": "MR1-073",
+    "sort_number": "MR1-073",
+    "name": "Aeosdale",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924509/MR1-073Aeosdale_d9ptys?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746028917/Borderized_-_Aeosdale_jolary?_a=BATAXdXy0",
+    "creature_id": "el-295",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Aeosdale you\ncan Foretell 3. You may Special Cast a\n1 Spirit {solar} Elestral Foretold this way.",
+    "effect": "When you Cast this Aeosdale you can Foretell 3. You may Special Cast a 1 Spirit {solar} Elestral Foretold this way.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar",
+        "solar"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

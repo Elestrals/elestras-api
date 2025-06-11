@@ -1,0 +1,43 @@
+{
+    "id": "cd-1154",
+    "base_name": "Vysceris",
+    "title": null,
+    "set_number": "SS1-52",
+    "sort_number": "SS1-52",
+    "name": "Vysceris",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Shattered Stars M05 - Earth",
+    "set_id": "st-98",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085655/SS1-52VyscerisStainedNoWatermarkHolo_vuamsa?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152452/Vysceris_SG_vfp4uf?_a=BATAXdXy0",
+    "creature_id": "el-68",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Vysceris gets +1 {attack} for each Vysceris\non the field. When this Vysceris destroys\nan Elestral in battle you can Special Cast\na Vysceris from your hand or deck\nin Defense Position.",
+    "effect": "This Vysceris gains +1 {attack} for each Vysceris on the field. When this Vysceris destroys an Elestral in battle you can Special Cast a Vysceris from your hand or deck in Defense Position.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

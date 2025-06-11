@@ -1,0 +1,43 @@
+{
+    "id": "cd-512",
+    "base_name": "Frosmite",
+    "title": null,
+    "set_number": "SD06-06",
+    "sort_number": "SD06-06",
+    "name": "Frosmite",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Tori Von",
+    "set": "Kryoscorch Starter Deck",
+    "set_id": "st-25",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723835418/SD06-06FrosmiteNoWatermark_mjevop?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481811/Frosmite_nny1fe?_a=BATAXdXy0",
+    "creature_id": "el-124",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can target an opponent’s Elestral and\ngive it -5 {defense} until the End Phase.",
+    "effect": "You can target an opponent's Elestral and give it -5 {defense} until the next turn.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

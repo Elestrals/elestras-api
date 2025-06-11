@@ -1,0 +1,43 @@
+{
+    "id": "cd-1384",
+    "base_name": "Jolten",
+    "title": null,
+    "set_number": "SS2-013",
+    "sort_number": "SS2-013",
+    "name": "Jolten",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Shattered Stars M10 - Scorpio",
+    "set_id": "st-41",
+    "subset": "reverse_stellar",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087271/SS2-013JoltenStellarNoWatermarkHolo_gr8izk?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742153131/Jolten_djdgkc?_a=BATAXdXy0",
+    "creature_id": "el-47",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Jolten\nyou can Search your deck for a\nStadium Rune and add it to your hand.",
+    "effect": "When you Normal Cast this Jolten you can Search your deck for a Stadium Rune and add it to your hand.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

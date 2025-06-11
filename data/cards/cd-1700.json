@@ -1,0 +1,44 @@
+{
+    "id": "cd-1700",
+    "base_name": "Drataya",
+    "title": "Escaped From Tartarus",
+    "set_number": "FST-014",
+    "sort_number": "FST-014",
+    "name": "Drataya - Escaped From Tartarus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739328786/FST-014Drataya_fgi2om?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900102/DratayaEFT_borderized_yth4zb?_a=BATAXdXy0",
+    "creature_id": "el-23",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can discard an Ambrosia or a Golden\nApple of Discord in order to draw 2 cards. ",
+    "effect": "You can discard an Ambrosia or a Golden Apple of Discord in order to draw 2 cards.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "dryad",
+        "dragon"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

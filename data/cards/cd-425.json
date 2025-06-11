@@ -1,0 +1,43 @@
+{
+    "id": "cd-425",
+    "base_name": "Sproutyr",
+    "title": null,
+    "set_number": "AC1-16",
+    "sort_number": "AC1-16",
+    "name": "Sproutyr",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Artist Collection",
+    "set_id": "st-5",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723756673/AC1-16SproutyrNoWatermarkHolo_nnramd?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742140323/Sproutyr_AC_kzxc53?_a=BATAXdXy0",
+    "creature_id": "el-7",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Sproutyr you can\nSearch your deck for an Artifact\nand add it to your hand.",
+    "effect": "When you Normal Cast this Sproutyr you can Search your deck for an Artifact Rune and add it you your hand.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

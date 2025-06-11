@@ -1,0 +1,43 @@
+{
+    "id": "cd-1531",
+    "base_name": "Bellowby",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "MR1-S02",
+    "name": "Bellowby",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925331/MR1-BellowbyStellarHolo_klfhnb?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541425/BellowbyStellar_borderized_gih3a5?_a=BATAXdXy0",
+    "creature_id": "el-271",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 2,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "{fire}/{wind}-Enchanted Elestrals get +1 {attack}.\nYou can target a {fire}/{wind}-Enchanted Elestral and\ngive it the effect \"this Elestral is Unaffected\nby Counter Runes\" until next turn. ",
+    "effect": "{fire}/{wind}-Enchanted Elestrals get +1 {attack}. You can target a {fire}/{wind}-Enchanted Elestral and give it the effect \"this Elestral is Unaffected by Counter Runes\" until next turn.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "archaic"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

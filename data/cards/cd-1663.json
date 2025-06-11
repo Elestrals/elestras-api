@@ -1,0 +1,44 @@
+{
+    "id": "cd-1663",
+    "base_name": "Galaxair",
+    "title": "Champion of Aeolus",
+    "set_number": "FST-047",
+    "sort_number": "FST-047",
+    "name": "Galaxair - Champion of Aeolus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739405893/FST-047GalaxairCoA_x7t845?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900160/GalaxairCoA_borderized_phzjds?_a=BATAXdXy0",
+    "creature_id": "el-126",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you add this Galaxair to your hand\nwith your Aeolus’ effect you can\nSpecial Cast it with {wind}.",
+    "effect": "When you add this Galaxair to your hand with your Aeolus' effect you can Special Cast it with {wind}.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "behemoth",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

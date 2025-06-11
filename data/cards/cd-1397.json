@@ -1,0 +1,44 @@
+{
+    "id": "cd-1397",
+    "base_name": "Verdalith",
+    "title": null,
+    "set_number": "SS2-022",
+    "sort_number": "SS2-022",
+    "name": "Verdalith",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Elliot Moguilner",
+    "set": "Shattered Stars M11 - Sagittarius",
+    "set_id": "st-84",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087274/SS2-022VerdalithFANoWatermarkHolo_oaxy0h?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154221/Verdalith_FA_zonkuc?_a=BATAXdXy0",
+    "creature_id": "el-158",
+    "total_cost": 2,
+    "attack": 3,
+    "defense": 7,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Verdalith can be Normal Cast with {earth}{earth}\nif an opponent has at least 4 more Spirits in\ntheir Spirit Deck than you do. When you Cast\nthis Verdalith you can return up to {earth}{earth}{earth}{earth}\nfrom your Underworld to your Spirit Deck.",
+    "effect": "This Verdalith can be Normal Cast with {earth}{earth} if an opponent has at least 4 more Spirits in their Spirit Deck than you do. When you Cast this Verdalith you can return up to {earth}{earth}{earth}{earth} from your Underworld to your Spirit Deck.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth",
+        "earth"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

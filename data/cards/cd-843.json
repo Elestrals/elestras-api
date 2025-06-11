@@ -1,0 +1,42 @@
+{
+    "id": "cd-843",
+    "base_name": "Blizzard",
+    "title": null,
+    "set_number": "SS1-32",
+    "sort_number": "SS1-32",
+    "name": "Blizzard",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Shattered Stars M03 - Frost",
+    "set_id": "st-96",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085617/SS1-32BlizzardNoWatermarkHolo_vy40qg?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Blizzard’s Cast cannot be\nchained by Counter Runes.\nTarget and destroy an opponent’s\nface-down Rune.",
+    "effect": "While this Blizzard is on a Chain, players cannot play Counter Runes. Target and destroy an opponent's face-down Rune.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost",
+        "frost"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "cd-2681",
+    "base_name": "Apheros",
+    "title": null,
+    "set_number": "SS2-062",
+    "sort_number": "SS2-062",
+    "name": "Apheros",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "borderless_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Shattered Stars M14 - Pisces",
+    "set_id": "st-87",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776348/SS2-062Apheros_cspuxo?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154202/Apheros_Constellation_xsrvcl?_a=BATAXdXy0",
+    "creature_id": "el-39",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {water}{water}.\nWhen you do, you can draw a card for each {water}\nthat a card receives this way.",
+    "effect": "You can Nexus up to {water}{water}. When you do, you can draw a card for each {water} that a card receives this way.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "aquatic",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

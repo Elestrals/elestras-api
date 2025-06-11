@@ -1,0 +1,41 @@
+{
+    "id": "cd-1141",
+    "base_name": "Island of Aeolia",
+    "title": null,
+    "set_number": "SD05-18",
+    "sort_number": "SD05-18",
+    "name": "Island of Aeolia",
+    "alias": null,
+    "card_type": "rune_stadium",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Penterror Starter Deck",
+    "set_id": "st-62",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724096389/SD05-18IslandofAeoliaNoWatermark_c86nwl?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Elestrals get +1 {attack} and +1 {defense} for\neach {wind} Enchanting them.",
+    "effect": "Elestrals get +1 {attack} and +1 {defense} for each {wind} Enchanting them.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

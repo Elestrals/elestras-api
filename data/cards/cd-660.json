@@ -1,0 +1,43 @@
+{
+    "id": "cd-660",
+    "base_name": "Smoltuga",
+    "title": null,
+    "set_number": "SD02-10",
+    "sort_number": "SD02-10",
+    "name": "Smoltuga",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Dennis Fuhrmann",
+    "set": "Trifernal Starter Deck",
+    "set_id": "st-9",
+    "subset": "starter_deck",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724168990/SD02-10SmoltugaNoWatermark_onzcih?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473604/Render_-_SmoltugaBS1-045_vpkus2?_a=BATAXdXy0",
+    "creature_id": "el-89",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Smoltuga you can\nSearch your deck for an Elestral with\nEnchantment Cost {fire} and add it to your hand.",
+    "effect": "When you Normal Cast this Smoltuga you can Search your deck for a 1 Spirit {fire} Elestral and add it to your hand.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

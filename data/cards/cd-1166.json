@@ -1,0 +1,47 @@
+{
+    "id": "cd-1166",
+    "base_name": "Phosvocell",
+    "title": null,
+    "set_number": "DB1-054",
+    "sort_number": "DB1-054",
+    "name": "Phosvocell",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723989871/DB1-054PhosvocellNoWatermarkHolo_vszyqx?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484020/Phosvocell_zxbtxd?_a=BATAXdXy0",
+    "creature_id": "el-226",
+    "total_cost": 3,
+    "attack": 7,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Phosvocell gets +1 {attack} for each {solar}\nEnchanting it. You can Disenchant {thunder}{thunder} from\nthis Phosvocell in order to destroy a Rune. When\nthis Phosvocell receives 1 or more {solar} you can\nEnchant up to {thunder}{thunder} from your Underworld to it.",
+    "effect": "This Phosvocell gets +1 {attack} for each {solar} Enchanting it. You can Disenchant {thunder}{thunder} from this Phosvocell in order to destroy a Rune. When this Phosvocell receives 1 or more {solar} you can Enchant up to {thunder}{thunder} from your Underworld to it.",
+    "elements": [
+        "thunder",
+        "solar"
+    ],
+    "cost": [
+        "thunder",
+        "thunder",
+        "solar"
+    ],
+    "subclasses": [
+        "insectoid",
+        "dragon"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

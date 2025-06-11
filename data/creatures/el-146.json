@@ -1,0 +1,12 @@
+{
+    "id": "el-146",
+    "name": "Penguwatt",
+    "class": "elestral",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481819/Penguwatt_hy4adt?_a=BATAXdXy0",
+    "blurb": null,
+    "updated_at": "2025-06-09T23:16:06.055Z",
+    "elements": [
+        "frost",
+        "thunder"
+    ]
+}

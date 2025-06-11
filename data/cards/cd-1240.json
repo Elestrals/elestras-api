@@ -1,0 +1,43 @@
+{
+    "id": "cd-1240",
+    "base_name": "Morphrost",
+    "title": "Abominable Form",
+    "set_number": "PR2-06",
+    "sort_number": "PR2-06",
+    "name": "Morphrost - Abominable Form",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Frostfall Promos",
+    "set_id": "st-31",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723835248/PR2-06Morphrost-AbominableStellarNoWatermarkHolo_azznjm?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742156177/Morphrost_-_Abominable_FormStellar_tldzox?_a=BATAXdXy0",
+    "creature_id": "el-137",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Morphrost gets +1 {attack} for each Morphrost\nin your Underworld. You can Disenchant {frost}\nfrom this Morphrost in order to Special Cast\na Morphrost that is not Abominable Form\nfrom your Underworld.",
+    "effect": "This Morphrost gets +1 {attack} for each Morphrost in your Underworld. You can Disenchant {frost} from this Morphrost in order to Special Cast a Morphrost that is not Abominable Form from your Underworld.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

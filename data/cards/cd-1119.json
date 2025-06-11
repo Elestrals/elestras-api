@@ -1,0 +1,45 @@
+{
+    "id": "cd-1119",
+    "base_name": "Fowlipharos",
+    "title": null,
+    "set_number": "DB1-020",
+    "sort_number": "DB1-020",
+    "name": "Fowlipharos",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990506/DB1-020FowlipharosNoWatermark_inuzte?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484013/Fowlipharos_dalayt?_a=BATAXdXy0",
+    "creature_id": "el-194",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 7,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {solar} in order to reveal each of\nyour opponents' face-down Runes, then\ndestroy up to one Rune revealed this way.\nThis effect cannot be chained by Counter Runes.",
+    "effect": "You can Expend {solar} in order to reveal each of your opponents' face-down Runes, then destroy up to one Rune revealed this way. While this effect is on a Chain, players cannot play Counter Runes.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar",
+        "solar"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

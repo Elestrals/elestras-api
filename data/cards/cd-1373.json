@@ -1,0 +1,44 @@
+{
+    "id": "cd-1373",
+    "base_name": "Platypulse",
+    "title": null,
+    "set_number": "SS2-004",
+    "sort_number": "SS2-004",
+    "name": "Platypulse",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "LuisBrain",
+    "set": "Shattered Stars M10 - Scorpio",
+    "set_id": "st-41",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087255/SS2-004PlatypulseNoWatermark_zweohx?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154249/Platypulse_SS2_ft4lr3?_a=BATAXdXy0",
+    "creature_id": "el-148",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Elestrals that are not {thunder}-Enchanted get -1 {attack} for\neach Enchanting {thunder} on your field. Effects of\nElestrals named Platypulse cannot reduce\nan Elestral's {attack} by more than -4 total.",
+    "effect": "Elestrals that are not {thunder}-Enchanted get -1 {attack} for each Enchanting {thunder} on your field. Effects of Elestrals named Platypulse cannot reduce an Elestral's {attack} by more than -4 total.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "aquatic"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "cd-1716",
+    "base_name": "Verutaqua",
+    "title": "Champion of Poseidon",
+    "set_number": "FST-R03",
+    "sort_number": "FST-R03",
+    "name": "Verutaqua - Champion of Poseidon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "reverse_stellar",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739405912/FST-R03StellarVerutaquaCoP_t66jlx?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900196/VerutaquaCoPStellar_borderized_mi4vnr?_a=BATAXdXy0",
+    "creature_id": "el-87",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Verutaqua receives 1 or more\n{water} in a Nexus from Poseidon you can\nSpecial Ascend it to Verutaqua or Javelantis\nfrom your hand or deck.",
+    "effect": "When this Verutaqua receives 1 or more {water} in a Nexus from Poseidon you can Special Ascend it to Verutaqua or Javelantis from your deck.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "varaints": [
+        "reverse_holo"
+    ]
+}

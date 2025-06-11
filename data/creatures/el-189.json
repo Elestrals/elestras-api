@@ -1,0 +1,12 @@
+{
+    "id": "el-189",
+    "name": "Gnomodile",
+    "class": "elestral",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484014/Gnomodile_x4m9cd?_a=BATAXdXy0",
+    "blurb": null,
+    "updated_at": "2025-06-09T23:16:07.805Z",
+    "elements": [
+        "solar",
+        "water"
+    ]
+}

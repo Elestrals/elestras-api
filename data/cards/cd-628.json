@@ -1,0 +1,42 @@
+{
+    "id": "cd-628",
+    "base_name": "Eruption",
+    "title": null,
+    "set_number": "SD03-20",
+    "sort_number": "SD03-20",
+    "name": "Eruption",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Dennis Fuhrmann",
+    "set": "Majesea Starter Deck",
+    "set_id": "st-10",
+    "subset": "starter_deck",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724169348/SD03-20EruptionNoWatermark_c9kqwj?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "An opponent must Expend {omni}{omni}{omni}. If they\ncontrol a {fire}-Enchanted Elestral they must\nExpend {omni} instead.",
+    "effect": "An opponent must Expend {omni}{omni}{omni}. If they control a {fire}-Enchanted Elestral they must Expend {omni} instead.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

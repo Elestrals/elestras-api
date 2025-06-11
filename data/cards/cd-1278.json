@@ -1,0 +1,44 @@
+{
+    "id": "cd-1278",
+    "base_name": "Rhinosect",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "TP1-S05",
+    "name": "Rhinosect",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087788/TP1-RhinosectStellarNoWatermarkHolo_hf4r48?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146311/Rhinosect_mf4cok?_a=BATAXdXy0",
+    "creature_id": "el-234",
+    "total_cost": 2,
+    "attack": 8,
+    "defense": 5,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Rhinosect can be Special Cast from your\nhand if you have a card that is originally an\nElestral in your Rune Row. You can target\nand destroy an Empowered Elestral.",
+    "effect": "This Rhinosect can be Special Cast from your hand if you have a card that is originally an Elestral in your Rune Row. You can target and destroy an Empowered Elestral.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost",
+        "frost"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

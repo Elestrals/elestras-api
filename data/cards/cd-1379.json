@@ -1,0 +1,44 @@
+{
+    "id": "cd-1379",
+    "base_name": "Toxion",
+    "title": null,
+    "set_number": "SS2-008",
+    "sort_number": "SS2-008",
+    "name": "Toxion",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "borderless_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Shattered Stars M10 - Scorpio",
+    "set_id": "st-41",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087265/SS2-008ToxionConstellationNoWatermarkHolo_svdcli?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154245/Toxion_Constellation_y9kl26?_a=BATAXdXy0",
+    "creature_id": "el-73",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Toxion receives 1 or more {thunder}\nyour opponents must Expend {omni}.",
+    "effect": "When this Toxion receives 1 or more {thunder} your opponents must Expend {omni}.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

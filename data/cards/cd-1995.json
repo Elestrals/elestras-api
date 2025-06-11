@@ -1,0 +1,45 @@
+{
+    "id": "cd-1995",
+    "base_name": "Stratomoth",
+    "title": null,
+    "set_number": "TP2-17",
+    "sort_number": "TP2-17",
+    "name": "Stratomoth",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Badafra",
+    "set": "Organized Play Series 2",
+    "set_id": "st-46",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734037687/TP2-17StratomothStellarHolo_xweqgp?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146585/Stratomoth_lqnk1e?_a=BATAXdXy0",
+    "creature_id": "el-31",
+    "total_cost": 3,
+    "attack": 9,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Stratomoth gets +1 {attack} for each Nimbug\nand Cirrucoon on your field and in your\nUnderworld. You can Expend {wind}\nin order to return each of your\nopponents' Runes to their hand.",
+    "effect": "This Stratomoth gets +1 {attack} for each Nimbug and Cirrucoon on your field and in your Underworld. You can Expend {wind} in order to return each of your opponents' Runes to their hand.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "cd-335",
+    "base_name": "Scavacoal",
+    "title": null,
+    "set_number": "DB1-044",
+    "sort_number": "DB1-044",
+    "name": "Scavacoal",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Ryan Cortez",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990497/DB1-044ScavacoalNoWatermark_suufqz?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484030/Scavacoal_xbgs1w?_a=BATAXdXy0",
+    "creature_id": "el-217",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Ascend into this Scavacoal you can\nExpend {fire} in order to Search your deck for up\nto 2 cards with Enchantment Costs {fire} or {fire}{fire}\nand add them to your hand.",
+    "effect": "When you Ascend into this Scavacoal you can Expend {fire} in order to Search your deck for up to 2 cards with Enchantment Costs {fire} or {fire}{fire} and add them to your hand.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "golem",
+        "behemoth"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

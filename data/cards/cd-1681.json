@@ -1,0 +1,44 @@
+{
+    "id": "cd-1681",
+    "base_name": "Plucky",
+    "title": "Champion of Apollo",
+    "set_number": "FST-068",
+    "sort_number": "FST-068",
+    "name": "Plucky - Champion of Apollo",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329068/FST-068Plucky_hivns2?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900191/PluckyCoA_borderized_mcjnbp?_a=BATAXdXy0",
+    "creature_id": "el-203",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Plucky you\ncan Search your deck for a Lyre of Apollo\nand add it to your hand. When you Cast\na {solar} Rune you can return {solar} from your\nUnderworld to your Spirit Deck.",
+    "effect": "When you Normal Cast this Plucky you can Search your deck for a Lyre of Apollo and add it to your hand. When you Cast a {solar} Rune you can return {solar} from your Underworld to your Spirit Deck.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

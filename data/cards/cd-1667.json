@@ -1,0 +1,41 @@
+{
+    "id": "cd-1667",
+    "base_name": "Anvil of Hephaestus",
+    "title": null,
+    "set_number": "FST-078",
+    "sort_number": "FST-078",
+    "name": "Anvil of Hephaestus",
+    "alias": null,
+    "card_type": "rune_artifact",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739329097/FST-078AnvilofHephaestus_chjaet?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900172/AnvilofHephaestus_borderized_ygdwjm?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "The Empowered Elestral gets +1 {attack}.\nWhen an Artifact Rune on your field is sent\nto the Underworld you can Enchant each Spirit\nthat was Enchanting that Artifact Rune from\nyour Underworld to a card on your field.",
+    "effect": "The Empowered Elestral gets +1 {attack}. When an Artifact Rune on your field is sent to the Underworld you can Enchant each Spirit that was Enchanting that Artifact from your Underworld to a card on your field.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

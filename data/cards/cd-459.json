@@ -1,0 +1,44 @@
+{
+    "id": "cd-459",
+    "base_name": "Caprefume",
+    "title": null,
+    "set_number": "FF1-044",
+    "sort_number": "FF1-044",
+    "name": "Caprefume",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759893/FF1-044CaprefumeNoWatermark_ndotk6?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481829/Caprefume_hg6xd4?_a=BATAXdXy0",
+    "creature_id": "el-106",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Caprefume gets +2 {attack} for each {fire} Elestral\non the field. You can Expend {fire} in order to\nSpecial Cast a 1 Spirit {fire} Elestral\nfrom your hand.",
+    "effect": "This Caprefume gets +2 {attack} for each {fire} Elestral on the field. You can Expend {fire} in order to Special Cast a 1 Spirit {fire} Elestral from your hand.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

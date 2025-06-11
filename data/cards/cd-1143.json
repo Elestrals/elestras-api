@@ -1,0 +1,44 @@
+{
+    "id": "cd-1143",
+    "base_name": "Corvishine",
+    "title": null,
+    "set_number": "SD09-09",
+    "sort_number": "SD09-09",
+    "name": "Corvishine",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Phoebe Sumner-Twisk",
+    "set": "Pharogeist Starter Deck",
+    "set_id": "st-39",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723995245/SD09-09CorvishineNoWatermark_n2qcge?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731483982/Corvishine_y05h1x?_a=BATAXdXy0",
+    "creature_id": "el-202",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Corvishine receives 1 or more {solar}\nyou can Foretell cards equal to the number\nof Spirits Enchanting it plus 1.\nThen you may draw a card and put a card from\nyour hand on top of your deck.",
+    "effect": "When this Corvishine receives 1 or more {solar} you can Foretell cards equal to the number of Spirits Enchanting it plus 1. Then you may draw a card and put a card from your hand on top of your deck.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

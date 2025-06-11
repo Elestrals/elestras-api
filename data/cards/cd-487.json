@@ -1,0 +1,43 @@
+{
+    "id": "cd-487",
+    "base_name": "Chillalotl",
+    "title": null,
+    "set_number": "SD06-05",
+    "sort_number": "SD06-05",
+    "name": "Chillalotl",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Ryan Cortez",
+    "set": "Kryoscorch Starter Deck",
+    "set_id": "st-25",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723835422/SD06-05ChillalotlNoWatermark_wicztx?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481805/Chillalotl_s8frlu?_a=BATAXdXy0",
+    "creature_id": "el-95",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Chillalotl you can target\nup to 2 face-down Runes. As long as this\nChillalotl is Enchanted, those\nRunes cannot be Cast.",
+    "effect": "When you Cast this Chillalotl you can target up to 2 face-down Runes. As long as this Chillalotl is Enchanted, those Runes cannot be played.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "cd-1281",
+    "base_name": "Zephrog",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "TP1-S04",
+    "name": "Zephrog",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Elliot Moguilner",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087779/TP1-ZephrogStellarNoWatermarkHolo_xoqsc1?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146310/Zephrog_co60a1?_a=BATAXdXy0",
+    "creature_id": "el-38",
+    "total_cost": 2,
+    "attack": 4,
+    "defense": 3,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Zephrog can attack opponents’ Spirit\nDecks directly. When this Zephrog deals\ndamage to an opponent you can look at that\nopponent’s hand and discard a card from it.",
+    "effect": "This Zephrog can attack opponents' Spirit Decks directly. When this Zephrog deals damage to an opponent you can look at that opponent's hand and discard a card from it.",
+    "elements": [
+        "water",
+        "wind"
+    ],
+    "cost": [
+        "water",
+        "wind"
+    ],
+    "subclasses": [
+        "aquatic"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "cd-931",
+    "base_name": "Rise from the Depths",
+    "title": null,
+    "set_number": "FF1-078",
+    "sort_number": "FF1-078",
+    "name": "Rise from the Depths",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "JaqenArt",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759998/FF1-078RisefromtheDepthsNoWatermark_ux2jpe?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Rise from the Depths can only be\nCast if Atlantis is Enchanted.\nTarget a 1 Spirit {water} Elestral in your\nUnderworld and Special Cast it.",
+    "effect": "This Rise from the Depths can only be played if Atlantis is Enchanted. Target a 1 Spirit {water} Elestral in your Underworld and Special Cast it.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

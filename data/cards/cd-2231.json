@@ -1,0 +1,44 @@
+{
+    "id": "cd-2231",
+    "base_name": "Cypromal",
+    "title": null,
+    "set_number": "SS2-101",
+    "sort_number": "SS2-101",
+    "name": "Cypromal",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Shattered Stars M17 - Gemini",
+    "set_id": "st-90",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740354417/SS2-101Cypromal_ehmhag?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1748833599/Cypromal_kzyvno?_a=BATAXdXy0",
+    "creature_id": "el-205",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Cypromal you can Search\nyour deck for a Golden Fleece and play it\nEmpowering this Cypromal. Spirits from your\nSpirit Deck and/or Underworld can be\nused to play that Golden Fleece.\r",
+    "effect": "When you Cast this Cypromal you can Cast a Golden Fleece from your deck Empowering this Cypromal. You may also use Spirits from your Underworld to play that Golden Fleece.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "ethereal"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

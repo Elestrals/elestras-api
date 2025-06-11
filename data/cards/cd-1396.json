@@ -1,0 +1,46 @@
+{
+    "id": "cd-1396",
+    "base_name": "Centaurbor",
+    "title": null,
+    "set_number": "SS2-021",
+    "sort_number": "SS2-021",
+    "name": "Centaurbor",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "borderless_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Shattered Stars M11 - Sagittarius",
+    "set_id": "st-84",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087280/SS2-021CentaurborConstellationNoWatermarkHolo_czkyzi?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154234/Centaurbor_Constellation_rmziwg?_a=BATAXdXy0",
+    "creature_id": "el-9",
+    "total_cost": 3,
+    "attack": 11,
+    "defense": 15,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {earth} from this Centaurbor\nin order to target and destroy a card. While\nFoloi Forest is Enchanted this Centaurbor\ncannot be targeted by Invoke Runes.",
+    "effect": "You can Disenchant {earth} from this Centaurbor in order to target and destroy a card. While Foloi Forest is Enchanted this Centaurbor cannot be targeted by Invoke Runes.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth",
+        "earth",
+        "earth"
+    ],
+    "subclasses": [
+        "dryad",
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

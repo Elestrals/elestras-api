@@ -1,0 +1,45 @@
+{
+    "id": "cd-2267",
+    "base_name": "Doppelgator",
+    "title": null,
+    "set_number": "SD10-02",
+    "sort_number": "SD10-02",
+    "name": "Doppelgator",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Fulgoryx Starter Deck",
+    "set_id": "st-48",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925630/SD10-02Doppelgator_sgwa4k?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541447/Doppelgator_borderized_vzuh2s?_a=BATAXdXy0",
+    "creature_id": "el-238",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Elestrals that are not {lunar}/{solar}-Enchanted get -1 {attack}\nfor each {lunar} Enchanting this Doppelgator.\nWhen this Dopplegator receives 1 or more\n{lunar}/{wind} in a Nexus you can Special Ascend it to\nFulgoryx from your hand or deck.",
+    "effect": "Elestrals that are not {lunar}/{solar}-Enchanted get -1 {attack} for each {lunar} Enchanting this Doppelgator. When this Doppelgator receives 1 or more {lunar}/{wind} in a Nexus you can Special Ascend it to Fulgoryx from your hand or deck.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar",
+        "lunar"
+    ],
+    "subclasses": [
+        "insectoid",
+        "dragon"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

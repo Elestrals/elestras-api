@@ -1,0 +1,42 @@
+{
+    "id": "cd-1185",
+    "base_name": "Bag of Winds",
+    "title": null,
+    "set_number": "SD05-19",
+    "sort_number": "SD05-19",
+    "name": "Bag of Winds",
+    "alias": null,
+    "card_type": "rune_artifact",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Penterror Starter Deck",
+    "set_id": "st-62",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724096387/SD05-19BagofWindsNoWatermark_aznr4y?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "The Empowered Elestral gets +2 {defense} and cannot\nbe targeted by opponents’ Runes.\nWhen Aeolus is Enchanted and the\nEmpowered Elestral destroys an Elestral in\nbattle you can target and destroy a Rune.",
+    "effect": "The Empowered Elestral gets +2 {defense} and cannot be targeted by opponents' Runes. When Aelous is Enchanted and the Empowered Elestral destroys an Elestral in battle you can target and destroy a Rune.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

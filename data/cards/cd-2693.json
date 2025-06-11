@@ -1,0 +1,45 @@
+{
+    "id": "cd-2693",
+    "base_name": "Volcaries",
+    "title": "Champion of Hephaestus",
+    "set_number": "SS2-072",
+    "sort_number": "SS2-072",
+    "name": "Volcaries - Champion of Hephaestus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Shattered Stars M15 - Aries",
+    "set_id": "st-88",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1737776362/SS2-072Volcaries_CoH_pc7bsm?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1746135744/Volcaries_CoH_xoo1jl?_a=BATAXdXy0",
+    "creature_id": "el-70",
+    "total_cost": 1,
+    "attack": 4,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Volcaries you can Search\nyour deck for a Hephaestus and add it to\nyour hand. While Hephaestus is Enchanted\nyou may also use {fire} from your Underworld\nto play Artifact Runes.",
+    "effect": "When you Cast this Volcaries you can Search your deck for a Hephaestus and add it to your hand. While Hephaestus is Enchanted you may also use {fire} from your Underworld to play Artifact Runes.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "ethereal",
+        "brute"
+    ],
+    "varaints": [
+        "normal",
+        "reverse_holo"
+    ]
+}

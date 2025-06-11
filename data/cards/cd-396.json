@@ -1,0 +1,46 @@
+{
+    "id": "cd-396",
+    "base_name": "Whalance",
+    "title": null,
+    "set_number": "FF1-053",
+    "sort_number": "FF1-053",
+    "name": "Whalance",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Reyes",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723760077/FF1-053WhalanceNoWatermarkHolo_vlmt7q?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481850/Whalance_sr6uhq?_a=BATAXdXy0",
+    "creature_id": "el-143",
+    "total_cost": 2,
+    "attack": 8,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Whalance destroys an\nopponent's Elestral in battle you can Search\nthat player's deck for any number of cards with\nthe same name as that Elestral and\nsend them to their Underworld.",
+    "effect": "When this Whalance destroys an opponent's Elestral in battle you can Search that player's deck for any number of cards with the same name as that Elestral and send them to their Underworld.",
+    "elements": [
+        "water",
+        "frost"
+    ],
+    "cost": [
+        "water",
+        "frost"
+    ],
+    "subclasses": [
+        "oceanic",
+        "behemoth"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

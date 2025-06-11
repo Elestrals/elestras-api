@@ -1,0 +1,41 @@
+{
+    "id": "cd-1503",
+    "base_name": "Spoiled Fruit",
+    "title": null,
+    "set_number": "MR1-086",
+    "sort_number": "MR1-086",
+    "name": "Spoiled Fruit",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924753/MR1-086SpoiledFruit_urlzr2?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541415/SpoiledFruit_borderized_wlzcf3?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Spoiled Fruit can only be played\nwhen an opponent activates a card effect\nthat returns 1 or more Spirits from their\nUnderworld to their Spirit Deck.\nNegate that effect and destroy that card.",
+    "effect": "This Spoiled Fruit can only be played when an opponent activates a card effect that returns 1 or more Spirits from their Underworld to their Spirit Deck. Negate that effect, then destroy that card.",
+    "elements": [
+        "omni"
+    ],
+    "cost": [
+        "omni"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

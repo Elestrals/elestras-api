@@ -1,0 +1,42 @@
+{
+    "id": "cd-852",
+    "base_name": "Flurrmine",
+    "title": null,
+    "set_number": "SD07-23",
+    "sort_number": "SD07-23",
+    "name": "Flurrmine",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Emperowatt Starter Deck",
+    "set_id": "st-24",
+    "subset": "starter_deck",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723837420/SD07-23FlurrmineNoWatermark_ook23z?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481818/Flurrmine_ggugto?_a=BATAXdXy0",
+    "creature_id": "el-6",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "frost"
+    ],
+    "cost": [],
+    "subclasses": [
+        "brute",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

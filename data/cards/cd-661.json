@@ -1,0 +1,43 @@
+{
+    "id": "cd-661",
+    "base_name": "Morphrost",
+    "title": "Terror Form",
+    "set_number": "SS1-28",
+    "sort_number": "SS1-28",
+    "name": "Morphrost - Terror Form",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Shattered Stars M03 - Frost",
+    "set_id": "st-96",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085585/SS1-28Morphrost-TerrorNoWatermark_aapg6s?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152309/Morphrost_-_Terror_Form_SS1_xs1gbu?_a=BATAXdXy0",
+    "creature_id": "el-137",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Your opponents' Elestrals get -1 {attack} for each {frost}\nEnchanting this Morphrost. When a player\nactivates a card effect that targets 1 or more\nMorphrost you can discard a Morphrost in order\nto Negate that effect and destroy that card.",
+    "effect": "Your opponents' Elestrals get -1 {attack} for each {frost} Enchanting this Morphrost. When a player activates a card effect that targets a Morphrost you can discard a Morphrost in order to Negate that effect and destroy that card.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost"
+    ],
+    "subclasses": [
+        "behemoth"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

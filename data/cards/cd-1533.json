@@ -1,0 +1,44 @@
+{
+    "id": "cd-1533",
+    "base_name": "Starbit",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "MR1-S04",
+    "name": "Starbit",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925469/MR1-StarbitStellarHolo_eweacp?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541449/StarbitStellar_borderized_nktdjo?_a=BATAXdXy0",
+    "creature_id": "el-277",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 1,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Starbit gets +2 {attack} for each {water} Enchanting it.\nYou can Nexus up to {water}{water}. When this Starbit has\n7 or more {attack} during your Main Phase you must\neither destroy it or Special Ascend it to\nStarbit-Supernova from your hand or deck.",
+    "effect": "This Starbit gets +2 {attack} for each {water} Enchanting it. You can Nexus up to {water}{water}. When this Starbit has 7 or more {attack} during your Main Phase you must either destroy it or Special Ascend it to Starbit-Supernova from your hand or deck.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

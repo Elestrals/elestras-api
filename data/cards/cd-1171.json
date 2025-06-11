@@ -1,0 +1,44 @@
+{
+    "id": "cd-1171",
+    "base_name": "Carryon",
+    "title": null,
+    "set_number": "BS1-078",
+    "sort_number": "BS1-078",
+    "name": "Carryon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Giovanni Aguilar",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088383/BS1-078CarryonNoWatermark_i1bume?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473599/Render_-_CarryonBS1-078_os72yt?_a=BATAXdXy0",
+    "creature_id": "el-44",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Carryon is destroyed in battle you\ncan target the Elestral that destroyed it, then\ntake control of that Elestral and move it to\nyour Elestral Row until the End Phase.",
+    "effect": "When this Carryon is destroyed in battle you can target the Elestral that destroyed it and take control of that Elestral until the next turn.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind"
+    ],
+    "subclasses": [
+        "insectoid",
+        "eldritch"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

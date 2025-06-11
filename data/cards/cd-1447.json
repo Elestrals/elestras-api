@@ -1,0 +1,45 @@
+{
+    "id": "cd-1447",
+    "base_name": "Lycavoid",
+    "title": null,
+    "set_number": "MR1-025",
+    "sort_number": "MR1-025",
+    "name": "Lycavoid",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924716/MR1-025LycavoidHolo_fha9tz?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541479/Lycavoid_borderized_ja8a1b?_a=BATAXdXy0",
+    "creature_id": "el-253",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Lycavoid deals Piercing damage\nand is Unaffected by Counter Runes if you Cast\nLunar Phase-Full Moon this turn. ",
+    "effect": "This Lycavoid deals Piercing damage and is Unaffected by Counter Runes if you Cast Lunar Phase-Full Moon this turn.",
+    "elements": [
+        "lunar"
+    ],
+    "cost": [
+        "lunar",
+        "lunar"
+    ],
+    "subclasses": [
+        "behemoth",
+        "eldritch"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

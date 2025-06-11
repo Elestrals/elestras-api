@@ -1,0 +1,44 @@
+{
+    "id": "cd-1767",
+    "base_name": "Verdalith",
+    "title": "Champion of Demeter",
+    "set_number": "FST-010",
+    "sort_number": "FST-010",
+    "name": "Verdalith - Champion of Demeter",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739405890/FST-010VerdalithCoD_gy0hvj?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900092/VerdalithCoD_borderized_ef8hjw?_a=BATAXdXy0",
+    "creature_id": "el-158",
+    "total_cost": 2,
+    "attack": 2,
+    "defense": 6,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Verdalith can be Normal Cast with {earth}{earth} if\nyour Demeter is Enchanted.  When you target this\nVerdalith with Demeter’s effect you can Special\nCast a 1 Spirit {earth} Elestral from your hand. This\neffect can be activated only once each turn.",
+    "effect": "This Verdalith can be Normal Cast with {earth}{earth} if your Demeter is Enchanted. When you target this Verdalith with Demeter's effect you can Special Cast a 1 Spirit {earth} Elestral from your hand. This effect can only be activated once per turn.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth",
+        "earth"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

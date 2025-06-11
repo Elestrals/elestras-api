@@ -1,0 +1,11 @@
+{
+    "id": "el-20",
+    "name": "Hydrake",
+    "class": "elestral",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731473624/Render_-_HydrakeSD05-01_sgk1o6?_a=BATAXdXy0",
+    "blurb": "Because of their rarity, most believe the only way to bond with a Hydrake is through a blessing from the Gods. Their heavy bodies make flight difficult, so they’re constantly searching for a perch to glide from.",
+    "updated_at": "2025-06-09T23:16:06.246Z",
+    "elements": [
+        "wind"
+    ]
+}

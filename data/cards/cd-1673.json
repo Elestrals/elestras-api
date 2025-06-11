@@ -1,0 +1,46 @@
+{
+    "id": "cd-1673",
+    "base_name": "Griffuse",
+    "title": "Champion of Zeus",
+    "set_number": "FST-038",
+    "sort_number": "FST-038",
+    "name": "Griffuse - Champion of Zeus",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739328921/FST-038Griffuse_c1rvyb?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900196/GriffuseCoZ_borderized_rnhq9x?_a=BATAXdXy0",
+    "creature_id": "el-60",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Griffuse in your hand can Special Ascend\nfrom your Champion of Zeus, but it cannot be\nplayed Misenchanted this way. When you\nCast this Griffuse you can give all your\nopponents’ Elestrals -3 {attack} until the next turn.",
+    "effect": "This Griffuse in your hand can Special Ascend from your Champion of Zeus, but it cannot be played Misenchanted this way. When you Cast this Griffuse you can give all your opponents' Elestrals -3 {attack} until the next turn.",
+    "elements": [
+        "thunder",
+        "wind"
+    ],
+    "cost": [
+        "thunder",
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

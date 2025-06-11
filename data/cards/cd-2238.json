@@ -1,0 +1,41 @@
+{
+    "id": "cd-2238",
+    "base_name": "Temple of the Sun",
+    "title": null,
+    "set_number": "SS2-107",
+    "sort_number": "SS2-107",
+    "name": "Temple of the Sun",
+    "alias": null,
+    "card_type": "rune_stadium",
+    "rarity": "rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "JaqenArt",
+    "set": "Shattered Stars M17 - Gemini",
+    "set_id": "st-90",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740354430/SS2-107TempleoftheSun_bnychz?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Elestrals get +1 {attack} and +1 {defense} for\neach {solar} Enchanting them.\r",
+    "effect": "Elestrals get +1 {attack} and +1 {defense} for each {solar} Enchanting them.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

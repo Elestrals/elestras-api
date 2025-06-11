@@ -1,0 +1,41 @@
+{
+    "id": "cd-1188",
+    "base_name": "Follow the Wisps",
+    "title": null,
+    "set_number": "DB1-081",
+    "sort_number": "DB1-081",
+    "name": "Follow the Wisps",
+    "alias": null,
+    "card_type": "rune_counter",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990595/DB1-081FollowtheWispsNoWatermark_qx1oie?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Target an Elestral on your field.\nYour other Elestrals cannot be attacked this\nturn as long as that Elestral is Enchanted.",
+    "effect": "Target an Elestral on your field. Your other Elestrals cannot be attacked this turn as long as that Elestral is Enchanted.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

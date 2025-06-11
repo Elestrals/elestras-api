@@ -1,0 +1,44 @@
+{
+    "id": "cd-2137",
+    "base_name": "Galaxea",
+    "title": "Champion of Poseidon",
+    "set_number": "FST-SD027",
+    "sort_number": "FST-SD027",
+    "name": "Galaxea - Champion of Poseidon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755833/FST-SD027GalaxeaCoP_pyluym?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900113/GalaxeaCoP_borderized_gsrh0k?_a=BATAXdXy0",
+    "creature_id": "el-56",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Galaxea receives 1 or more {water}\nyou can swap each Elestral's {attack} with its {defense}\nuntil the next turn. ",
+    "effect": "When this Galaxea receives 1 or more {water} you can swap each Elestral's {attack} with its {defense} until the next turn.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

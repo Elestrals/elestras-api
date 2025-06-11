@@ -1,0 +1,44 @@
+{
+    "id": "cd-1015",
+    "base_name": "Lavalith",
+    "title": null,
+    "set_number": "FF1-047",
+    "sort_number": "FF1-047",
+    "name": "Lavalith",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723760035/FF1-047LavalithNoWatermarkHolo_tefcg9?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481837/Lavalith_se2dqz?_a=BATAXdXy0",
+    "creature_id": "el-134",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Lavalith can be Normal Cast with {fire}{fire} if an\nopponent has at least 2 more Enchanting Spirits\nthan you do. When you Cast this Lavalith\nyou can target and destroy a Rune.",
+    "effect": "This Lavalith can be Normal Cast with {fire}{fire} if an opponent has at least 2 more Enchanting Spirits than you do. When you Cast this Lavalith you can target and destroy a Rune.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

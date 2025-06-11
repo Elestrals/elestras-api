@@ -1,0 +1,44 @@
+{
+    "id": "cd-1111",
+    "base_name": "Moralith",
+    "title": null,
+    "set_number": "FF1-032",
+    "sort_number": "FF1-032",
+    "name": "Moralith",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759980/FF1-032MoralithNoWatermarkHolo_e6b2oy?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481846/Moralith_euuxgp?_a=BATAXdXy0",
+    "creature_id": "el-136",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Moralith can be Normal Cast with {frost}{frost}\nif an opponent has fewer Elestrals in their\nUnderworld than you do. When you Cast this\nMoralith you must send the top 5 cards from\nyour deck to your Underworld.",
+    "effect": "This Moralith can be Normal Cast with {frost}{frost} if an opponent has fewer Elestrals in their Underworld than you do. When you Cast this Moralith you must send the top 5 cards from your deck to your Underworld.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost",
+        "frost"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

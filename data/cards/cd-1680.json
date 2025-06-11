@@ -1,0 +1,46 @@
+{
+    "id": "cd-1680",
+    "base_name": "Whalance",
+    "title": "Champion of Khione",
+    "set_number": "FST-035",
+    "sort_number": "FST-035",
+    "name": "Whalance - Champion of Khione",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Firestorm",
+    "set_id": "st-36",
+    "subset": "main",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739328920/FST-035Whalance_rcjn2j?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900117/WhalanceCoK_borderized_iosmja?_a=BATAXdXy0",
+    "creature_id": "el-143",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Whalance deals Piercing damage.\nWhen this Whalance declares an attack\nyou can Nexus up to {frost}{frost}{frost}{frost} from any\nnumber of cards on your field to it.",
+    "effect": "This Whalance deals Piercing damage. When this Whalance declares an attack you can Nexus up to {frost}{frost}{frost}{frost} from any number of your cards on your field to it.",
+    "elements": [
+        "water",
+        "frost"
+    ],
+    "cost": [
+        "water",
+        "frost"
+    ],
+    "subclasses": [
+        "oceanic",
+        "behemoth"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

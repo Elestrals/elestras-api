@@ -1,0 +1,45 @@
+{
+    "id": "cd-1068",
+    "base_name": "Glaciursa",
+    "title": null,
+    "set_number": "FF1-018",
+    "sort_number": "FF1-018",
+    "name": "Glaciursa",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Daniel Mosby",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723759904/FF1-018GlaciursaNoWatermark_femxb6?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481844/Glaciursa_npx3rz?_a=BATAXdXy0",
+    "creature_id": "el-128",
+    "total_cost": 3,
+    "attack": 14,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Glaciursa deals Piercing damage.\nWhen this Glaciursa enters battle with an\nElestral you can Suppress that Elestral.",
+    "effect": "This Glaciursa deals Piercing damage. When this Glaciursa enters battle with an Elestral you can Suppress that Elestral.",
+    "elements": [
+        "frost"
+    ],
+    "cost": [
+        "frost",
+        "frost",
+        "frost"
+    ],
+    "subclasses": [
+        "ursa"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

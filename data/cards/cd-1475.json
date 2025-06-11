@@ -1,0 +1,43 @@
+{
+    "id": "cd-1475",
+    "base_name": "Magneros",
+    "title": null,
+    "set_number": "MR1-057",
+    "sort_number": "MR1-057",
+    "name": "Magneros",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Robb Hicks",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727924434/MR1-057Magneros_wvh33j?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541410/Magneros_borderized_lmlbvq?_a=BATAXdXy0",
+    "creature_id": "el-281",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Nexus up to {thunder}{thunder}.\nWhen you do, you can Foretell cards equal\nto the number {thunder}-Enchanted cards on\nyour field and add up to 1 {thunder} Invoke Rune\nForetold this way to your hand.",
+    "effect": "You can Nexus up to {thunder}{thunder}. When you do, you can Foretell cards equal to the number of {thunder}-Enchanted cards on your field and add 1 {thunder} Invoke Rune Foretold this way to your hand.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "golem"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

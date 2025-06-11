@@ -1,0 +1,41 @@
+{
+    "id": "cd-2234",
+    "base_name": "Lyre of Apollo",
+    "title": null,
+    "set_number": "SS2-109",
+    "sort_number": "SS2-109",
+    "name": "Lyre of Apollo",
+    "alias": null,
+    "card_type": "rune_artifact",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Shattered Stars M17 - Gemini",
+    "set_id": "st-90",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740354426/SS2-109LyreofApollo_mi9yet?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900143/LyreofApollo_borderized_d3btpn?_a=BATAXdXy0",
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Swap the Empowered Elestral's {attack} with its {defense}.\nAll your Champions of Apollo\nget +2 {attack} and +2 {defense}.\r",
+    "effect": "Swap the Empowered Elestral's {attack} with its {defense}. All your Champions of Apollo get +2 {attack} and +2 {defense}.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "cd-1540",
+    "base_name": "Armadawn",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "MR1-S11",
+    "name": "Armadawn",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925317/MR1-ArmadawnStellarHolo_fjxahw?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541394/ArmadawnStellar_borderized_kxykby?_a=BATAXdXy0",
+    "creature_id": "el-292",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 6,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Armadawn changes Position\nan opponent must Expend {omni}.",
+    "effect": "When this Armadawn changes Position an opponent must Expend {omni}.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

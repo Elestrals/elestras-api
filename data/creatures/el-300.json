@@ -1,0 +1,13 @@
+{
+    "id": "el-300",
+    "name": "Nyximera",
+    "class": "elestral",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900166/NyximeraRisen_borderized_zujxvw?_a=BATAXdXy0",
+    "blurb": null,
+    "updated_at": "2025-06-09T23:16:06.055Z",
+    "elements": [
+        "frost",
+        "solar",
+        "lunar"
+    ]
+}

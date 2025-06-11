@@ -1,0 +1,44 @@
+{
+    "id": "cd-1249",
+    "base_name": "Drataya",
+    "title": null,
+    "set_number": "TP1-01",
+    "sort_number": "TP1-01",
+    "name": "Drataya",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Ryan Cortez",
+    "set": "Organized Play Series 1",
+    "set_id": "st-44",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724087763/TP1-01DratayaNoWatermark_jtxlvt?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146326/Drataya_TP1_ka1nzl?_a=BATAXdXy0",
+    "creature_id": "el-23",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When a player Casts Ambrosia\nyou can draw 2 cards.",
+    "effect": "When a player Casts Ambrosia you can draw 2 cards.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "dryad",
+        "dragon"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

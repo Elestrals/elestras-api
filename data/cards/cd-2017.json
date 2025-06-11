@@ -1,0 +1,46 @@
+{
+    "id": "cd-2017",
+    "base_name": "Dracoray",
+    "title": null,
+    "set_number": "TP2-21",
+    "sort_number": "TP2-21",
+    "name": "Dracoray",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Organized Play Series 2",
+    "set_id": "st-46",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734037687/TP2-21DracorayStellarHolo_lphzsd?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742146599/Dracoray_t5ufal?_a=BATAXdXy0",
+    "creature_id": "el-290",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Dracoray you can return\nup to {solar}{solar}{solar} from your Underworld to your\nSpirit Deck. During your Draw Phase you can\nExpend {fire} in order to Special Ascend\nthis Dracoray to Dragallus from your deck.",
+    "effect": "When you Cast this Dracoray you can return up to {solar}{solar}{solar} from your Underworld to your Spirit Deck. During your Draw Phase you can Expend {fire} in order to Special Ascend this Dracoray to Dragallus from your deck.",
+    "elements": [
+        "solar",
+        "fire"
+    ],
+    "cost": [
+        "solar",
+        "fire"
+    ],
+    "subclasses": [
+        "avian",
+        "dragon"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

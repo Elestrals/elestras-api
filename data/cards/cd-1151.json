@@ -1,0 +1,42 @@
+{
+    "id": "cd-1151",
+    "base_name": "Hammer of Hephaestus",
+    "title": null,
+    "set_number": "BS1-086",
+    "sort_number": "BS1-086",
+    "name": "Hammer of Hephaestus",
+    "alias": null,
+    "card_type": "rune_artifact",
+    "rarity": "uncommon",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Jonny De Oliveira",
+    "set": "Base",
+    "set_id": "st-53",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724088423/BS1-086HammerofHephaestusNoWatermark_v4ud5s?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "The Empowered Elestral gets +1 {attack}\nfor each Enchanted Rune on your field.\nWhile Hephaestus is Enchanted\nthe Empowered Elestral cannot be\ntargeted by opponents’ Elestral effects.",
+    "effect": "The Empowered Elestral gets +1 {attack} for each Enchanted Rune on your field. While Hephaestus is Enchanted the Empowered Elestral cannot be targeted by opponents’ Elestral effects.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "normal"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "cd-1430",
+    "base_name": "Aardbud",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "MR1-S01",
+    "name": "Aardbud",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Moonrise",
+    "set_id": "st-27",
+    "subset": "serialized",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727925304/MR1-AardbudStellarHolo_ufs1rh?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1734541387/AardbudStellar_borderized_fhdezo?_a=BATAXdXy0",
+    "creature_id": "el-264",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 1,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {omni} from your {insectoid} cards in\norder to Special Ascend this Aardbud to\nAardvarum from your deck. When this Aardbud\nreceives 1 or more {earth} you can Search your deck\nfor a 1 Spirit {insectoid} Elestral and add it to your hand. ",
+    "effect": "You can Disenchant {omni} from your {insectoid} cards in order to Special Ascend this Aardbud to Aardvarum from your deck. When this Aardbud receives 1 or more {earth} you can Search your deck for a 1 Spirit {insectoid} Elestral and add it to your hand.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "dryad"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

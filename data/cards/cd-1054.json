@@ -1,0 +1,43 @@
+{
+    "id": "cd-1054",
+    "base_name": "Lumaroo",
+    "title": null,
+    "set_number": "DB1-021",
+    "sort_number": "DB1-021",
+    "name": "Lumaroo",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Daybreak",
+    "set_id": "st-28",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723990534/DB1-021LumarooNoWatermark_u9gqly?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731484000/Lumaroo_scraxc?_a=BATAXdXy0",
+    "creature_id": "el-195",
+    "total_cost": 1,
+    "attack": 5,
+    "defense": 2,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Lumaroo destroys an opponent's\nElestral in battle that opponent must send the\ntop 3 cards from their deck to their Underworld.",
+    "effect": "When this Lumaroo destroys an opponent's Elestral in battle that opponent must send the top 3 cards from their deck to the Underworld.",
+    "elements": [
+        "solar"
+    ],
+    "cost": [
+        "solar"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

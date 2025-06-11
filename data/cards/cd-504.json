@@ -1,0 +1,42 @@
+{
+    "id": "cd-504",
+    "base_name": "Eruption",
+    "title": null,
+    "set_number": "SS1-65",
+    "sort_number": "SS1-65",
+    "name": "Eruption",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Dennis Fuhrmann",
+    "set": "Shattered Stars M06 - Fire",
+    "set_id": "st-99",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085626/SS1-65EruptionNoWatermarkHolo_zcfvzz?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "An opponent must Expend {omni}{omni}{omni}. If they\ncontrol a {fire}-Enchanted Elestral they must\nExpend {omni} instead.",
+    "effect": "An opponent must Expend {omni}{omni}{omni}. If they control a {fire}-Enchanted Elestral they must Expend {omni} instead.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire",
+        "fire"
+    ],
+    "subclasses": [],
+    "varaints": [
+        "holo"
+    ]
+}

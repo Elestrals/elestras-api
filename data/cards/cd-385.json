@@ -1,0 +1,45 @@
+{
+    "id": "cd-385",
+    "base_name": "Dracodoodle",
+    "title": null,
+    "set_number": "FF1-068",
+    "sort_number": "FF1-068",
+    "name": "Dracodoodle",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Luan M. Resende",
+    "set": "Frostfall",
+    "set_id": "st-12",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1727922656/FF1-068Dracodoodle_e09idw?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1731481809/Dracodoodle_zlzvka?_a=BATAXdXy0",
+    "creature_id": "el-115",
+    "total_cost": 2,
+    "attack": 7,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {wind} in order to Suppress each\nElestral on an opponent's field until the\nEnd Phase. When this Dracodoodle destroys an\nopponent's Suppressed Elestral in battle that\nopponent must Expend {omni}{omni}{omni}.",
+    "effect": "You can Expend {wind} in order to Suppress each Elestral on an opponent's field. When this Dracodoodle destroys an opponent's Suppressed Elestral that opponent must Expend {omni}{omni}{omni}.",
+    "elements": [
+        "wind"
+    ],
+    "cost": [
+        "wind",
+        "wind"
+    ],
+    "subclasses": [
+        "avian",
+        "dragon"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

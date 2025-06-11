@@ -1,0 +1,42 @@
+{
+    "id": "cd-2897",
+    "base_name": "Leviaphin",
+    "title": null,
+    "set_number": "DALLAS 2025",
+    "sort_number": "DO25-3",
+    "name": "Leviaphin",
+    "alias": null,
+    "card_type": "spirit",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "marble",
+    "artist": "Luan M. Resende",
+    "set": "Dallas Open 2025",
+    "set_id": "st-110",
+    "subset": "main",
+    "series": "Organized Play",
+    "series_id": "sr-10",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742571568/DO25-3_Leviaphin_hskm2z?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-3",
+    "total_cost": 0,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": null,
+    "effect": null,
+    "elements": [
+        "water"
+    ],
+    "cost": [],
+    "subclasses": [
+        "oceanic",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

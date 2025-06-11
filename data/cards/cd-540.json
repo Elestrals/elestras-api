@@ -1,0 +1,44 @@
+{
+    "id": "cd-540",
+    "base_name": "Rummagem",
+    "title": null,
+    "set_number": "SS1-50",
+    "sort_number": "SS1-50",
+    "name": "Rummagem",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Maumes",
+    "set": "Shattered Stars M05 - Earth",
+    "set_id": "st-98",
+    "subset": "main",
+    "series": "First Edition",
+    "series_id": "sr-5",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724085591/SS1-50RummagemNoWatermark_fbngkk?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742152459/Rummagem_SS1_ye13hk?_a=BATAXdXy0",
+    "creature_id": "el-80",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Normal Cast this Rummagem\nyou can Search your deck for a 1 Spirit {earth}\nElestral and add it to your hand.",
+    "effect": "When you Normal Cast this Rummagem you can Search your deck for a 1 Spirit {earth} Elestral and add it to your hand.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth"
+    ],
+    "subclasses": [
+        "golem",
+        "brute"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

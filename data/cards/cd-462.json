@@ -1,0 +1,45 @@
+{
+    "id": "cd-462",
+    "base_name": "Sakurasaur",
+    "title": null,
+    "set_number": "AC1-21",
+    "sort_number": "AC1-21",
+    "name": "Sakurasaur",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Dennis Fuhrmann",
+    "set": "Artist Collection",
+    "set_id": "st-5",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723756677/AC1-21SakurasaurNoWatermarkHolo_imxevs?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742140319/Sakurasaur_AC_aajeox?_a=BATAXdXy0",
+    "creature_id": "el-33",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 8,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Expend {earth} in order to draw 2 cards.",
+    "effect": "You can Expend {earth} in order to draw 2 cards.",
+    "elements": [
+        "earth"
+    ],
+    "cost": [
+        "earth",
+        "earth"
+    ],
+    "subclasses": [
+        "archaic",
+        "dryad"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

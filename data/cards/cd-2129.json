@@ -1,0 +1,44 @@
+{
+    "id": "cd-2129",
+    "base_name": "Emphyrix",
+    "title": "Champion of Hestia",
+    "set_number": "FST-SD016",
+    "sort_number": "FST-SD016",
+    "name": "Emphyrix - Champion of Hestia",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Élite4",
+    "set": "Firestorm Starter Decks",
+    "set_id": "st-106",
+    "subset": "starter_deck",
+    "series": "Divine Champions",
+    "series_id": "sr-7",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1739755833/FST-SD016EmphyrixCoH_gtvgx5?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1741900108/EmphyrixCoH_borderized_rnhfks?_a=BATAXdXy0",
+    "creature_id": "el-93",
+    "total_cost": 1,
+    "attack": 3,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can Disenchant {fire} from your Hestia in\norder to add a 1 Spirit {fire} Elestral from your\nUnderworld to your hand. When you Ascend this\nEmphyrix, during your End Phase you can\nSpecial Cast it from your Underworld with {fire}.",
+    "effect": "You can Disenchant {fire} from your Hestia in order to add a 1 Spirit {fire} Elestral from your Underworld to your hand. When you Ascend this Emphyrix, during your End Phase you can Special Cast it from your Underworld with {fire}.",
+    "elements": [
+        "fire"
+    ],
+    "cost": [
+        "fire"
+    ],
+    "subclasses": [
+        "avian",
+        "ethereal"
+    ],
+    "varaints": [
+        "normal"
+    ]
+}

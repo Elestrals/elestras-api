@@ -1,0 +1,44 @@
+{
+    "id": "cd-455",
+    "base_name": "Galaxea",
+    "title": null,
+    "set_number": "AC1-05",
+    "sort_number": "AC1-05",
+    "name": "Galaxea",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Diego Monster",
+    "set": "Artist Collection",
+    "set_id": "st-5",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1723756648/AC1-05GalaxeaNoWatermarkHolo_gazlqu?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742140319/Galaxea_AC_hf2v3o?_a=BATAXdXy0",
+    "creature_id": "el-56",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 5,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "As long as this Galaxea is Enchanted swap each\n{water}-Enchanted Elestral’s {attack} with its {defense} .",
+    "effect": "While this Galaxea is Enchanted swap each {water}-Enchanted Elestral's {attack} with its {defense}.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "ethereal"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}

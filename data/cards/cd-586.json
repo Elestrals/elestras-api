@@ -1,0 +1,43 @@
+{
+    "id": "cd-586",
+    "base_name": "Raiceros",
+    "title": null,
+    "set_number": "PR1-16",
+    "sort_number": "PR1-16",
+    "name": "Raiceros",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Kosta",
+    "set": "Kickstarter Promos",
+    "set_id": "st-4",
+    "subset": "main",
+    "series": "Kickstarter",
+    "series_id": "sr-3",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1724091103/PR1-16RaicerosStellarNoWatermarkHolo_gz92bi?_a=BATAXdXy0",
+    "render": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1742154819/Raiceros_qwjge9?_a=BATAXdXy0",
+    "creature_id": "el-48",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 4,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "As long as this Raiceros is Enchanted\nElestrals cannot attack the turn they are Cast\nunless they are {thunder}-Enchanted.",
+    "effect": "While this Raiceros is Enchanted Elestrals cannot attack the turn they are Cast unless they are {thunder}-Enchanted.",
+    "elements": [
+        "thunder"
+    ],
+    "cost": [
+        "thunder"
+    ],
+    "subclasses": [
+        "brute"
+    ],
+    "varaints": [
+        "holo"
+    ]
+}
