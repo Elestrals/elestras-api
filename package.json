@@ -1,0 +1,42 @@
+{
+  "name": "elestrals-api",
+  "version": "0.0.1",
+  "module": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "bun --watch src/index.ts",
+    "bundle": "bun build --entrypoints ./src/index.ts --outdir ./dist --target bun",
+    "start": "NODE_ENV=production bun src/index.ts",
+    "test": "bun test -- ./test/*.ts",
+    "lint": "eslint src --ext .ts",
+    "migration:create": "bunx --bun drizzle-kit generate",
+    "migration:drop": "bunx --bun drizzle-kit drop",
+    "migration:run": "bunx --bun drizzle-kit migrate",
+    "migration:snapshots": "bunx --bun drizzle-kit up"
+  },
+  "dependencies": {
+    "@elysiajs/cors": "^1.2.0",
+    "@elysiajs/eden": "^1.2.0",
+    "@elysiajs/jwt": "^1.2.0",
+    "@elysiajs/swagger": "^1.2.0",
+    "@libsql/client": "^0.15.3",
+    "drizzle-orm": "^0.41.0",
+    "drizzle-typebox": "^0.3.1",
+    "elysia": "^1.2.25"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.2.9",
+    "drizzle-kit": "^0.30.6",
+    "sql-log-prettifier": "^0.1.2"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.7.0",
+    "@typescript-eslint/parser": "^6.7.0",
+    "bun-types": "latest",
+    "eslint": "^8.49.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-import": "^2.28.1",
+    "typescript": "^5.2.2"
+  }
+}
