@@ -5,6 +5,6 @@ export default {
     out: "./sqlite/migrations",
     dialect: "sqlite",
     dbCredentials: {
-        url: Bun.env.DB || "sqlite/realworld.sqlite",
+        url: Bun.env.DB || "sqlite/elestrals_api.sqlite,
     },
 } satisfies Config;
