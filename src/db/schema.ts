@@ -28,13 +28,13 @@ export const sets = sqliteTable("sets", {
   image: text("image"),
   icon: text("icon"),
   stamp: text("stamp"),
-  logo: text("logo")
+  logo: text("logo"),
 });
 
 export const setsRelations = relations(sets, ({ one }) => ({
   series: one(series, {
     fields: [sets.series_id],
-    references: [series.id]
+    references: [series.id],
   })
 }));
 
@@ -42,8 +42,18 @@ export const series = sqliteTable("series", {
   id: text("id").primaryKey().notNull(),
   name: text("name"),
   image: text("image"),
-  icon: text("icon")
+  icon: text("icon"),
 });
+
+export const CardTypes = ["elestral", "spirit", "rune_divine", "rune_staduim", "rune_artifact", "rune_counter", "rune_invoke"] as const;
+Object.freeze(CardTypes);
+
+export type CardType = (typeof CardTypes)[number];
+
+export const CardRarities = ["rare", "stellar_rare", "common", "uncommon"] as const;
+Object.freeze(CardTypes);
+
+export type CardRarity = (typeof CardRarities)[number];
 
 export const cards = sqliteTable("cards", {
   id: text("id").primaryKey().notNull(),
@@ -53,10 +63,10 @@ export const cards = sqliteTable("cards", {
   alias: text("alias"),
   set_number: text("set_number"),
   card_type: text("card_type", { 
-    enum: ["elestral", "spirit", "rune_divine", "rune_staduim", "rune_artifact", "rune_counter", "rune_invoke"] 
+    enum: CardTypes
   }),
   rarity: text("rarity", { 
-    enum: ["rare", "stellar_rare", "common", "uncommon"] 
+    enum: CardRarities
   }),
   canvas: integer("canvas").references(() => canvas.id),
   frame_material: integer("frame_material").references(() => frames.id),
@@ -84,7 +94,7 @@ export const cards = sqliteTable("cards", {
   frost_cost: integer("frost_cost"),
   lunar_cost: integer("lunar_cost"),
   solar_cost: integer("solar_cost"),
-  omni_cost: integer("omni_cost")
+  omni_cost: integer("omni_cost"),
 });
 
 export const cardsRelations = relations(cards, ({ one }) => ({
@@ -107,7 +117,7 @@ export const cardsRelations = relations(cards, ({ one }) => ({
   subclass2: one(subclasses, {
     fields: [cards.subclass_2],
     references: [subclasses.id]
-  })
+  }),
 }));
 
 export const variants = sqliteTable("variants", {
@@ -115,7 +125,7 @@ export const variants = sqliteTable("variants", {
   variant: text("variant"),
   card_id: text("card_id").references(() => cards.id),
   image: text("image"),
-  is_primary: integer("is_primary")
+  is_primary: integer("is_primary"),
 });
 
 export const variantsRelations = relations(variants, ({ one }) => ({
@@ -127,20 +137,20 @@ export const variantsRelations = relations(variants, ({ one }) => ({
 
 export const canvas = sqliteTable("canvas", {
   id: integer("id").primaryKey({ autoIncrement: true }).notNull(),
-  name: text("name")
+  name: text("name"),
 });
 
 export const frames = sqliteTable("frames", {
   id: integer("id").primaryKey({ autoIncrement: true }).notNull(),
-  name: text("name")
+  name: text("name"),
 });
 
 export const subclasses = sqliteTable("subclasses", {
   id: integer("id").primaryKey({ autoIncrement: true }).notNull(),
-  name: text("name")
+  name: text("name"),
 });
 
 export const effects = sqliteTable("effects", {
   id: integer("id").primaryKey({ autoIncrement: true }).notNull(),
-  effect: text("effect")
+  effect: text("effect"),
 });

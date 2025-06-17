@@ -1,4 +1,4 @@
-import db from "../src/db/connection";
+import db from "@src/db/connection";
 
 
 describe("db_example", () => {
