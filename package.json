@@ -9,6 +9,7 @@
     "start": "NODE_ENV=production bun src/index.ts",
     "test": "bun test -- ./test/*.ts",
     "lint": "eslint src --ext .ts",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "migration:create": "bunx --bun drizzle-kit generate",
     "migration:drop": "bunx --bun drizzle-kit drop",
     "migration:run": "bunx --bun drizzle-kit migrate",
@@ -27,6 +28,8 @@
   "devDependencies": {
     "@types/bun": "^1.2.9",
     "drizzle-kit": "^0.30.6",
+    "prettier": "3.5.3",
+    "prettier-plugin-organize-imports": "4.1.0",
     "sql-log-prettifier": "^0.1.2"
   },
   "peerDependencies": {
