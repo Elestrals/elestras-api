@@ -24,6 +24,10 @@
     "noUnusedParameters": false,
     "noPropertyAccessFromIndexSignature": false,
 
-    "types": ["@types/bun"]
+    "types": ["@types/bun"],
+    "baseUrl": ".",
+    "paths": {
+      "@src/*": ["src/*"]
+    }
   }
 }
