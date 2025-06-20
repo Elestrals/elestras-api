@@ -16,7 +16,7 @@ const timestamp = customType<{
 export const sets = sqliteTable("sets", {
     id: text("id").primaryKey().notNull(),
     name: text("name"),
-    abbr: text("abbr"),
+    set_code: text("set_code"),
     series_id: text("series_id").references(() => series.id),
     series_code: text("series_code"),
     release_date: timestamp("release_date"),
