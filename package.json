@@ -13,7 +13,9 @@
     "migration:create": "bunx --bun drizzle-kit generate",
     "migration:drop": "bunx --bun drizzle-kit drop",
     "migration:run": "bunx --bun drizzle-kit migrate",
-    "migration:snapshots": "bunx --bun drizzle-kit up"
+    "migration:snapshots": "bunx --bun drizzle-kit up",
+    "db:import": "bun scripts/import-data.ts",
+    "db:purge": "rm sqlite/elestrals_api.sql*"
   },
   "dependencies": {
     "@elysiajs/cors": "^1.2.0",
