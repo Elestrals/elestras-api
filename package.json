@@ -25,7 +25,8 @@
     "@libsql/client": "^0.15.3",
     "drizzle-orm": "^0.41.0",
     "drizzle-typebox": "^0.3.1",
-    "elysia": "^1.2.25"
+    "elysia": "^1.2.25",
+    "zod": "^3.25.67"
   },
   "devDependencies": {
     "@types/bun": "^1.2.9",

@@ -16,41 +16,8 @@ import {
     type CardType,
 } from "../db/schema";
 
-interface CardData {
-    id: string;
-    base_name: string;
-    title?: string;
-    set_number: string;
-    sort_number: string;
-    name: string;
-    alias?: string;
-    card_type: string;
-    rarity: string;
-    canvas: string;
-    frame_material: string;
-    artist: string;
-    set: string;
-    set_id: string;
-    subset: string;
-    series: string;
-    series_id: string;
-    image: string;
-    render?: string;
-    creature_id?: string;
-    total_cost?: number;
-    attack?: number;
-    defense?: number;
-    serialized_stellar: boolean;
-    serialized_population?: number;
-    is_prize_card: boolean;
-    prize_rank?: number;
-    printed_effect?: string;
-    effect?: string;
-    elements: string[];
-    cost: string[];
-    subclasses: string[];
-    varaints: string[];
-}
+import { CardSchema, SeriesSchema, SetSchema, type CardData } from "./dump-data";
+
 
 class DataImporter {
     private canvasCache = new Map<string, number>();
@@ -83,7 +50,8 @@ class DataImporter {
             try {
                 const filePath = join(cardsPath, file);
                 const content = await readFile(filePath, "utf-8");
-                const cardData: CardData = JSON.parse(content);
+                const rawData = JSON.parse(content);
+                const cardData = CardSchema.parse(rawData);
 
                 await this.processCard(cardData);
 
@@ -105,7 +73,7 @@ class DataImporter {
         const cardId = await this.insertCard(cardData, canvasId, frameId, setId);
 
         await this.processSubclasses(cardId, cardData.subclasses);
-        await this.processVariants(cardId, cardData.varaints, cardData.image);
+        await this.processvaraints(cardId, cardData.varaints, cardData.image);
     }
 
     private async getOrCreateCanvas(canvasName: string): Promise<number> {
@@ -168,8 +136,8 @@ class DataImporter {
             const setFilePath = join("data", "sets", `${cardData.set_id}.json`);
             try {
                 const setFileContent = await readFile(setFilePath, "utf-8");
-                const setData = JSON.parse(setFileContent);
-
+                const rawSetData = JSON.parse(setFileContent);
+                const setData = SetSchema.parse(rawSetData);
                 await db.insert(sets).values({
                     id: setData.id,
                     name: setData.name,
@@ -218,7 +186,8 @@ class DataImporter {
             const seriesFilePath = join("data", "series", `${cardData.series_id}.json`);
             try {
                 const seriesFileContent = await readFile(seriesFilePath, "utf-8");
-                const seriesData = JSON.parse(seriesFileContent);
+                const rawSeriesData = JSON.parse(seriesFileContent);
+                const seriesData = SeriesSchema.parse(rawSeriesData);
 
                 await db.insert(series).values({
                     id: seriesData.id,
@@ -331,7 +300,7 @@ class DataImporter {
         }
     }
 
-    private async processVariants(cardId: string, variantNames: string[], primaryImage: string) {
+    private async processvaraints(cardId: string, variantNames: string[], primaryImage: string) {
         if (!variantNames || variantNames.length === 0) return;
 
         for (let i = 0; i < variantNames.length; i++) {
