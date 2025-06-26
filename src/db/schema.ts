@@ -65,6 +65,7 @@ export const cards = sqliteTable("cards", {
     title: text("title"),
     alias: text("alias"),
     set_number: text("set_number"),
+    set_order: text("set_order"),
     card_type: text("card_type", {
         enum: CardTypes,
     }),
@@ -84,7 +85,7 @@ export const cards = sqliteTable("cards", {
     prize_rank: integer("prize_rank"),
     printed_effect: text("printed_effect"),
     effect_id: text("effect_id"),
-    is_prize_card: integer("is_origin"),
+    is_origin: integer("is_origin"),
     subclass_1: integer("subclass_1").references(() => subclasses.id),
     subclass_2: integer("subclass_2").references(() => subclasses.id),
     cost_display: text("cost_display"),
