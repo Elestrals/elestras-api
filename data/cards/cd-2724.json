@@ -1,0 +1,44 @@
+{
+    "id": "cd-2724",
+    "base_name": "Tadpuff",
+    "title": null,
+    "set_number": "SS2-115",
+    "sort_number": "SS2-115",
+    "name": "Tadpuff",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Shattered Stars M18 - Cancer",
+    "set_id": "st-91",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740359974/SS2-115Tadpuff_estjkx?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-37",
+    "total_cost": 1,
+    "attack": 1,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "This Tadpuff can be Special Cast\nfrom your hand in Attack Position\nwith {water} if you also Expend {water}.",
+    "effect": "This Tadpuff can be Special Cast from your hand in Attack Position with {water} if you also Expend {water}.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "aquatic"
+    ],
+    "variants": [
+        "normal",
+        "reverse_holo"
+    ]
+}

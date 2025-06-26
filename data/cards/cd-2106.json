@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "This Hermes' Trickery can only be played if\nHermes is Enchanted. Destroy an Elestral on\nyour field. If you do, Special Cast another Elestral\nfrom your Underworld using only Spirits that\nwere Enchanting the destroyed Elestral.",
-    "effect": "This Hermes' Trickery can only be played if Hermes is Enchanted. Destroy an Elestral on your field. If you do, Special Cast another Elestral from your Underworld using only Enchanting Spirits on the destroyed Elestral.",
+    "effect": "This Hermes' Trickery can only be played if Hermes is Enchanted. Destroy an Elestral on your field. If you do, Special Cast another Elestral from your Underworld using only Spirits that were Enchanting the destroyed Elestral.",
     "elements": [
         "wind"
     ],

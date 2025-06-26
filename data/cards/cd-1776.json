@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "When your Champion of Zeus is destroyed\nin battle you can Special Cast this Voltempest\nfrom your hand with {thunder}{thunder}{wind} if your Zeus is\nEnchanted and you control no Elestrals.",
-    "effect": "When your Zeus is Enchanted and your Champion of Zeus is destroyed in battle you can Special Cast this Voltempest from your hand with {thunder}{thunder}{wind} if you control no Elestrals.",
+    "effect": "When your Champion of Zeus is destroyed in battle you can Special Cast this Voltempest from your hand with {thunder}{thunder}{wind} if your Zeus is Enchanted and you control no Elestrals.",
     "elements": [
         "thunder",
         "wind"

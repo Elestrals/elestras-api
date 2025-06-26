@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "The Empowered Elestral gets +1 {attack}.\nWhen an Artifact Rune on your field is sent\nto the Underworld you can Enchant each Spirit\nthat was Enchanting that Artifact Rune from\nyour Underworld to a card on your field.",
-    "effect": "The Empowered Elestral gets +1 {attack}. When an Artifact Rune on your field is sent to the Underworld you can Enchant each Spirit that was Enchanting that Artifact from your Underworld to a card on your field.",
+    "effect": "The Empowered Elestral gets +1 {attack}. When an Artifact Rune on your field is sent to the Underworld you can Enchant each Spirit that was Enchanting that Artifact Rune from your Underworld to a card on your field.",
     "elements": [
         "fire"
     ],

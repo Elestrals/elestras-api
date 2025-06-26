@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "When you Cast this Zeus you can Enchant up\nto {thunder}{thunder}{thunder} to it. You can Disenchant {thunder} from\nthis Zeus in order to target an opponent’s\nElestral and give it -3 {attack} and -3 {defense}\nuntil the End Phase.",
-    "effect": "When you Cast this Zeus you can Enchant up to {thunder}{thunder}{thunder} to it. You can Disenchant {thunder} from this Zeus in order to target an opponent's Elestral and give it -3{attack} and -3{defense} until the next turn.",
+    "effect": "When you Cast this Zeus you can Enchant up to {thunder}{thunder}{thunder} to it. You can Disenchant {thunder} from this Zeus in order to target an opponent's Elestral and give it -3 {attack} and -3 {defense} until the next turn.",
     "elements": [
         "thunder"
     ],

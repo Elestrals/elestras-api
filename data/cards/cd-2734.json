@@ -1,0 +1,46 @@
+{
+    "id": "cd-2734",
+    "base_name": "Majesea",
+    "title": "Champion of Poseidon",
+    "set_number": "XX/10",
+    "sort_number": "SS2-S18",
+    "name": "Majesea - Champion of Poseidon",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "WreckingArt",
+    "set": "Shattered Stars M18 - Cancer",
+    "set_id": "st-91",
+    "subset": "serialized",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740359991/SS2-S18StellarMajeseaCoP_rkdooi?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-16",
+    "total_cost": 3,
+    "attack": 6,
+    "defense": 14,
+    "serialized_stellar": true,
+    "serialized_population": 10,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "While Poseidon is Enchanted and this Majesea is\nin Attack Position, Spirits Enchanting Elestrals\nare {water} instead of their original Element. You can\nreturn up to {water}{water} from your Underworld to your\nSpirit Deck if this Majesea is in Defense Position.",
+    "effect": "While Poseidon is Enchanted and this Majesea is in Attack Position, Spirits Enchanting Elestrals are {water} instead of their original Element. You can return up to {water}{water} from your Underworld to your Spirit Deck if this Majesea is in Defense Position.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "dragon"
+    ],
+    "variants": [
+        "holo"
+    ]
+}

@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "This Gloombat can be Special Cast from\nyour hand with {lunar} if an opponent has\nat least 2 face-down Runes.\nYou can Disenchant {lunar} from this Gloombat\nin order to target and destroy a Rune.",
-    "effect": "This Gloombatt can be Special Cast with {lunar} if an opponent has at least 2 face-down Runes. You can Disenchant {lunar} from this Gloombatt to target and destroy a Rune.",
+    "effect": "This Gloombatt can be Special Cast with {lunar} if an opponent has at least 2 face-down Runes. You can Disenchant {lunar} from this Gloombatt in order to target and destroy a Rune.",
     "elements": [
         "lunar"
     ],

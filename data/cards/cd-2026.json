@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "When you Cast Tsunami you can Special Ascend this Javelantis in your hand from 1 of your {water} Elestrals. Your {water}-Enchanted Elestrals deal Piercing damage while Poseidon is Enchanted.",
-    "effect": "When you Cast Tsunami you can Special Ascend this Javelantis in your hand from your {water} Elestral. Your {water}-Enchanted Elestrals deal Piercing damage while Poseidon is Enchanted.",
+    "effect": "When you Cast Tsunami you can Special Ascend this Javelantis in your hand from one of your {water} Elestrals. Your {water}-Enchanted Elestrals deal Piercing damage while Poseidon is Enchanted.",
     "elements": [
         "water"
     ],

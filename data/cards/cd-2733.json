@@ -1,0 +1,41 @@
+{
+    "id": "cd-2733",
+    "base_name": "Poseidon",
+    "title": null,
+    "set_number": "XX/99",
+    "sort_number": "SS2-S17",
+    "name": "Poseidon",
+    "alias": null,
+    "card_type": "rune_divine",
+    "rarity": "stellar_rare",
+    "canvas": "full_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Shattered Stars M18 - Cancer",
+    "set_id": "st-91",
+    "subset": "serialized",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740359975/SS2-S17StellarPoseidon_a131px?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": true,
+    "serialized_population": 99,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Poseidon you can Enchant\nup to {water}{water}{water} to it. You can Nexus {water}\nfrom this Poseidon.",
+    "effect": "When you Cast this Poseidon you can Enchant up to {water}{water}{water} to it. You can Nexus {water} from this Poseidon.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [],
+    "variants": [
+        "holo"
+    ]
+}

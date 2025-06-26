@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "An opponent must Expend {omni}{omni}{omni}. If they\ncontrol a {fire}-Enchanted Elestral they must\nExpend {omni} instead.",
-    "effect": "An opponent must Expend {omni}{omni}{omni}. If they control a {fire}-Enchanted Elestral they must Expend {omni} instead.",
+    "effect": "An opponent Expends {omni}{omni}{omni}. If they control a {fire}-Enchanted Elestral they Expend {omni} instead.",
     "elements": [
         "fire"
     ],

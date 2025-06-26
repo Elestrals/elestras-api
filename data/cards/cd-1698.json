@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "The Empowered Elestral's {attack} and {defense}\nare swapped. All your Champion of Apollo\nget +2 {attack} and +2 {defense}.",
-    "effect": "Swap the Empowered Elestral's {attack} with its {defense}. All your Champions of Apollo get +2 {attack} and +2 {defense}.",
+    "effect": "The Empowered Elestral’s {attack} and {defense} are swapped. All your Champions of Apollo get +2 {attack} and +2 {defense}.",
     "elements": [
         "solar"
     ],

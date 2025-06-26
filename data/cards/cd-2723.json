@@ -1,0 +1,44 @@
+{
+    "id": "cd-2723",
+    "base_name": "Bubbloon",
+    "title": "Champion of Aphrodite",
+    "set_number": "SS2-114",
+    "sort_number": "SS2-114",
+    "name": "Bubbloon - Champion of Aphrodite",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "common",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Ryan Cortez",
+    "set": "Shattered Stars M18 - Cancer",
+    "set_id": "st-91",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740359984/SS2-114BubbloonCoA_iczd13?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-105",
+    "total_cost": 1,
+    "attack": 2,
+    "defense": 1,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "You can discard this Bubbloon and Expend {water}\nin order to Enchant up to {water}{water} from\nyour Underworld and/or Spirit Deck\nto a {water} card on your field.",
+    "effect": "You can discard this Bubbloon and Expend {water} in order to Enchant up to {water}{water} from your Underworld and/or Spirit Deck to a {water} card on your field.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [
+        "aquatic"
+    ],
+    "variants": [
+        "normal",
+        "reverse_holo"
+    ]
+}

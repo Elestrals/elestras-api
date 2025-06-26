@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "When this Elechik declares an attack you\ncan give it +1 {attack} for each {thunder} Enchanting\neach Zeus on the field until the next turn.",
-    "effect": "When this Elechik declares an attack you can give it +1 {attack} for each {thunder} Enchanting Zeus on the field until the next turn.",
+    "effect": "When this Elechik declares an attack you can give it +1 {attack} for each {thunder} Enchanting each Zeus on the field until the next turn.",
     "elements": [
         "thunder"
     ],

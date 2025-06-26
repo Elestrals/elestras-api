@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "When a player Casts Warmite, Frosmite,\nKitemite, Flarachne, Polarachne, or\nParachne that player must draw a card.",
-    "effect": "When a player Casts Warmite, Frosmite, Kitemite, Flarache, Polarachne, or Parachne that player must draw a card.",
+    "effect": "When a player Casts Warmite, Frosmite, Kitemite, Flarachne, Polarachne, or Parachne that player must draw a card.",
     "elements": [
         "fire"
     ],

@@ -1,0 +1,43 @@
+{
+    "id": "cd-2730",
+    "base_name": "Tsunami",
+    "title": "High Tide",
+    "set_number": "SS2-122",
+    "sort_number": "SS2-122",
+    "name": "Tsunami - High Tide",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Shattered Stars M18 - Cancer",
+    "set_id": "st-91",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740359972/SS2-122TsunamiHighTide_ltdfzg?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 2,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Change the Positions of up to 2 Elestrals.\nYou may Enchant {water}/{lunar} from your\nUnderworld to your field.",
+    "effect": "Change the Positions of up to 2 Elestrals. You may Enchant {water}/{lunar} from your Underworld to your field.",
+    "elements": [
+        "water",
+        "lunar"
+    ],
+    "cost": [
+        "water",
+        "lunar"
+    ],
+    "subclasses": [],
+    "variants": [
+        "holo"
+    ]
+}

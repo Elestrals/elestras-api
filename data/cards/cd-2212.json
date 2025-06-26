@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "This Pandora's Box can only be played when an\nopponent activates an effect that Searches for\nor Casts a card from their deck. Negate that\neffect and that opponent must send the top 2\ncards from their deck to their Underworld.",
-    "effect": "This Pandora's Box can only be played when an opponent activates an effect that Searches for or Casts a card from their deck. Negate that effect and that opponent must send the top 2 cards from their deck to their Underworld.",
+    "effect": "This Pandora's Box can only be played when an opponent activates an effect that Searches for or Casts a card from their deck. Negate that effect and that opponent sends the top 2 cards from their deck to their Underworld.",
     "elements": [
         "omni"
     ],

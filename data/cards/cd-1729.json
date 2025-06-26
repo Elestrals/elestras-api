@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "When you Normal Cast this Sparkitt you\ncan look at up to 2 random cards from your\nopponent’s hand and discard 1 of them.\nYou can Nexus up to {thunder}{thunder}. ",
-    "effect": "When you Normal Cast this Sparkitt you can look at 2 random cards from an opponent's hand and discard 1 of them. You can Nexus up to {thunder}{thunder}.",
+    "effect": "When you Normal Cast this Sparkitt you can look at up to 2 random cards from an opponent's hand and discard 1 of them. You can Nexus up to {thunder}{thunder}.",
     "elements": [
         "thunder"
     ],

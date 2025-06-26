@@ -1,0 +1,45 @@
+{
+    "id": "cd-2347",
+    "base_name": "Krakking",
+    "title": null,
+    "set_number": "SS2-124",
+    "sort_number": "SS2-124",
+    "name": "Krakking",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Simone Frigerio",
+    "set": "Shattered Stars M18 - Cancer",
+    "set_id": "st-91",
+    "subset": "reverse_stellar",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740359982/SS2-124StellarKrakkingReverse_g88k3f?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-52",
+    "total_cost": 2,
+    "attack": 5,
+    "defense": 8,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When you Cast this Krakking you can choose\nup to 2 unoccupied slots in an opponent's\nElestral Row. Those Elestral slots cannot be\nused as long as this Krakking is Enchanted.",
+    "effect": "When you Cast this Krakking you can Block up to 2 unoccupied slots in an opponent’s Elestral Row for as long as this Krakking is Enchanted. (Blocked zones cannot be used.)",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "oceanic",
+        "eldritch"
+    ],
+    "variants": [
+        "reverse_holo"
+    ]
+}

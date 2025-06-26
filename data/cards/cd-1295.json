@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "This Guardian of the Fleece can only be Cast\nwhen an opponent activates a card effect that\ntargets an Artifact or Empowered Elestral on\nyour field. Negate that effect, then destroy\na card on that opponent's field.",
-    "effect": "This Guardian of the Fleece can only be played when an opponent activates a card effect that targets an Artifact or Empowered Elestral on your field. Negate that effect, then destroy a card on that opponent's field.",
+    "effect": "This Guardian of the Fleece can only be played when an opponent activates a card effect that targets an Artifact Rune or Empowered Elestral on your field. Negate that effect, then destroy a card on that opponent's field.",
     "elements": [
         "solar"
     ],

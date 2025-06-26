@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "During your Draw Phase you can discard\nyour hand (minimum 1 card) in order to\nSpecial Ascend this Kryovyrn to\nKryoscorch from your deck.",
-    "effect": "During your Draw Phase you can discard your hand in order to Special Ascend this Kryovyrn to Kryoscorch from your deck. (minimum 1 card.)",
+    "effect": "During your Draw Phase you can discard your hand in order to Special Ascend this Kryovyrn to Kryoscorch from your deck. (You must discard minimum 1 card.)",
     "elements": [
         "frost"
     ],

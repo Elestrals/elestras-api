@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "The Empowered Elestral gets +2 {attack}.\nWhen the Empowered Elestral declares\nan attack you can Foretell 3. If Hestia is\nEnchanted you may add a {fire} card\nForetold this way to your hand.",
-    "effect": "The Empowered Elestral gets +2 {attack}. When the Empowered Elestral declares an attack you can Foretell 3. If Hestia is Enchanted you can add a {fire} card Foretold this way to your hand.",
+    "effect": "The Empowered Elestral gets +2 {attack}. When the Empowered Elestral declares an attack you can Foretell 3. If Hestia is Enchanted you may add a {fire} card Foretold this way to your hand.",
     "elements": [
         "fire"
     ],

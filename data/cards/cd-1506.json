@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "This Magnetic Forcefield can only be played\nwhen an opponent activates a non-Counter\neffect that causes you to Expend Spirits.\nNegate that effect and that opponent\nmust Expend {omni}{omni}.",
-    "effect": "This Magnetic Forcefield can only be played when an opponent activates a non-Counter effect that causes you to Expend Spirits. Negate that effect and that opponent must Expend {omni}{omni}.",
+    "effect": "This Magnetic Forcefield can only be played when an opponent activates a non-Counter effect that causes you to Expend Spirits. Negate that effect and that opponent Expends {omni}{omni}.",
     "elements": [
         "thunder"
     ],

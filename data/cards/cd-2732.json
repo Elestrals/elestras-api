@@ -1,0 +1,44 @@
+{
+    "id": "cd-2732",
+    "base_name": "Javelantis",
+    "title": null,
+    "set_number": "SS2-125",
+    "sort_number": "SS2-125",
+    "name": "Javelantis",
+    "alias": null,
+    "card_type": "elestral",
+    "rarity": "stellar_rare",
+    "canvas": "regular_art",
+    "frame_material": "stone",
+    "artist": "Amalry",
+    "set": "Shattered Stars M18 - Cancer",
+    "set_id": "st-91",
+    "subset": "reverse_stellar",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740359984/SS2-125StellarJavelantisReverse_tdbl2s?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": "el-88",
+    "total_cost": 2,
+    "attack": 6,
+    "defense": 3,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "When this Javelantis destroys an opponent's\nDefense Position Elestral in battle that\nopponent must Expend {omni}{omni}{omni}.",
+    "effect": "When this Javelantis destroys an opponent's Defense Position Elestral in battle that opponent must Expend {omni}{omni}{omni}.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water",
+        "water"
+    ],
+    "subclasses": [
+        "oceanic"
+    ],
+    "variants": [
+        "reverse_holo"
+    ]
+}

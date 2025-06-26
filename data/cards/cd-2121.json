@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "When you Normal Cast this Spinymph\nyou can Search your deck for a Hermes and\nadd it to your hand. You can Disenchant {wind}\nfrom this Spinymph in order to Special Ascend\nit to Spinosect from your hand or deck.",
-    "effect": "When you Normal Cast this Spinymph you can Search your deck for Hermes and add it to your hand. You can Discenchant {wind} from this Spinymph in order to Special Ascend it to Spinosect from your hand or deck.",
+    "effect": "When you Normal Cast this Spinymph you can Search your deck for a Hermes and add it to your hand. You can Discenchant {wind} from this Spinymph in order to Special Ascend it to Spinosect from your hand or deck.",
     "elements": [
         "earth"
     ],

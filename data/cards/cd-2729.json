@@ -1,0 +1,41 @@
+{
+    "id": "cd-2729",
+    "base_name": "Poseidon’s Fury",
+    "title": null,
+    "set_number": "SS2-121",
+    "sort_number": "SS2-121",
+    "name": "Poseidon’s Fury",
+    "alias": null,
+    "card_type": "rune_invoke",
+    "rarity": "rare",
+    "canvas": "borderless_art",
+    "frame_material": "stone",
+    "artist": "Lorenzo Sanarico",
+    "set": "Shattered Stars M18 - Cancer",
+    "set_id": "st-91",
+    "subset": "main",
+    "series": "Shattered Stars",
+    "series_id": "sr-9",
+    "image": "https://res.cloudinary.com/drmapg0vi/image/upload/f_auto/q_auto/v1740359981/SS2-121PoseidonsFury_fsqlot?_a=BATAXdXy0",
+    "render": null,
+    "creature_id": null,
+    "total_cost": 1,
+    "attack": null,
+    "defense": null,
+    "serialized_stellar": false,
+    "serialized_population": null,
+    "is_prize_card": false,
+    "prize_rank": null,
+    "printed_effect": "Disenchant any number of {water} from 1 or more\nof your Poseidon. An opponent Disenchants\nthe same number of {omni} from their field.",
+    "effect": "Disenchant any number of {water} from 1 or more of your Poseidon. An opponent Disenchants the same number of {omni} from their field.",
+    "elements": [
+        "water"
+    ],
+    "cost": [
+        "water"
+    ],
+    "subclasses": [],
+    "variants": [
+        "holo"
+    ]
+}

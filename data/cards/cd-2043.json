@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "This Verdalith can be Normal Cast with {earth}{earth} if your Demeter is Enchanted.  When you target this Verdalith with Demeter’s effect you can Special Cast a 1 Spirit {earth} Elestral from your hand. This effect can be activated only once each turn.",
-    "effect": "This Verdalith can be Normal Cast with {earth}{earth} if your Demeter is Enchanted. When you target this Verdalith with Demeter's effect you can Special Cast a 1 Spirit {earth} Elestral from your hand. This effect can only be activated once per turn.",
+    "effect": "This Verdalith can be Normal Cast with {earth}{earth} if your Demeter is Enchanted. When you target this Verdalith with Demeter's effect you can Special Cast a 1 Spirit {earth} Elestral from your hand. This effect can be activated only once each turn.",
     "elements": [
         "earth"
     ],

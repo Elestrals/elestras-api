@@ -27,7 +27,7 @@
     "is_prize_card": false,
     "prize_rank": null,
     "printed_effect": "The Empowered Elestral gets +2 {defense}. When the\nEmpowered Elestral is destroyed in battle you\ncan draw 2 cards, then if Hermes is Enchanted\nyou can Search your deck for a Talaria of Hermes\nor Caduceus of Hermes and add it to your hand.",
-    "effect": "When the Empowered Elestral is destroyed in battle you can draw 2 cards, then if Hermes in Enchanted you can Search your deck for a Talaria of Hermes or Caduceus of Hermes and add it to your hand.",
+    "effect": "The Empowered Elestral gets +2 {defense}. When the Empowered Elestral is destroyed in battle you can draw 2 cards, then if Hermes is Enchanted you may Search your deck for a Talaria of Hermes or Caduceus of Hermes and add it to your hand.",
     "elements": [
         "wind"
     ],
