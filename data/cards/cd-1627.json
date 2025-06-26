@@ -38,7 +38,7 @@
     "subclasses": [
         "insectoid"
     ],
-    "varaints": [
+    "variants": [
         "normal",
         "reverse_holo"
     ]

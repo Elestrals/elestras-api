@@ -37,7 +37,7 @@
     "subclasses": [
         "spectral"
     ],
-    "varaints": [
+    "variants": [
         "normal",
         "reverse_holo"
     ]

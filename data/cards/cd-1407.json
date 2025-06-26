@@ -38,7 +38,7 @@
     "subclasses": [
         "oceanic"
     ],
-    "varaints": [
+    "variants": [
         "normal",
         "reverse_holo"
     ]

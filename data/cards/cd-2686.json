@@ -37,7 +37,7 @@
     "subclasses": [
         "golem"
     ],
-    "varaints": [
+    "variants": [
         "reverse_holo"
     ]
 }
